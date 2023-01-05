@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202301052348
+# Verison: 202301060248
 # Expires: around 1 day
-# Total number of rules = 73051
+# Total number of rules = 73054
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||js.download-apk-i.com^
 ||xvideos00.sbs^
 ||currentaccountadv.com^
 ||myreqdcompany.com^
@@ -22981,6 +22982,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tpstelemetry.tencent.com^
+||posthog.com^
 ||crossees.com^
 ||plausiblecdn.co^
 ||humanz.com^
@@ -27396,6 +27399,7 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.slidesai.io^
 ||p-events.ivideosmart.com^
 ||snowy.bellroy.com^
 ||res.regoo.com^
@@ -30551,7 +30555,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pointillist.com^
 ||polarcdn-pentos.com^
 ||popupmaker.com^
-||posthog.com^
 ||pro6e.com^
 ||programmatictrader.com^
 ||propermessage.io^
@@ -39138,40 +39141,41 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xads.joboko.com^
 ||xmadsapi.joboko.com^
 ||zigzag.vn^
-||401aww.com^
-||huiyelu.com^
-||huiyidui.com^
-||huiyanzhi.com^
-||huitoukao.com^
-||pddbtn.xyz^
-||huiyueting.com^
-||u1011.com^
 ||100ytrf.com^
+||401aww.com^
 ||5r562.cn^
 ||81xs.xyz^
 ||ahwiaw.xyz^
+||aliyun6969.cn^
 ||creawww.top^
 ||gadscc.xyz^
 ||htbdvx.xyz^
 ||huishij.net^
+||huitoukao.com^
+||huiyanzhi.com^
+||huiyelu.com^
+||huiyidui.com^
+||huiyueting.com^
 ||igusoft.com^
 ||ikbgika.cn^
+||irygym.xyz^
+||neipa.xyz^
+||njslx.cn^
 ||noiea.xyz^
 ||ofgysy.xyz^
+||pddbtn.xyz^
 ||ps123.online^
+||rglctlo.cn^
+||sange20221226.xyz^
+||sc4mh.cn^
+||slowbeat.fun^
 ||soqikbe.cn^
+||u1011.com^
+||unmnkkq.cn^
 ||vbgr7.cn^
 ||vec4o.fun^
-||yanjiusuo.cc^
-||unmnkkq.cn^
-||neipa.xyz^
-||sc4mh.cn^
-||njslx.cn^
-||irygym.xyz^
 ||wpiwoo.xyz^
-||rglctlo.cn^
-||slowbeat.fun^
-||sange20221226.xyz^
+||yanjiusuo.cc^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -48637,7 +48641,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||aliyun6969.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
