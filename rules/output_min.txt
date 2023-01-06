@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202301061447
+# Verison: 202301061734
 # Expires: around 1 day
-# Total number of rules = 73116
+# Total number of rules = 73113
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -48703,6 +48703,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||timothy.wang^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -59884,6 +59885,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||h-adashx.ut.dingtalk.com^
 @@||ads.95516.com^
 @@||track.bankcomm.com^
+@@||tongji.koowo.cn^
 @@||ad.vivo.com.cn^
 @@||ads.alafish.cn^
 @@||ads.amazon^
@@ -59927,7 +59929,6 @@ charlestownwyllie.oaklawnnonantum.com^
 /^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
 /^(\S+\.)?delivery([\d]{2}|dom|modo).com$/
 /^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
-/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
 /^(\S+\.)?61677[\da-z]{0,20}\.com$/
 /^(\S+\.)?[0-9a-f]{15,}\.com$/
@@ -60034,7 +60035,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
-||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
@@ -60338,6 +60338,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||186078.com^
 ||188api.com^
 ||photo.188kc.cn^
+||webwebfenxi.189.cn^
 ||189zj.cn^
 ||18dusun.com^
 ||18mad.com^
@@ -62003,7 +62004,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qapm.baidu.com^
 ||share.baidu.com^
 ||sjh.baidu.com^
-||sofire.baidu.com^
 ||static1.searchbox.baidu.com^
 ||tcbox.baidu.com^
 ||techain.baidu.com^
@@ -63472,7 +63472,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wan.douyu.com^
 ||club-img.douyucdn.cn^
 ||cs-op.douyucdn.cn^
-||gift.douyucdn.cn^
 ||rtbapi.douyucdn.cn^
 ||dotcounter.douyutv.com^
 ||xiazai.downok.com^
@@ -63742,7 +63741,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||green.erne.co^
 ||eroadvertising.com^
 ||erosadv.com^
-||eroterest.net^
 ||erotikdating.com^
 ||erotizer.info^
 ||escortso.com^
@@ -66197,7 +66195,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lifepromo.biz^
 ||lightblue.red^
 ||mjf.lijun8.com^
-||button.like.co^
 ||likebtn.com^
 ||likelife.cc^
 ||lilangdianqi.cn^
@@ -69601,6 +69598,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tpbproxyone.org^
 ||tracemyip.org^
 ||trackcmp.net^
+||t.trackingxnads.com^
 ||tradesoul.cn^
 ||tradetracker.net^
 ||tradplus.cn^
@@ -69929,7 +69927,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||service.urchin.com^
 ||uri6.com^
 ||url.ms^
-||urldefense.com^
 ||us.cf^
 ||e.us8l5b.cn^
 ||usablenet.com^
@@ -71348,7 +71345,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||youa.net^
 ||bdgg.youbian.com^
 ||youbora.com^
-||c.youdao.com^
 ||union.youdao.com^
 ||conv.youdao.com^
 ||gorgon.youdao.com^
@@ -72943,6 +72939,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.xxxad.net^
 ||adm.baidu.com^
 ||sp0.baidu.com^
+||sofire.baidu.com^
 ||ads.privacy.qq.com^
 ||ad.jamba.net^
 ||ad.jamster.co.uk^
