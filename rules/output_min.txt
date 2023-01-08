@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202301090241
+# Verison: 202301090532
 # Expires: around 1 day
-# Total number of rules = 73180
+# Total number of rules = 73203
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -48983,7 +48983,10 @@ charlestownwyllie.oaklawnnonantum.com^
 .728x90-
 .728x90.
 .900x100.
+||2c2a1b058e.com^
 ||2mdn.net^
+||absors.com^
+||achnic.com^
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
@@ -48993,21 +48996,39 @@ charlestownwyllie.oaklawnnonantum.com^
 ||auditude.com^
 ||burlydeclined.com
 ||buyeasy.by^
+||casksteam.com^
+||cfxukqyut.com^
+||dawutobliged.com^
+||dtoottuleringv.com.ua^
 ||dzubavstal.com
+||enmitystudent.com^
+||etnmabtucqnsn.com^
 ||evgywgur.com
 ||get-me-wow.
 ||givekeeperstirring.com
 ||gleameddelightprosperity.com
+||gntfyamubxifhwn.com^
 ||googletagservices.com^
 ||hsrvz.com
+||iliifmido.xyz^
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||jailabridge.com^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
+||ongoingstool.com^
+||pianoalter.xyz^
 ||piguiqproxy.com^
 ||requismucuta.com
+||rorgoops.com^
+||rudimentarynuisancesynchronize.com^
 ||studabsently.com
+||tuxedoswishers.com^
+||ulngherhyrq.com^
+||unpredictablehateagent.com^
+||vraatdwugla.com^
+||ybamxhcghruwtc.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -49164,6 +49185,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||banners.cams.com^
 ||cams.imgtaxi.com^
 ||cdn.narutoon.com^
+||creative.live.tktube.com^
 ||creatives.cliphunter.com^
 ||creatives.pichunter.com^
 ||delivery.porn.com^
@@ -73199,4 +73221,5 @@ advertising-api-eu.amazon.com
 ads.tiktok.com
 metrics.icloud.com
 adtago.s3.amazonaws.com
+@@||acme.zerossl.com^$important
 ####################################################################################
