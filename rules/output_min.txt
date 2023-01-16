@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202301161734
+# Verison: 202301162134
 # Expires: around 1 day
-# Total number of rules = 73724
+# Total number of rules = 73731
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,10 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||big-loads.com^
+||andoldifiscqa.com.ua^
+||yieldtrk.com^
+||antivirushub.co^
 ||xzvfyowf.com^
 ||tygsqtkyiwxb.com^
 ||goplayhere.com^
@@ -1129,7 +1133,6 @@
 ||boacheeb.com^
 ||paibopse.com^
 ||itad.linetv.tw^
-||idealmedia.io^
 ||jokoshep.com^
 ||phenver.com^
 ||othepbuttit.com^
@@ -15550,6 +15553,7 @@ vkcdnservice.appspot.com^
 ||qinvaris.com^
 ||qivaiw.com^
 ||qiyascoolth.com^
+||qj399htl.de^
 ||qjfokdzhkyjf.com^
 ||qksrv.cc^
 ||qksrv.net^
@@ -21525,6 +21529,7 @@ vkcdnservice.appspot.com^
 ||ibannerexchange.com^
 ||ibillboard.com^
 ||icorp.ro^
+||idealmedia.io^
 ||idreammedia.com^
 ||imediaaudiences.com^
 ||imho.ru^
@@ -23497,6 +23502,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||trk.lightdatahouse.com^
 ||fpnpmcdn.net^
 ||offer-go.com^
 ||d2ezz24t9nm0vu.cloudfront.net^
@@ -38476,6 +38482,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracker.zummycloud.com^
 ||tracker-v4.gamedock.io^
 ||tracking.ditv.di.se^
+||tracking.dn.se^
 ||tracking.inboxads.com^
 ||tracking.omniture.nt.se^
 ||tracking.visitorsvoice.com^
@@ -39871,6 +39878,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pic123.top^
 ||qanduan.com^
 ||nissifresh.com^
+||mbqwwa.cn^
+||gvqrclx.cn^
+||neaqi.top^
+||xhjxkgc.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -49338,10 +49349,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||mbqwwa.cn^
-||gvqrclx.cn^
-||neaqi.top^
-||xhjxkgc.cn^
+||375772rug.com^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -49558,7 +49566,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||loadercdn.com^
 ||ntv.io^
 ||piguiqproxy.com^
-||qj399htl.de^
 ||requismucuta.com
 ||studabsently.com
 /(https?:\/\/)104\.154\..{100,}/
