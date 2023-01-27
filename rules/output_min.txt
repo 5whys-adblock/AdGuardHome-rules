@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202301271732
+# Verison: 202301272131
 # Expires: around 1 day
-# Total number of rules = 73522
+# Total number of rules = 73526
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||paulty.com^
 ||omjitjlhx.com^
 ||gnenuelnn.com^
 ||pusishegre.com^
@@ -1329,6 +1330,7 @@
 ||adrunnr.com^
 ||samsungads.com^
 ||samsungtvads.com^
+||d25m254rjp3rii.cloudfront.net^
 ||creative.live7mm.tv^
 ||ad.petel.bg^
 ||d2o03z2xnyxlz5.cloudfront.net^
@@ -5894,7 +5896,6 @@ vkcdnservice.appspot.com^
 ||chapsartore.com^
 ||chaptersus.com^
 ||characcaslon.com^
-||chargebee.com^
 ||chargenews.com^
 ||chargeplatform.com^
 ||chargerbeakers.com^
@@ -23152,6 +23153,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||nakanohito.jp^
 ||track.my1elitclub.com^
 ||openfpcdn.io^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
@@ -30703,7 +30705,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mytrack.pro^
 ||myvisitorcounter.com^
 ||n74s9.com^
-||nakanohito.jp^
 ||natero.com^
 ||navigator.io^
 ||ncaudienceexchange.com^
@@ -31672,6 +31673,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collect.rebelmouse.io^
 ||collect.rewardstyle.com^
 ||collector-api.99designs.com^
+||collector.api.video^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
@@ -39190,6 +39192,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
+||log.xoso.com.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
@@ -39679,6 +39682,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||happi.cyou^
 ||brkxgfs.cn^
 ||hnrjign.cn^
+||plyuwqq.cn^
+||yang17.xyz^
+||juntaijiancai.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -49144,9 +49150,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||plyuwqq.cn^
-||yang17.xyz^
-||juntaijiancai.com^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -49754,7 +49757,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||browser.events.data.microsoft.com^
 ||collect.*.miui.com^
 ||collector-*.px-client.net^
-||collector.api.video^
 ||csi.gstatic.com^
 ||firebaselogging-pa.googleapis.com^
 ||g.msn.com^
@@ -73426,6 +73428,8 @@ wpjslib-chunk-notification.js^
 ||notice.sp-prod.net^
 ||ccm19.vucx.de^
 ||cdn.realpeoplemedia.co.uk^
+||js.tianmel.xyz^
+||dian.brecm.xyz^
 ||one.fsylr.com^
 ||two.fsylr.com^
 ||ad.juksy.com^
