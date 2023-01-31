@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202301311732
+# Verison: 202301312057
 # Expires: around 1 day
-# Total number of rules = 73653
+# Total number of rules = 73660
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,8 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||khment.com^
+||eparil.com^
 ||95a056626e.com^
 ||paulty.com^
 ||omjitjlhx.com^
@@ -22696,6 +22698,7 @@ vkcdnservice.appspot.com^
 ||mo.freeindoapp.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
+||jtbo*.nqxvevk.cn^
 ||nasimobi.com^
 ||wd.adcolony.xyz^
 ||im.ov.yahoo.co.jp^
@@ -23289,6 +23292,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||firstblackphase.com^
 ||rferl.c.goolara.net^
 ||behavior.tongdun.net^
 ||cookie.codemarketing.cloud^
@@ -27723,6 +27727,8 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||events.air.tv^
+||event-listener.air.tv^
 ||d1yu67rmchodpo.cloudfront.net^
 ||d1zxg9iar5y3ur.cloudfront.net^
 ||analytics.aklamio.com^
@@ -29778,6 +29784,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-sprint.qoqa.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
+||inapps.appsflyersdk.com^
 ||launches.appsflyersdk.com^
 ||cdn-settings.appsflyersdk.com^
 ||appsflyer-report.honkaiimpact3.com^
@@ -30282,7 +30289,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fasttiger.io^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
-||firstblackphase.com^
 ||fixel.ai^
 ||fn-pz.com^
 ||fpapi.io^
@@ -31892,11 +31898,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ev.stellarlabs.ai^
 ||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com^
-||event-listener.air.tv^
 ||event-logger.tagboard.com^
 ||event-service.letslinc.com^
 ||eventgateway.soundcloud.com^
-||events.air.tv^
 ||events.attentivemobile.com^
 ||events.audiate.me^
 ||events.btw.so^
@@ -39803,6 +39807,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mpymea.xyz^
 ||rooby.cyou^
 ||nqxvevk.cn^
+||rayss.host^
+||5951835ccc.com^
+||8961a.com^
+||dxwyt3p.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -49267,7 +49275,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||rayss.host^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
