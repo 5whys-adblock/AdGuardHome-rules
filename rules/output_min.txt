@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202302062100
+# Verison: 202302062334
 # Expires: around 1 day
-# Total number of rules = 73729
+# Total number of rules = 73746
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -1322,6 +1322,7 @@
 ||adrunnr.com^
 ||samsungads.com^
 ||samsungtvads.com^
+||prebid-*.rubiconproject.com^
 ||d25m254rjp3rii.cloudfront.net^
 ||creative.live7mm.tv^
 ||ad.petel.bg^
@@ -16082,7 +16083,6 @@ vkcdnservice.appspot.com^
 ||ruamupr.com^
 ||rubberbeak.com^
 ||rubcomplaintdimly.com^
-||rubiconproject.com^
 ||rubiestagaty.com^
 ||rubstove.com^
 ||rubymillsnpro.com^
@@ -24705,7 +24705,6 @@ vkcdnservice.appspot.com^
 ||cloud-exploration.com^
 ||cloudtracer101.com^
 ||clubcollector.com^
-||clustrmaps.com^
 ||cmcore.com^
 ||cmmeglobal.com^
 ||cmptch.com^
@@ -27571,6 +27570,7 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||pixel-*.rubiconproject.com^
 ||stat.arzamas.academy^
 ||events.air.tv^
 ||event-listener.air.tv^
@@ -38083,7 +38083,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||r.existenz.se^
 ||rabattcoop.com^
 ||rabattkoder.ifragasatt.se^
-||rabble-res.cloudinary.com^
 ||recirculation.spot.im^
 ||record.findtrustclicks.com^
 ||regstat.se^
@@ -49423,23 +49422,41 @@ charlestownwyllie.oaklawnnonantum.com^
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||barefootedpyjamasdetection.com^
 ||burlydeclined.com
 ||buyeasy.by^
+||decurvepon.com^
+||deficitsilverdisability.com^
+||dolefulasachasing.com^
+||drownedhurling.com^
 ||dzubavstal.com
+||eethilsi.com^
 ||evgywgur.com
 ||get-me-wow.
 ||givekeeperstirring.com
 ||gleameddelightprosperity.com
 ||googletagservices.com^
 ||hsrvz.com
+||hurstplants.com^
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||institutionenrapturebags.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||minglerpommelo.com^
 ||ntv.io^
 ||piguiqproxy.com^
+||propelsanctuaryteapot.com^
 ||requismucuta.com
+||rubiconproject.com^
+||surfcuegirlfriend.com^
+||thebaicidylls.com^
+||timesroadmapwed.com^
+||towerycacara.com^
 ||trust.zone^
+||utilitypresent.com^
+||vengeful-egg.com^
+||yoginisairbus.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
