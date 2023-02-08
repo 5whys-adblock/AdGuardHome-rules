@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202302081735
+# Verison: 202302082055
 # Expires: around 1 day
-# Total number of rules = 73296
+# Total number of rules = 73350
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||xszcdn.com^
 ||myownshop.at^
 ||uads.store^
 ||toromclick.com^
@@ -12845,6 +12846,7 @@ vkcdnservice.appspot.com^
 ||mysleepds.com^
 ||mysoftbox.ru^
 ||mysweetteam.com^
+||myteamdev.com^
 ||mythincredibly.com^
 ||mythings.com^
 ||mytrackf73.com^
@@ -38300,12 +38302,65 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracker.gamedock.io^
 ||tracker.zummycloud.com^
 ||tracker-v4.gamedock.io^
+||tracking.aktuellhallbarhet.se^
+||tracking.allehanda.se^
+||tracking.arbetarbladet.se^
+||tracking.avestatidning.com^
+||tracking.bandypuls.se^
+||tracking.bblat.se^
+||tracking.borlangetidning.se^
+||tracking.byggindustrin.se^
+||tracking.dagensmedia.se^
+||tracking.dagensmedicin.se^
+||tracking.dagenssamhalle.se^
+||tracking.dagligvarunytt.se^
+||tracking.dalademokraten.se^
 ||tracking.ditv.di.se^
+||tracking.di.se^
 ||tracking.dn.se^
+||tracking.falkopingstidning.se^
+||tracking.falukuriren.se^
 ||tracking.fasab6f.se^
+||tracking.fastighetsnytt.se^
+||tracking.gd.se^
+||tracking.hd.se^
+||tracking.ht.se^
 ||tracking.inboxads.com^
+||tracking.jnytt.se^
+||tracking.jp.se^
+||tracking.ljusdalsposten.se^
+||tracking.ljusnan.se^
+||tracking.ltz.se^
+||tracking.lt.se^
+||tracking.market.se^
+||tracking.moratidning.se^
+||tracking.na.se^
+||tracking.norrteljetidning.se^
+||tracking.nyaludvikatidning.se^
+||tracking.nynashamnsposten.se^
 ||tracking.omniture.nt.se^
+||tracking.op.se^
+||tracking.resume.se^
+||tracking.salaallehanda.com^
+||tracking.skaraborgslanstidning.se^
+||tracking.skd.se^
+||tracking.skovdenyheter.se^
+||tracking.smalandsdagblad.se^
+||tracking.smalanningen.se^
+||tracking.smt.se^
+||tracking.soderhamnskuriren.se^
+||tracking.sodran.se^
+||tracking.st.nu^
+||tracking.sydsvenskan.se^
+||tracking.tidningenangermanland.se^
+||tracking.tidningenharjedalen.se^
+||tracking.tranastidning.se^
+||tracking.vastgotabladet.se^
+||tracking.vetlandaposten.se^
 ||tracking.visitorsvoice.com^
+||tracking.vlt.se^
+||tracking.vn.se^
+||tracking.fagersta-posten.se^
 ||traffic.feedremedy.com^
 ||trafikstyrelsen.com^
 ||trckr1.nordiskemedier.dk^
@@ -49100,7 +49155,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||impact-ad.jp^
 ||kqzyfj.com^
 ||loadercdn.com^
-||myteamdev.com^
 ||ntv.io^
 ||piguiqproxy.com^
 ||requismucuta.com
