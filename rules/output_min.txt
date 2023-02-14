@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202302142101
+# Verison: 202302142337
 # Expires: around 1 day
-# Total number of rules = 73857
+# Total number of rules = 73865
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -49444,6 +49444,7 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||k0lksy.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -49638,6 +49639,7 @@ analytics-*.aasaam.com
 .728x90.
 .900x100.
 ||2mdn.net^
+||acrevenene.com^
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
@@ -49645,8 +49647,10 @@ analytics-*.aasaam.com
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||bahutuophian.com^
 ||burlydeclined.com
 ||buyeasy.by^
+||caulibotas.com^
 ||dzubavstal.com
 ||evgywgur.com
 ||get-me-wow.
@@ -49656,13 +49660,17 @@ analytics-*.aasaam.com
 ||hsrvz.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||inuregestura.com^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
 ||piguiqproxy.com^
+||raftybuts.com^
 ||requismucuta.com
 ||rubiconproject.com^
+||tanandatable.com^
 ||trust.zone^
+||whoutchi.net^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
