@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202302160241
+# Verison: 202302160534
 # Expires: around 1 day
-# Total number of rules = 73926
+# Total number of rules = 73933
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -49714,8 +49714,10 @@ analytics-*.aasaam.com
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||bothererune.com^
 ||burlydeclined.com
 ||buyeasy.by^
+||crific.com^
 ||dzubavstal.com
 ||evgywgur.com
 ||get-me-wow.
@@ -49725,13 +49727,17 @@ analytics-*.aasaam.com
 ||hsrvz.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||iokenattharmiinl.xyz^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
+||picscity.info^
 ||piguiqproxy.com^
 ||requismucuta.com
 ||rubiconproject.com^
 ||trust.zone^
+||vehine.com^
+||wcyapvikap.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -49749,6 +49755,7 @@ analytics-*.aasaam.com
 ||ohmygosh.info^
 ||watchmyvids.xyz^
 ||cas.*.criteo.com^
+||dz6uw9vrm7nx6.cloudfront.net^
 ||aff-jp.dxlive.com^
 ||affiliate.dtiserv.com^
 ||affiliates.cupidplc.com^
