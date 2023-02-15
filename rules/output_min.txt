@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202302151734
+# Verison: 202302152059
 # Expires: around 1 day
-# Total number of rules = 73906
+# Total number of rules = 73912
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -1339,6 +1339,7 @@
 ||adrunnr.com^
 ||samsungads.com^
 ||samsungtvads.com^
+||newrevive.detik.com^
 ||ad.serv1for.pro^
 ||cdn.aanetwork.vn^
 ||res.adx.opera.com^
@@ -22184,6 +22185,7 @@ vkcdnservice.appspot.com^
 ||atresadvertising.com^
 ||1080872514.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||a-delivery.rmbl.ws^
 ||a.ucoz.net^
 ||ad-serve.b-cdn.net^
 ||ad.about.co.kr^
@@ -27943,6 +27945,7 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||log.affiliate.rakuten.co.jp^
 ||analytics.dashboard.fingerprint.com^
 ||tracking.ensonhaber.com^
 ||l.traxmag.com^
@@ -30237,6 +30240,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||monitoring-sdk.experimentation.intuit.com^
 ||logging.api.intuit.com^
 ||analytics.prod.mybuddy.ai^
+||dualstack-logs.amap.com^
 ||logs.amap.com^
 ||edmanalytics.pandahall.com^
 ||applogs.pixelfederation.com^
@@ -36828,6 +36832,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vt4dlx.ru^
 ||xifg6h.ru^
 ||zfvklk.ru^
+||banner.kaktus.media^
 ||rtb.wedeo.ru^
 ||flowers.moex.com^
 ||delikatsov.com^
@@ -37077,6 +37082,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||noahilum.net^
+||hgijycxp.com^
 ||publisher-network.com^
 ||adcsh.cfd^
 ||yrstwbyl.xyz^
@@ -40321,6 +40328,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s65m.win^
 ||lgxm.cool^
 ||199aaa.us^
+||nqhqpq.cn^
+||65oml.cn^
+||553aaa.us^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -47761,6 +47771,7 @@ analytics-*.aasaam.com
 ||letysheeps.ru^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@||app-cdn.minepi.com^|
 @@||crm-cdn.peek-cloppenburg.com^|
 @@||c.office.com^|
 @@||surveymyopinion.researchnow.com^|
@@ -49488,9 +49499,6 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||nqhqpq.cn^
-||65oml.cn^
-||553aaa.us^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -49726,7 +49734,6 @@ analytics-*.aasaam.com
 ||howdybestfriends.xyz^
 ||ohmygosh.info^
 ||watchmyvids.xyz^
-||a-delivery.rmbl.ws^
 ||cas.*.criteo.com^
 ||aff-jp.dxlive.com^
 ||affiliate.dtiserv.com^
@@ -62469,7 +62476,6 @@ analytics-*.aasaam.com
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
 ||optimus-ads.amap.com^
-||dualstack-logs.amap.com^
 ||amateurhub.cam^
 ||consent.amateurphotographer.co.uk^
 ||amateurporn.net^
