@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202302161136
+# Verison: 202302161442
 # Expires: around 1 day
-# Total number of rules = 73978
+# Total number of rules = 73983
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32445,6 +32445,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.zotabox.com^
 ||statsadv.dadapro.com^
 ||statsapi.screen9.com^
+||statscollector-1.agora.io^
+||statscollector.sd-rtn.com^
 ||statsd.zmags.com^
 ||statt-collect.herokuapp.com^
 ||sunlightmetrics.b-cdn.net^
@@ -39274,6 +39276,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||quangcao-thanhnien.epicdn.me^
+||log-baogialai.epicdn.me^
+||stat.play.zing.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||rec.aiservice.vn^
@@ -39281,7 +39285,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sbbanner-com.cdn.ampproject.org^
 ||sbz.vn^
 ||sdk.zadn.vn^
-||sentry-mini.zalo.me^
 ||service-api.accesstrade.vn^
 ||sharefb.cnnd.vn^
 ||shop-cdn.coccoc.com^
@@ -39610,6 +39613,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
+||log.baogialai.com.vn^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
 ||log.beecost.com^
@@ -39658,6 +39662,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logapi.misa.com.vn^
 ||logging.kinhtedothi.vn^
 ||logs-ott.fbox.fpt.vn^
+||logs.1cdn.vn^
 ||logs.docnhanh.com.vn^
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
@@ -39719,7 +39724,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s.zzcdn.me^
 ||s1.zzz.vn^
 ||sda.tamdiem247.com^
-||sentry-track.vietnamworks.com^
 ||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
@@ -40394,6 +40398,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||meidd.cyou^
 ||eijriol.cn^
 ||xinllz.xyz^
+||cwobgp.cn^
+||ltwfd.xyz^
+||wsdof.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -50160,8 +50167,6 @@ analytics-*.aasaam.com
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||monitor.azure.com^
-||statscollector-1.agora.io^
-||statscollector.sd-rtn.com^
 ||tag.aticdn.net^
 ||targeting.*.arcpublishing.com^
 ||tracker.twenga.
