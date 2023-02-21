@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202302211439
+# Verison: 202302211735
 # Expires: around 1 day
-# Total number of rules = 74357
+# Total number of rules = 74386
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -31194,6 +31194,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||devatics.com^
 ||devatics.io^
 ||di-capt.com^
+||digianalytics.fr^
 ||display.studio^
 ||dmpcounter.com^
 ||dmxleo.com^
@@ -48188,7 +48189,7 @@ analytics-*.aasaam.com
 @@||netatmo.commander1.com^|
 @@||clj.valuecommerce.com^|
 @@||vcentry3.valuecommerce.ne.jp^|
-@@-ds.metric.gstatic.com^
+@@-ds.metric.gstatic.com^|
 @@||id.i2i.jp^|
 @@||thumbnail.thench.net^|
 @@||validate.perfdrive.com^|
@@ -48267,12 +48268,12 @@ analytics-*.aasaam.com
 @@||awin1.com^|
 @@||feed.adrelayer.com^|
 @@||redirect.appmetrica.yandex.com^|
-@@||guce.advertising.com^
+@@||guce.advertising.com^|
 @@||blog.logrocket.com^|
 @@||a.adwolf.ru^|
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|
-@@||ads.tdbank.com^
+@@||ads.tdbank.com^|
 @@||nineto5mac-d.openx.net^|
 @@||redir.tradedoubler.com^|
 @@||clk*.tradedoubler.com^|
@@ -50078,6 +50079,7 @@ analytics-*.aasaam.com
 .728x90-
 .728x90.
 .900x100.
+||2b037d5d4d.com^
 ||2mdn.net^
 ||alipromo.com^
 ||alitems.com^
@@ -50086,24 +50088,51 @@ analytics-*.aasaam.com
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||birter.com^
+||brodownloads.site^
 ||burlydeclined.com
 ||buyeasy.by^
+||chamarwhisted.digital^
+||clauseemploy.com^
+||comparisonpredatororigin.com^
+||coursyorpins.space^
+||crumbledatabasesmeasure.com^
+||cubtimohawk.life^
+||dishfulbantus.uno^
+||dishwaterfloodinginvisible.com^
 ||dzubavstal.com
+||erysilenitmanb.com^
 ||evgywgur.com
+||ff42fd5ec6.com^
 ||get-me-wow.
+||gfdrkskillso.xyz^
 ||givekeeperstirring.com
 ||gleameddelightprosperity.com
 ||googletagservices.com^
+||gpbifgfjhgezk.com^
 ||hsrvz.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||insanitynapoleon.com^
 ||kqzyfj.com^
+||laoxsgal.com^
 ||loadercdn.com^
+||malkgpottfolik.xyz^
+||npufamaclazl.com^
 ||ntv.io^
+||oekiqjqoonbyv.com^
+||permissioncornshrine.com^
 ||piguiqproxy.com^
 ||requismucuta.com
 ||rubiconproject.com^
+||safestfinestdisgusting.com^
+||tabutelei.guru^
+||tjclskcamptg.com^
+||tpbpxjrm.com^
 ||trust.zone^
+||usuade.com^
+||wizkrdxivl.com^
+||wnkibwzr.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
