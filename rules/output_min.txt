@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202302222058
+# Verison: 202302222336
 # Expires: around 1 day
-# Total number of rules = 74483
+# Total number of rules = 74494
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -50012,6 +50012,9 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||u22099.com^
+||1170555.com^
+||mq65.top^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -50215,21 +50218,29 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||burlydeclined.com
 ||buyeasy.by^
+||cabotinbesnare.com^
+||desgao1zt7irn.cloudfront.net^
 ||dzubavstal.com
 ||evgywgur.com
 ||get-me-wow.
 ||givekeeperstirring.com
 ||gleameddelightprosperity.com
 ||googletagservices.com^
+||gyratesequal.website^
 ||hsrvz.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
 ||kqzyfj.com^
 ||loadercdn.com^
+||loughsquashee.com^
+||moorscliv.life^
 ||ntv.io^
+||psubooth.com^
 ||requismucuta.com
 ||rubiconproject.com^
 ||trust.zone^
+||whiletilth.com^
+||zoopsiasaltire.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
