@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202302251003
+# Verison: 202302251138
 # Expires: around 1 day
-# Total number of rules = 74932
+# Total number of rules = 74953
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -50465,6 +50465,8 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||okwa.top^
+||xiaolj.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -50665,16 +50667,19 @@ analytics-*.aasaam.com
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
+||arethegravk.xyz^
 ||atdmt.com^
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||btyoosca.com^
 ||burlydeclined.com
 ||buyeasy.by^
 ||c01e992683.com^
 ||d2camyomzxmxme.cloudfront.net^
 ||d2zh7okxrw0ix.cloudfront.net^
 ||defiantsniffbitterly.com^
+||dm0ly9ibqkdxn.cloudfront.net^
 ||evgywgur.com
 ||get-me-wow.
 ||gevvvrpkkoxaud.com^
@@ -50682,33 +50687,46 @@ analytics-*.aasaam.com
 ||givekeeperstirring.com
 ||gleameddelightprosperity.com
 ||googletagservices.com^
+||hereincigarettesdean.com^
 ||hinaxrckuolr.com^
 ||hqfmcitfemuuhl.com^
 ||hsrvz.com
+||ifhtiyosf.com^
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
 ||iswhelectual.cc^
 ||izcgntxaiaaxpr.com^
+||japanesereaphot.com^
 ||kqzyfj.com^
 ||lizziefullrounded.com^
 ||lmtcqebtgitm.com^
 ||loadercdn.com^
+||lormeryacarari.website^
 ||luffic.com^
+||megdexchange.com^
 ||mildexperimentsfeatures.com^
 ||moatshoal.digital^
 ||mugweedafloat.guru^
 ||mxwjfvlspn.com^
+||nigion.com^
 ||ntv.io^
+||nveryldgittle.cc^
 ||olongercrak.xyz^
 ||omhmzjxe.com^
+||otrundledtheb.com^
+||provlimbus.com^
 ||ratury.com^
+||reasus.com^
 ||requismucuta.com
 ||rubiconproject.com^
 ||rwfnpayyn.xyz^
 ||sentenceinformedveil.com^
 ||tamgkygbb.com^
+||tdjtkkmksch.com^
 ||trust.zone^
 ||xigvlnxvhb.com^
+||yummy-gap.pro^
+||yvckcglxcs.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -51066,6 +51084,8 @@ analytics-*.aasaam.com
 ||captcha-display.com^
 ||cxense.com^
 ||googletagmanager.com^
+||jubbie.de^
+||trk-maiorum.com^
 ||tw.cx^
 ||zdbb.net^
 ||zenaps.com^
@@ -51102,6 +51122,7 @@ analytics-*.aasaam.com
 ||stats-*.p2pnow.ru^
 ||tms-st.cdn.ngenix.net^
 ||tracker.comagic.ru^
+||collector-videoplayer.5centscdn.net^
 ||za.zdn.vn^
 ||a.electerious.com^
 ||a10.nationalreview.com^
