@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303032336
+# Verison: 202303040240
 # Expires: around 1 day
-# Total number of rules = 75283
+# Total number of rules = 75278
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||shookahi.xyz^
 ||pubgw.yahoo.com^
 ||chabadokor.com^
 ||paghai.com^
@@ -27,7 +28,6 @@
 ||posawaj.com^
 ||warlockstallioniso.com^
 ||pepperysergeantrisky.com^
-||shookahi.xyz^
 ||trribbup.xyz^
 ||truthfulsensor.com^
 ||groopsie.net^
@@ -24975,7 +24975,6 @@ vkcdnservice.appspot.com^
 ||pghub.io^
 ||henwilkson.com^
 ||logevt.pubfinity.com^
-||stat.tiara.kakao.com^
 ||ast.red.asp.appirits.com^
 ||pagesense.io^
 ||livetracker.*.pangea-cms.com^
@@ -25839,7 +25838,6 @@ vkcdnservice.appspot.com^
 ||24log.de^
 ||24log.ru^
 ||2cnt.net^
-||2o7.net^
 ||360i.com^
 ||360tag.com^
 ||360tag.net^
@@ -29055,6 +29053,7 @@ vkcdnservice.appspot.com^
 ||eulerian.brandalley.fr^
 ||eulerian.belambra.fr^
 ||eulerian.belambra.be^
+||2o7.net^
 ||data.adobedc.net^
 ||tagcommander.com^
 ||commandersact.com^
@@ -29104,7 +29103,6 @@ vkcdnservice.appspot.com^
 ||tracker.hdtvcloud.com^
 ||mtm.walls.io^
 ||analytics.slidesai.io^
-||p-events.ivideosmart.com^
 ||snowy.bellroy.com^
 ||res.regoo.com^
 ||analytics.crea.ca^
@@ -29148,7 +29146,6 @@ vkcdnservice.appspot.com^
 ||d-log.tv-asahi.co.jp^
 ||view.fujitv.co.jp^
 ||analytics.*.sky.com^
-||analytics.htmedia.in^
 ||tracking.immobilienscout24.de^
 ||pclog.3u.com^
 ||udgrbq.malwarebytes.com^
@@ -29166,10 +29163,6 @@ vkcdnservice.appspot.com^
 ||prd-collector-platform.ex.co^
 ||pixel.ex.co^
 ||ad*.ettoday.net^
-||servo-report.dvdfab.at^
-||servo-report.dvdfab.cn^
-||servo-report.dvdfab.co.jp^
-||servo-report.dvdfab.fr^
 ||static.affiliatly.com^
 ||client-analytics.mts.ru^
 ||analytics-wcms.joins.net^
@@ -29288,7 +29281,6 @@ vkcdnservice.appspot.com^
 ||trackbar.navigator-lxa.mail.com^
 ||p543.inquirer.com^
 ||u939.colgate.com^
-||cnt.hd21.com^
 ||ubuyanalytics.ubuy.com^
 ||hit.c97.org^
 ||c.rzk-m.com^
@@ -29379,10 +29371,6 @@ vkcdnservice.appspot.com^
 ||analytic.piri.net^
 ||analytic20.detik.com^
 ||analyticapi.piri.net^
-||analytics-api.dvdfab.at^
-||analytics-api.dvdfab.co.jp^
-||analytics-api.dvdfab.fr^
-||analytics-api.dvdfab.cn^
 ||analytics-api.smzdm.com^
 ||analytics-ingress-global.bitmovin.com^
 ||analytics-ingress.bitmovin.com^
@@ -29423,11 +29411,11 @@ vkcdnservice.appspot.com^
 ||analytics.fairfax.com.au^
 ||analytics.femalefirst.co.uk^
 ||analytics.fontanka.ru^
-||analytics.global.sky.com^
 ||analytics.go.com^
 ||analytics.gorillanation.com^
 ||analytics.hashnode.com^
 ||analytics.histmag.org^
+||analytics.htmedia.in^
 ||analytics.ifood.tv^
 ||analytics.iraiser.eu^
 ||analytics.islamicfinder.org^
@@ -30270,7 +30258,6 @@ vkcdnservice.appspot.com^
 ||mtp.spcs.me^
 ||mva1.maeva.com^
 ||mx03.phorm.com^
-||n730.timesunion.com^
 ||ncx2.voyage-prive.it^
 ||newlog.overwolf.com^
 ||ngagement-engine.mobify.com^
@@ -30290,6 +30277,7 @@ vkcdnservice.appspot.com^
 ||ophan.theguardian.com^
 ||optimize-stats.voxmedia.com^
 ||ovk.xceler8.io^
+||p-events.ivideosmart.com^
 ||p-log.ykimg.com^
 ||p.gazeta.pl^
 ||p.imgur.com^
@@ -30346,7 +30334,6 @@ vkcdnservice.appspot.com^
 ||pixel.pcworld.com^
 ||pixel.playbuzz.com^
 ||pixel.propublica.org^
-||pixel.quantserve.com
 ||pixel.reddit.com^
 ||pixel.roymorgan.com^
 ||pixel.staging.tree.com^
@@ -31075,6 +31062,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||j198.registercitizen.com^
 ||l936.expressnews.com^
 ||l997.lmtonline.com^
+||n730.timesunion.com^
 ||o398.trumbulltimes.com^
 ||p593.seattlepi.com^
 ||q777.sfchronicle.com^
@@ -31148,6 +31136,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
+||datacollector-*.dt.hicloud.com^
 ||app-analytics-ru.huami.com^
 ||metrics.spbtv.com^
 ||android-stat.acestream.net^
@@ -31161,10 +31150,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-sprint.qoqa.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
+-conversions.appsflyersdk.com^
+-gcdsdk.appsflyersdk.com^
+-launches.appsflyersdk.com^
+cdn-settings.appsflyersdk.com^
+||appsflyer-report.honkaiimpact3.com^
+||cdn-settings.appsflyersdk.com^
 ||inapps.appsflyersdk.com^
 ||launches.appsflyersdk.com^
-||cdn-settings.appsflyersdk.com^
-||appsflyer-report.honkaiimpact3.com^
 ||mtrace.qq.com^
 ||sngmta.qq.com^
 ||adstats.tencentmusic.com^
@@ -31374,7 +31367,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking-service.glority.com^
 ||analytics-ingestion.production-public.tubi.io^
 ||pingtas.qq.com^
-||datacollector-*.dt.hicloud.com^
 ||tenant-content.apm.appfolio-analytics.com^
 ||log.avlyun.com^
 ||api-analytics.prod.birdapp.com^
@@ -40919,6 +40911,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1170555.com^
 ||1190555.com^
 ||1201555.com^
+||1203555.com^
 ||1258999.com^
 ||1338999.com^
 ||1368999.com^
@@ -40946,6 +40939,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5951835ccc.com^
 ||595tuchuang.com^
 ||5976tp1.com^
+||5py1.xyz^
 ||5r562.cn^
 ||5takaitu.xyz^
 ||65oml.cn^
@@ -40964,11 +40958,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8ccrv.xyz^
 ||94188.xyz^
 ||98dvu.fun^
+||996000996.xyz^
 ||9bph.top^
 ||9cgms.xyz^
 ||9f11.win^
 ||9fh6m.cn^
 ||aaaesme.cn^
+||additionsmiracle.com^
 ||afdplay.xyz^
 ||afx001.pw^
 ||agkacg.xyz^
@@ -41020,6 +41016,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bs7li.cn^
 ||butaeit.cn^
 ||buttn.cyou^
+||byj123.cn^
 ||byzt8.top^
 ||bzdntl.xyz^
 ||caomeixz7.xyz^
@@ -41074,6 +41071,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||e8jp9.com^
 ||ealooov.cn^
 ||ebpu2.top^
+||ebten.xyz^
 ||ebzqyow.cn^
 ||eijriol.cn^
 ||ejyvgq.xyz^
@@ -41084,6 +41082,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ermao20230220.live^
 ||etkht.cn^
 ||evunmc.xyz^
+||ewahj.cyou^
 ||ewmvim.xyz^
 ||ewrwf.com^
 ||ezfxpuo.cn^
@@ -41099,6 +41098,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||felzfr.xyz^
 ||fewsvuh.cn^
 ||ffdcpvv.cn^
+||fhvbhx.xyz^
 ||fn9u.fun^
 ||fnkio.cyou^
 ||forestwo1f.ltd^
@@ -41222,6 +41222,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jmqmbsn.cn^
 ||jojog.com^
 ||jqtzw.xyz^
+||jqueryboots.com^
+||jrrwsk.ltd^
 ||juntaijiancai.com^
 ||juyqiolna.cyou^
 ||juzwrl.xyz^
@@ -41260,6 +41262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lbk7p.cn^
 ||leiersuqd.com^
 ||leiwo.xyz^
+||lelouch.tech^
 ||lgugsnp.cn^
 ||lgxm.cool^
 ||lh54.top^
@@ -41304,6 +41307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mq65.top^
 ||mqquas.xyz^
 ||mryshl.com^
+||mtawcy.xyz^
 ||musdga.xyz^
 ||mvbtp.xyz^
 ||mvfrcio.cn^
@@ -41412,6 +41416,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qkqasu.xyz^
 ||qliiom.xyz^
 ||qnfvojfkw.xyz^
+||qponfva.cn^
 ||qsezjy.cn^
 ||qtbzeey.cn^
 ||qunaw.cyou^
@@ -41547,6 +41552,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vykeavz.cn^
 ||w80n.fun^
 ||wangyc.club^
+||wanyi.pw^
 ||waoeou.xyz^
 ||waterfairy.xyz^
 ||wawqqfg.cn^
@@ -41664,20 +41670,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||lelouch.tech^
-||mtawcy.xyz^
-||qponfva.cn^
-||fhvbhx.xyz^
-||wanyi.pw^
-||ebten.xyz^
-||ewahj.cyou^
-||jqueryboots.com^
-||1203555.com^
-||996000996.xyz^
-||jrrwsk.ltd^
-||byj123.cn^
-||additionsmiracle.com^
-||5py1.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -49079,6 +49071,7 @@ analytics-*.aasaam.com
 ||mogo-crypto.net^
 ||abcounter.de^
 ||mobileanalytics.*.amazonaws.com^
+||analytics.global.sky.com^
 ||analytics.thevideo.me^
 ||analyzer52.fc2.com^
 ||clientlog.portal.office.com^
@@ -51505,6 +51498,7 @@ analytics-*.aasaam.com
 ||clp-mms.cloudpro.co.uk^
 ||cm-mms.coachmag.co.uk^
 ||cm.nordvpn.com^
+||cnt.hd21.com^
 ||cnt.iceporn.com^
 ||cnt.viptube.com^
 ||collect.alipay.com^
@@ -61745,6 +61739,7 @@ analytics-*.aasaam.com
 ||hits.zdnet.co.kr^
 ||kyson.kakao.com^
 ||stat.tiara.daum.net^
+||stat.tiara.kakao.com^
 ||track.tiara.kakao.com^
 ||uts.auction.co.kr^
 ||wcs.naver.com^
