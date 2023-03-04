@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303042334
+# Verison: 202303050239
 # Expires: around 1 day
-# Total number of rules = 75353
+# Total number of rules = 75355
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,10 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||pwxueuocf.com^
+||adarutoad.com^
+||2eb3f134fb.com^
+||convenientcertificate.com^
 ||shookahi.xyz^
 ||pubgw.yahoo.com^
 ||chabadokor.com^
@@ -38522,6 +38526,8 @@ cdn-settings.appsflyersdk.com^
 ||mystighty.info^
 ||i4tvy8vk9f74.com^
 ||mineralisasse.site^
+||ads.contents.fc2.com^
+||thepsusiwho.com^
 ||d2swpuhpwp3khd.cloudfront.net^
 ||afflaze.com^
 ||adstuber.com^
@@ -41014,6 +41020,7 @@ cdn-settings.appsflyersdk.com^
 ||8886i.top^
 ||8961a.com^
 ||8ccrv.xyz^
+||8i3158.cn^
 ||94188.xyz^
 ||98dvu.fun^
 ||996000996.xyz^
@@ -41021,6 +41028,8 @@ cdn-settings.appsflyersdk.com^
 ||9cgms.xyz^
 ||9f11.win^
 ||9fh6m.cn^
+||9j5e.top^
+||9odes.ltd^
 ||aaaesme.cn^
 ||additionsmiracle.com^
 ||afdplay.xyz^
@@ -41137,6 +41146,7 @@ cdn-settings.appsflyersdk.com^
 ||ekdbfu.cn^
 ||ekqfkk.xyz^
 ||elsmom.xyz^
+||ennde.cyou^
 ||ermao20230220.live^
 ||etkht.cn^
 ||evunmc.xyz^
@@ -41162,6 +41172,7 @@ cdn-settings.appsflyersdk.com^
 ||forestwo1f.ltd^
 ||fqla.top^
 ||frpns.com^
+||frxcdn.xyz^
 ||fspjjp.xyz^
 ||ftrtnr.xyz^
 ||fujbjb.xyz^
@@ -41179,6 +41190,7 @@ cdn-settings.appsflyersdk.com^
 ||ggrhsx.cn^
 ||glzniuy.cn^
 ||gomhn.cn^
+||gonpc.com^
 ||gooooogle.xyz^
 ||goopi.cyou^
 ||grndhkd.cn^
@@ -41264,6 +41276,7 @@ cdn-settings.appsflyersdk.com^
 ||iugbjkqwc.xyz^
 ||iwjgwis.cn^
 ||ixelcpo.cn^
+||j00x.top^
 ||jbuzacg.cn^
 ||jcvty.cyou^
 ||jdnlynb.cn^
@@ -41344,6 +41357,7 @@ cdn-settings.appsflyersdk.com^
 ||maccms10.cn^
 ||mbepa.xyz^
 ||mbqwwa.cn^
+||mdcxyo.xyz^
 ||mdi5k.cn^
 ||mecop.cyou^
 ||meidd.cyou^
@@ -41415,6 +41429,7 @@ cdn-settings.appsflyersdk.com^
 ||okoy.top^
 ||okwa.top^
 ||okwg.top^
+||omegabest.cn^
 ||omhoa.com^
 ||oocie.cn^
 ||opeci.cyou^
@@ -41458,11 +41473,13 @@ cdn-settings.appsflyersdk.com^
 ||qbd2.site^
 ||qbd3.site^
 ||qbd4.site^
+||qdiwbhjpo.com^
 ||qdutmef.cn^
 ||qehaxkl.cn^
 ||qerbert78.xyz^
 ||qgazysq.cn^
 ||qgermm.xyz^
+||qhapp.top^
 ||qheoy.cn^
 ||qianbaobbs.net^
 ||qiegoa.xyz^
@@ -41490,6 +41507,7 @@ cdn-settings.appsflyersdk.com^
 ||rdnucrn.cn^
 ||rdoybkd.cn^
 ||rebunb.xyz^
+||regrfg33.com^
 ||renzhongjiaoyu.xyz^
 ||resumes.ren^
 ||rglctlo.cn^
@@ -41518,6 +41536,7 @@ cdn-settings.appsflyersdk.com^
 ||sdfxv57.com^
 ||seaflame.xyz^
 ||sfsxl.xyz^
+||shandiankuaixi.in^
 ||sheena.ltd^
 ||shguy.cyou^
 ||shhaiya.com^
@@ -41592,6 +41611,7 @@ cdn-settings.appsflyersdk.com^
 ||unmnkkq.cn^
 ||uowfag.xyz^
 ||uwumr.cn^
+||uygckiy.cn^
 ||uyydww.xyz^
 ||v16rs.cn^
 ||vainews.cn^
@@ -41609,6 +41629,7 @@ cdn-settings.appsflyersdk.com^
 ||vwvjzd.xyz^
 ||vykeavz.cn^
 ||w80n.fun^
+||wagepulsate.com^
 ||wangyc.club^
 ||wanyi.pw^
 ||waoeou.xyz^
@@ -41728,20 +41749,6 @@ cdn-settings.appsflyersdk.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||mdcxyo.xyz^
-||frxcdn.xyz^
-||8i3158.cn^
-||gonpc.com^
-||j00x.top^
-||uygckiy.cn^
-||wagepulsate.com^
-||ennde.cyou^
-||regrfg33.com^
-||shandiankuaixi.in^
-||9odes.ltd^
-||qhapp.top^
-||9j5e.top^
-||qdiwbhjpo.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -50912,7 +50919,6 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||omegabest.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -62315,7 +62321,6 @@ analytics-*.aasaam.com
 ||m.0vj6i.cn^
 ||e.0wnz6g.cn^
 ||m.0wnz6g.cn^
-||0x1f4b0.com^
 ||0x5.me^
 ||wgie.0z5jn.cn^
 ||100-flannelman.com^
@@ -62558,6 +62563,7 @@ analytics-*.aasaam.com
 ||1o26.com^
 ||m.1p04f.cn^
 ||1q2w3.fun^
+||1q2w3.me^
 ||1q2w3.website^
 ||e.1q89b.cn^
 ||m.1q89b.cn^
@@ -63219,7 +63225,6 @@ analytics-*.aasaam.com
 ||7631.com^
 ||hao.7654.com^
 ||7656c4.com^
-||news.766ba.net^
 ||7676.com^
 ||v.76768hwj.cn^
 ||76802.net^
@@ -63754,7 +63759,6 @@ analytics-*.aasaam.com
 ||airproxyboat.in^
 ||airproxyproxy.pw^
 ||airproxytpb.re^
-||airproxyunblocked.org^
 ||aise9738.com^
 ||agn.aty.snmsohu.aisee.tv^
 ||m.aty.snmsohu.aisee.tv^
@@ -63764,6 +63768,7 @@ analytics-*.aasaam.com
 ||domain.aishengji.com^
 ||aishowbger.com^
 ||aisouk.cn^
+||ait7ee.win^
 ||aivento.cn^
 ||s.aiweigou.top^
 ||aiwenyisheng.mobi^
@@ -64625,6 +64630,7 @@ analytics-*.aasaam.com
 ||fpbbdx2.bmcx.com^
 ||fds.bmfwwz.top^
 ||s.bmgan.com^
+||bmnadutub.ru^
 ||file.bmob.cn^
 ||static.bmob.cn^
 ||bmpx.pw^
@@ -64993,7 +64999,6 @@ analytics-*.aasaam.com
 ||val.atm.cp31.ott.cibntv.net^
 ||vali-g1.cp31.ott.cibntv.net^
 ||cieh.mx^
-||cifraclub.com.br^
 ||cig.com.cn^
 ||ciimg.com^
 ||cilidaquan.pw^
@@ -65031,7 +65036,7 @@ analytics-*.aasaam.com
 ||clickskeks.at^
 ||clickvalue.cn^
 ||z.clickvip.shop^
-||cliggi.download^
+||clickwith.bi^
 ||privacy.clion.agency^
 ||clipxn.com^
 ||clkads.com^
@@ -65257,6 +65262,7 @@ analytics-*.aasaam.com
 ||nai.cpxkvc.com^
 ||cq9119.com^
 ||dm.cqdxun.cn^
+||cqfnvznw.info^
 ||mob10.cqjktj.com^
 ||cqmjjx.cn^
 ||adimg.cqnews.net^
@@ -65619,7 +65625,6 @@ analytics-*.aasaam.com
 ||dnpz123.com^
 ||dnset.com^
 ||dnvod.tv^
-||do69ifsly4.me^
 ||info.meihua.docer.com^
 ||news.docer.com^
 ||fpb.docin.com^
@@ -65929,6 +65934,7 @@ analytics-*.aasaam.com
 ||ergeapp.com^
 ||log.ergeduoduo.com^
 ||erlpbwy.cn^
+||ermaseuc.ru^
 ||green.erne.co^
 ||eroadvertising.com^
 ||erosadv.com^
@@ -65954,6 +65960,7 @@ analytics-*.aasaam.com
 ||ws.etuch.cn^
 ||etui8.cn^
 ||etym6cero.com^
+||etzbnfuigipwvs.ru^
 ||eu.cf^
 ||eue21east.com^
 ||eue27west.com^
@@ -66071,7 +66078,6 @@ analytics-*.aasaam.com
 ||feedblitz.com^
 ||1.feeddsp.cn^
 ||feesee.com^
-||feesocrald.com^
 ||feidalu.com^
 ||e.feifish66.com^
 ||m.feifish66.com^
@@ -66185,6 +66191,7 @@ analytics-*.aasaam.com
 ||flirt4e.com^
 ||flirt4free.com^
 ||flirtingsms.com^
+||fljgsht.ru^
 ||flocktory.com^
 ||flophous.cf^
 ||flow8free.com^
@@ -66271,6 +66278,7 @@ analytics-*.aasaam.com
 ||dolphin.ftimg.net^
 ||dolphin4.ftimg.net^
 ||ftp0118.info^
+||ftzivuesohvebj.ru^
 ||m.fu64b.cn^
 ||fublue.com^
 ||fuckbook.cm^
@@ -67374,6 +67382,7 @@ analytics-*.aasaam.com
 ||qfy.innotechx.com^
 ||inping.com^
 ||m.inqra.cn^
+||insdrbot.com^
 ||insenz.com^
 ||insideoftech.com^
 ||insidesoci.al^
@@ -67387,7 +67396,6 @@ analytics-*.aasaam.com
 ||prcappzone.intel.com^
 ||syndication.intel.com^
 ||intelensafrete.stream^
-||intellecthosting.net^
 ||intelligems.io^
 ||intelserviceupdate.com^
 ||intely.cn^
@@ -67810,7 +67818,6 @@ analytics-*.aasaam.com
 ||same01.jrj.com.cn^
 ||same02.jrj.com.cn^
 ||same03.jrj.com.cn^
-||jroqvbvw.info^
 ||jrpt.jrptweb.org^
 ||jschuangnuo.com^
 ||w.jscsd.cn^
@@ -68221,6 +68228,7 @@ analytics-*.aasaam.com
 ||m.kzqcs.com^
 ||kzsha.com^
 ||e.kzwsh.cn^
+||l33tsite.info^
 ||l520.ltd^
 ||m.l620e.cn^
 ||s.l8l9.com^
@@ -68372,7 +68380,6 @@ analytics-*.aasaam.com
 ||liaocpa.com^
 ||img.libdd.com^
 ||librarymanagement.cn^
-||librefutboltv.com^
 ||lichaoliang.com^
 ||lickbylick.com^
 ||lidebo.com^
@@ -68645,7 +68652,6 @@ analytics-*.aasaam.com
 ||mafia-linkz.to^
 ||magicflute.club^
 ||magicwindow.cn^
-||magnetbay.eu^
 ||magnetmail1.net^
 ||m.maiduoer.com^
 ||bad.maienyanjing.cn^
@@ -68927,7 +68933,6 @@ analytics-*.aasaam.com
 ||minanjiaoyu.com^
 ||mindmanager.cc^
 ||minecrunch.co^
-||minekitten.io^
 ||minerclaim.net^
 ||minercry.pt^
 ||webminer.minergate.com^
@@ -69001,6 +69006,7 @@ analytics-*.aasaam.com
 ||mm100.com^
 ||mmaaxx.com^
 ||ioc.mmakd.top^
+||mmc.center^
 ||i.mmcdn.cn^
 ||mmkkiivv.com^
 ||e.mmkvi.com^
@@ -69357,6 +69363,7 @@ analytics-*.aasaam.com
 ||nicorette.co.kr^
 ||as.nidongme.com^
 ||m.niegg.com^
+||niematego.tk^
 ||nijiua.com^
 ||nim.sh^
 ||m.nimenzaina.cn^
@@ -69519,6 +69526,7 @@ analytics-*.aasaam.com
 ||ofnsv69.com^
 ||photo.ofsja.cn^
 ||m.ogeigs.com^
+||ogondkskyahxa.ru^
 ||e.ohuam.com^
 ||oicchina.com^
 ||ee.oikqfwv.cn^
@@ -69933,6 +69941,7 @@ analytics-*.aasaam.com
 ||aos-creative.prf.hn^
 ||aos.prf.hn^
 ||pri12mel.com^
+||pricefbcf.gq^
 ||primetag.net^
 ||live.primis.tech^
 ||consent.prismamedia.com^
@@ -70331,7 +70340,6 @@ analytics-*.aasaam.com
 ||qss-client.qq.com^
 ||report.vip.qq.com^
 ||rh.qq.com^
-||rich.qq.com^
 ||setting.snswin.qq.com^
 ||showwxml.qq.com^
 ||soft.tbs.imtt.qq.com^
@@ -70538,6 +70546,7 @@ analytics-*.aasaam.com
 ||m.rkw29.cn^
 ||rlhn.xyz^
 ||mo.rltk.com.cn^
+||rmawm7mw.top^
 ||m.rmuqvq.cn^
 ||roar9beer.com^
 ||roastedvolt.net^
@@ -71007,7 +71016,6 @@ analytics-*.aasaam.com
 ||smallseotools.com^
 ||smart-business-intuition.com^
 ||smart-way2.com.cn^
-||smartarget.online^
 ||smartasset.com^
 ||smartbn.ru^
 ||smartclick.net^
@@ -71016,7 +71024,6 @@ analytics-*.aasaam.com
 ||smartnewsquiz.com^
 ||smartredirect.de^
 ||smarttrade.cn^
-||smectapop12.pl^
 ||smgru.net^
 ||static.smi2.net^
 ||smi2.ru^
@@ -71206,7 +71213,6 @@ analytics-*.aasaam.com
 ||spreadable.com.cn^
 ||push-content.springernature.io^
 ||spot.spsfactory.com^
-||sptlkiyjsglayc.ru^
 ||spunkycash.com^
 ||a.spush.com^
 ||mvo.sqa54e.xyz^
@@ -71339,7 +71345,6 @@ analytics-*.aasaam.com
 ||xls.suxun368.cc^
 ||sv2.biz^
 ||svem.cc^
-||svivqrhrh.ru^
 ||sw-rail-7.com^
 ||ss.swagger1.com^
 ||xs.swagger1.com^
@@ -71377,7 +71382,6 @@ analytics-*.aasaam.com
 ||clicktime.symantec.com^
 ||symboltech.com^
 ||synapsys.us^
-||synconnector.com^
 ||sysad.cn^
 ||ss.sysadult.cn^
 ||sysdig.com^
@@ -71425,7 +71429,6 @@ analytics-*.aasaam.com
 ||taihe2002.cn^
 ||tainiesonline.pw^
 ||tainiesonline.st^
-||tainiesonline.stream^
 ||glores2.taisantech.com^
 ||taisi666.top^
 ||un1.takefoto.cn^
@@ -71528,7 +71531,6 @@ analytics-*.aasaam.com
 ||tatagou.com.cn^
 ||ana.tatahn.com^
 ||tawk.to^
-||tazm9p7tso.trade^
 ||tb1u.com^
 ||e.tbaip.com^
 ||m.tbaip.com^
