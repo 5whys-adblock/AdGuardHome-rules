@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303081736
+# Verison: 202303082057
 # Expires: around 1 day
-# Total number of rules = 74842
+# Total number of rules = 74843
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -29243,6 +29243,7 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.data.visenze.com^
 ||evs.proxy.analytics.shutterstock.com^
 ||gtm-server.healthline.com^
 ||excel-telemetry.officeapps.live.com^
@@ -31350,7 +31351,6 @@ charlestownwyllie.oaklawnnonantum.com^
 -gcdsdk.appsflyersdk.com^
 -launches.appsflyersdk.com^
 cdn-settings.appsflyersdk.com^
-||appsflyer-report.honkaiimpact3.com^
 ||cdn-settings.appsflyersdk.com^
 ||inapps.appsflyersdk.com^
 ||launches.appsflyersdk.com^
@@ -41916,6 +41916,8 @@ cdn-settings.appsflyersdk.com^
 ||08088.top^
 ||believer.ltd^
 ||cj-sys.club^
+||aaudaob.cn^
+||vnq3.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -50365,7 +50367,6 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||aaudaob.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
