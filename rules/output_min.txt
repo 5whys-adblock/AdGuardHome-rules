@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303162056
+# Verison: 202303162337
 # Expires: around 1 day
-# Total number of rules = 75552
+# Total number of rules = 75559
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -49139,6 +49139,7 @@ analytics-*.aasaam.com
 ||letysheeps.ru^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@||catchup.thisisdax.com^|
 @@||px.a8.net^|
 @@||app-cdn.minepi.com^|
 @@||crm-cdn.peek-cloppenburg.com^|
@@ -51055,6 +51056,7 @@ analytics-*.aasaam.com
 .728x90.
 .900x100.
 ||2mdn.net^
+||53c2dtzsj7t1.top^
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
@@ -51064,6 +51066,7 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||burlydeclined.com
 ||buyeasy.by^
+||discostcarafon.website^
 ||evgywgur.com
 ||get-me-wow.
 ||givekeeperstirring.com
@@ -51075,9 +51078,13 @@ analytics-*.aasaam.com
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
+||repairedentrailstangle.com^
 ||requismucuta.com
 ||rubiconproject.com^
+||tingedpapyrin.guru^
+||tisszhb.cn^
 ||trust.zone^
+||windingnegotiation.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
