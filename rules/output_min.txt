@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303191438
+# Verison: 202303191734
 # Expires: around 1 day
-# Total number of rules = 75743
+# Total number of rules = 75763
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -51036,6 +51036,10 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||wxzrw.com^
+||qzhiku.cc^
+||etdcezc.cn^
+||tsck.online^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -51232,26 +51236,42 @@ analytics-*.aasaam.com
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
+||arhvtaonkvi.com^
+||arossb.com^
 ||atdmt.com^
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||bfqwfpjdgc.com^
+||boothsuropygi.space^
 ||burlydeclined.com
 ||buyeasy.by^
+||condoleextensive.com^
 ||evgywgur.com
 ||get-me-wow.
 ||givekeeperstirring.com
 ||gleameddelightprosperity.com
 ||googletagservices.com^
+||gsziafjjgeq.com^
+||hkkpfcnqoajtsu.com^
 ||hsrvz.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||jrnweuntwtem.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||marblecaution.com^
+||miscellaneousdietary.com^
+||noozjifbn.com^
+||nosselaune.space^
 ||ntv.io^
+||ozgaflxqjes.com^
+||phoaglee.com^
+||piupiucreed.life^
 ||requismucuta.com
 ||rubiconproject.com^
 ||trust.zone^
+||ymepooluqd.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
