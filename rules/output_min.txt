@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303221732
+# Verison: 202303222053
 # Expires: around 1 day
-# Total number of rules = 75882
+# Total number of rules = 75887
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -29868,6 +29868,8 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||report.iciba.com^
+||global.ketchcdn.com^
 ||collector.reelevant.com^
 ||scripts-repo.reelevant.com^
 ||analytics.lunaweb.cloud^
@@ -31966,8 +31968,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-sprint.qoqa.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
--conversions.appsflyersdk.com^
--gcdsdk.appsflyersdk.com^
+conversions.appsflyersdk.com^
+gcdsdk.appsflyersdk.com^
 -launches.appsflyersdk.com^
 cdn-settings.appsflyersdk.com^
 ||cdn-settings.appsflyersdk.com^
@@ -31991,6 +31993,7 @@ cdn-settings.appsflyersdk.com^
 ||int.vaicore.store^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||prod-analytics.royal.drmgms.com^
 ||logservice.hicloud.com^
 ||logger.growstarry.com^
 ||beacon-api.aliyuncs.com^
@@ -32943,6 +32946,7 @@ cdn-settings.appsflyersdk.com^
 ||itracker360.com^
 ||itracmediav4.com^
 ||janrain.xyz^
+||journera.com^
 ||journity.com^
 ||js-delivr.com^
 ||jumplead.com^
@@ -35373,6 +35377,7 @@ cdn-settings.appsflyersdk.com^
 ||ver-pelis.net^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||vasia.bluentated.racing^
 ||laimroll.ru^
 ||burningpushing.info^
 ||riamiavid.com^
@@ -42714,6 +42719,11 @@ cdn-settings.appsflyersdk.com^
 ||haon.ltd^
 ||uiiwzyv.cn^
 ||shangjinxin.ltd^
+||umami.is^
+||rbvi.top^
+||renameking.com^
+||strced.xyz^
+||baidufkjnvbdsn.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -51668,18 +51678,15 @@ analytics-*.aasaam.com
 ||config.ioam.de^$ctag=device_tv|device_other
 -adobe-analytics.
 -ads-tracking-
--AdTracking.
 -amp-error-reporting.
 -analytics-events.
 -analytics-wi.
 -appanalytics-
 -click-tracker.
--ClickTale.
 -content-tracking.
 -datacollection.
 -didomi.js
 -dspcookiematching.
--dtaectolog-
 -event-tracking.
 -fb-pixel-
 -ga-track.
@@ -51732,7 +51739,6 @@ analytics-*.aasaam.com
 .v4.analytics.
 .vsTracking.
 .web-vitals-reporting.
-.webstats.
 ://ensighten.
 ://ivwextern.
 ://segment-api.
@@ -75776,7 +75782,6 @@ jquery.smartCookie.min.js^
 nanoGDPR.min.js^
 ||fundingchoices.google.com^
 ||privacidade.api.milvus.com.br^
-||global.ketchcdn.com^
 ||api.brookiebot.com^
 wpjslib-chunk-notification.js^
 ||connect.danone.es^
