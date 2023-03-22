@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303221135
+# Verison: 202303221438
 # Expires: around 1 day
-# Total number of rules = 75888
+# Total number of rules = 75882
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -16277,6 +16277,7 @@ vkcdnservice.appspot.com^
 ||protocolgroupgroups.com^
 ||prototypewailrubber.com^
 ||protovid.com^
+||provenancedelegatecipher.com^
 ||provider-direct.com^
 ||providingcrechepartnership.com^
 ||providingstallionemployee.com^
@@ -42710,6 +42711,9 @@ cdn-settings.appsflyersdk.com^
 ||pcxtvr.xyz^
 ||658bbb.us^
 ||aguterl.cn^
+||haon.ltd^
+||uiiwzyv.cn^
+||shangjinxin.ltd^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -51165,8 +51169,6 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||haon.ltd^
-||uiiwzyv.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -51380,7 +51382,6 @@ analytics-*.aasaam.com
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
-||provenancedelegatecipher.com^
 ||requismucuta.com
 ||rubiconproject.com^
 ||trust.zone^
@@ -51670,14 +51671,11 @@ analytics-*.aasaam.com
 -AdTracking.
 -amp-error-reporting.
 -analytics-events.
--analytics-tagserver-
 -analytics-wi.
 -appanalytics-
 -click-tracker.
 -ClickTale.
--comscore.
 -content-tracking.
--criteo.
 -datacollection.
 -didomi.js
 -dspcookiematching.
@@ -51691,7 +51689,6 @@ analytics-*.aasaam.com
 -google-analytics.
 -inview-tracker.
 -landing-tracking-
--lp-tracking.
 -optimization-metrics.
 -optimost-
 -page-analytics.
@@ -51716,9 +51713,7 @@ analytics-*.aasaam.com
 .d-engine.js
 .drive-analytics.
 .eloqua.js
-.emsecure.min.js
 .EventTracking.
-.EventTrackingPlugins.
 .gatracker.
 .gatracking.js
 .Google.Tracker.js
@@ -51737,7 +51732,6 @@ analytics-*.aasaam.com
 .v4.analytics.
 .vsTracking.
 .web-vitals-reporting.
-.webmetrics.js
 .webstats.
 ://ensighten.
 ://ivwextern.
