@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303242051
+# Verison: 202303242335
 # Expires: around 1 day
-# Total number of rules = 76128
+# Total number of rules = 76145
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -51428,6 +51428,8 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||baidnblkdn.com^
+||aoi21.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -51621,6 +51623,8 @@ analytics-*.aasaam.com
 .728x90.
 .900x100.
 ||2mdn.net^
+||43bb528775.com^
+||abseydeveled.com^
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
@@ -51630,7 +51634,10 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||burlydeclined.com
 ||buyeasy.by^
+||cauliflowerpointlessebb.com^
+||danzigtitoism.guru^
 ||evgywgur.com
+||galoreshoodlum.com^
 ||get-me-wow.
 ||givekeeperstirring.com
 ||gleameddelightprosperity.com
@@ -51638,12 +51645,21 @@ analytics-*.aasaam.com
 ||hsrvz.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||kittlesoceania.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||maiuschaco.com^
 ||ntv.io^
+||onagriflocoon.com^
+||ragbagsporcine.com^
 ||requismucuta.com
 ||rubiconproject.com^
+||snapfooted.com^
+||socalledattestation.com^
+||talerselrage.com^
+||thinneddarns.digital^
 ||trust.zone^
+||voaglazy.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -76030,6 +76046,7 @@ wpjslib-chunk-notification.js^
 ||notice.sp-prod.net^
 ||ccm19.vucx.de^
 ||cdn.realpeoplemedia.co.uk^
+||ccm19.dsg-schweiz.ch^
 ||one.fsylr.com^
 ||two.fsylr.com^
 ||ad.juksy.com^
