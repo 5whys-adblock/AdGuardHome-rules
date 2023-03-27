@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303271735
+# Verison: 202303272200
 # Expires: around 1 day
-# Total number of rules = 76275
+# Total number of rules = 76283
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -25673,6 +25673,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||31830fbc-adbf-11ed-afa1-0242ac120002.site^
 ||15823f12-289e-4189-9e51-e2de1bf1a105.online^
 ||livetrafficfeed.com^
 ||cnnx.link^
@@ -32309,7 +32310,6 @@ cdn-settings.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||accscdn.m.taobao.com^
 ||acs.m.taobao.com^
-||heytapmobi.com^
 ||apsrgeo.amap.com^
 ||confe.dc.oppomobile.com^
 ||conff.dc.oppomobile.com^
@@ -41280,6 +41280,7 @@ cdn-settings.appsflyersdk.com^
 ||trackingclick.net^
 ||traffic-monetizer.com^
 ||trk.cpaoptimizer.com^
+||0.0.realodix^
 ||c303.pw^
 ||welcome.indihome.co.id^
 ||darts-ads.telkom.co.id^
@@ -43113,6 +43114,7 @@ cdn-settings.appsflyersdk.com^
 ||chrislee.ltd^
 ||ddhs.site^
 ||tianlaoyyds.com^
+||loopd.cyou^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -50705,6 +50707,7 @@ analytics-*.aasaam.com
 ||production.wootric.com.herokudns.com^
 ||analytics.yopify.com.herokudns.com^
 ||mdp-appconf-sg.heytapdl.com^
+||client-uc.heytapmobi.com^
 ||cdn-cf-hc-banners.hgonline.net^
 ||homify.com.mx^
 ||analytics.hostyour.video^
@@ -76069,6 +76072,7 @@ analytics-*.aasaam.com
 ||kpstaticbj.wx.ckjr001.com^
 ||www.meipian7.cn^
 ||ad.51wnl-cq.com^
+||stg-data.ads.heytapmobi.com^
 ||api-analytics-cn.huami.com^
 ||track.adx.adlefee.com^
 ||ad.api.youshiad.cn^
@@ -76082,6 +76086,10 @@ analytics-*.aasaam.com
 ||adserviceretry.kugou.com^
 ||api.ad.yipinread.com^
 ||ads.icloseli.cn^
+||uapi.ads.heytapmobi.com^
+||b1-data.ads.heytapmobi.com^
+||adx.ads.heytapmobi.com^
+||b2-data.ads.heytapmobi.com^
 ||ads.weilitoutiao.net^
 ||du.163.com^
 ||ads.adroi.com.cn^
