@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303272200
+# Verison: 202303272334
 # Expires: around 1 day
-# Total number of rules = 76283
+# Total number of rules = 76309
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -51573,6 +51573,8 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||pengpailm.online^
+||baidbsjvb.com^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -51765,16 +51767,25 @@ analytics-*.aasaam.com
 .728x90-
 .728x90.
 .900x100.
+||19fc4acebd.com^
 ||2mdn.net^
+||9fa16f5df4.com^
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
+||appcdn03.xyz^
+||apsoacou.xyz^
 ||atdmt.com^
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||bebaqetpyi.com^
+||bugits.com^
 ||burlydeclined.com
 ||buyeasy.by^
+||cbyjpnjua.xyz^
+||csrmohcym.com^
+||ecffmhajfgxw.com^
 ||evgywgur.com
 ||get-me-wow.
 ||givekeeperstirring.com
@@ -51785,10 +51796,24 @@ analytics-*.aasaam.com
 ||impact-ad.jp^
 ||kqzyfj.com^
 ||loadercdn.com^
+||mjtwoqupix.com^
+||mortifiedkind.pro^
 ||ntv.io^
+||obolic.com^
+||ohdrgrpfyvughty.xyz^
+||orrabxofvju.com^
+||pjxeklkomgq.com^
+||pughoomo.xyz^
 ||requismucuta.com
+||rlittleboywhowas.com^
 ||rubiconproject.com^
+||sprunghardness.com^
+||srmohcym.com^
+||tpeoplesho.info^
+||trochilsawbwa.com^
 ||trust.zone^
+||vidcaps.org^
+||xkcgjkwjbmki.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -51808,6 +51833,7 @@ analytics-*.aasaam.com
 ||ohmygosh.info^
 ||watchmyvids.xyz^
 ||cas.*.criteo.com^
+||d3hv9xfqzxy46o.cloudfront.net^
 ||aff-jp.dxlive.com^
 ||affiliate.dtiserv.com^
 ||affiliates.cupidplc.com^
