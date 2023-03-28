@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202303282336
+# Verison: 202303290239
 # Expires: around 1 day
-# Total number of rules = 76536
+# Total number of rules = 76541
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,8 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||sopalk.com^
+||wrufer.com^
 ||bqypgubvupcg.com^
 ||whoursie.com^
 ||devaultautit.com^
@@ -25968,7 +25970,6 @@ vkcdnservice.appspot.com^
 ||offer-go.com^
 ||d2ezz24t9nm0vu.cloudfront.net^
 ||px*.mediahills.ru^
-||sdk.conscent.in^
 ||tpstelemetry.tencent.com^
 ||posthog.com^
 ||crossees.com^
@@ -30415,6 +30416,9 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||ampltd2.medal.tv^
+||l.bfmtv.com^
+||stats.debatdirect.tweedekamer.nl
 ||cologger.shopping.naver.com^
 ||analytics.dugun.com^
 ||report2.iciba.com^
@@ -39796,6 +39800,7 @@ cdn-settings.appsflyersdk.com^
 ||youtubesave.org^
 ||youtubex.top^
 ||zafrc.5780.site^
+||rotorfon.go-prod.dogt.xyz^
 ||r.yabancidizi.in^
 ||ads.dygdigital.com^
 ||ads.igfhaber.com^
@@ -42489,6 +42494,7 @@ cdn-settings.appsflyersdk.com^
 ||ctoyb.cyou^
 ||cuwuqo.xyz^
 ||cwobgp.cn^
+||cwolwc.xyz^
 ||cwpbohx.cn^
 ||cxgwsu.xyz^
 ||d3f3.xyz^
@@ -42517,6 +42523,7 @@ cdn-settings.appsflyersdk.com^
 ||dfzv25.com^
 ||dgozp.com^
 ||dhl4.xyz^
+||dioak.cyou^
 ||diqizu.xyz^
 ||diwok.cyou^
 ||dmqi.ltd^
@@ -42613,6 +42620,7 @@ cdn-settings.appsflyersdk.com^
 ||gejulm1314.com^
 ||gfqsded.cn^
 ||ggrhsx.cn^
+||gkustph.cn^
 ||gkwrae.xyz^
 ||glzniuy.cn^
 ||godie.cyou^
@@ -42732,6 +42740,7 @@ cdn-settings.appsflyersdk.com^
 ||jgqub.cn^
 ||jh001.cc^
 ||jiangzhou.ltd^
+||jiaojun.icu^
 ||jiape.cyou^
 ||jike001.top^
 ||jinkens.fun^
@@ -42790,6 +42799,7 @@ cdn-settings.appsflyersdk.com^
 ||ksccqu.xyz^
 ||kscly.com^
 ||ktbelts.cn^
+||kunzhang.name^
 ||kuyw.cn^
 ||kwivb.cn^
 ||kzeqq.com^
@@ -42840,6 +42850,7 @@ cdn-settings.appsflyersdk.com^
 ||mecop.cyou^
 ||meidd.cyou^
 ||meueeq.xyz^
+||meximexi.me^
 ||mfaec.cn^
 ||mffdn.xyz^
 ||mfjiaoyu.cn^
@@ -43052,6 +43063,7 @@ cdn-settings.appsflyersdk.com^
 ||sange20221226.xyz^
 ||sanqian.pro^
 ||santou20230127.live^
+||sanwen.icu^
 ||sc4mh.cn^
 ||scbt.asia^
 ||scfh9.cn^
@@ -43117,6 +43129,7 @@ cdn-settings.appsflyersdk.com^
 ||tioew.cyou^
 ||tjbxhn.xyz^
 ||tjxafmo.cn^
+||touwengyyds.com^
 ||tqxthzy.cn^
 ||traktalent.com^
 ||tsck.online^
@@ -43181,9 +43194,11 @@ cdn-settings.appsflyersdk.com^
 ||vilki.cn^
 ||viope.cyou^
 ||vj1p.xyz^
+||vkjqbb.xyz^
 ||vlbbxt.xyz^
 ||vnq3.top^
 ||vokmhydy.xyz^
+||vulrxr.xyz^
 ||vvtztj.xyz^
 ||vw66i.top^
 ||vwvjzd.xyz^
@@ -43335,6 +43350,7 @@ cdn-settings.appsflyersdk.com^
 ||zkdmdf.xyz^
 ||zktqzyz.cn^
 ||zlfthh.xyz^
+||zlzizsq.cn^
 ||zmadsvd.cn^
 ||zmdtcw.cn^
 ||znktkt.cn^
@@ -43352,16 +43368,6 @@ cdn-settings.appsflyersdk.com^
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
-||meximexi.me^
-||cwolwc.xyz^
-||vkjqbb.xyz^
-||touwengyyds.com^
-||jiaojun.icu^
-||dioak.cyou^
-||sanwen.icu^
-||gkustph.cn^
-||kunzhang.name^
-||vulrxr.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -51820,7 +51826,6 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||zlzizsq.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -52449,7 +52454,6 @@ analytics-*.aasaam.com
 ||adv.drtuber.com^
 ||aegis.trovo.live^
 ||amethyst.zappos.com^
-||ampltd2.medal.tv^
 ||analyselog.dx.com^
 ||analytics-api.dvdfab.
 ||analytics-proxy.springboard.com^
@@ -62567,7 +62571,6 @@ analytics-*.aasaam.com
 ||forecast.huffingtonpost.fr^
 ||fsm.lapresse.ca^
 ||hits.porn.fr^
-||l.bfmtv.com^
 ||l.franceculture.fr^
 ||logstash-3.radio-canada.ca^
 ||p.kolplay.com^
@@ -63583,6 +63586,7 @@ analytics-*.aasaam.com
 ||plugin.2easydroid.com^
 ||wap.2f.com^
 ||m.2fnrc.cn^
+||2giga.download^
 ||2giga.link^
 ||toutiao.2haha.com^
 ||e.2hqd0b.cn^
@@ -64546,6 +64550,7 @@ analytics-*.aasaam.com
 ||ds-pc.admsger.com^
 ||admtpmp124.com^
 ||adnanny.com^
+||adnexus.mobi^
 ||adnexus.net^
 ||adnyg.com^
 ||3dns-2.adobe.com^
@@ -64604,6 +64609,7 @@ analytics-*.aasaam.com
 ||aduu.cn^
 ||advantagemedia.com^
 ||advcash.com^
+||pic.adver.com.tw^
 ||adview.cn^
 ||adview.com^
 ||platform.adwep.com^
@@ -64744,7 +64750,6 @@ analytics-*.aasaam.com
 ||aleinvest.xyz^
 ||alemoney.xyz^
 ||alflying.bi^
-||alflying.win^
 ||alga9frog.com^
 ||bmp.ali213.net^
 ||bmp1.ali213.net^
@@ -64804,7 +64809,6 @@ analytics-*.aasaam.com
 ||alldk.com^
 ||allfontshere.press^
 ||alllget.com^
-||allmygoodlife.com^
 ||allosponsor.com^
 ||app.allproof.net^
 ||badges.alltop.com^
@@ -64940,6 +64944,7 @@ analytics-*.aasaam.com
 ||as.cf^
 ||imp.asahi.com^
 ||asdfg23.com^
+||aservices.party^
 ||ashiping.com^
 ||asiafriendfinder.com^
 ||css.asitend.com^
@@ -64949,6 +64954,7 @@ analytics-*.aasaam.com
 ||jb.asqql.com^
 ||assetscdn.stream^
 ||m.assigned.cn^
+||aster18cdn.nl^
 ||aster18prx.nl^
 ||asterilivestream.com^
 ||asvoxod.ru^
@@ -64984,6 +64990,7 @@ analytics-*.aasaam.com
 ||ausaas.cn^
 ||authcaptcha.com^
 ||authedmine.com^
+||authedmine.eu^
 ||authedwebmine.cz^
 ||33.autohome.com.cn^
 ||leads.api.autohome.com.cn^
@@ -65415,7 +65422,6 @@ analytics-*.aasaam.com
 ||pic.bdyxzx.com^
 ||beachlinkz.com^
 ||beanstock.com^
-||beatingbytes.com^
 ||newsletter.beautydea.it^
 ||h8.bec.com^
 ||m.bedhdig.cn^
@@ -65445,6 +65451,7 @@ analytics-*.aasaam.com
 ||benniuluntai.cn^
 ||a.benshiw.net^
 ||beopinion.com^
+||berateveng.ru^
 ||consent.berliner-kurier.de^
 ||bes-progfree.com^
 ||besocial.online^
@@ -65552,7 +65559,6 @@ analytics-*.aasaam.com
 ||as.bjmama.net^
 ||bjmcmj.cn^
 ||bjorksta.me^
-||bjorksta.men^
 ||sdk.api.bjshcw.com^
 ||bjsncykyjctsbjxzx.cn^
 ||bjtrld.com^
@@ -65653,6 +65659,7 @@ analytics-*.aasaam.com
 ||bsrkt.com^
 ||bsshw.net^
 ||mo.bsxr.com.cn^
+||bsyauqwerd.party^
 ||y.btdc8.cn^
 ||tool.btrabbit.la^
 ||lan.btwan5.com^
@@ -65784,6 +65791,7 @@ analytics-*.aasaam.com
 ||e.ccunf.com^
 ||m.ccunf.com^
 ||ccvwtdtwyu.tr^
+||ccvwtdtwyu.trade^
 ||cdbgmj12.com^
 ||cdbnx5.com^
 ||cnzz.cdbsoi.com^
@@ -65796,7 +65804,6 @@ analytics-*.aasaam.com
 ||cdjchpojgifwc.ru^
 ||js.cdjqjy.com^
 ||cdjs.online^
-||cdn-analytics.pl^
 ||cdn-code.host^
 ||cdn-jquery.host^
 ||woaizhongguo.cdn111222.com^
@@ -65844,7 +65851,6 @@ analytics-*.aasaam.com
 ||cgz0213.com^
 ||ch-hr12333.com^
 ||lz.chaelc.com^
-||chainblock.science^
 ||jinshui2018.chalook.net^
 ||chance-ad.com^
 ||chanet.com.cn^
@@ -66005,6 +66011,7 @@ analytics-*.aasaam.com
 ||clickvalue.cn^
 ||z.clickvip.shop^
 ||clickwith.bi^
+||clickwith.bid^
 ||clickwith.date^
 ||cliggi.download^
 ||privacy.clion.agency^
@@ -66128,7 +66135,6 @@ analytics-*.aasaam.com
 ||cb.h5.coffeedak.cn^
 ||coihive.com^
 ||coin-hive.com^
-||coin-services.info^
 ||coiner.site^
 ||coingive.com^
 ||coinhive-manager.com^
@@ -66144,7 +66150,6 @@ analytics-*.aasaam.com
 ||coinimp.net^
 ||coinive.com^
 ||coinjive.com^
-||coinlab.biz^
 ||coinworker.com^
 ||collectconsent.com^
 ||colnhive.com^
@@ -66164,6 +66169,7 @@ analytics-*.aasaam.com
 ||congtad.com^
 ||conhive.com^
 ||connct-9.com^
+||conscent.in^
 ||consensu.io^
 ||consensu.org^
 ||consent.dk^
@@ -66261,9 +66267,9 @@ analytics-*.aasaam.com
 ||crowdtwist.com^
 ||crowdynews.com^
 ||cruisingsmallship.com^
-||cryptaloot.pro^
 ||cryptoblocks.site^
 ||cryptocoinabout.com^
+||cryptoloot.pro^
 ||cryptonote.club^
 ||cryptopay.org.za^
 ||cryptosearch.site^
@@ -66356,7 +66362,6 @@ analytics-*.aasaam.com
 ||d77777777.com^
 ||d8360.com^
 ||d8885.com^
-||d8acddffe978b5dfcae6.date^
 ||m.d8qu.com^
 ||d9ad.com^
 ||da303.com^
@@ -66460,7 +66465,6 @@ analytics-*.aasaam.com
 ||m.ddttssz.cn^
 ||u.ddvip.com^
 ||ddwt.am^
-||de-mi-nis-ner2.info^
 ||s.de123.net^
 ||img752.de92.com^
 ||imgcdn.de92.com^
@@ -66548,7 +66552,6 @@ analytics-*.aasaam.com
 ||a.diaoyu.cn^
 ||codeym.dictall.com^
 ||static.diditaxi.com.cn^
-||didnkinrab.com^
 ||diediao.com^
 ||difnxm.cn^
 ||digiad.co^
@@ -66764,6 +66767,7 @@ analytics-*.aasaam.com
 ||dzdkw9.cn^
 ||dzgg.com^
 ||dzhss.cn^
+||dzizsih.ru^
 ||de.dzribao.com^
 ||sdd.dzsc.com^
 ||dzsstye.com^
@@ -66934,7 +66938,6 @@ analytics-*.aasaam.com
 ||ergeapp.com^
 ||log.ergeduoduo.com^
 ||erlpbwy.cn^
-||ermaseuc.ru^
 ||green.erne.co^
 ||eroadvertising.com^
 ||erosadv.com^
@@ -67196,6 +67199,7 @@ analytics-*.aasaam.com
 ||fleshlightgirls.com^
 ||bd2.flfgw.cn^
 ||flightsy.bi^
+||flightsy.bid^
 ||flightsy.date^
 ||flightsy.win^
 ||flighty.win^
@@ -67266,7 +67270,6 @@ analytics-*.aasaam.com
 ||freevideos24h.com^
 ||freewebcams.com^
 ||freewebfonts.org^
-||freshrefresher.com^
 ||freshrefreshnerer186.info^
 ||freshrefreshnerer186rb.info^
 ||frestacero.com^
@@ -67359,6 +67362,7 @@ analytics-*.aasaam.com
 ||m.fzyda.com^
 ||g--o.info^
 ||g-content.bi^
+||g-content.bid^
 ||xyoss.g.com.cn^
 ||g17media.com^
 ||m.g1ao7q.cn^
@@ -67478,7 +67482,6 @@ analytics-*.aasaam.com
 ||getreview.pl^
 ||getscoutapp.com^
 ||getsitecontrol.com^
-||gettate.racing^
 ||gettubetv.com^
 ||getui.com^
 ||getui.net^
@@ -67723,7 +67726,6 @@ analytics-*.aasaam.com
 ||y.gwylm.com^
 ||gx38.cn^
 ||gi.xi.gxabj.com^
-||gxbrowser.net^
 ||gxdhgb.com^
 ||gxdmxx.com^
 ||fpb1.gxfin.com^
@@ -67850,7 +67852,6 @@ analytics-*.aasaam.com
 ||m.harbinbaojia.net^
 ||hashforcash.us^
 ||hashto.cash^
-||hatcalter.com^
 ||b.hatena.ne.jp^
 ||hatevery.info^
 ||hauchi.com.tw^
@@ -67900,7 +67901,6 @@ analytics-*.aasaam.com
 ||xndjh.hebiz.cn^
 ||hefan365.com^
 ||hefei126.com^
-||hegrinhar.com^
 ||hehuren.cn^
 ||heiad.com^
 ||heidoumedia.com^
@@ -68036,7 +68036,6 @@ analytics-*.aasaam.com
 ||hnpjshop.com^
 ||hnwlyy.com.cn^
 ||nsy.hnzyfs.com^
-||hodlers.party^
 ||e.hogyp.com^
 ||m.hogyp.com^
 ||a.holagames.com^
@@ -68254,7 +68253,6 @@ analytics-*.aasaam.com
 ||fgp.i8l7tg.cn^
 ||iadpush.com^
 ||iaheyftbsn.re^
-||iaheyftbsn.review^
 ||m.iangp.com^
 ||m.iangs.com^
 ||ianpos.com^
@@ -68475,6 +68473,7 @@ analytics-*.aasaam.com
 ||ipadd-path.com^
 ||ipaypay.cn^
 ||ipdata.co^
+||ipgeolocation.io^
 ||ipinfo.info^
 ||res.ipingke.com^
 ||ipndulsempjgb.bid^
@@ -68876,7 +68875,6 @@ analytics-*.aasaam.com
 ||jqki.cn^
 ||jqmrqgaunex.ru^
 ||jqr-cdn.download^
-||jquery-cdn.download^
 ||jquery-uim.do^
 ||jqwww.download^
 ||jqxrrygqnagn.ru^
@@ -68891,7 +68889,6 @@ analytics-*.aasaam.com
 ||same03.jrj.com.cn^
 ||jroqvbvw.info^
 ||jrpt.jrptweb.org^
-||jsccnn.com^
 ||jschuangnuo.com^
 ||w.jscsd.cn^
 ||api.jsfc8.cn^
@@ -69570,7 +69567,6 @@ analytics-*.aasaam.com
 ||js.lmggdka.cn^
 ||lmknjb1.com^
 ||lmmaoo.com^
-||lmodr.biz^
 ||cookies.lmt.lv^
 ||aoovqo8t.stats.lncld.net^
 ||lnfund.org.cn^
@@ -69760,6 +69756,7 @@ analytics-*.aasaam.com
 ||make6pain.com^
 ||makeding.com^
 ||mali4blat.com^
+||malictuiar.com^
 ||mass.mall044.com^
 ||vip.mall044.com^
 ||mallcom.com^
@@ -70166,6 +70163,7 @@ analytics-*.aasaam.com
 ||xfo.monesyy.com^
 ||monetizze.com.br^
 ||money-maker-default.info^
+||money-maker-script.info^
 ||monitoringservice.co^
 ||promotion.monster.com^
 ||publisher.monster.com^
@@ -70255,6 +70253,7 @@ analytics-*.aasaam.com
 ||m.mushizhubao.com^
 ||applog.musical.ly^
 ||musik-mp3.info^
+||mutuza.win^
 ||e.mutvib.cn^
 ||m.muusn.cn^
 ||muxingkj.com^
@@ -70352,6 +70351,7 @@ analytics-*.aasaam.com
 ||static.live.nagezan.net^
 ||ytapi1.nagezan.net^
 ||naiadexports.com^
+||najsiejfnc.win^
 ||vsqf.nal5h.cn^
 ||namedq.com^
 ||logs.nandu.com^
@@ -70395,6 +70395,7 @@ analytics-*.aasaam.com
 ||i.stat.nearme.com.cn^
 ||kv.stat.nearme.com.cn^
 ||stat.browser.nearme.com.cn^
+||nebabrop.com^
 ||neck6bake.com^
 ||mvo.nefcd.xyz^
 ||l9bdhcgihw.neihanw.com^
@@ -70531,6 +70532,7 @@ analytics-*.aasaam.com
 ||nnnwwwe.com^
 ||nnwm.com^
 ||noble55.com^
+||noblock.pro^
 ||node7seat.com^
 ||uvu.nojmlxq.cn^
 ||nonissue.com^
@@ -70851,6 +70853,7 @@ analytics-*.aasaam.com
 ||cmp.pcwelt.de^
 ||cmp.pcworld.pl^
 ||pdfexpert.cc^
+||pdheuryopd.loan^
 ||pdiinfo.com.cn^
 ||pdjyzx.com^
 ||ijeu.pdkzyy.cn^
@@ -70968,6 +70971,7 @@ analytics-*.aasaam.com
 ||pei-ads.playboy.com^
 ||playcvn.com^
 ||hwt.player888.cn^
+||playerassets.info^
 ||playercdn.net^
 ||cmp.playpilot.com^
 ||plinx.net^
@@ -71690,7 +71694,6 @@ analytics-*.aasaam.com
 ||rigi9bury.com^
 ||rime8lope.com^
 ||rineventrec.com^
-||rintinwa.com^
 ||ripe8book.com^
 ||game.rising.cn^
 ||wan.rising.cn^
@@ -71936,6 +71939,7 @@ analytics-*.aasaam.com
 ||service4refresh.info^
 ||setqfx.cn^
 ||setqre.cn^
+||cmp.setupcmp.com^
 ||m.sewxi.com^
 ||sexad.net^
 ||sexdatecash.com^
@@ -72156,6 +72160,7 @@ analytics-*.aasaam.com
 ||m.sjzhushou.com^
 ||sousuo.xm.sjzhushou.com^
 ||skeettools.com^
+||skencituer.com^
 ||skimresources.com^
 ||skryptcookies.pl^
 ||skye6oner.com^
@@ -72186,6 +72191,7 @@ analytics-*.aasaam.com
 ||smartnewsquiz.com^
 ||smartredirect.de^
 ||smarttrade.cn^
+||smectapop12.pl^
 ||smgru.net^
 ||static.smi2.net^
 ||smi2.ru^
@@ -72507,7 +72513,6 @@ analytics-*.aasaam.com
 ||harvest.surge.sh^
 ||cdn.surroundtm.com^
 ||survey.io^
-||log.suumo.jp^
 ||suwoj.com^
 ||xls.suxun368.cc^
 ||sv2.biz^
@@ -72550,6 +72555,7 @@ analytics-*.aasaam.com
 ||clicktime.symantec.com^
 ||symboltech.com^
 ||synapsys.us^
+||synconnector.com^
 ||sysad.cn^
 ||ss.sysadult.cn^
 ||sysdig.com^
@@ -76426,7 +76432,6 @@ wpjslib-chunk-consent-form.js^
 ||app.eprivacy-keeper.eu^
 ||cmp.cls.pm^
 ||cmp.pafo.fairbung.com^
-||cmp.setupcmp.com^
 jquery.smartCookie.min.js^
 nanoGDPR.min.js^
 ||fundingchoices.google.com^
