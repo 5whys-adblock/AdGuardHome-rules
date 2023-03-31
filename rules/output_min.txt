@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304010236
+# Verison: 202304010532
 # Expires: around 1 day
-# Total number of rules = 76929
+# Total number of rules = 76949
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -52397,6 +52397,9 @@ analytics-*.aasaam.com
 .728x90.
 .900x100.
 ||2mdn.net^
+||9f62b6f6bf.com^
+||abolid.com^
+||alargeredrubygsw.com^
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
@@ -52404,22 +52407,38 @@ analytics-*.aasaam.com
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||b5903af9fd.com^
+||bkpndkowbo.com^
 ||burlydeclined.com
 ||buyeasy.by^
 ||evgywgur.com
+||forgeryweave.com^
+||fvpmzvdv.com^
 ||get-me-wow.
 ||givekeeperstirring.com
 ||gleameddelightprosperity.com
+||gmiwcarhor.com^
 ||googletagservices.com^
 ||hsrvz.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||jstuwnrkdhkow.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||nnbivwzl.com^
+||nohgdefvwmbifld.com^
 ||ntv.io^
+||omervagant.com^
+||otween.com^
 ||requismucuta.com
+||rlmcegsrhuspsq.com^
 ||rubiconproject.com^
+||shindyprayhrs.com^
 ||trust.zone^
+||valvalnumbest.com^
+||victoriousagency.pro^
+||vingartistictaste.com^
+||winningdotaltar.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -52439,6 +52458,7 @@ analytics-*.aasaam.com
 ||ohmygosh.info^
 ||watchmyvids.xyz^
 ||cas.*.criteo.com^
+||d2oxs0429n9gfd.cloudfront.net^
 ||aff-jp.dxlive.com^
 ||affiliate.dtiserv.com^
 ||affiliates.cupidplc.com^
