@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304081733
+# Verison: 202304082047
 # Expires: around 1 day
-# Total number of rules = 77509
+# Total number of rules = 77512
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||feistyhelicopter.com^
 ||sheeme.com^
 ||uttack.com^
 ||whiteforwardlines.com^
@@ -41500,6 +41501,9 @@ inapps.appsflyersdk.com^
 ||kayzqar.cn^
 ||lianxi.link^
 ||kzjqraj.cn^
+||codeice.xyz^
+||whbn.xyz^
+||nurahf.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -50395,7 +50399,6 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||codeice.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
