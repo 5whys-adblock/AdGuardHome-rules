@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304102332
+# Verison: 202304110234
 # Expires: around 1 day
-# Total number of rules = 77932
+# Total number of rules = 77940
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,9 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||pro-market.net^
+||xyjaewocysv.com^
+||turncdn.com^
 ||frockritequell.com^
 ||sootconform.com^
 ||adsbeard.com^
@@ -16116,7 +16119,6 @@ vkcdnservice.appspot.com^
 ||prmtracking3.com^
 ||prmtracks.com^
 ||pro-advert.de^
-||pro-market.net^
 ||pro-pro-go.com^
 ||pro-web.net^
 ||proadscdn.com^
@@ -29841,6 +29843,9 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||site-azp.slgnt.eu^
+||pra.praxis.nl^
+||tracker.samplicio.us^
 ||visit.xchina.pics^
 ||analytics.bauermedia.sk^
 ||ads-dmp-collect.*.karrotmarket.com^
@@ -31972,6 +31977,7 @@ gcdsdk.appsflyersdk.com^
 -launches.appsflyersdk.com^
 cdn-settings.appsflyersdk.com^
 ||cdn-settings.appsflyersdk.com^
+dlsdk.appsflyer.com^
 inapps.appsflyersdk.com^
 ||launches.appsflyersdk.com^
 ||mtrace.qq.com^
@@ -31992,6 +31998,7 @@ inapps.appsflyersdk.com^
 ||int.vaicore.store^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||events-api.soundcloud.com^
 ||biddingmax.apse.trk.rixserv.com^
 ||profiler-collector.wshareit.com^
 ||receiver-metis.infeng.site^
@@ -39951,6 +39958,7 @@ inapps.appsflyersdk.com^
 ||achmetsdoenerladen.de^
 ||alleswegenmicha.de^
 ||aluhutmafia.de^
+||bd742.com^
 ||dierussensindschuld.de^
 ||wirverkaufennichts.de^
 ||4adtf.com.^
@@ -40146,6 +40154,7 @@ inapps.appsflyersdk.com^
 ||payclick.it^
 ||performance-netzwerk.de^
 ||planetactive.com^
+||playamedia.com^
 ||popup-rotation.de^
 ||pornoprinzen.com^
 ||ppac.de^
@@ -41830,9 +41839,12 @@ inapps.appsflyersdk.com^
 ||zigzag.vn^
 ||1136999.com^
 ||230579.top^
+||39nw.com^
+||52qd.club^
 ||9itan.cc^
 ||aaaaa599.com^
 ||aaaaa663.com^
+||aaaaa699.com^
 ||aaaaa855.com^
 ||aamv.vip^
 ||akdhiahcjojdkck.com^
@@ -41845,10 +41857,12 @@ inapps.appsflyersdk.com^
 ||campu.ltd^
 ||ccohayo.xyz^
 ||cdcc3.com^
+||cnmmcjn.cn^
 ||codeice.xyz^
 ||dcdf4.com^
 ||ej65.xyz^
 ||enahmy.xyz^
+||excfig.xyz^
 ||feild.xyz^
 ||fijipic.xyz^
 ||flyinsky2009.ltd^
@@ -41868,6 +41882,7 @@ inapps.appsflyersdk.com^
 ||iepda.xyz^
 ||ijnuhb.top^
 ||itoken.pro^
+||jeedi.xyz^
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jiuba20230320.live^
@@ -41881,6 +41896,7 @@ inapps.appsflyersdk.com^
 ||lianxi.link^
 ||lxbbs.fun^
 ||mindopu.com^
+||nqyz.tw^
 ||nurahf.xyz^
 ||ojuhwc.xyz^
 ||otwiss.xyz^
@@ -41895,9 +41911,11 @@ inapps.appsflyersdk.com^
 ||rtjmln.xyz^
 ||sh6ss7.top^
 ||smailes.pro^
+||tc911.vip^
 ||tianma704.ltd^
 ||tmochyf.cn^
 ||uqymady.cn^
+||vel7.xyz^
 ||vnlqcod.cn^
 ||vorluic.cn^
 ||vujhaib.cn^
@@ -41907,27 +41925,18 @@ inapps.appsflyersdk.com^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xingyang.in^
+||xlxknf.xyz^
 ||xunjie.fun^
 ||yankuoyyds.com^
 ||yfohgo.xyz^
+||yingce.asia^
+||yingnanyyds.com^
 ||yulingaa.xyz^
 ||zbvchabjbcj.com^
 ||zdkdwk.buzz^
 ||zdlnhv.xyz^
 ||zjqs.shop^
 ||znnodl.xyz^
-||xlxknf.xyz^
-||cnmmcjn.cn^
-||yingnanyyds.com^
-||excfig.xyz^
-||jeedi.xyz^
-||yingce.asia^
-||52qd.club^
-||39nw.com^
-||vel7.xyz^
-||nqyz.tw^
-||tc911.vip^
-||aaaaa699.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -50458,7 +50467,6 @@ analytics-*.aasaam.com
 ||report.salmonads.com^
 ||sam4m.com^
 ||samba.tv^
-||tracker.samplicio.us^
 ||insights.samsung.com^
 ||ak-ns.sascdn.com^
 ||mobileconfig.sascdn.com^
