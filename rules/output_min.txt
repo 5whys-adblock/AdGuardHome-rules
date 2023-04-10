@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304101733
+# Verison: 202304102050
 # Expires: around 1 day
-# Total number of rules = 77933
+# Total number of rules = 77932
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -25329,7 +25329,6 @@ vkcdnservice.appspot.com^
 ||log.qvb.qcloud.com^
 ||log.tpns.gz2.tencent.com^
 ||trace.zhiyan.tencent-cloud.net^
-||norma-external-collect.meizu.com^
 ||log.iflytek.com^
 ||log.voicecloud.cn^
 ||adxlog-adnet.vivo.com.cn^
@@ -29814,15 +29813,6 @@ vkcdnservice.appspot.com^
 ||ws-goguardian.pusher.com^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
-||sp1.baidu.com^
-||sp2.baidu.com^
-||sp3.baidu.com^
-||als.baidu.com^
-||afd.baidu.com^
-||wkctj.baidu.com^
-||jpaasne.e.shifen.com^
-||caclick.baidu.com^
-||wkclick.baidu.com^
 ||keyade.net^
 ||keyade.com^
 ||storetail.io^
@@ -31864,6 +31854,15 @@ vkcdnservice.appspot.com^
 ||zion-telemetry.api.cnn.io^
 ||zion.qbo.intuit.com^
 charlestownwyllie.oaklawnnonantum.com^
+||sp1.baidu.com^
+||sp2.baidu.com^
+||sp3.baidu.com^
+||als.baidu.com^
+||afd.baidu.com^
+||wkctj.baidu.com^
+||jpaasne.e.shifen.com^
+||caclick.baidu.com^
+||wkclick.baidu.com^
 ||frontier.musical.ly^
 ||log.musical.ly^
 ||log2.musical.ly^
@@ -33691,6 +33690,7 @@ inapps.appsflyersdk.com^
 ||earthquakeend.com^
 ||encourageshock.com^
 ||encouragingvase.com^
+||engineertrick.com^
 ||enormousearth.com^
 ||enthusiasticring.com^
 ||faintflag.com^
@@ -41344,10 +41344,6 @@ inapps.appsflyersdk.com^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
-||zpsocial-f50-org.zadn.vn^
-||zpsocial-f51-org.zadn.vn^
-||zpsocial-f52-org.zadn.vn^
-||zpsocial-f53-org.zadn.vn^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
 ||12signup.com^
@@ -41929,6 +41925,9 @@ inapps.appsflyersdk.com^
 ||52qd.club^
 ||39nw.com^
 ||vel7.xyz^
+||nqyz.tw^
+||tc911.vip^
+||aaaaa699.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -50823,7 +50822,6 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||nqyz.tw^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -70139,6 +70137,7 @@ analytics-*.aasaam.com
 ||dc.meitustat.com^
 ||mdc.meitustat.com^
 ||rabbit.meitustat.com^
+||norma-external-collect.meizu.com^
 ||aider-res.meizu.com^
 ||api-flow.meizu.com^
 ||api-push.meizu.com^
