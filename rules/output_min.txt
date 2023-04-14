@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304141733
+# Verison: 202304142050
 # Expires: around 1 day
-# Total number of rules = 78307
+# Total number of rules = 78312
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,8 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||ubsjyqfek.com^
+||kipeir.com^
 ||ovyondkggnqhmt.xyz^
 ||muddychronicstuffed.com^
 ||dating-roo3.site^
@@ -2934,6 +2936,7 @@ vkcdnservice.appspot.com^
 ||adsyst.biz^
 ||adt328.com^
 ||adt545.net^
+||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
 ||adtaily.com^
@@ -25054,6 +25057,7 @@ vkcdnservice.appspot.com^
 ||qist.me^
 ||ads-gdl.imovideo.ru^
 ||ads.imovideo.ru^
+||adsbynimbus.com^
 ||ads-interfaces.sc-cdn.net^
 ||adsapi.snapchat.com^
 ||adx-dre.op.hicloud.com^
@@ -30137,6 +30141,8 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
 ||lake.joongang.co.kr^
 ||dsas.danawa.com^
 ||t.apkpure.net^
@@ -39658,6 +39664,7 @@ inapps.appsflyersdk.com^
 ||mystighty.info^
 ||i4tvy8vk9f74.com^
 ||mineralisasse.site^
+||smart-c.jp^
 ||yeetsalear.com^
 ||jpshopes.com^
 ||safemy-ios.com^
@@ -42297,6 +42304,9 @@ inapps.appsflyersdk.com^
 ||zoushao.xyz^
 ||wvwl.cn^
 ||92ph.cn^
+||uwhreur.cn^
+||sozrrkx.xyz^
+||uqelxct.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -49672,7 +49682,6 @@ analytics-*.aasaam.com
 ||adpxl.co^
 ||ads1-adnow.com^
 ||ads2-adnow.com^
-||adsbynimbus.com^
 ||filteradkernel.adsimilate.com^
 ||xml1.adsimilate.com^
 ||atr.adsmovil.com^
@@ -51188,9 +51197,6 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||uwhreur.cn^
-||sozrrkx.xyz^
-||uqelxct.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -51384,7 +51390,6 @@ analytics-*.aasaam.com
 .728x90.
 .900x100.
 ||2mdn.net^
-||adt598.com^
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
