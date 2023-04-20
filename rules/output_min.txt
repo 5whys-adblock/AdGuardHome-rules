@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304201732
+# Verison: 202304202050
 # Expires: around 1 day
-# Total number of rules = 79136
+# Total number of rules = 79139
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||ctsdwm.com^
 ||whoodseb.com^
 ||fbmedia-dhs.com^
 ||forjoiyvidspics.online^
@@ -30841,6 +30842,8 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||sgtm.handyhuellen.de^
+||measure.chase.com^
 ||btrace.qq.com^
 ||l.francetvinfo.fr^
 ||counter.any.run^
@@ -33962,7 +33965,6 @@ inapps.appsflyersdk.com^
 ||hscta.net^
 ||humanpresence.app^
 ||iaudienc.com^
-||icanhazip.com^
 ||ifvox.com^
 ||impression.link^
 ||imtwjwoasak.com^
@@ -43127,6 +43129,8 @@ inapps.appsflyersdk.com^
 ||adbtwyxl96.fun^
 ||hzoijcm.cn^
 ||shangyuan.ltd^
+||skluff.com^
+||fthqzxq.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -52017,7 +52021,6 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||skluff.com^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
