@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304241734
+# Verison: 202304242052
 # Expires: around 1 day
-# Total number of rules = 77082
+# Total number of rules = 77087
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||bh-dm.com^
 ||adrino.cloud^
 ||ncraxcvibg.com^
 ||ophoacit.com^
@@ -31046,6 +31047,8 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||w3-reporting.reddit.com^
+||w3-reporting-nel.reddit.com^
 ||sgtm.handyhuellen.de^
 ||measure.chase.com^
 ||btrace.qq.com^
@@ -43412,6 +43415,9 @@ inapps.appsflyersdk.com^
 ||rizgtf.xyz^
 ||uzuarlv.cn^
 ||xueyugaoyuan.xyz^
+||mem3.cn^
+||kprjva.cn^
+||awdc6.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -52308,7 +52314,7 @@ analytics-*.aasaam.com
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||mem3.cn^
+||cge.cc^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -53239,7 +53245,6 @@ analytics-*.aasaam.com
 ||views.arabnews.com^
 ||visit.theglobeandmail.com^
 ||visitors.sourcingmap.com^
-||w3-reporting.reddit.com^
 ||wa.gmx.co.uk^
 ||wal.wolfram.com^
 ||wblt.oui.sncf^
