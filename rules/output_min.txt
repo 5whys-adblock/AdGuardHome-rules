@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304250949
+# Verison: 202304251133
 # Expires: around 1 day
-# Total number of rules = 77136
+# Total number of rules = 77141
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -52364,6 +52364,8 @@ analytics-*.aasaam.com
 ||log-collector.svctr.zynga.com^
 ||cfxkluv.cn^
 ||wyynike.cn^
+||mc3369.xyz^
+||mdqhyxe.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -52948,6 +52950,7 @@ analytics-*.aasaam.com
 ||captcha-display.com^
 ||cxense.com^
 ||googletagmanager.com^
+||mediaxpv.com^
 ||tw.cx^
 ||zdbb.net^
 ||zenaps.com^
@@ -53015,7 +53018,7 @@ analytics-*.aasaam.com
 ||analytics.synedat.com^
 ||analytics.wavebox.io^
 ||analytics.yugen.to^
-||analytics2.dashboard.fingerprint.com^
+||analytics4.dashboard.fingerprint.com^
 ||appanalysis.banggood.com^
 ||assets.instacart.com^
 ||atrack.allposters.com^
@@ -53100,8 +53103,7 @@ analytics-*.aasaam.com
 ||fpa-cdn.arstechnica.com^
 ||fpa-cdn.decrypt.co^
 ||fpa-events.decrypt.co^
-||fpa.fingerprint.com^
-||fpb.fingerprint.com^
+||fpc.fingerprint.com^
 ||fpt.microsoft.com^
 ||fresnel-events.vimeocdn.com^
 ||g.ign.com^
@@ -67730,6 +67732,9 @@ analytics-*.aasaam.com
 ||findqc.com^
 ||finead.cn^
 ||finger-info.net^
+||analytics2.dashboard.fingerprint.com^
+||fpa.fingerprint.com^
+||fpb.fingerprint.com^
 ||e.fipipo.cn^
 ||m.fipipo.cn^
 ||firefang.cn^
