@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304251733
+# Verison: 202304252053
 # Expires: around 1 day
-# Total number of rules = 77145
+# Total number of rules = 77147
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,8 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||watchtopapps.com^
+||notdyedfinance.com^
 ||paigna.com^
 ||sooreejy.xyz^
 ||bh-dm.com^
@@ -1369,6 +1371,8 @@
 ||d6swopgiplmy0.cloudfront.net^
 ||gjc.gjirafa.com^
 ||code.ainsyndication.com^
+||traffic.styria.hr^
+||widget.admiral.hr^
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||subs.vingd.com^
 ||banner.mob.hr^
@@ -15018,7 +15022,6 @@ vkcdnservice.appspot.com^
 ||notadsworld.com^
 ||notchcollectormuffin.com^
 ||notcotal.com^
-||notdyedfinance.com^
 ||notesbook.in^
 ||nothingpetwring.com^
 ||nothycantyo.com^
@@ -73079,7 +73082,6 @@ analytics-*.aasaam.com
 ||stuowq.cn^
 ||styld-by.com^
 ||ds-recommender.styria.hr^
-||traffic.styria.hr^
 ||o.su9orw.cn^
 ||subloader.cf^
 ||ss.subo.me^
