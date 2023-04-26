@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304261733
+# Verison: 202304262053
 # Expires: around 1 day
-# Total number of rules = 77199
+# Total number of rules = 77200
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -1220,6 +1220,7 @@
 ||d71e6dd31a026d45.com
 ||adrunnr.com^
 ||samsungtvads.com^
+||banners.defenceweb.co.za^
 ||smart-placements-sdk.ex.co^
 ||adtech-prod.nikecloud.com^
 ||newrevive.detik.com^
@@ -11145,7 +11146,6 @@ vkcdnservice.appspot.com^
 ||hb-247.com^
 ||hbfqcy.com^
 ||hbfulzie.life^
-||hboav.com^
 ||hcritiesec.xyz^
 ||hcuukwgpjiykapf.xyz^
 ||hd100546c.com^
@@ -26608,6 +26608,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||widget.sparrow.ru^
 ||medipartner.jp^
 ||tr.usergram.info^
 ||code.usergram.info^
@@ -27127,7 +27128,7 @@ vkcdnservice.appspot.com^
 ||kissmetrics.io^
 ||sanity-dataplane.rudderstack.com^
 ||c1.politexpert.ru^
-||logrocket.com^
+||cdn.logrocket.com^
 ||ipmeta.io^
 ||datasign.co^
 ||analytics.daasrv.net^
@@ -32981,7 +32982,6 @@ vkcdnservice.appspot.com^
 ||tracker.cdnbye.com^
 ||tracker.cpapath.com^
 ||tracker.downdetector.com^
-||tracker.files.fm^
 ||tracker.giftd.ru^
 ||tracker.joongang.co.kr^
 ||tracker.joost.com^
@@ -34285,6 +34285,7 @@ inapps.appsflyersdk.com^
 ||itrac.it^
 ||itracker360.com^
 ||itracmediav4.com^
+||izatcloud.net^
 ||janrain.xyz^
 ||journera.com^
 ||journity.com^
@@ -36770,6 +36771,8 @@ inapps.appsflyersdk.com^
 ||ver-pelis.net^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||coml.be^
+||news-molixo.cc^
 ||s2517.com^
 ||bvbypswhds.com^
 ||ads.digitalcaramel.com^
@@ -37868,8 +37871,6 @@ inapps.appsflyersdk.com^
 ://gj7.ru^
 ://jhf.ru^
 ://kma.biz^
-||octopusads.net^
-||us6odtasve.ru^
 ||0427d7.se^
 ||0483bm4mlow8.xyz^
 ||0816bvh.ru^
@@ -41014,6 +41015,7 @@ inapps.appsflyersdk.com^
 ||azol.de^
 ||twiago.com^
 ||bauernative.com^
+||ad.zui.com^
 ||pnez8.rut6m.xyz^
 ||eq.af31f.site^
 ||ra1.xyz^
@@ -50818,7 +50820,6 @@ analytics-*.aasaam.com
 @@||feed.adrelayer.com^|
 @@||redirect.appmetrica.yandex.com^|
 @@||guce.advertising.com^|
-@@||blog.logrocket.com^|
 @@||a.adwolf.ru^|
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|
@@ -52492,7 +52493,6 @@ analytics-*.aasaam.com
 -footerads.
 -housead-
 -iframe-ad.
--image-ad.
 -layer-ad.
 -leaderboard-ad-
 -load-ads.
@@ -68498,6 +68498,7 @@ analytics-*.aasaam.com
 ||k.hbfls.vip^
 ||ssh.hbhtbn.com^
 ||hblinwei.com^
+||hboav.com^
 ||j.hbwcl.com^
 ||hbyinzhibao.cn^
 ||ijdl.hbyongwan.cn^
