@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304281134
+# Verison: 202304281436
 # Expires: around 1 day
-# Total number of rules = 83509
+# Total number of rules = 83511
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,8 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||jourohun.xyz^
+||qkepevhlton.xyz^
 ||pigogfrapcto.com^
 ||shydastidu.com^
 ||watchtopapps.com^
@@ -53112,7 +53114,6 @@ analytics-*.aasaam.com
 ||hostingcloud.racing
 ||wasm.stream
 ||bc.geocities.
-||browser.events.data.microsoft.com^
 ||collect.*.miui.com^
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
@@ -75646,6 +75647,7 @@ analytics-*.aasaam.com
 ||oca.telemetry.microsft.com^
 ||us.vortex-win.data.microsft.com^
 ||v10.vortex-win.data.microsft.com^
+||browser.events.data.microsoft.com^
 ||crl.microsoft.com^
 ||target.microsoft.com^
 ||watson.microsoft.com^
