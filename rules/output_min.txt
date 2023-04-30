@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202304302047
+# Verison: 202304302332
 # Expires: around 1 day
-# Total number of rules = 80642
+# Total number of rules = 80644
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -53298,6 +53298,7 @@ analytics-*.aasaam.com
 ||hostingcloud.party
 ||hostingcloud.racing
 ||wasm.stream
+||analytics-consent-manager-v2-prod.azureedge.net^
 ||bc.geocities.
 ||collect.*.miui.com^
 ||collector-*.px-client.net^
@@ -53619,7 +53620,6 @@ analytics-*.aasaam.com
 ||tracking.shopstyle.com^
 ||trackr.vivenu.com^
 ||trx3.famousfix.com^
-||u989.theweek.com^
 ||um.contentstudio.io^
 ||umami.wakarimasen.moe^
 ||urs.metacritic.com^
@@ -53677,7 +53677,6 @@ analytics-*.aasaam.com
 ||sofa.bankofamerica.com^
 ://a02342.
 ||cb-mms.carbuyer.co.uk^
-||cdn-alliancegravity.s3.amazonaws.com^
 ||cmp.courrierinternational.com^
 ||cmp.finn.no^
 ||cmp.huffingtonpost.fr^
@@ -53690,16 +53689,11 @@ analytics-*.aasaam.com
 ||cmp.tek.no^
 ||cmp.telerama.fr^
 ||d.sourcepoint.capitalfm.com^
-||eurogamer-it.eurogamer.it^
-||eurogamer-pl.eurogamer.pl^
-||eurogamer-pt.eurogamer.pt^
-||mms.wwe.com^
 ||sourcepoint-mms.aetv.com^
 ||sourcepoint-mms.history.com^
 ||sourcepoint-mms.mylifetime.com^
-||twus-mms.theweek.com^
-||usgamer-us.usgamer.net^
 ||vg247-p2.vg247.com^
+||vg247-uk.vg247.com^
 ||piti.bplaced.net^
 ||site.flashx.
 ||primate.dmarcdigests.com^
@@ -69044,6 +69038,7 @@ analytics-*.aasaam.com
 ||amateurporn.net^
 ||aax-eu-dub.amazon.com^
 ||aax-us-iad.amazon.com^
+||cdn-alliancegravity.s3.amazonaws.com^
 ||filamentapp-assets.s3.amazonaws.com^
 ||filamentapp.s3.amazonaws.com^
 ||gdpr-settings.s3.amazonaws.com^
@@ -71138,6 +71133,9 @@ analytics-*.aasaam.com
 ||etzbnfuigipwvs.ru^
 ||eu.cf^
 ||euro4ads.de^
+||eurogamer-it.eurogamer.it^
+||eurogamer-pl.eurogamer.pl^
+||eurogamer-pt.eurogamer.pt^
 ||media.eurolive.com^
 ||evengparme.com^
 ||eventcapture06.com^
@@ -76972,6 +76970,8 @@ analytics-*.aasaam.com
 ||cmp.cdn.thesun.ie^
 ||sourcepoint.thetakeout.com^
 ||thevideo.ch^
+||twus-mms.theweek.com^
+||u989.theweek.com^
 ||comms.thewhiskyexchange.com^
 ||thirdfloor.it^
 ||thli43.cn^
@@ -77449,6 +77449,7 @@ analytics-*.aasaam.com
 ||usercentrics.eu^
 ||userdatatrust.com^
 ||userreport.com^
+||usgamer-us.usgamer.net^
 ||ushaqi.com^
 ||usingde.com^
 ||usn.cc^
@@ -78180,6 +78181,7 @@ analytics-*.aasaam.com
 ||m.wv26d.cn^
 ||wwclicknews.club^
 ||wwclicktm.club^
+||mms.wwe.com^
 ||wyt.wwetjy.com^
 ||www-61677.com^
 ||www-777563.com^
