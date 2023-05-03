@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305031733
+# Verison: 202305032053
 # Expires: around 1 day
-# Total number of rules = 80152
+# Total number of rules = 80157
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -31571,6 +31571,9 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||pixel*.production-public.tubi.io^
+||analytics-ingestion.production-public.tubi.io^
+||uid.mavencoalition.io^
 ||wayfinderanalytics.servicebus.windows.net^
 ||adtima-media.zascdn.me^
 ||px.dmp.zaloapp.com^
@@ -33964,7 +33967,6 @@ inapps.appsflyersdk.com^
 ||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
-||analytics-ingestion.production-public.tubi.io^
 ||pingtas.qq.com^
 ||tenant-content.apm.appfolio-analytics.com^
 ||log.avlyun.com^
@@ -40668,6 +40670,7 @@ inapps.appsflyersdk.com^
 ||vt4dlx.ru^
 ||xifg6h.ru^
 ||zfvklk.ru^
+||placeholder.treeum.net^
 ||ex.newsland.com^
 ||smi.today^
 ||dw-informer-*.newsru.com^
@@ -42334,6 +42337,7 @@ inapps.appsflyersdk.com^
 ||openx.gamereactor.dk^
 ||openx.jaktsidan.se^
 ||optnmnstr.com^
+||owa.agriprim.se^
 ||p.insplanet.com^
 ||palmangelssverige.com.se^
 ||patagonias.com.se^
@@ -44080,6 +44084,8 @@ inapps.appsflyersdk.com^
 ||13niao20230422.live^
 ||kzjkexn.cn^
 ||acbe.club^
+||chenyuzhou1.cn^
+||9wsbf.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -52190,7 +52196,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||chenyuzhou1.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
