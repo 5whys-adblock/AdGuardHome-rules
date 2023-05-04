@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305040948
+# Verison: 202305041132
 # Expires: around 1 day
-# Total number of rules = 80184
+# Total number of rules = 80235
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -52220,6 +52220,9 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||ifeurcw.cn^
+||nsfdsa.xyz^
+||fangguanjia.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -52411,35 +52414,82 @@ analytics-*.aasaam.com
 .728x90-
 .728x90.
 .900x100.
+||18tlm4jee.de^
 ||2mdn.net^
+||5f450dbe81.com^
 ||alipromo.com^
 ||alitems.com^
+||allowbecome.com^
 ||altruisticcost.com
 ||atdmt.com^
+||atholicncesispe.info^
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||bailifftoddle.com^
+||bletheequus.com^
+||buckonealodies.com^
 ||burlydeclined.com
 ||buyeasy.by^
 ||cautiotumfie.com^
+||cloisteroutdooragitate.com^
+||d8b805b9a9.com^
+||deductionkeepingbabysitter.com^
+||depositnostrilverge.com^
+||dumbacademyradiation.com^
+||eighly.com^
+||estatestitch.com^
 ||evgywgur.com
+||fd3c1905b8.com^
 ||foresawmartins.com^
+||gazhsyxtfyo.com^
 ||get-me-wow.
 ||gleameddelightprosperity.com
 ||googletagservices.com^
+||hahscalusar.guru^
+||handlegoatsperiod.com^
+||haunchbelongings.com^
 ||hsrvz.com
+||iihcjcil.com^
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||inspirecarriermagnetic.com^
+||jjqyqakarveb.com^
+||keroajum.xyz^
 ||kqzyfj.com^
+||legnaush.com^
 ||lithelytwick.com^
 ||loadercdn.com^
+||lzqkofsfbympt.com^
+||monarchracistsparkle.com^
 ||ntv.io^
+||otjoxpacgak.com^
+||overheatusa.com^
+||peculiarityrevengeinternet.com^
+||perpetratoralienglory.com^
+||princessallotgather.com^
+||qualifycleaveinduced.com^
+||qusfmaxgfa.xyz^
+||redecayspoach.life^
 ||requismucuta.com
+||rgwmkceugrafjvm.com^
 ||rubiconproject.com^
+||rzawugotwc.com^
+||semicircleanalyzerequire.com^
+||shakesanitaryaffairs.com^
 ||skepcaranx.com^
+||snipersex.com^
+||suddunifies.com^
+||swansinksnow.com^
+||thiraq.com^
+||tlysearchingforanopt.info^
+||toxlwqpmredd.com^
 ||trust.zone^
 ||unhaveabobra.com^
+||verifiable-shoot.pro^
 ||weighertutania.com^
+||westslendersolitary.com^
+||yygszlgor.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -52800,6 +52850,7 @@ analytics-*.aasaam.com
 -coin-hive.js
 -monero-miner-
 -logabpstatus.
+||alpha1trk.com^
 ||captcha-display.com^
 ||cxense.com^
 ||googletagmanager.com^
