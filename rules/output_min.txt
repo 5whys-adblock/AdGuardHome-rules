@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305061734
+# Verison: 202305062048
 # Expires: around 1 day
-# Total number of rules = 80532
+# Total number of rules = 80539
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -31873,6 +31873,13 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||track.buzzerilla.com^
+||track.historictalk.com^
+||track.juststarz.com^
+||track.kueez.com^
+||track.parentmood.com^
+||track.shrinkplus.com^
+||track.thefunpost.com^
 -tracker.biliapi.net^
 ||pixel*.production-public.tubi.io^
 ||analytics-ingestion.production-public.tubi.io^
@@ -44436,6 +44443,9 @@ inapps.appsflyersdk.com^
 ||gwide.xyz^
 ||bjcpjab.cn^
 ||lwh147.xyz^
+||jxncs1.com^
+||adcd7.com^
+||47zoz.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -52522,8 +52532,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||jxncs1.com^
-||adcd7.com^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -53424,7 +53432,6 @@ analytics-*.aasaam.com
 ||touch.myntra.com^
 ||tr.clickstay.com^
 ||track-visit.monday.com^
-||track.kueez.com^
 ||track.mrgugu.com^
 ||tracker.affiliate.iqbroker.com^
 ||tracking.engineering.cloud.seek.com.au^
