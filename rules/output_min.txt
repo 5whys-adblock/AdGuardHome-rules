@@ -1,5 +1,5 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305060945
+# Verison: 202305061133
 # Expires: around 1 day
 # Total number of rules = 80528
 # Below are the links of the adblock rules
@@ -52728,8 +52728,10 @@ analytics-*.aasaam.com
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
+||recheatputs.com^
 ||requismucuta.com
 ||rubiconproject.com^
+||spacetraveldin.com^
 ||tracker19875.space
 ||trust.zone^
 /(https?:\/\/)104\.154\..{100,}/
@@ -53039,8 +53041,6 @@ analytics-*.aasaam.com
 -didomi.js
 -dspcookiematching.
 -event-tracking.
--fb-pixel-
--ga-track.
 -ga-tracker.
 -gatracker.
 -geoIP.js
@@ -53054,7 +53054,6 @@ analytics-*.aasaam.com
 -realtime-logging-
 -rttracking.
 -sa-tracker-
--sc-analytics.
 -scroll-tracker.js
 -track-inview.
 -tracker-geoip.
@@ -53115,6 +53114,7 @@ analytics-*.aasaam.com
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||monitor.azure.com^
+||rw.marchex.io^
 ||sonar.viously.com^
 ||tag.aticdn.net^
 ||targeting.*.arcpublishing.com^
