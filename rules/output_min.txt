@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305101734
+# Verison: 202305102053
 # Expires: around 1 day
-# Total number of rules = 80689
+# Total number of rules = 80696
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||bepqevudfoha.com^
 ||voadeezu.net^
 ||v.scurra.space^
 ||usefulpush.com^
@@ -32013,6 +32014,8 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||rum-metrics.bunny.net^
+||analytics.ravanallc.com^
 ||track.buzzerilla.com^
 ||track.historictalk.com^
 ||track.juststarz.com^
@@ -41135,6 +41138,8 @@ inapps.appsflyersdk.com^
 ||vt4dlx.ru^
 ||xifg6h.ru^
 ||zfvklk.ru^
+||oba.rus-km.ru^
+||dab.rus-km.ru^
 ||placeholder.treeum.net^
 ||ex.newsland.com^
 ||smi.today^
@@ -44633,6 +44638,7 @@ inapps.appsflyersdk.com^
 ||kcieo.xyz^
 ||chenyt.club^
 ||hbbxwan.cn^
+||nogff.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -51240,6 +51246,7 @@ analytics-*.aasaam.com
 ||letysheeps.ru^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@||clickattr.wayup.com^|
 @@||chathamdailynews.remembering.ca^|
 @@||catchup.thisisdax.com^|
 @@||px.a8.net^|
