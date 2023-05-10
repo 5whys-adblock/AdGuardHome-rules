@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305110239
+# Verison: 202305110534
 # Expires: around 1 day
-# Total number of rules = 80728
+# Total number of rules = 80727
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -70375,8 +70375,6 @@ analytics-*.aasaam.com
 ||coin-hive.com^
 ||coin-service.com^
 ||coin-services.info^
-||dp.coinbase.com^
-||events-service.coinbase.com^
 ||coiner.site^
 ||coingive.com^
 ||coinhive-manager.com^
@@ -71587,6 +71585,7 @@ analytics-*.aasaam.com
 ||m.fzyda.com^
 ||g--o.info^
 ||g-content.bi^
+||g-content.bid^
 ||xyoss.g.com.cn^
 ||g17media.com^
 ||m.g1ao7q.cn^
@@ -74916,7 +74915,7 @@ analytics-*.aasaam.com
 ||oneapm.com^
 ||onelink.me^
 ||mo.oneshouyou.cn^
-||onesignal.com^
+||cdn.onesignal.com^
 ||onesoft.im^
 ||onetad.com^
 ||onetrust.com^
