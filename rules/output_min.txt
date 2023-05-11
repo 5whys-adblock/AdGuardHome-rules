@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305112051
+# Verison: 202305112333
 # Expires: around 1 day
-# Total number of rules = 80753
+# Total number of rules = 80764
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -52781,6 +52781,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||djahkee.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -52973,6 +52974,7 @@ analytics-*.aasaam.com
 .728x90.
 .900x100.
 ||2mdn.net^
+||accids.com^
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
@@ -52980,23 +52982,31 @@ analytics-*.aasaam.com
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
+||boxlikepavers.com^
 ||burlydeclined.com
 ||buyeasy.by^
 ||evgywgur.com
+||fiercequips.com^
 ||get-me-wow.
 ||gleameddelightprosperity.com
 ||googletagservices.com^
+||goralogplumach.com^
 ||hsrvz.com
 ||hwyjfhdjgoorb.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
 ||kqzyfj.com^
 ||loadercdn.com^
+||luxusbowboy.com^
 ||ntv.io^
 ||requismucuta.com
 ||rubiconproject.com^
+||shaledpaidle.com^
 ||tracker19875.space
 ||trust.zone^
+||unburstballist.com^
+||welchdecrier.com^
+||zaumaico.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -53017,6 +53027,7 @@ analytics-*.aasaam.com
 ||ohmygosh.info^
 ||watchmyvids.xyz^
 ||cas.*.criteo.com^
+||d1lnjzqqshwcwg.cloudfront.net^
 ||a.adult-videos.org^
 ||aff-jp.dxlive.com^
 ||affiliate.dtiserv.com^
