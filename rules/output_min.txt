@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305142048
+# Verison: 202305142333
 # Expires: around 1 day
-# Total number of rules = 80851
+# Total number of rules = 80863
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -52877,6 +52877,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||stbdepjb.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -53069,6 +53070,8 @@ analytics-*.aasaam.com
 .728x90.
 .900x100.
 ||2mdn.net^
+||agency2.ru^
+||alfasense.com^
 ||alipromo.com^
 ||alitems.com^
 ||altruisticcost.com
@@ -53078,6 +53081,8 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||burlydeclined.com
 ||buyeasy.by^
+||datemeup.top^
+||ds3.biz^
 ||evgywgur.com
 ||get-me-wow.
 ||gleameddelightprosperity.com
@@ -53088,11 +53093,14 @@ analytics-*.aasaam.com
 ||impact-ad.jp^
 ||kqzyfj.com^
 ||loadercdn.com^
+||new-programmatic.com^
 ||ntv.io^
 ||requismucuta.com
 ||rubiconproject.com^
+||spicygirlshere.life^
 ||tracker19875.space
 ||trust.zone^
+||wideeyedsink.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -53470,12 +53478,14 @@ analytics-*.aasaam.com
 ||bc.geocities.
 ||collect.*.miui.com^
 ||collector-*.px-client.net^
+||collector.appconsent.io^
 ||csi.gstatic.com^
 ||firebaselogging-pa.googleapis.com^
 ||g.msn.com^
 ||geo.ngtv.io^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||metrics.doppiocdn.com^
 ||monitor.azure.com^
 ||sonar.viously.com^
 ||tag.aticdn.net^
@@ -53489,6 +53499,7 @@ analytics-*.aasaam.com
 ||aff*.kolektiva.net^
 -logging.nextmedia.com^
 ||stats2.*.fdnames.com^
+||stats.gridmidia.com.br^
 ||stats-*.p2pnow.ru^
 ||tms-st.cdn.ngenix.net^
 ||tracker.comagic.ru^
@@ -67065,11 +67076,13 @@ analytics-*.aasaam.com
 ||statistics.csob.cz^
 ||analytics.rambla.be^
 ||bc34.wijnvoordeel.nl^
+||c.vrt.be^
 ||ds2.independer.nl^
 ||log.rabobank.nl^
 ||logs.ggweb.nl^
 ||metrics.nu.nl^
 ||stats.fd.nl^
+||t.vrt.be^
 ||topspin.npo.nl^
 ||tracking.voordeeluitjes.nl^
 ||txrx.bol.com^
@@ -69285,7 +69298,6 @@ analytics-*.aasaam.com
 ||appadhoc.net^
 ||appboy.eu^
 ||appbrain.com^
-||collector.appconsent.io^
 ||appcpa.co^
 ||appcpa.net^
 ||appcpi.net^
