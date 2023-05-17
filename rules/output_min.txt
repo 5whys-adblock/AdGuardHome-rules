@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305171133
+# Verison: 202305171435
 # Expires: around 1 day
-# Total number of rules = 81027
+# Total number of rules = 81023
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32233,6 +32233,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||metrics.onewegg.com^
 ||stat.gc.my.games^
 ||1l-hit.vkplay.ru^
 ||1l-view.my.games^
@@ -34383,6 +34384,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.setting.intl.miui.com^
 ||data.sec.intl.miui.com^
 ||log.avlyun.sec.intl.miui.com^
+||tracking.*.miui.com^
 ||metok.sys.miui.com^
 ||mazu.sec.miui.com^
 ||auth.be.sec.miui.com^
@@ -34958,7 +34960,6 @@ inapps.appsflyersdk.com^
 ||fpapi.io^
 ||fpaux.net^
 ||fpavx.net^
-||fpaxu.net^
 ||fpcdn.io^
 ||fptls.com^
 ||fptls2.com^
@@ -35407,7 +35408,6 @@ inapps.appsflyersdk.com^
 ||havasedge.com^
 ||hbwrapper.com^
 ||heatmap.services^
-||heyhelga.net^
 ||heylink.com^
 ||hif.to^
 ||hira-meki.jp^
@@ -35673,7 +35673,6 @@ inapps.appsflyersdk.com^
 ||seon.io^
 ||seondnsresolve.com^
 ||serv-ac.com^
-||sessions.exchange^
 ||sessionstack.com^
 ||sharedid.org^
 ||shoelace.com^
@@ -35809,7 +35808,6 @@ inapps.appsflyersdk.com^
 ||verbolia.com^
 ||vercel-analytics.com^
 ||vilynx.com^
-||viraltrackings.com^
 ||virgul.com^
 ||visionarycompany52.com^
 ||visionsage.com^
@@ -35924,7 +35922,6 @@ inapps.appsflyersdk.com^
 ||pushalert.co^
 ||pushbird.com^
 ||pushengage.com^
-||pushex.io^
 ||pushible.com^
 ||pushify.com^
 ||pushmaster-cdn.xyz^
@@ -36448,7 +36445,6 @@ inapps.appsflyersdk.com^
 ||analytics.groupe-seb.com^
 ||analytics.gvim.mobi^
 ||analytics.humanautomation.ai^
-||analytics.inform.com^
 ||analytics.kapost.com^
 ||analytics.live.com^
 ||analytics.maikel.pro^
@@ -36542,7 +36538,6 @@ inapps.appsflyersdk.com^
 ||carl.pubsvs.com^
 ||caspionlog.appspot.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
-||ccpa.psg.nexstardigital.net^
 ||cdn-channels-pixel.ex.co^
 ||cdn.trafficexchangelist.com^
 ||cf.overblog.com^
@@ -36568,7 +36563,6 @@ inapps.appsflyersdk.com^
 ||cod.bitrec.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
-||collect.*.miui.com^
 ||collect.alphastream.io^
 ||collect.cloudsponge.com^
 ||collect.iteam-dress.com^
@@ -36619,7 +36613,6 @@ inapps.appsflyersdk.com^
 ||curated.fieldtest.cc^
 ||customfingerprints.bablosoft.com^
 ||d2wa5sea6guof0.cloudfront.net^
-||data.alexa.com^
 ||data.circulate.com^
 ||data.imakenews.com^
 ||data.nexxt.com^
@@ -36750,7 +36743,6 @@ inapps.appsflyersdk.com^
 ||log.kibboko.com^
 ||log.nordot.jp^
 ||log.seekda.com^
-||logging.cmp-resources.link^
 ||logging.je-apps.com^
 ||loggingapi.spingo.com^
 ||loglady.skypicker.com^
@@ -36771,7 +36763,6 @@ inapps.appsflyersdk.com^
 ||metrics.kmsmep.com^
 ||metrics.mdstrm.com^
 ||metrics.onshape.com^
-||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
 ||mlweb.dmlab.hu^
@@ -36801,7 +36792,6 @@ inapps.appsflyersdk.com^
 ||pap.qualityunit.com^
 ||pegasus.unifygroup.com^
 ||perso.aws.arc.pub^
-||ping-dot-acp-magento.appspot.com^
 ||ping.dozuki.com^
 ||ping.instantsearchplus.com^
 ||pings.vidpulse.com^
@@ -36825,7 +36815,6 @@ inapps.appsflyersdk.com^
 ||pm.boostintegrated.com^
 ||porpoise.azettl.net^
 ||pr.blogflux.com^
-||prd-collector-auth.playbuzz.com^
 ||prf.vagnt.com^
 ||privacy.outdoorsg.com^
 ||processor.asccommunications.com^
@@ -36850,7 +36839,6 @@ inapps.appsflyersdk.com^
 ||reports-api.sqreen.io^
 ||reports.pagesuite-professional.co.uk^
 ||reports.sdiapi.com^
-||response.pure360.com^
 ||rest.wildstar-online.com^
 ||rs.sinajs.cn^
 ||rtc.multiscreensite.com^
@@ -36858,7 +36846,6 @@ inapps.appsflyersdk.com^
 ||rum.azioncdn.net^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
-||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
 ||rw.marchex.io^
 ||s.logsss.com^
@@ -36923,7 +36910,6 @@ inapps.appsflyersdk.com^
 ||statsadv.dadapro.com^
 ||statsapi.screen9.com^
 ||statscollector-1.agora.io^
-||statsd.zmags.com^
 ||statt-collect.herokuapp.com^
 ||sunlightmetrics.b-cdn.net^
 ||survey.interquest.com^
@@ -36957,7 +36943,6 @@ inapps.appsflyersdk.com^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tagtracking.vibescm.com^
-||targeting.*.arcpublishing.com^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
 ||telemetry.tableausoftware.com^
@@ -36993,11 +36978,8 @@ inapps.appsflyersdk.com^
 ||track.untd.com^
 ||track.venatusmedia.com^
 ||track.vscash.com^
-||track.wayin.com^
 ||track.yfret.com^
-||tracker.affiliate.iqoption.com^
 ||tracker.beezup.com^
-||tracker.data-vp.com^
 ||tracker.financialcontent.com^
 ||tracker.icerocket.com^
 ||tracker.jkstremum.xyz^
@@ -37014,7 +36996,6 @@ inapps.appsflyersdk.com^
 ||tracker.wpserveur.net^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^
-||tracking.*.miui.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
 ||tracking.americaneagle.com^
@@ -37022,7 +37003,6 @@ inapps.appsflyersdk.com^
 ||tracking.brandmentions.com^
 ||tracking.buygoods.com^
 ||tracking.chilipiper.com^
-||tracking.customerly.io^
 ||tracking.drsfostersmith.com^
 ||tracking.drum.io^
 ||tracking.edvisors.com^
@@ -37034,7 +37014,6 @@ inapps.appsflyersdk.com^
 ||tracking.interweave.com^
 ||tracking.jotform.com^
 ||tracking.leadlander.com^
-||tracking.legacyoffers.com^
 ||tracking.listhub.net^
 ||tracking.livingsocial.com^
 ||tracking.pacharge.com^
@@ -37063,7 +37042,6 @@ inapps.appsflyersdk.com^
 ||usersegment.wpdigital.net^
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
-||vmstats.varrando.com^
 ||vortex.data.microsoft.com^
 ||vst.sibnet.ru^
 ||vstat.borderlessbd.com^
@@ -37362,7 +37340,6 @@ inapps.appsflyersdk.com^
 ||ctusolution.com^
 ||digital-metric.com^
 ||distribeo.com^
-||dnab.info^
 ||gm-it.consulting^
 ||keyxel.com^
 ||mwstats.net^
@@ -37706,7 +37683,6 @@ inapps.appsflyersdk.com^
 ||cnt.iol.it^
 ||d32hwlnfiv2gyn.cloudfront.net^
 ||dmpcdn.el-mundo.net^
-||encoderfarmstatsnew.servicebus.windows.net^
 ||limone.iltrovatore.it^
 ||livestats.matrix.it^
 ||logger.kataweb.it^
@@ -37790,7 +37766,6 @@ inapps.appsflyersdk.com^
 ||counter.megaindex.ru^
 ||counter.photopulse.ru^
 ||counter.reddigital.ru^
-||counter.star.lg.ua^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
 ||ip.up66.ru^
@@ -44994,6 +44969,10 @@ inapps.appsflyersdk.com^
 ||caozhixiong.cn^
 ||ncyksuw.xyz^
 ||jquerydns.com^
+||accid.xyz^
+||nwandlc.top^
+||huishengqihang.xyz^
+||xiangfenyabu.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -52596,6 +52575,7 @@ analytics-*.aasaam.com
 ||www.newsbreak.com^
 ||us.tags.newscgp.com^
 ||nex8.net^
+||ccpa.psg.nexstardigital.net^
 ||segment.psg.nexstardigital.net^
 ||apps.nielsen.com^
 ||analytics.nike.com^
@@ -69116,6 +69096,7 @@ analytics-*.aasaam.com
 ||alea6badb.com^
 ||aleinvest.xyz^
 ||alemoney.xyz^
+||data.alexa.com^
 ||alflying.bi^
 ||alflying.bid^
 ||alflying.date^
@@ -69295,6 +69276,7 @@ analytics-*.aasaam.com
 ||appsmall.mobi^
 ||gplusapi.appspot.com^
 ||hnbutton.appspot.com^
+||ping-dot-acp-magento.appspot.com^
 ||sales-pop-dot-autoketing-production-sdk.appspot.com^
 ||vkcdnservice.appspot.com^
 ||static.apptrack.cn^
@@ -70434,6 +70416,7 @@ analytics-*.aasaam.com
 ||s1.cmfu.com^
 ||wtrace.cmgame.com^
 ||cmmob.cn^
+||logging.cmp-resources.link^
 ||cmp288.com^
 ||log1.cmpassport.com^
 ||config.cmpassport.com^
@@ -70784,6 +70767,7 @@ analytics-*.aasaam.com
 ||f.dashaowu.com^
 ||down.dashendown.com^
 ||dat.red^
+||tracker.data-vp.com^
 ||datadoghq-browser-agent.com^
 ||datadoghq.eu^
 ||datadome.co^
@@ -70991,6 +70975,7 @@ analytics-*.aasaam.com
 ||dmrtb.com^
 ||private.dmscookie.com^
 ||dmtrck.com^
+||dnab.info^
 ||s2.dnaxddnc.com^
 ||s8.dnaxddnc.com^
 ||e.dnfeu.com^
@@ -71631,6 +71616,7 @@ analytics-*.aasaam.com
 ||m.foumm.com^
 ||platform.foursquare.com^
 ||foxx.to^
+||fpaxu.net^
 ||fqceyqo.com^
 ||ba.fqzds.com^
 ||favor1.fractal.jp^
@@ -72334,6 +72320,7 @@ analytics-*.aasaam.com
 ||hey-do.com^
 ||hey.lt^
 ||heygugu.com^
+||heyhelga.net^
 ||adsfs-sdkconfig.heytapimage.com^
 ||img-c.heytapimage.com^
 ||e.hf355.cn^
@@ -74825,6 +74812,7 @@ analytics-*.aasaam.com
 ||m.nbhaosheng168.com^
 ||fbb.nbhotpo.com^
 ||nbojiajiao.bid^
+||rum.nccgroup-webperf.com^
 ||nch-software.info^
 ||nchap.com^
 ||e.nchet.com^
@@ -75429,6 +75417,7 @@ analytics-*.aasaam.com
 ||open.play.cn^
 ||play.es^
 ||pei-ads.playboy.com^
+||prd-collector-auth.playbuzz.com^
 ||playcvn.com^
 ||hwt.player888.cn^
 ||playerassets.info^
@@ -75611,6 +75600,7 @@ analytics-*.aasaam.com
 ||punchsub.net^
 ||e.puooi.com^
 ||m.puooi.com^
+||response.pure360.com^
 ||thor.pureelectric.se^
 ||puscomosca.com^
 ||push-centr.com^
@@ -75630,6 +75620,7 @@ analytics-*.aasaam.com
 ||pushchev.info^
 ||pushdealer.com^
 ||pusherapp.com^
+||pushex.io^
 ||pushinstruments.com^
 ||pushjunky.com^
 ||pushkahouse.com^
@@ -76409,6 +76400,7 @@ analytics-*.aasaam.com
 ||seordl.cn^
 ||assets.servedby-buysellads.com^
 ||service4refresh.info^
+||sessions.exchange^
 ||setqfx.cn^
 ||setqre.cn^
 ||cmp.setupcmp.com^
@@ -77863,6 +77855,7 @@ analytics-*.aasaam.com
 ||vane3alga.com^
 ||vangmobi.com^
 ||vaniok.cn^
+||vmstats.varrando.com^
 ||e.vaxyz.com^
 ||m.vaxyz.com^
 ||fdsq.vb4rvq.cn^
@@ -77955,6 +77948,7 @@ analytics-*.aasaam.com
 ||vipvps.shop^
 ||vipwm.cc^
 ||js.vipyy88.com^
+||viraltrackings.com^
 ||virtuagirlhd.com^
 ||virtualpushplatform.com^
 ||visualwebsiteoptimizer.com^
@@ -78405,6 +78399,7 @@ analytics-*.aasaam.com
 ||par02p.wns.windows.com^
 ||sg2p.wns.windows.com^
 ||test.activity.windows.com^
+||encoderfarmstatsnew.servicebus.windows.net^
 ||optanon.blob.core.windows.net^
 ||1oavsblobprodcus350.blob.core.windows.net^
 ||37bvsblobprodcus311.blob.core.windows.net^
@@ -79628,6 +79623,7 @@ analytics-*.aasaam.com
 ||go.util.zlibs.com^
 ||zlne800.com^
 ||zlongad.com^
+||statsd.zmags.com^
 ||zmctrack.net^
 ||c.zmjuan.org^
 ||zmkma.com^
