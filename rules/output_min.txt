@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305170533
+# Verison: 202305170953
 # Expires: around 1 day
-# Total number of rules = 81030
+# Total number of rules = 81044
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -27717,6 +27717,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||code.r5hsid.ru^
 ||stats.sprocketrocket.co^
 ||zcode11.me^
 ||mgtmod01.com^
@@ -32232,6 +32233,9 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||stat.gc.my.games^
+||1l-hit.vkplay.ru^
+||1l-view.my.games^
 ||apptics.zoho.com^
 ||a*.smlog.co.kr^
 ||cdn.smlog.co.kr^
@@ -36564,6 +36568,7 @@ inapps.appsflyersdk.com^
 ||cod.bitrec.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
+||collect.*.miui.com^
 ||collect.alphastream.io^
 ||collect.cloudsponge.com^
 ||collect.iteam-dress.com^
@@ -36952,6 +36957,7 @@ inapps.appsflyersdk.com^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tagtracking.vibescm.com^
+||targeting.*.arcpublishing.com^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
 ||telemetry.tableausoftware.com^
@@ -37008,6 +37014,7 @@ inapps.appsflyersdk.com^
 ||tracker.wpserveur.net^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^
+||tracking.*.miui.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
 ||tracking.americaneagle.com^
@@ -44977,6 +44984,16 @@ inapps.appsflyersdk.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
 ||zxgko.cn^
+||majunguo.cn^
+||lorenop.icu^
+||twbqqq.com^
+||xvrvgod.xyz^
+||zvfaxh.xyz^
+||jwandla.top^
+||ppjttn.xyz^
+||caozhixiong.cn^
+||ncyksuw.xyz^
+||jquerydns.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -53654,7 +53671,6 @@ analytics-*.aasaam.com
 ||hostingcloud.racing
 ||wasm.stream
 ||bc.geocities.
-||collect.*.miui.com^
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
 ||firebaselogging-pa.googleapis.com^
@@ -53665,9 +53681,7 @@ analytics-*.aasaam.com
 ||monitor.azure.com^
 ||sonar.viously.com^
 ||tag.aticdn.net^
-||targeting.*.arcpublishing.com^
 ||tracker.twenga.
-||tracking.*.miui.com^
 ||tracking.magnetmail.net^
 ||try.abtasty.com^
 ||uim.tifbs.net^
