@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305171733
+# Verison: 202305172051
 # Expires: around 1 day
-# Total number of rules = 81026
+# Total number of rules = 81021
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,8 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||beyourxfriend.com^
+||linkads.me^
 ||dating.service2u.shop^
 ||pushpad.xyz^
 ||spritzawapuhi.guru^
@@ -27717,6 +27719,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||wct-2.com^
 ||code.r5hsid.ru^
 ||stats.sprocketrocket.co^
 ||zcode11.me^
@@ -34505,6 +34508,7 @@ inapps.appsflyersdk.com^
 ||events.mz.unity3d.com^
 ||metrics.plaid.com^
 ||mon*-platform-*.tiktokv.com^
+||grs.dbankcloud.
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -35113,7 +35117,6 @@ inapps.appsflyersdk.com^
 ||vkanalytics.net^
 ||vpdcp.com^
 ||vstats.me^
-||wct-2.com^
 ||whale3.io^
 ||widgetbe.com^
 ||wknd.ai^
@@ -44973,6 +44976,10 @@ inapps.appsflyersdk.com^
 ||nwandlc.top^
 ||huishengqihang.xyz^
 ||xiangfenyabu.xyz^
+||wjtij.top^
+||xsbdj6.com^
+||dcnytdpke.xyz^
+||54ha.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -53061,9 +53068,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||wjtij.top^
-||xsbdj6.com^
-||dcnytdpke.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -53585,16 +53589,13 @@ analytics-*.aasaam.com
 -analytics-wi.
 -appanalytics-
 -click-tracker.
--content-tracking.
 -datacollection.
 -didomi.js
--dspcookiematching.
 -event-tracking.
 -ga-tracker.
 -gatracker.
 -geoIP.js
 -inview-tracker.
--landing-tracking-
 -optimization-metrics.
 -optimost-
 -page-analytics.
@@ -53612,7 +53613,6 @@ analytics-*.aasaam.com
 .analytics.min.
 .beacon.min.js
 .cdn-tracking.js
-.d-engine.js
 .drive-analytics.
 .eloqua.js
 .EventTracking.
@@ -53622,15 +53622,10 @@ analytics-*.aasaam.com
 .googleanalytics.js
 .googleanalytics.prod.
 .ntpagetag.
-.pixel.archive.
-.redux-logger-
 .sitecatalyst.js
 .siteclarity.
 .sitetracking.
 .skimlinks.js
-.statData-eup.
-.trafficTracking.
-.tstracker.
 .v4.analytics.
 .vsTracking.
 .web-vitals-reporting.
