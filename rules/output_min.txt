@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305191132
+# Verison: 202305191437
 # Expires: around 1 day
-# Total number of rules = 81231
+# Total number of rules = 81230
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -34539,7 +34539,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||do-not-tracker.org^
 ||eviltracker.net^
 ||trackersimulator.org^
-||log.ngsm.nexon.com^
 ||log.nexon.io^
 ||receiver.habby.mobi^
 ||pangle-b.io^
@@ -36779,6 +36778,7 @@ inapps.appsflyersdk.com^
 ||crta.and.co.uk^
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
+||ct.capterra.com^
 ||ct.corpusapp.com^
 ||ct.eid.co.nz^
 ||ct.itbusinessedge.com^
@@ -45187,6 +45187,8 @@ inapps.appsflyersdk.com^
 ||cadke.xyz^
 ||vfsvv1.com^
 ||jinheart.xyz^
+||jn060.xyz^
+||ljte0.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -53277,8 +53279,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||jn060.xyz^
-||ljte0.com^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -53862,7 +53862,6 @@ analytics-*.aasaam.com
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
-||ct.capterra.com^
 ||firebaselogging-pa.googleapis.com^
 ||g.msn.com^
 ||geo.ngtv.io^
