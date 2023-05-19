@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305190533
+# Verison: 202305191023
 # Expires: around 1 day
-# Total number of rules = 81218
+# Total number of rules = 81229
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -45178,6 +45178,15 @@ inapps.appsflyersdk.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||fjnsnt.xyz^
+||lkmxqq.com^
+||ningdebus.club^
+||dagft.cn^
+||rshrpmk.xyz^
+||hpjzpn.xyz^
+||cadke.xyz^
+||vfsvv1.com^
+||jinheart.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -53851,6 +53860,7 @@ analytics-*.aasaam.com
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
+||ct.capterra.com^
 ||firebaselogging-pa.googleapis.com^
 ||g.msn.com^
 ||geo.ngtv.io^
@@ -66312,7 +66322,6 @@ analytics-*.aasaam.com
 ||get.pintpass.com^
 ||get.printtapp.com^
 ||get.prismapp.com^
-||get.revolut.com^
 ||get.reward.me^
 ||get.riyazapp.com^
 ||get.roomiapp.com^
@@ -76330,6 +76339,7 @@ analytics-*.aasaam.com
 ||retadint.com^
 ||reviewability.com^
 ||revinate.com^
+||get.revolut.com^
 ||revpusher.com^
 ||rexuebi.com^
 ||reyun.com^
@@ -81222,6 +81232,7 @@ adtago.s3.amazonaws.com
 ||ads.tiktok.com^$important
 @@||mirrors.cloud.tencent.com^$important
 ||adtago.s3.amazonaws.com^
+metrics.icloud.com
 @@||raw.githubusercontent.com^$important
 @@||*.ga^
 @@||*.gq^
