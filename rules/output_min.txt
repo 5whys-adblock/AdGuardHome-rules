@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305212048
+# Verison: 202305212333
 # Expires: around 1 day
-# Total number of rules = 81233
+# Total number of rules = 81260
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -53333,6 +53333,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||aup34.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -53524,6 +53525,7 @@ analytics-*.aasaam.com
 .728x90.
 .900x100.
 ||2mdn.net^
+||accesshomeinsurance.co^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
@@ -53535,21 +53537,46 @@ analytics-*.aasaam.com
 ||becorsolaom.com
 ||burlydeclined.com
 ||buyeasy.by^
+||cdn3reference.com^
 ||evgywgur.com
 ||get-me-wow.
+||gkrtmc.com^
 ||gleameddelightprosperity.com
+||goaffmy.com^
 ||googletagservices.com^
 ||hsrvz.com
 ||hwyjfhdjgoorb.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||jump-path1.com^
+||jupabwmocgqxeo.com^
+||k4umr0wuc.com^
+||kpeoqklzeahc.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||nekaujoa.net^
+||nheappyrincenev.info^
 ||ntv.io^
+||oovaufty.com^
+||pettledsupper.space^
+||qebcpyfb.com^
+||redirect-path1.com^
 ||requismucuta.com
 ||rubiconproject.com^
+||spnut.com^
+||thofteert.com^
+||tpmr.com^
+||tpopularcldfa.co^
 ||tracker19875.space
+||treampsh.top^
+||trebghoru.com^
 ||trust.zone^
+||tvqqrycnutpp.com^
+||umedadelempanyi.info^
+||update48451.xyz^
+||urbund.com^
+||uwfcqtdb.xyz^
+||venomousteenage.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
