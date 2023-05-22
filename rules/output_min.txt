@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305221733
+# Verison: 202305222051
 # Expires: around 1 day
-# Total number of rules = 81338
+# Total number of rules = 81339
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32499,6 +32499,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||snoop.minecraft.net^
 ||metrics.svc.conholdate.cloud^
 ||metrics.onewegg.com^
 ||stat.gc.my.games^
@@ -35973,6 +35974,7 @@ inapps.appsflyersdk.com^
 ||spycounter.net^
 ||sqate.io^
 ||squeezely.tech^
+||srmdata-us.com^
 ||ssm.codes^
 ||stackadapt.com^
 ||star-cntr-5.com^
@@ -41841,7 +41843,6 @@ inapps.appsflyersdk.com^
 ||yrstwbyl.xyz^
 ||dzypro.xyz^
 ://sportframe*.org^
-://sportframe*.cfd^
 ||storj.cloud^
 ||clbanners9.com^
 ||my.urdreama.cfd^
@@ -45348,6 +45349,9 @@ inapps.appsflyersdk.com^
 ||fmild.xyz^
 ||ewandlw.top^
 ||orsrmrx.cn^
+||xyqmy.xyz^
+||nntsdp.xyz^
+||y3cdp.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -53190,7 +53194,6 @@ analytics-*.aasaam.com
 ||api-2-0.spot.im^
 ||pixel.spotify.com^
 ||pixel-static.spotify.com^
-||www.srmdata-us.com^
 ||cf.ssacdn.com^
 ||cx.ssacdn.com^
 ||images-demand.ssacdn.com^
@@ -53436,8 +53439,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||xyqmy.xyz^
-||nntsdp.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
