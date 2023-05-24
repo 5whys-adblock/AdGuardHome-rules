@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305241132
+# Verison: 202305241434
 # Expires: around 1 day
-# Total number of rules = 81229
+# Total number of rules = 81228
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -35641,6 +35641,7 @@ inapps.appsflyersdk.com^
 ||ep4p.com^
 ||escalated.io^
 ||esputnik.com^
+||ethyca.com^
 ||etp-prod.com^
 ||evorra.net^
 ||excited.me^
@@ -37001,7 +37002,6 @@ inapps.appsflyersdk.com^
 ||gtrk.s3.amazonaws.com^
 ||gu-pix.appspot.com^
 ||happen.spkt.io^
-||harpocrates.ethyca.com^
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||hit.mybestpro.com^
@@ -45405,6 +45405,8 @@ inapps.appsflyersdk.com^
 ||blvnsgr.xyz^
 ||fatvzh.xyz^
 ||heiow.xyz^
+||euyvpgn.cn^
+||qm6ef.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -53492,8 +53494,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||euyvpgn.cn^
-||qm6ef.xyz^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -54017,7 +54017,6 @@ analytics-*.aasaam.com
 -click-tracker.
 -datacollection.
 -didomi.js
--event-tracking.
 -ga-tracker.
 -gatracker.
 -geoIP.js
