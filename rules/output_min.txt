@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305262050
+# Verison: 202305262332
 # Expires: around 1 day
-# Total number of rules = 81376
+# Total number of rules = 81396
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -53639,6 +53639,9 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||gmasrjx.cn^
+||somddgo.com^
+||qwandly.top^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -53833,29 +53836,46 @@ analytics-*.aasaam.com
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||alsatiapolynia.com^
 ||altruisticcost.com
 ||atdmt.com^
 ||atmasroofy.com
 ||auberginecorny.com
 ||auditude.com^
 ||becorsolaom.com
+||befloutsneaks.com^
 ||burlydeclined.com
+||butanesscag.com^
 ||buyeasy.by^
+||chamiteame.com^
+||ditchesteenish.com^
+||enuresdairi.com^
 ||evgywgur.com
+||fogramokayed.com^
 ||get-me-wow.
 ||gleameddelightprosperity.com
 ||googletagservices.com^
+||haptenspopean.com^
 ||hsrvz.com
 ||hwyjfhdjgoorb.com
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
 ||kqzyfj.com^
+||layeredseether.com^
 ||loadercdn.com^
+||mahaplinths.com^
+||mammeysterrae.com^
 ||ntv.io^
+||rephaseeg.com^
 ||requismucuta.com
+||ribumpin.com^
+||roscoehanafi.com^
 ||rubiconproject.com^
+||surfedlattins.com^
+||thaighee.xyz^
 ||tracker19875.space
 ||trust.zone^
+||washergnome.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
