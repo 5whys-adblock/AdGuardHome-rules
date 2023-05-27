@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305272334
+# Verison: 202305280233
 # Expires: around 1 day
-# Total number of rules = 81409
+# Total number of rules = 81412
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,10 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||salamus1.lol^
+||htmass.com^
+||rollercoin.com^
+||zerads.com^
 ||anonads.net^
 ||vidsservices.space^
 ||dekkcewpqrep.com^
@@ -36504,7 +36508,6 @@ inapps.appsflyersdk.com^
 ||pr0gram.org^
 ||rand.com.ru^
 ||reauthenticator.com^
-||rollercoin.com^
 ||rtb-seller.com^
 ||s7ven.com^
 ||seed.bitcoin.sipa.be^
@@ -36948,6 +36951,7 @@ inapps.appsflyersdk.com^
 ||beacon.cdnma.com^
 ||beacon.errorception.com^
 ||beacon.flow.io^
+||beacon.klm.com^
 ||beacon.s.llnwi.net^
 ||beacon.searchspring.io^
 ||beacon.sftoaa.com^
@@ -44891,6 +44895,7 @@ inapps.appsflyersdk.com^
 ||92f2m.top^
 ||92ph.cn^
 ||9603gg.cc^
+||9fa20230518.live^
 ||9h622.top^
 ||9itan.cc^
 ||9vs0.cn^
@@ -44937,6 +44942,7 @@ inapps.appsflyersdk.com^
 ||aquvg.com^
 ||aup34.xyz^
 ||awdc6.com^
+||ayynsdp.xyz^
 ||baiduajbcjkabcav.com^
 ||baidudbvjksbvs.com^
 ||baitu1llbkotsfthllcjeg.com^
@@ -44976,6 +44982,7 @@ inapps.appsflyersdk.com^
 ||cdfda.xyz^
 ||cdkke.xyz^
 ||cdn-99-pic.cc^
+||celeste.work^
 ||cennv.cn^
 ||ceodk.xyz^
 ||cex8jw.cn^
@@ -45158,6 +45165,7 @@ inapps.appsflyersdk.com^
 ||j1p6w.xyz^
 ||jbtfmis.xyz^
 ||jbzjegn.cn^
+||jdamc.top^
 ||jeedi.xyz^
 ||jeidd.xyz^
 ||jerrytom.xyz^
@@ -45209,6 +45217,7 @@ inapps.appsflyersdk.com^
 ||kprjva.cn^
 ||kryjqq.com^
 ||kucoa.xyz^
+||kuuda.xyz^
 ||kybzkiw.xyz^
 ||kzjkexn.cn^
 ||kzjqraj.cn^
@@ -45237,15 +45246,18 @@ inapps.appsflyersdk.com^
 ||lwtqqq.com^
 ||lxbbs.fun^
 ||lxyl66.cn^
+||lydrnj.xyz^
 ||m9d6p03.com^
 ||mahao1.cn^
 ||majunguo.cn^
 ||maoqxyl.xyz^
+||mbly0.xyz^
 ||mc3369.xyz^
 ||mdqhyxe.cn^
 ||meexx.xyz^
 ||mem3.cn^
 ||mfifsux.xyz^
+||mfoevvy.com^
 ||mhegew.xyz^
 ||mindopu.com^
 ||mk795.cn^
@@ -45444,6 +45456,7 @@ inapps.appsflyersdk.com^
 ||uzuarlv.cn^
 ||v0cf.xyz^
 ||vel7.xyz^
+||vezvpd.xyz^
 ||vfsvv1.com^
 ||vifzrf.xyz^
 ||vjhjxh.xyz^
@@ -45531,10 +45544,12 @@ inapps.appsflyersdk.com^
 ||ychkujj.cn^
 ||yegzkw.xyz^
 ||yfohgo.xyz^
+||yhgumcr.xyz^
 ||yikucdn.com^
 ||yingce.asia^
 ||yingnanyyds.com^
 ||yisangyyds.com^
+||yjgqpfj.cn^
 ||yttc.ren^
 ||yuebog.xyz^
 ||yulingaa.xyz^
@@ -45555,6 +45570,7 @@ inapps.appsflyersdk.com^
 ||zebjlt.buzz^
 ||zetcul.xyz^
 ||zgyvg.top^
+||zhalinylqq.com^
 ||zhalinyyds.com^
 ||zhanghao164.xyz^
 ||zhemu.xyz^
@@ -45575,17 +45591,6 @@ inapps.appsflyersdk.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||zhalinylqq.com^
-||yjgqpfj.cn^
-||celeste.work^
-||yhgumcr.xyz^
-||lydrnj.xyz^
-||vezvpd.xyz^
-||kuuda.xyz^
-||mbly0.xyz^
-||mfoevvy.com^
-||9fa20230518.live^
-||ayynsdp.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -53674,7 +53679,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||jdamc.top^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -54251,7 +54255,6 @@ analytics-*.aasaam.com
 ||hostingcloud.racing
 ||wasm.stream
 ||bc.geocities.
-||beacon.klm.com^
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
 ||firebaselogging-pa.googleapis.com^
