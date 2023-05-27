@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202305272048
+# Verison: 202305272334
 # Expires: around 1 day
-# Total number of rules = 81414
+# Total number of rules = 81409
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -54194,7 +54194,6 @@ analytics-*.aasaam.com
 -ads-tracking-
 -amp-error-reporting.
 -analytics-events.
--analytics-wi.
 -appanalytics-
 -click-tracker.
 -datacollection.
@@ -54204,23 +54203,18 @@ analytics-*.aasaam.com
 -geoIP.js
 -inview-tracker.
 -optimization-metrics.
--optimost-
 -page-analytics.
 -pixelfront-analytics.
 -quantcast-measurement.
--realtime-logging-
 -rttracking.
 -sa-tracker-
 -scroll-tracker.js
 -track-inview.
--tracker-geoip.
 -tracking-pixel.
 -trackingScript.
--unbxdAnalytics.
 .analytics.min.
 .beacon.min.js
 .cdn-tracking.js
-.drive-analytics.
 .eloqua.js
 .EventTracking.
 .gatracker.
@@ -54257,6 +54251,7 @@ analytics-*.aasaam.com
 ||hostingcloud.racing
 ||wasm.stream
 ||bc.geocities.
+||beacon.klm.com^
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
 ||firebaselogging-pa.googleapis.com^
