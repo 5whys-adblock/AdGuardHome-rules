@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306021733
+# Verison: 202306022057
 # Expires: around 1 day
-# Total number of rules = 81666
+# Total number of rules = 81676
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,10 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||rmanentsyshru.com^
+||stratebilater.com^
+||tyract.com^
+||tholor.com^
 ||xvpqmcgf.com^
 ||cilsammwcblcv.com^
 ||madeupadoption.com^
@@ -1243,6 +1247,7 @@
 ||d71e6dd31a026d45.com
 ||adrunnr.com^
 ||samsungtvads.com^
+||d10fhz7gnk5369.cloudfront.net^
 ||notification.tubecup.net^
 ||d3dpet1g0ty5ed.cloudfront.net^
 ||banners.defenceweb.co.za^
@@ -28406,7 +28411,6 @@ vkcdnservice.appspot.com^
 ||ganalytics.live^
 ||analytics-cdiscount.com^
 ||hotjar.io^
-||hellosmpl.com^
 ||1800cnt.com^
 ||tag.nifty.com^
 ||tracker.kantan-access.com^
@@ -32861,6 +32865,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||logger*.kma.go.kr^
 ||webtracking.fe.union-investment.de^
 ||metrics.mdstrm.com^
 ||track.17goforward.com^
@@ -45875,6 +45880,11 @@ inapps.appsflyersdk.com^
 ||94evd.xyz^
 ||fka06.site^
 ||kjugr.xyz^
+||g0cu3.top^
+||sjzls.top^
+||pazz.xyz^
+||gongyuxinxi.xyz^
+||jiangxing.live^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -51440,6 +51450,7 @@ inapps.appsflyersdk.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
 ||27gh.cc^
+||bd-china-1.appmobile.cn^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
@@ -52366,6 +52377,7 @@ analytics-*.aasaam.com
 ||analytics.irancell.ir^
 ||websocket.ilna.ir^
 ||websocket.khanefootball.com^
+||counter.mahanmusic.net^
 ||analytic.magland.ir^
 ||affiliate.malltina.com^
 ||sentry.malltina.com^
@@ -53963,8 +53975,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||g0cu3.top^
-||sjzls.top^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
