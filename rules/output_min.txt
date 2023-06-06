@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306061732
+# Verison: 202306062054
 # Expires: around 1 day
-# Total number of rules = 81699
+# Total number of rules = 81709
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,9 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||worshipstubborn.com^
+||unmightboxen.com^
+||sbkuuzozlm.com^
 ||soodihee.net^
 ||biubxxaxucyou.com^
 ||scptp1.com^
@@ -32894,6 +32897,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||stats.online-convert.com^
 ||ss.azuremagazine.com^
 ||logger*.kma.go.kr^
 ||webtracking.fe.union-investment.de^
@@ -35460,6 +35464,7 @@ inapps.appsflyersdk.com^
 ||tktracker.aotter.net^
 ||tkrecorder.aotter.net^
 ||fdplttrk.com^
+||tracking-*.trnox.com^
 ||tracking.trnox.com^
 ||omni-ads.omni.news^
 ||analytics-events.inshorts.com^
@@ -43698,6 +43703,7 @@ inapps.appsflyersdk.com^
 ||investerarbrevet.se^
 ||ion.btcswe.com^
 ||jackwolfskinsverige.com.se^
+||js.glitnoraffiliates.com^
 ||js.pafpartners.com^
 ||jss.jajja.com^
 ||jssdk.pulse.schibsted.com^
@@ -43763,6 +43769,7 @@ inapps.appsflyersdk.com^
 ||nordishopping.com^
 ||norranstats.azurewebsites.net^
 ||norstatsurveys.com^
+||ntrfr.expekt.se^
 ||nucleusanalytics.io^
 ||oas.market.se^
 ||omni-ad-blocket.herokuapp.com^
@@ -45975,6 +45982,7 @@ inapps.appsflyersdk.com^
 ||pohpll.xyz^
 ||rcsden.top^
 ||bxoiksm.xyz^
+||heretrail.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -53018,6 +53026,8 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||isancio.top^
+||dsbt7.com^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
