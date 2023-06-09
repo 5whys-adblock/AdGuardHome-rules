@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306091733
+# Verison: 202306092051
 # Expires: around 1 day
-# Total number of rules = 80860
+# Total number of rules = 80861
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||scfsdvc.com^
 ||enbclpbyi.com^
 ||zwbbkjvzqbyba.top^
 ||lmjwqbjmkrzyw.top^
@@ -27804,7 +27805,6 @@ vkcdnservice.appspot.com^
 ||ad.flipboard.com^
 ||ads-chunks.prod.ihrhls.com^
 ||api.ads.watchabc.go.com^
-||ad.prismamediadigital.com^
 ||socdm.com^
 ||criteo.com^
 ||criteo.net^
@@ -27822,6 +27822,10 @@ vkcdnservice.appspot.com^
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
+||reqde.afreecatv.com^
+||adballoon.afreecatv.com^
+||deapi.afreecatv.com^
+||mtag.mman.kr^
 ||anythinktech.com^
 ||d3hdbjtb1686tn.cloudfront.net^
 ||s.hisp.in^
@@ -28152,7 +28156,6 @@ vkcdnservice.appspot.com^
 ||ad.ohmyad.co^
 ||ad.smaad.jp^
 ||ad.vrvm.com^
-||ad132m.com^
 ||adback.tango.me^
 ||adblade.com^
 ||adbrau.com^
@@ -28253,7 +28256,6 @@ vkcdnservice.appspot.com^
 ||chango.com^
 ||chartboost.com^
 ||clkfeed.com^
-||cntcash.ru^
 ||cpmstar.com^
 ||crispadvertising.com^
 ||crossboardmobile.com^
@@ -28270,10 +28272,8 @@ vkcdnservice.appspot.com^
 ||focas.jp^
 ||fyber.com^
 ||geede.info^
-||gigamega.su^
 ||go.mobstitialtag.com^
 ||googleadservices.com^
-||gsmtop.net^
 ||gts-ads.twistbox.com^
 ||heyzap.com^
 ||hormebets.info^
@@ -38445,7 +38445,6 @@ inapps.appsflyersdk.com^
 ||log.mofa.go.kr^
 ||logs-partners.coupang.com^
 ||megadata.co.kr^
-||mtag.mman.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
 ||sas.nsm-corp.com^
@@ -46060,6 +46059,7 @@ inapps.appsflyersdk.com^
 ||ssancib.top^
 ||v9gfm.xyz^
 ||v88yaat.xyz^
+||bny9.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -80665,6 +80665,7 @@ analytics-*.aasaam.com
 ||track.adxwork.com^
 ||adservice.google.com.au^
 ||tracking.klickthru.com^
+||gsmtop.net^
 ||mobile.Banzai.it^
 ||ads.xxxad.net^
 ||adm.baidu.com^
