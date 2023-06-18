@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306181135
+# Verison: 202306181434
 # Expires: around 1 day
-# Total number of rules = 80996
+# Total number of rules = 80999
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -27443,7 +27443,6 @@ vkcdnservice.appspot.com^
 ||d2qn0djb6oujlt.cloudfront.net^
 ||d2qnx6y010m4rt.cloudfront.net^
 ||d2qz7ofajpstv5.cloudfront.net^
-||d2r1yp2w7bby2u.cloudfront.net^
 ||d2r2yqcp8sshc6.cloudfront.net^
 ||d2r3rw91i5z1w9.cloudfront.net^
 ||d2rsvcm1r8uvmf.cloudfront.net^
@@ -27469,7 +27468,6 @@ vkcdnservice.appspot.com^
 ||d2vwl2vhlatm2f.cloudfront.net^
 ||d2w92zbcg4cwxr.cloudfront.net^
 ||d2werg7o2mztut.cloudfront.net^
-||d2wy8f7a9ursnm.cloudfront.net^
 ||d2x0u7rtw4p89p.cloudfront.net^
 ||d2x19ia47o8gwm.cloudfront.net^
 ||d2xng9e6gymuzr.cloudfront.net^
@@ -33761,6 +33759,7 @@ vkcdnservice.appspot.com^
 ||d2pxb4n3f9klsc.cloudfront.net^
 ||d2q7mvwub8tmwf.cloudfront.net^
 ||d2qmp7jjpd79k7.cloudfront.net^
+||d2r1yp2w7bby2u.cloudfront.net^
 ||d2ry9vue95px0b.cloudfront.net^
 ||d2so4705rl485y.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
@@ -37433,7 +37432,6 @@ inapps.appsflyersdk.com^
 ||geo.q5media.net^
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
-||geoip.cookieyes.com^
 ||geoip.instiengage.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
@@ -37821,7 +37819,6 @@ inapps.appsflyersdk.com^
 ||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
-||d1igp3oop3iho5.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
 ||d1r55yzuc1b1bw.cloudfront.net^
@@ -46228,6 +46225,11 @@ inapps.appsflyersdk.com^
 ||pqomnfbg.com^
 ||jljftl.xyz^
 ||trfmxf.xyz^
+||eiadf.xyz^
+||yziwoidi.icu^
+||opzksyy.cn^
+||vreephay.com^
+||worjeklmq.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -52253,6 +52255,7 @@ analytics-*.aasaam.com
 ||contentstream.pl^
 ||conviva.com^
 ||cookie-cdn.cookiepro.com^
+||geoip.cookieyes.com^
 ||openrtb.cootlogix.com^
 ||prebid.cootlogix.com^
 ||sitegenesis.production.deckers.coremedia.cloud^
@@ -53769,7 +53772,6 @@ analytics-*.aasaam.com
 -track-inview.
 -tracking-pixel.
 -trackingScript.
-.analytics.min.
 .beacon.min.js
 .eloqua.js
 .EventTracking.
@@ -70468,6 +70470,7 @@ analytics-*.aasaam.com
 ||7mnpeh.com1.z0.glb.clouddn.com^
 ||cloudflane.com^
 ||d15r06k2ko210l.cloudfront.net^
+||d1igp3oop3iho5.cloudfront.net^
 ||d2eucw4fxv7nil.cloudfront.net^
 ||d2ip7iv1l4ergv.cloudfront.net^
 ||d2yyd1h5u9mauk.cloudfront.net^
