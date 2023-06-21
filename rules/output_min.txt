@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306210956
+# Verison: 202306211134
 # Expires: around 1 day
-# Total number of rules = 81309
+# Total number of rules = 81399
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -35731,6 +35731,7 @@ inapps.appsflyersdk.com^
 ||sensors.snappea.com^
 ||analytics.snappea.com^
 ||analytics.snaptube.app^
+||px.ucweb.com^
 ||collector1.afreecatv.com^
 ||adtima-static.zadn.vn^
 ||ztevents.zaloapp.com^
@@ -35745,6 +35746,8 @@ inapps.appsflyersdk.com^
 ||bi.manhuaren.com^
 ||analytics.datasavannah.com^
 ||sq.requestads.com^
+||insight.ucweb.com^
+||gjapplog.ucweb.com^
 ||stat.meitudata.com^
 ||collect.media.jio.com^
 ||log.apk.v-mate.mobi^
@@ -35804,6 +35807,8 @@ inapps.appsflyersdk.com^
 ||api.oneaudience.com^
 ||api.gameofwhales.com^
 ||track.uc.cn^
+||uc.ucweb.com^
+||puds.ucweb.com^
 ||patriot.cs.pp.cn^
 ||io.narrative.io^
 ||tracking.viewster.com^
@@ -53400,6 +53405,9 @@ analytics-*.aasaam.com
 ||reports.ubimo.com^
 ||applogios.uc.cn^
 ||mparticle.uc.cn^
+||adtrack.ucweb.com^
+||gjtrack.ucweb.com^
+||click.union.ucweb.com^
 ||sweb.ulta.com^
 ||umeng.co^
 ||umengcloud.com^
@@ -53548,6 +53556,12 @@ analytics-*.aasaam.com
 ||jvljnb.xyz^
 ||mbekgac.xyz^
 ||lzfzkedp.icu^
+||iuu3j.xyz^
+||kzuxlydg.icu^
+||heioa.xyz^
+||zppfjh.xyz^
+||cifyeldf.top^
+||ymhyw6.lol^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -53731,24 +53745,80 @@ analytics-*.aasaam.com
 .728x90-
 .900x100.
 ||2mdn.net^
+||330e4e8090.com^
+||8dfc9560e0.com^
+||abc91f15a0.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
+||b1bf05979e.com^
 ||buyeasy.by^
+||cognateprogrammeteenage.com^
+||consequentlydistraughtpasta.com^
+||councilheader.com^
+||criminalweightforetaste.com^
+||dangerouslyblemishsweater.com^
+||dcebmbsnmcs.com^
+||donorenvy.com^
+||dulosqatkrk.com^
+||enrichstudentroast.com^
+||enviouspipe.com^
 ||get-me-wow.
+||ghrvnpihavx.com^
+||gifthandymanshortage.com^
+||gloveroadmap.com^
+||gobetweensmartlyattic.com^
 ||googletagservices.com^
+||hillbackserve.com^
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||inexorablehopper.com^
 ||kqzyfj.com^
+||leansometime.com^
 ||lntriguingdate.net
 ||loadercdn.com^
+||lodgedynamitebook.com^
+||mbgufryceqkoap.com^
+||millsurfaces.com^
+||miscalculatesuccessiverelish.com^
+||muddytransplantinsert.com^
+||nosebleedlonerdays.com^
 ||ntv.io^
+||orgned.com^
+||pardonsentencegeneral.com^
+||pawschancesponsor.com^
+||pearlsdevotionnative.com^
+||prayfortnight.com^
+||protectorworstquake.com^
+||putrescentheadstoneyoungest.com^
+||reminderdate.com^
+||repulsehandbagperspective.com^
 ||rubiconproject.com^
+||sapfollower.com^
+||seafoodrunnersablative.com^
+||shortcuteffort.com^
+||slaneo.com^
+||staturecolonialismtransition.com^
+||stirringdecoctiononly.com^
+||subtractrefused.com^
+||synthesisvariables.com^
+||taxpillsqueal.com^
+||technicianforestallproper.com^
+||thiscombinationdecorated.com^
 ||totaladblock.com^
 ||tracker19875.space
+||tradingken.com^
+||trainsrolldrunken.com^
 ||trust.zone^
+||wakelardassistance.com^
+||weatherpeanutnegligence.com^
+||willingnessaggravationfits.com^
+||withcrepteast.com^
+||wrangleprickly.com^
+||wrenchfavourablespear.com^
+||ytndjaefvan.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -67558,6 +67628,7 @@ analytics-*.aasaam.com
 ||geo.emol.cl^
 ||hits.antena3.com^
 ||matt.mercadolibre.
+||px-intl.ucweb.com^
 ||rvv.emol.com^
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^
@@ -67807,6 +67878,7 @@ analytics-*.aasaam.com
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
 ||ping.*.sogou.com^
+||vs*.gzcu.u3.ucweb.com^
 ||bs*.9669.cn^
 ||*mistat*.xiaomi.com^
 ||assoc-amazon.*^
@@ -75573,6 +75645,7 @@ analytics-*.aasaam.com
 ||panger-top.click^
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao1.com^
 ||pangu.cc^
 ||c.panqis.cn^
 ||jipinapi.panqis.cn^
@@ -77093,7 +77166,6 @@ analytics-*.aasaam.com
 ||suvset.sohu.com^
 ||um.hd.sohu.com^
 ||uranus.sohu.com^
-||yule.sohu.com^
 ||click.hd.sohu.com.cn^
 ||pb.hd.sohu.com.cn^
 ||sohulink.cc^
@@ -77969,7 +78041,22 @@ analytics-*.aasaam.com
 ||ucsmqq.site^
 ||uctrac.com^
 ||ucweb.cn^
-||ucweb.com^
+||client.video.ucweb.com^
+||cms.ucweb.com^
+||hk.napi.ucweb.com^
+||kwurl.ucweb.com^
+||rescn.u3.ucweb.com^
+||sea.napi.ucweb.com^
+||uc9.ucweb.com^
+||ucsec.ucweb.com^
+||ucsec1.ucweb.com^
+||ucus.ucweb.com^
+||up1.tj.u2.ucweb.com^
+||up4.ucweb.com^
+||utp-dmp.ucweb.com^
+||utp.ucweb.com^
+||vs8.gzct.u3.ucweb.com^
+||wap3.ucweb.com^
 ||uczzd.com^
 ||iflow.uczzd.com.cn^
 ||uczzd.net^
@@ -78507,7 +78594,6 @@ analytics-*.aasaam.com
 ||dl.weshineapp.com^
 ||wesiedu.com^
 ||west001.com^
-||weworkremotely.com^
 ||weyyae.com^
 ||wfhxssg.com^
 ||m.wgewj.cn^
@@ -80266,6 +80352,7 @@ analytics-*.aasaam.com
 ||ad.dev.360.cn^
 ||huid.ad.360.cn^
 ||mpush-api.aliyun.com^
+||vs2.gzcu.u3.ucweb.com^
 ||fex.bdstatic.com^
 ||nspt.bdstatic.com^
 ||bj.bcebos.com^
@@ -80844,6 +80931,9 @@ analytics-*.aasaam.com
 ||vivovip.mmszxc.top^
 ||vodpic.320down.club^
 ||voq3450129.y4j32.cn^
+||vs19.gzcu.u3.ucweb.com^
+||vs7.gzcu.u3.ucweb.com^
+||vs8.gzcu.u3.ucweb.com^
 ||vvw.xiangwangdesh.com^
 ||wake.chinaerman.com^
 ||wbf9k9.com^
