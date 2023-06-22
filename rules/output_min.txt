@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306221734
+# Verison: 202306222053
 # Expires: around 1 day
-# Total number of rules = 81518
+# Total number of rules = 81521
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,8 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||intentiq.com^
+||futureads.io^
 ||domith.com^
 ||shrovyrebuke.com^
 ||delivery.momentummedia.com.au^
@@ -33368,6 +33370,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||adeventtrackermonitoring.spotify.com^
 ||pixel.ionos.com^
 ||d3p8zr0ffa9t17.cloudfront.net^
 ||tracker.dalso.org^
@@ -46710,6 +46713,7 @@ inapps.appsflyersdk.com^
 ||m7g2v1b9.com^
 ||nzymeedg.icu^
 ||kgelugaz.com^
+||daawx.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -73397,7 +73401,6 @@ analytics-*.aasaam.com
 ||intelligems.io^
 ||intelserviceupdate.com^
 ||intely.cn^
-||intentiq.com^
 ||interestingz.pw^
 ||internebula.net^
 ||gdpr.internetbrands.com^
