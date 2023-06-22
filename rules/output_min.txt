@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306222053
+# Verison: 202306222334
 # Expires: around 1 day
-# Total number of rules = 81521
+# Total number of rules = 81523
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -33370,6 +33370,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||dl.reg.163.com^
 ||adeventtrackermonitoring.spotify.com^
 ||pixel.ionos.com^
 ||d3p8zr0ffa9t17.cloudfront.net^
@@ -43385,6 +43386,7 @@ inapps.appsflyersdk.com^
 ||azol.de^
 ||twiago.com^
 ||bauernative.com^
+||tfcdn.jingmiuyyds.com^
 ||jciwztfj.com^
 ||zhengliyqq.com^
 ||ra5.xyz^
@@ -52281,7 +52283,7 @@ analytics-*.aasaam.com
 ||novunu.football-plyus.net^
 @@||go.adjust.com^|
 @@||clickattr.wayup.com^|
-@@||chathamdailynews.remembering.ca^|
+@@||remembering.ca^|
 @@||catchup.thisisdax.com^|
 @@||px.a8.net^|
 @@||app-cdn.minepi.com^|
