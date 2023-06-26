@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306261736
+# Verison: 202306262057
 # Expires: around 1 day
-# Total number of rules = 81860
+# Total number of rules = 81870
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||phasecrance.com^
 ||napainsi.net^
 ||emqomxdwrhol.com^
 ||tiijdxto.com^
@@ -28593,6 +28594,9 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||pangolin16.sgsnssdk.com^
+||sf16-scmcdn-sg.ibytedtos.com^
+||i18n-pglstatp.com^
 ||zflylg.buzz^
 ||zflfoy.xyz^
 ||zfkjrm.xyz^
@@ -33735,7 +33739,6 @@ vkcdnservice.appspot.com^
 -tracker.biliapi.net^
 ||pixel*.production-public.tubi.io^
 ||analytics-ingestion.production-public.tubi.io^
-||uid.mavencoalition.io^
 ||wayfinderanalytics.servicebus.windows.net^
 ||adtima-media.zascdn.me^
 ||px.dmp.zaloapp.com^
@@ -35906,6 +35909,7 @@ inapps.appsflyersdk.com^
 ||int.vaicore.store^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||events.swishapps.ai^
 ||telemetry.canva.com^
 ||analytics.picsart.com^
 ||tracking.viewlift.com^
@@ -36121,6 +36125,7 @@ inapps.appsflyersdk.com^
 ||collector.vhx.tv^
 ||analytics-server.gimbal.com^
 ||log-tb.sgsnssdk.com^
+||tnc16-*.byteoversea.com^
 ||xlog.byteoversea.com^
 ||gecko-sg.byteoversea.com^
 ||ug-sg.byteoversea.com^
@@ -38693,6 +38698,7 @@ inapps.appsflyersdk.com^
 ||reshin.de^
 ||retailads.net^
 ||scw.systems^
+||smarketer.de^
 ||space-link.de^
 ||stats.de^
 ||stetic.com^
@@ -47072,6 +47078,10 @@ inapps.appsflyersdk.com^
 ||xnzetb.xyz^
 ||moead.xyz^
 ||zrgbh6bm.icu^
+||baidubdvjssv.com^
+||goxob6wo.icu^
+||yupov6ks.icu^
+||atbdkmt.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
