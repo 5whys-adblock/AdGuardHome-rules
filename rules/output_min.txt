@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306272059
+# Verison: 202306272334
 # Expires: around 1 day
-# Total number of rules = 81880
+# Total number of rules = 81888
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -54119,6 +54119,9 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||maiqi.xyz^
+||jifyelda.top^
+||oqpgq.top^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -54306,18 +54309,25 @@ analytics-*.aasaam.com
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||apocarpdogdom.com^
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
+||digyniahuffle.com^
 ||get-me-wow.
 ||googletagservices.com^
+||hoogajee.net^
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
+||kithudru.xyz^
 ||kqzyfj.com^
 ||lntriguingdate.net
 ||loadercdn.com^
+||lyingshayride.com^
 ||ntv.io^
+||nutletcorvees.com^
 ||rubiconproject.com^
+||signalsparfum.uno^
 ||totaladblock.com^
 ||tracker19875.space
 ||trust.zone^
@@ -81770,8 +81780,6 @@ wpjslib-chunk-notification.js^
 ||cdn.realpeoplemedia.co.uk^
 ||ccm19.dsg-schweiz.ch^
 ||ere.wew.92kkdy.cc^
-||tacool.com^$badfilter
-||apiimg.com^$badfilter
 ||unpkg.com^$badfilter
 -1316632262.cos.
 -90mh-gg.
