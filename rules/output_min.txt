@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306292058
+# Verison: 202306292333
 # Expires: around 1 day
-# Total number of rules = 81886
+# Total number of rules = 81901
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -54038,6 +54038,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||kifyeldd.top^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -54228,19 +54229,33 @@ analytics-*.aasaam.com
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
+||dalymix.com^
+||dalysv.com^
+||ekrnhbmrbbvwdro.com^
+||extractdissolve.com^
+||fbpgdlprsiz.com^
 ||get-me-wow.
 ||googletagservices.com^
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
 ||kqzyfj.com^
+||lighes.com^
+||ljokijpwtkwib.com^
 ||lntriguingdate.net
 ||loadercdn.com^
+||mvcwfqntrnatng.com^
 ||ntv.io^
+||originjargon.com^
+||otherofherlittle.info^
+||pithgregor.com^
+||rkgwzfwjgk.com^
 ||rubiconproject.com^
 ||totaladblock.com^
 ||tracker19875.space
 ||trust.zone^
 ||videoplaza.tv^
+||vkitfufickpy.com^
+||zaistaug.net^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
