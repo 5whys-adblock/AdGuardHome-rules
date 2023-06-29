@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202306291733
+# Verison: 202306292058
 # Expires: around 1 day
-# Total number of rules = 81885
+# Total number of rules = 81886
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||code.adsinnov.com^
 ||desgolurkom.com^
 ||neetoutoo.com^
 ||equirekeither.xyz^
@@ -21405,7 +21406,6 @@ vkcdnservice.appspot.com^
 ||sixtybirthsuperstition.com^
 ||sizeilksohs.com^
 ||siziermamas.com^
-||sizyreelingly.com^
 ||sizzlerisoflor.com^
 ||sjhfnmfki.com^
 ||sjomilbedwarf.digital^
@@ -29053,6 +29053,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.gtflixtv.com^
 ||colossusssp.com^
 ||consentag.eu^
 ||collect-v*.51.la^
@@ -32457,6 +32458,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||guidecent.com^
 ||rebelhen.com^
 ||guardeddirection.com^
 ||enormousfoot.com^
@@ -38148,6 +38150,7 @@ inapps.appsflyersdk.com^
 ||pegasus.unifygroup.com^
 ||perso.aws.arc.pub^
 ||ping.dozuki.com^
+||ping.fastsimon.com^
 ||ping.instantsearchplus.com^
 ||pings.vidpulse.com^
 ||pix.revjet.com^
@@ -54549,10 +54552,7 @@ analytics-*.aasaam.com
 -geoIP.js
 -inview-tracker.
 -optimization-metrics.
--page-analytics.
 -quantcast-measurement.
--rttracking.
--sa-tracker-
 -scroll-tracker.js
 -track-inview.
 -tracking-pixel.
@@ -54570,8 +54570,8 @@ analytics-*.aasaam.com
 .siteclarity.
 .sitetracking.
 .skimlinks.js
+.snowplowanalytics.
 .v4.analytics.
-.vsTracking.
 .web-vitals-reporting.
 ://a869.
 ://internal-matomo.
@@ -77410,6 +77410,7 @@ analytics-*.aasaam.com
 ||v.sixiuwl.cn^
 ||sixsigmatraffic.com^
 ||siyuanmall.com^
+||sizyreelingly.com^
 ||m.sjaidu.com^
 ||e.sjc1v.cn^
 ||sjdjcn.cn^
