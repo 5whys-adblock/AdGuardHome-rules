@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202307101735
+# Verison: 202307102059
 # Expires: around 1 day
-# Total number of rules = 84666
+# Total number of rules = 84685
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||emqrjjveqnjab.top^
 ||raferu.com^
 ||bentonuncage.com^
 ||bt.yurokrelax.com^
@@ -28897,6 +28898,7 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||tivan.naver.com^
 ||veta.naver.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
@@ -33901,6 +33903,8 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||tracker.gpcdn.pl^
+||tracker.pracuj.pl^
 ||log.recommend.nicovideo.jp^
 ||log.klook.com^
 ||tracking.centerfield.com^
@@ -35667,7 +35671,6 @@ vkcdnservice.appspot.com^
 ||thj.astrakhan.ru^
 ||tim.nextinpact.com^
 ||timeslog.indiatimes.com^
-||tivan.naver.com^
 ||tj3rql9siwef.www.freecodecamp.org^
 ||tk.kaufda.de^
 ||tk.meinprospekt.de^
@@ -46313,6 +46316,8 @@ inapps.appsflyersdk.com^
 ||pirxzl.xyz^
 ||zfteiv.xyz^
 ||uyq3ruf.icu^
+||erfskhnpter.xyz^
+||baiduvjsbvjknlsvsv.com^
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zonyff.xyz^
@@ -53859,6 +53864,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||moon.ibytecdn.cn^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -54042,23 +54048,36 @@ analytics-*.aasaam.com
 .728x90-
 .900x100.
 ||2mdn.net^
+||abuleiasafflow.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||anyhowunplat.uno^
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
+||desalthuns.com^
+||feluccahoit.com^
+||gearedftnerr.com^
 ||get-me-wow.
 ||googletagservices.com^
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
 ||kqzyfj.com^
 ||loadercdn.com^
+||neurinacyesis.com^
 ||ntv.io^
+||peanutsfuscin.com^
+||perksthawers.com^
+||poapustu.net^
 ||rubiconproject.com^
+||thauzauw.xyz^
 ||totaladblock.com^
+||touracostephe.com^
 ||trust.zone^
+||ungloomnisnas.com^
 ||videoplaza.tv^
+||yqiyazkddb.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
