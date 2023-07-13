@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202307132336
+# Verison: 202307140240
 # Expires: around 1 day
-# Total number of rules = 84655
+# Total number of rules = 84414
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -36297,7 +36297,6 @@ inapps.appsflyersdk.com^
 ||api.telemetry.watchabc.go.com^
 ||analytics.rover.io^
 ||events-collector-api.viacom.tech^
-||pipe.aria.microsoft.com^
 ||log-api.aillis.net^
 ||log.snow.me^
 ||events.textme-app.com^
@@ -38243,6 +38242,7 @@ inapps.appsflyersdk.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
 ||botdetection.hbrsd.com^
+||browser.pipe.aria.microsoft.com^
 ||bs.yandex.ru^
 ||c.amazinglybrilliant.com.au^
 ||c.bazo.io^
@@ -46233,13 +46233,17 @@ inapps.appsflyersdk.com^
 ||baiduvjsbvjknlsvsv.com^
 ||bdates.fun^
 ||berylnbb.com^
+||betcss.site^
 ||bkhblj.xyz^
+||boewgph.icu^
 ||caider.fun^
 ||ciadre.fun^
 ||cix0wk.com^
+||connectreadoasis.com^
 ||csedasdme.xyz^
 ||cuioxbqi.com^
 ||cyq3noz.icu^
+||dadbj.cn^
 ||dadde.cn^
 ||dd778899dd.com^
 ||dhkipdsc.xyz^
@@ -46253,17 +46257,21 @@ inapps.appsflyersdk.com^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
 ||eyq3nog.icu^
+||falsarywaybung.com^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
+||gkjmev3.com^
 ||glhdan.site^
 ||gyq3bew.icu^
 ||hanwdsii.com^
 ||hdpdrandpd.xyz^
 ||hfqdipw.cn^
 ||hikykhz.icu^
+||hlnr9q.icu^
 ||hpvwdkn.cn^
 ||hsadeg.site^
+||hstbrt.xyz^
 ||huoju.asia^
 ||hypwbv.xyz^
 ||hzhabei.cn^
@@ -46276,12 +46284,15 @@ inapps.appsflyersdk.com^
 ||kahgjjd.com^
 ||kgeesh.site^
 ||kyq3hky.icu^
+||kyq3xch.icu^
 ||laink.xyz^
 ||lanver.fun^
 ||lgohse.fun^
+||lifyeldl.top^
 ||lwide.xyz^
 ||metaversemolecule.com^
 ||moobtcnse.xyz^
+||nieae.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
 ||one6u.xyz^
@@ -46296,6 +46307,7 @@ inapps.appsflyersdk.com^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||sq59.cn^
+||ssjuxsc.cn^
 ||tgbevv.xyz^
 ||tifyeldi.top^
 ||tqdctl.xyz^
@@ -46309,18 +46321,10 @@ inapps.appsflyersdk.com^
 ||xccadc.com^
 ||xcvwrj.xyz^
 ||xiaoxiuapp.com^
+||xmxupz.xyz^
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zfcdirf.icu^
-||boewgph.icu^
-||betcss.site^
-||ssjuxsc.cn^
-||xmxupz.xyz^
-||hstbrt.xyz^
-||gkjmev3.com^
-||lifyeldl.top^
-||dadbj.cn^
-||kyq3xch.icu^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
@@ -53868,10 +53872,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||connectreadoasis.com^
-||falsarywaybung.com^
-||nieae.xyz^
-||hlnr9q.icu^
 -ad-300x600-
 -ad-336x280-
 -ad-458x80.
@@ -70851,7 +70851,6 @@ arketing.indianadunes.com^
 ||0377shujuhuifu.top^
 ||b1.0430.com^
 ||b2.0430.com^
-||0439c255ac.com^
 ||q.0451106.com^
 ||0511code.com^
 ||0512pifa.com.cn^
@@ -70898,9 +70897,7 @@ arketing.indianadunes.com^
 ||0b6h.cn^
 ||m.0cec5.com^
 ||0ci.top^
-||0dc77eb60d.com^
 ||0doo.net^
-||0e24f9441d.com^
 ||dueu.0fwg.cn^
 ||cdn.0i-i0.com^
 ||dmtu.0m31a.cn^
@@ -71142,8 +71139,6 @@ arketing.indianadunes.com^
 ||198game.com^
 ||m.198nc.cn^
 ||1beb2a44.space^
-||1c2e32f165.com^
-||1c4786449b.com^
 ||a6s.1cakeclub.com^
 ||1drj.com^
 ||1f3k.com^
@@ -71209,7 +71204,6 @@ arketing.indianadunes.com^
 ||ct.210189.com^
 ||2144.cn^
 ||flash.2144.com^
-||21550edfab.com^
 ||2155ec.com^
 ||admarket.21cn.com^
 ||shows.21cn.com^
@@ -71234,15 +71228,12 @@ arketing.indianadunes.com^
 ||234y.com^
 ||235123.net^
 ||2398.pw^
-||23d097de11.com^
 ||consent.23g.io^
 ||23kmm.com^
 ||23l1b.cn^
 ||m.23txt.com^
-||240875644b.com^
 ||mm.2436.cn^
 ||m.247pb.cn^
-||24c5d070b4.com^
 ||m.24haitao.net^
 ||m.24ihe.cn^
 ||24kad.com^
@@ -71264,7 +71255,6 @@ arketing.indianadunes.com^
 ||m.28487.net^
 ||285680.com^
 ||storage.29293.com^
-||299f70c6b2.com^
 ||2a.com.cn^
 ||2bj.cn^
 ||t.2d-c.cn^
@@ -71313,13 +71303,11 @@ arketing.indianadunes.com^
 ||31911.com^
 ||dm1.3199.cn^
 ||320ca3f6.space^
-||32290aaae8.com^
 ||322927.com^
 ||324.com^
 ||32414.com^
 ||32666099.com^
 ||329329.com^
-||32c7e8d9a1.com^
 ||33-trk-srv.com^
 ||330ca589.space^
 ||3324.cn^
@@ -71391,7 +71379,6 @@ arketing.indianadunes.com^
 ||360shopping.com.cn^
 ||display.360totalsecurity.com^
 ||hot.m.shouji.360tpcdn.com^
-||364a426c46.com^
 ||36500.com^
 ||36500.net^
 ||c.365yigou.cn^
@@ -71434,7 +71421,6 @@ arketing.indianadunes.com^
 ||39mob.com^
 ||fbmjc.39yst.com^
 ||jsm.39yst.com^
-||3a1be44ca9.com^
 ||3alian.net^
 ||t.3apf.com^
 ||3c0cb3b4.space^
@@ -71685,14 +71671,12 @@ arketing.indianadunes.com^
 ||59jd.com^
 ||59kaixuan.com^
 ||pic1.59wd.com^
-||5b20a42861.com^
 ||cdn.5bong.com^
 ||5c.com.cn^
 ||m.5d63b.cn^
 ||5egk.com^
 ||api.5eln.cn^
 ||5etv.com^
-||5f249e1d30.com^
 ||e.5h9gdb.cn^
 ||m.5h9gdb.cn^
 ||5idxw.com^
@@ -71745,7 +71729,6 @@ arketing.indianadunes.com^
 ||m.62mao.com^
 ||fd2.m.630book.la^
 ||rt2.m.630book.la^
-||6374870abd.com^
 ||63kc.com^
 ||m.640640.com^
 ||wwww.640640.com^
@@ -71754,7 +71737,6 @@ arketing.indianadunes.com^
 ||wwww.649649.com^
 ||64si.com^
 ||64uq73u7ug.webcam^
-||6521d79e42.com^
 ||s.652748.com^
 ||6554.net^
 ||game.65pk.net^
@@ -71829,8 +71811,6 @@ arketing.indianadunes.com^
 ||71.am^
 ||7116966.com^
 ||711983.com^
-||711f421280.com^
-||713661e535.com^
 ||716703.com^
 ||m.7180443.com^
 ||bdcdncmn-gd.inter.71edge.com^
@@ -71857,7 +71837,6 @@ arketing.indianadunes.com^
 ||76802.net^
 ||772773a.com^
 ||77455.com^
-||774e14a837.com^
 ||7759.com^
 ||77777.org^
 ||7794.com^
@@ -71933,7 +71912,6 @@ arketing.indianadunes.com^
 ||85058s.com^
 ||uu.85655095.com^
 ||859377.com^
-||85c485513f.com^
 ||uxek.85nv96.cn^
 ||m.85rvq.cn^
 ||85un.com^
@@ -72096,7 +72074,6 @@ arketing.indianadunes.com^
 ||9dreams.net^
 ||ee.9e6zb.cn^
 ||m.9e6zb.cn^
-||9f3f61c6a1.com^
 ||9h1111.com^
 ||adsdk.9imobi.com^
 ||9ipin.cn^
@@ -72135,11 +72112,9 @@ arketing.indianadunes.com^
 ||b.a0trade.top^
 ||a0x.cn^
 ||tgd.a1eg07.cn^
-||a2cfb6f626.com^
 ||a2m.cn^
 ||a2zapk.com^
 ||a3p4.net^
-||a43fba7878.com^
 ||m.a6m8h.cn^
 ||yfjq.a6ntv.cn^
 ||a7shun.com^
@@ -72169,7 +72144,6 @@ arketing.indianadunes.com^
 ||m.abfalse.cn^
 ||m.abfirst.cn^
 ||abiaobai.cn^
-||abjvrdekgblem.com^
 ||abtao.wang^
 ||e.acaog.com^
 ||e.acaox.com^
@@ -72182,14 +72156,12 @@ arketing.indianadunes.com^
 ||acgbenzi.com^
 ||m.achig.com^
 ||m.achuc.com^
-||acirtpkh.com^
 ||acloud.com^
 ||acmexxx.com^
 ||acoossu.top^
 ||acor1sign.com^
 ||acoxcv.cn^
 ||acpprograms.org^
-||acronycgrimes.com^
 ||ms.actingidekex.cn^
 ||actionbutton.co^
 ||activehosted.com^
@@ -72234,7 +72206,6 @@ arketing.indianadunes.com^
 ||adgomob.com^
 ||uk3oi.adgze.cn^
 ||adhai.com^
-||adherencestated.com^
 ||adhouyi.com^
 ||display.adhudong.com^
 ||l.adiers.com^
@@ -72526,7 +72497,6 @@ arketing.indianadunes.com^
 ||nuloe.alksdh.com^
 ||all-about-tech.com^
 ||alldk.com^
-||allerdelphin.com^
 ||allfontshere.press^
 ||alllget.com^
 ||allosponsor.com^
@@ -72538,12 +72508,10 @@ arketing.indianadunes.com^
 ||alskd34.com^
 ||altavista.ovh^
 ||am0624.com^
-||amactycelyyvahc.com^
 ||amao.mobi^
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
 ||optimus-ads.amap.com^
-||amassshack.com^
 ||amateurhub.cam^
 ||consent.amateurphotographer.co.uk^
 ||amateurporn.net^
@@ -72566,7 +72534,6 @@ arketing.indianadunes.com^
 ||m.amhmhg.cn^
 ||amiok.org^
 ||amort.cn^
-||ancpurqgir.com^
 ||andmejs.com^
 ||schemas.android.com^
 ||anfeng.com^
@@ -72575,8 +72542,6 @@ arketing.indianadunes.com^
 ||c.anmeilai.net^
 ||e.anmeilai.net^
 ||m.anmeilai.net^
-||anmoivux.com^
-||annulmententrepreneurflex.com^
 ||gg.anqu.com^
 ||mm.anqu.com^
 ||anrdoezrs.net^
@@ -72659,7 +72624,6 @@ arketing.indianadunes.com^
 ||aqedsw4.com^
 ||m.aqiudaohang.com^
 ||aqqgli3vle.bid^
-||aqrhddwipyo.com^
 ||m.aquns.com^
 ||aran9midi.com^
 ||ardmall.com^
@@ -72667,7 +72631,6 @@ arketing.indianadunes.com^
 ||arpg2.com^
 ||2.arpun.com^
 ||t.arrows-hitech.com^
-||arrwjdoafypygo.com^
 ||m.arxnfj14120.cn^
 ||as.cf^
 ||imp.asahi.com^
@@ -72683,11 +72646,8 @@ arketing.indianadunes.com^
 ||jb.asqql.com^
 ||assetscdn.stream^
 ||m.assigned.cn^
-||astaticglib.com^
 ||aster18cdn.nl^
 ||aster18prx.nl^
-||asthmasham.com^
-||astonishingbrightscalpel.com^
 ||asvoxod.ru^
 ||ssl.aszy.club^
 ||atatus.com^
@@ -72715,7 +72675,6 @@ arketing.indianadunes.com^
 ||augvtjtnsfnxg.ru^
 ||auiehechoulh.ru^
 ||aup.mobi^
-||aurjueeh.com^
 ||auroramine.com^
 ||aurorapush.cn^
 ||aurorapush.com^
@@ -72758,7 +72717,6 @@ arketing.indianadunes.com^
 ||avfay.com^
 ||avis-verifies.com^
 ||player.avplayer.com^
-||avprvdlsfdmp.xyz^
 ||images.avsmt.cn^
 ||avualrhg9p.bid^
 ||avualrhg9p0.bid^
@@ -72766,8 +72724,6 @@ arketing.indianadunes.com^
 ||awifi.cn^
 ||ms.awqsaged.cn^
 ||awstrack.me^
-||awwvbwym.xyz^
-||awxoddnhl.xyz^
 ||axbxgg.com^
 ||oil.axelspringer.com^
 ||axeptio.eu^
@@ -72786,15 +72742,12 @@ arketing.indianadunes.com^
 ||b2pk.com^
 ||my1fc.m.b5200.net^
 ||my1fimg.m.b5200.net^
-||b546c8dcd2.com^
 ||zxod.b54ah.cn^
-||b58e86edd0.com^
 ||b5h7.com^
 ||h.b5qpg.cn^
 ||m.b6wabb.cn^
 ||eyjs.b7nkd.cn^
 ||m.b93dpn.com^
-||ba05d69136.com^
 ||babybubble.cn^
 ||babymoment.net^
 ||titan.babytree.com^
@@ -73195,11 +73148,9 @@ arketing.indianadunes.com^
 ||m.bentengcn.com^
 ||beopinion.com^
 ||berateveng.ru^
-||bergallgenion.com^
 ||consent.berliner-kurier.de^
 ||berserkpl.net.pl^
 ||bes-progfree.com^
-||besheardefiler.com^
 ||besocial.online^
 ||best-cdn.pl^
 ||bestcoinsignals.com^
@@ -73312,7 +73263,6 @@ arketing.indianadunes.com^
 ||bjxiaohua.com^
 ||bjycsb.com^
 ||jdg.bjygfd.com^
-||bkcohabmojjhot.com^
 ||bkdg.net^
 ||m.bkuax.com^
 ||bkvps.com^
@@ -73337,11 +73287,9 @@ arketing.indianadunes.com^
 ||blue2fund.com^
 ||bluematrixs.com^
 ||iiid.bluescream.cn^
-||blzjjrwbwvjyr.top^
 ||blzsnd02.com^
 ||bmcm.ml^
 ||fpbbdx2.bmcx.com^
-||bmfeed.ru^
 ||fds.bmfwwz.top^
 ||s.bmgan.com^
 ||bmnadutub.ru^
@@ -73390,12 +73338,10 @@ arketing.indianadunes.com^
 ||bp776.com^
 ||lerg.bpafree.cn^
 ||bpmonline.com^
-||bracaetimbers.com^
 ||brafsc.top^
 ||e.breezily168.com^
 ||m.breezily168.com^
 ||brfiles.com^
-||bricius-ing.com^
 ||brie5jiff.com^
 ||brightadnetwork.com^
 ||brightinfo.com^
@@ -73433,7 +73379,6 @@ arketing.indianadunes.com^
 ||bulldogcpi.com^
 ||bumskontakte.ch^
 ||burn5tilt.com^
-||busingcoryzal.com^
 ||butcalve.com^
 ||butlerelectricsupply.com^
 ||butou.cn^
@@ -73527,12 +73472,10 @@ arketing.indianadunes.com^
 ||e.cbeif.com^
 ||m.cbeif.com^
 ||cben9a9s1.com^
-||cbfadomkpsngfhg.xyz^
 ||cbmiocw.com^
 ||cbox.ws^
 ||dw.cbsi.com^
 ||vidtech.cbsinteractive.com^
-||cbyjpnjua.xyz^
 ||www.lm.cccab.club^
 ||cccrir.com^
 ||cccwwwr.com^
@@ -73542,8 +73485,6 @@ arketing.indianadunes.com^
 ||ccm19.de^
 ||ccmeng.com^
 ||m.ccouv.com^
-||ccqoeqerehkhsj.com^
-||ccrmyenu.xyz^
 ||btrace.ysp.cctv.cn^
 ||mtrace.ysp.cctv.cn^
 ||e.ccunf.com^
@@ -73553,7 +73494,6 @@ arketing.indianadunes.com^
 ||cdbgmj12.com^
 ||cdbnx5.com^
 ||cnzz.cdbsoi.com^
-||cddgouukdoaxdng.com^
 ||cdert34.com^
 ||m.cdfdfq.cn^
 ||cdfzcz.com^
@@ -73567,9 +73507,6 @@ arketing.indianadunes.com^
 ||cdn-code.host^
 ||cdn-jquery.host^
 ||woaizhongguo.cdn111222.com^
-||1150040879.rsc.cdn77.org^
-||1237323725.rsc.cdn77.org^
-||1496401215.rsc.cdn77.org^
 ||1480876790.rsc.cdn77.org^
 ||api.cdnbye.com^
 ||cdncounter.top^
@@ -73634,7 +73571,6 @@ arketing.indianadunes.com^
 ||1.chcx.cn^
 ||chd-daolujiance.com^
 ||checke.biz^
-||checkpost.club^
 ||mp.cheering3d.com^
 ||atrace.chelaile.net.cn^
 ||logs.chelaile.net.cn^
@@ -73743,9 +73679,7 @@ arketing.indianadunes.com^
 ||contents2.00110.citi.com^
 ||content22.citi.eu^
 ||content22.citibank.com.sg^
-||citricesu.com^
 ||citysex.com^
-||cixldfrkayl.com^
 ||e.cj59c.cn^
 ||photo.cjh9.cn^
 ||e.cjieh.com^
@@ -73759,7 +73693,6 @@ arketing.indianadunes.com^
 ||e.ckikq.com^
 ||m.ckikq.com^
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
-||ckmpojarw.com^
 ||claiks.com^
 ||privacy.claytonhomes.com^
 ||dg.claz.com.cn^
@@ -73879,7 +73812,6 @@ arketing.indianadunes.com^
 ||cnwav.com^
 ||cnxad.com^
 ||cnyibs.com^
-||cnywhcuyvjc.com^
 ||z1.cnywst.com^
 ||z2.cnywst.com^
 ||cnzz.cn^
@@ -74087,7 +74019,6 @@ arketing.indianadunes.com^
 ||m.cuoas.com^
 ||e.cuomm.com^
 ||m.cuoss.com^
-||currierfrank.com^
 ||cursors-4u.net^
 ||curtainsky.wang^
 ||customer-security.online^
@@ -74126,7 +74057,6 @@ arketing.indianadunes.com^
 ||kn.czzdf.com^
 ||d-ns.ga^
 ||d1ad.com^
-||d5df191530.com^
 ||ee.d6s2pn5t.cn^
 ||m.d6s2pn5t.cn^
 ||d77777777.com^
@@ -74144,7 +74074,6 @@ arketing.indianadunes.com^
 ||dahexs.net^
 ||gyca9f.dahuangcheng.cn^
 ||m.dailiq.cn^
-||dainaith.net^
 ||daiporno.com^
 ||e.daishuxy.com^
 ||m.daishuxy.com^
@@ -74203,7 +74132,6 @@ arketing.indianadunes.com^
 ||datouniao.com^
 ||live.tvpot.daum.net^
 ||m1.daumcdn.net^
-||daveexpose.com^
 ||z1.dawanjiahn.com^
 ||z2.dawanjiahn.com^
 ||img.dawenxue.org^
@@ -74221,14 +74149,12 @@ arketing.indianadunes.com^
 ||e.dbeii.com^
 ||m.dbeii.com^
 ||m.dbeij.com^
-||dbhhvmoq.com^
 ||m.dbiei.com^
 ||m.dbiej.com^
 ||dbncp.com^
 ||s.dbojetp.cn^
 ||dbrtkwaa81.com^
 ||e.dcaij.com^
-||dcbnameapneas.com^
 ||dcdvie.cn^
 ||m.dceni.com^
 ||dcimei.tw^
@@ -74254,7 +74180,6 @@ arketing.indianadunes.com^
 ||img752.de92.com^
 ||imgcdn.de92.com^
 ||sourcepoint.deadspin.com^
-||declarationextra.com^
 ||stat.dedecms.com^
 ||deecash.com^
 ||e.deimm.com^
@@ -74274,7 +74199,6 @@ arketing.indianadunes.com^
 ||cmp.deondernemer.nl^
 ||depttake.ga^
 ||touy.deryakose.com^
-||descendantmystery.com^
 ||5yrra.deshuangwang.cn^
 ||t.destentor.nl^
 ||devappgrant.space^
@@ -74338,11 +74262,9 @@ arketing.indianadunes.com^
 ||diaoguoshi.mobi^
 ||a.diaoyu.cn^
 ||codeym.dictall.com^
-||dictationsuspendedpreface.com^
 ||static.diditaxi.com.cn^
 ||didnkinrab.com^
 ||diediao.com^
-||dietalmatax.com^
 ||difnxm.cn^
 ||digiad.co^
 ||consent.digiapi.com^
@@ -74368,7 +74290,6 @@ arketing.indianadunes.com^
 ||direction-x.com^
 ||discountminds.com^
 ||omnikool.discovery.com^
-||disguisesirrational.com^
 ||displink.com^
 ||links.services.disqus.com^
 ||e.diupp.com^
@@ -74575,7 +74496,6 @@ arketing.indianadunes.com^
 ||m.e2n8vc.cn^
 ||e399.com^
 ||jfot.e647ob.cn^
-||e70ae51a50.com^
 ||s.e739.cn^
 ||fyal.e9emh.cn^
 ||m.e9wm6a.cn^
@@ -74612,7 +74532,6 @@ arketing.indianadunes.com^
 ||a.ecook.cn^
 ||ecookie.nl^
 ||staticcdn.ecootec.com^
-||ecpmrocks.com^
 ||t.ed.nl^
 ||eddjf.com^
 ||eddong.com^
@@ -74729,7 +74648,6 @@ arketing.indianadunes.com^
 ||m.eqiuy.com^
 ||erabaru.net^
 ||ere3j2e001.com^
-||erefwukouln.xyz^
 ||ergeapp.com^
 ||log.ergeduoduo.com^
 ||erlpbwy.cn^
@@ -74797,7 +74715,6 @@ arketing.indianadunes.com^
 ||eyewand.cn^
 ||eyouv.cn^
 ||ysm.ezprice.net^
-||ezqbbqybwjalw.top^
 ||e.ezuon.com^
 ||m.ezuon.com^
 ||g.f11w.com^
@@ -74808,7 +74725,6 @@ arketing.indianadunes.com^
 ||m.f2z4d.cn^
 ||sccdn.f2zd.com^
 ||g.f5gh.com^
-||f6d56854f2.com^
 ||f.f70123.com^
 ||f8272.com^
 ||m.f846b.cn^
@@ -74842,9 +74758,7 @@ arketing.indianadunes.com^
 ||ubm.fangtoo.com^
 ||fangyi.cn^
 ||fanjis.cn^
-||fanleaffalter.com^
 ||fanqianbb.com^
-||faotfobjefeaef.com^
 ||fapality.com^
 ||fapcandy.com^
 ||faphouse.com^
@@ -74852,7 +74766,6 @@ arketing.indianadunes.com^
 ||farrivederev.pro^
 ||pat.farvd.com^
 ||fashion-hat.cn^
-||faskoleb.com^
 ||fastcache.com.cn^
 ||fastclick.com^
 ||fastcmp.com^
@@ -74893,7 +74806,6 @@ arketing.indianadunes.com^
 ||fdtpyqqsnzxvt.ru^
 ||app.fdwdqc.cn^
 ||fear7calk.com^
-||featassuage.com^
 ||m.fecjf.cn^
 ||feed5baby.com^
 ||feedaty.com^
@@ -74953,7 +74865,6 @@ arketing.indianadunes.com^
 ||apk.fgzba.com^
 ||fhfg.net.cn^
 ||fhoa365.com^
-||fhxbrcrreq.com^
 ||m.fhxiaoshuo.com^
 ||aexz.rm.fhxiaoshuo.com^
 ||m.fhxsw.org^
@@ -74982,7 +74893,6 @@ arketing.indianadunes.com^
 ||fireworktv.com^
 ||firmware.center^
 ||a1.firstgw.com^
-||firthpyrones.com^
 ||fitanalytics.com^
 ||f.fj95560.com^
 ||fjdfqy.com^
@@ -75061,7 +74971,6 @@ arketing.indianadunes.com^
 ||fordprotectplans.com^
 ||forexprostools.com^
 ||forgot.mobi^
-||forkjork12.com^
 ||forrealzpiratebay.org^
 ||intern.forskning.no^
 ||fortrader.ru^
@@ -75069,7 +74978,6 @@ arketing.indianadunes.com^
 ||m.foumm.com^
 ||platform.foursquare.com^
 ||foxx.to^
-||fpofvdovrk.com^
 ||fqceyqo.com^
 ||ba.fqzds.com^
 ||freakads.com^
@@ -75373,7 +75281,6 @@ arketing.indianadunes.com^
 ||glb12pkgr.com^
 ||a.glcdn.co^
 ||gldsta-02-or.com^
-||glihelethy.com^
 ||glnvdc.cn^
 ||qqs.glpen08.com^
 ||l.glrcy.cn^
@@ -75406,7 +75313,6 @@ arketing.indianadunes.com^
 ||goldenways.fun^
 ||golderotica.com^
 ||golp4elik.com^
-||golpnkgkndw.com^
 ||prom.gome.com.cn^
 ||e.gomev.cn^
 ||m.gomev.cn^
@@ -75474,7 +75380,6 @@ arketing.indianadunes.com^
 ||grepr.com^
 ||gridcash.net^
 ||gridsumdissector.cn^
-||groowzer.com^
 ||group-ib.ru^
 ||grow1maid.com^
 ||growin.cn^
@@ -75814,7 +75719,6 @@ arketing.indianadunes.com^
 ||hiido.com^
 ||marketing.hilton.com^
 ||himandy.com^
-||himdipsad.com^
 ||hims1nice.com^
 ||notify.hindustantimes.com^
 ||adasad.myweb.hinet.net^
@@ -75939,7 +75843,6 @@ arketing.indianadunes.com^
 ||e.hpzyl.com^
 ||m.hpzyl.com^
 ||hqgjcm.com^
-||hqpsosgapieq.com^
 ||s1.hqq.tv^
 ||s2.hqq.tv^
 ||hrb1tng0.com^
@@ -75961,7 +75864,6 @@ arketing.indianadunes.com^
 ||ttm.htfmbt.com^
 ||htnote.info^
 ||httpp.gdn^
-||htyjoganiqpssk.com^
 ||m.hua6.cn^
 ||e.huaas.com^
 ||pgg.huabojnxdd.com^
@@ -76042,7 +75944,6 @@ arketing.indianadunes.com^
 ||huzhanbin.cn^
 ||hvgcfx1.com^
 ||m.hvjxf.cn^
-||hvxqkunspvtln.com^
 ||tikn.hwgs.info^
 ||hwmwin.com^
 ||hws.ru^
@@ -76062,7 +75963,6 @@ arketing.indianadunes.com^
 ||hygqtz.cn^
 ||ssl.hyhzy.cn^
 ||ycy.hyjyjc.com^
-||hymptxqijmmg.com^
 ||hypers.com^
 ||dsp.hypers.com.cn^
 ||t-abi.hypers.com.cn^
@@ -76221,8 +76121,6 @@ arketing.indianadunes.com^
 ||m.ik20nd.cn^
 ||a3.ikafan.com^
 ||a4.ikafan.com^
-||ikcdhvbyg.com^
-||ikftkvrktbgt.com^
 ||ikuailian.com^
 ||il8r.com^
 ||m.ilancc.com^
@@ -76249,7 +76147,6 @@ arketing.indianadunes.com^
 ||imindmap.cc^
 ||immob.cn^
 ||immugendx.com^
-||immunepine.com^
 ||yess.imneinei.com^
 ||impactslam.com^
 ||pix.impdesk.com^
@@ -76265,7 +76162,6 @@ arketing.indianadunes.com^
 ||e.inccnd.com^
 ||m.inccnd.com^
 ||incline9edge.com^
-||inclusahonkie.com^
 ||cookieapi.incomit.dk^
 ||cookieapi2.incomit.dk^
 ||dlres.ind9ed.com^
@@ -76324,6 +76220,7 @@ arketing.indianadunes.com^
 ||cmp.internetstandard.pl^
 ||intersportv.com^
 ||intrapromotion.com^
+||pfp.intuit.com^
 ||inveno.com^
 ||inwemo.com^
 ||m.io019p.cn^
@@ -76374,13 +76271,11 @@ arketing.indianadunes.com^
 ||store.iqiyi.com^
 ||iqiyi.kim^
 ||iqiyi.space^
-||iqqedthbwdq.com^
 ||ds-pv.iqu-operation.com^
 ||iquue.com^
 ||iqyewu.cn^
 ||e.irauz.com^
 ||m.irauz.com^
-||irchincsp.com^
 ||am.g.ireader.com^
 ||iridiumsergeiprogenitor.info^
 ||irkdsu.ru^
@@ -76480,11 +76375,9 @@ arketing.indianadunes.com^
 ||s.jandan.com^
 ||b3.jandan.net^
 ||plz.jandan.net^
-||janglemysticalpiggy.com^
 ||japheth.com.cn^
 ||japps.cn^
 ||japveny.ru^
-||jarringerns.com^
 ||jasmin.com^
 ||ns.jasnk.com^
 ||jaup0lake.com^
@@ -76500,7 +76393,6 @@ arketing.indianadunes.com^
 ||jbflil.cn^
 ||e.jbiev.com^
 ||jbpbox.com^
-||jbrnmlmvnayka.top^
 ||jsjs.jbzj.com^
 ||gg1.jc001.cn^
 ||m.jc9388.com^
@@ -76547,8 +76439,6 @@ arketing.indianadunes.com^
 ||cd.jejre.cn^
 ||jenxsw21lb.com^
 ||jesgoo.com^
-||jessehalurgy.com^
-||jetonfictile.com^
 ||cookies.jeugdjournaal.nl^
 ||jewelryedu.cn^
 ||unjs.jfcdns.com^
@@ -76611,7 +76501,6 @@ arketing.indianadunes.com^
 ||url.jiemengle.com^
 ||m.jieyixiu.com^
 ||jifenqiang.com^
-||jigaskoye.com^
 ||jiguang.cn^
 ||jiguangzhuisu.com^
 ||jihehuaban.com^
@@ -76629,7 +76518,6 @@ arketing.indianadunes.com^
 ||s.jimdo.com^
 ||u.jimdo.com^
 ||jimeilm.com^
-||jimjumsalkes.com^
 ||m.jinchaoyu.com^
 ||t8ac8a8f8.jingfeed.com^
 ||jingteinv.com^
@@ -76677,18 +76565,14 @@ arketing.indianadunes.com^
 ||jj123.com.cn^
 ||jjb168.net^
 ||jjiv.top^
-||jjoewnxeqt.com^
 ||a.jjqyk.com^
-||jjvzzqwfp.com^
 ||1234.jjxgly.com^
 ||jjyx.com^
 ||e.jkert.com^
 ||m.jkert.com^
-||jkfdnofnz.com^
 ||nw5.jkjjkj.top^
 ||snw5.jkjjkj.top^
 ||www5.jkjjkj.top^
-||jkkfnkxzf.com^
 ||zh.jktopia.com^
 ||m.jkuok.com^
 ||dm50.jkyd.net^
@@ -76916,7 +76800,6 @@ arketing.indianadunes.com^
 ||v7.kawinhome.com^
 ||kawo77.com^
 ||c.kbf365.cn^
-||kbqqavwrvwnjb.top^
 ||m.kbwmt.cn^
 ||kc9.cn^
 ||doit.kccqgj.cn^
@@ -77027,7 +76910,6 @@ arketing.indianadunes.com^
 ||klapenlyidveln.stream^
 ||klarnaservices.com^
 ||klgzzs.cn^
-||klyeconnecte.xyz^
 ||klz28.com^
 ||tjjs.km.com^
 ||img1.km.com^
@@ -77042,7 +76924,6 @@ arketing.indianadunes.com^
 ||ss.knet.cn^
 ||kngcjx.com^
 ||count.knowsky.com^
-||knsyenergyfl.xyz^
 ||kocom.mobi^
 ||kodcad.kr^
 ||kokojia.com^
@@ -77116,7 +76997,6 @@ arketing.indianadunes.com^
 ||m.kubiqq.com^
 ||kucent.com^
 ||kudifish.com^
-||kudrunoptime.com^
 ||kugo.cc^
 ||exceptionlog.kugou.com^
 ||log.web.kugou.com^
@@ -77174,11 +77054,9 @@ arketing.indianadunes.com^
 ||msphoneclick.kuwo.cn^
 ||rich.kuwo.cn^
 ||updatepage.kuwo.cn^
-||kuyecelxn.com^
 ||kuyun.com^
 ||hl.kuzu.com^
 ||kvhrrr.top^
-||kvjkkwyomjrx.com^
 ||api.kwaizt.com^
 ||wsoe.kwiago.com^
 ||e.kwjkd.com^
@@ -77209,7 +77087,6 @@ arketing.indianadunes.com^
 ||pwbs.l9c4s.cn^
 ||la61d.cn^
 ||m.la71f.cn^
-||labrumrehire.com^
 ||cc.labu24.de^
 ||lack4skip.com^
 ||ladymetro.com^
@@ -77309,18 +77186,15 @@ arketing.indianadunes.com^
 ||susapi.lenovomm.com^
 ||lenzmx.com^
 ||click.lergao.com^
-||lerotminored.com^
 ||s1.leshi123.cc^
 ||s2.leshi123.cc^
 ||leshu.com^
 ||lessbuttons.com^
-||lessonis.com^
 ||lessplay.com^
 ||letao.com^
 ||letaotaojishi.com^
 ||letsgetsocialnow.com^
 ||letterbox-path.com^
-||lettuceetoiles.com^
 ||n.mark.letv.com^
 ||static.app.m.letv.com^
 ||dc.letv.com^
@@ -77486,7 +77360,6 @@ arketing.indianadunes.com^
 ||lnzangcha.com^
 ||loading-delivery1.com^
 ||eei.lobbycafe.cn^
-||83.locksmaker.com.cn^
 ||dd.lofujj.com^
 ||lofv.xyz^
 ||loginfra.com^
@@ -77495,7 +77368,6 @@ arketing.indianadunes.com^
 ||logz.io^
 ||loki8lave.com^
 ||lokuai.com^
-||loldroiqkgy.com^
 ||loldyttw.com^
 ||loldyttw.net^
 ||lolopool.com^
@@ -77508,12 +77380,10 @@ arketing.indianadunes.com^
 ||looyu.com^
 ||lope4refl.com^
 ||lopostone.com^
-||losingfoundation.com^
 ||losital.ru^
 ||lostun.com^
 ||lote1otto.com^
 ||lotuseed.com^
-||loughsquashee.com^
 ||loupan99.com^
 ||admin.louxia.org^
 ||lovecam.com.br^
@@ -77682,7 +77552,6 @@ arketing.indianadunes.com^
 ||marcycoin.org^
 ||mari4norm.com^
 ||marisappear.pro^
-||maritanewark.com^
 ||mariuspetrescu.gq^
 ||markerly.com^
 ||markswebcams.com^
@@ -77710,7 +77579,6 @@ arketing.indianadunes.com^
 ||mayiad.com^
 ||maysunmedia.com^
 ||mazarine-ap.com^
-||maze4aem56jf.com^
 ||mbai.cn^
 ||jb.mbaidu.top^
 ||js.mbaidu.top^
@@ -77885,6 +77753,7 @@ arketing.indianadunes.com^
 ||ieonlinews.microsoft.com^
 ||kmwatson.events.data.microsoft.com^
 ||kmwatsonc.events.data.microsoft.com^
+||mobile.pipe.aria.microsoft.com^
 ||nw-umwatson.events.data.microsoft.com^
 ||rad.microsoft.com^
 ||redir.metaservices.microsoft.com^
@@ -78056,8 +77925,6 @@ arketing.indianadunes.com^
 ||modzj.net^
 ||t.mofun.ltd^
 ||mohecm.com^
-||moistlytactoid.com^
-||moitrrhiza.com^
 ||adlaunch.moji.com^
 ||fds.api.moji.com^
 ||log.moji.com^
@@ -78068,7 +77935,6 @@ arketing.indianadunes.com^
 ||cdn2.moji002.com^
 ||stats.mokeedev.com^
 ||log.tv.moliv.cn^
-||molliefidac.com^
 ||momwentthere.cf^
 ||momzs.com^
 ||mon-com-01.com^
@@ -78093,7 +77959,6 @@ arketing.indianadunes.com^
 ||moquanad.com^
 ||morehitserver.com^
 ||moreshare.com^
-||moriceprich.com^
 ||morningdigit.com^
 ||mosa86.com^
 ||n.a.mosenni.com^
@@ -78115,7 +77980,6 @@ arketing.indianadunes.com^
 ||mldys.mqchy.cn^
 ||e.mqgpo.com^
 ||m.mqgpo.com^
-||mrkhaxsvljlzl.com^
 ||mrpiracy.xyz^
 ||mrporngeek.com^
 ||e.mrsasharingspace.com^
@@ -78151,8 +78015,6 @@ arketing.indianadunes.com^
 ||m.msujd.cn^
 ||s.mt145.com^
 ||rabbit.mtadvert.com^
-||mtgzlnugxej.com^
-||mtinsqq.com^
 ||ee.mtmfjdo.cn^
 ||m.mtmfjdo.cn^
 ||mtmob.com^
@@ -78229,7 +78091,6 @@ arketing.indianadunes.com^
 ||mylovesister.gq^
 ||myoffers.bid^
 ||myoffers.party^
-||mypersonalrec.xyz^
 ||myprecisionads.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
@@ -78388,7 +78249,6 @@ arketing.indianadunes.com^
 ||m.nfkos.com^
 ||eo.nftqkq.cn^
 ||ngbn.net^
-||ngecauuksehin.xyz^
 ||ngtraveler.com.cn^
 ||niaideren.icu^
 ||nicearticle.cc^
@@ -78427,7 +78287,6 @@ arketing.indianadunes.com^
 ||niux88.com^
 ||rjs.niuxgame77.com^
 ||niwota.com^
-||nixonmordore.com^
 ||ehdj.njguluyu.cn^
 ||e.njiet.com^
 ||m.njiet.com^
@@ -78493,7 +78352,6 @@ arketing.indianadunes.com^
 ||u034024.nr1234.com^
 ||u291014.nr1234.com^
 ||nrelate.com^
-||nrrpuavyaabwy.com^
 ||nryiou.cn^
 ||c.ns8d.com^
 ||choice.microsoft.com.nsatc.net^
@@ -78547,7 +78405,6 @@ arketing.indianadunes.com^
 ||nyhpyq.com^
 ||kn.nykps.com^
 ||nylalobghyhirgh.com^
-||nyqlwjjghhgsqeg.com^
 ||nyzda.top^
 ||nz04com.com^
 ||hxfu.nz53h.cn^
@@ -78609,7 +78466,6 @@ arketing.indianadunes.com^
 ||ole7o.cn^
 ||olecintri.com^
 ||olmvkq.cn^
-||ombineukdwith.xyz^
 ||omlube.com^
 ||m.omztf.cn^
 ||oneapm.com^
@@ -78653,7 +78509,6 @@ arketing.indianadunes.com^
 ||opinionbar.com^
 ||opinionstage.com^
 ||opmnstr.com^
-||opolicycrea.xyz^
 ||u.oppomobile.com^
 ||httpdns.push.oppomobile.com^
 ||i.flow.browser.oppomobile.com^
@@ -78693,8 +78548,6 @@ arketing.indianadunes.com^
 ||msg.c002.ottcn.com^
 ||otto5loki.com^
 ||consentement.ouest-france.fr^
-||ouftuthy.net^
-||oumtoujo.net^
 ||oupai.cc^
 ||c.bxb.oupeng.com^
 ||ezine.oupeng.com^
@@ -78706,7 +78559,6 @@ arketing.indianadunes.com^
 ||ouslayer.co^
 ||g.ousns.net^
 ||outbrain.com^
-||outfishfumy.com^
 ||revive.outin.cn^
 ||outster.com^
 ||overturechina.com^
@@ -78733,14 +78585,11 @@ arketing.indianadunes.com^
 ||page9awry.com^
 ||pagechoice.com^
 ||pagechoice.net^
-||pagne4cham4hrobl.com^
 ||vip.pai76.com^
 ||paid-to-promote.net^
-||paifemouchoa.com^
 ||wx.paigu.com^
 ||vip.paipaiup.com^
 ||pair1tune.com^
-||palemanpathlet.com^
 ||palm-ad.cn^
 ||panger-top.click^
 ||pangolin-sdk-toutiao-b.com^
@@ -78757,7 +78606,6 @@ arketing.indianadunes.com^
 ||parallelsdesktop.cn^
 ||cmp.parkers.co.uk^
 ||parkingpremium.com^
-||parolesvira.com^
 ||parse.ly^
 ||partishion.com^
 ||partnercash.com^
@@ -78808,8 +78656,6 @@ arketing.indianadunes.com^
 ||cookie.pearshealthcyber.com^
 ||pebx.pl^
 ||pecash.com^
-||peckleooze.com^
-||pectationselea.xyz^
 ||pee.cn^
 ||peep1alea.com^
 ||pema.cl^
@@ -78848,7 +78694,6 @@ arketing.indianadunes.com^
 ||m.picbr.com^
 ||piclick.cn^
 ||pictureturn.com^
-||pidanpaven.com^
 ||pie.net.pk^
 ||m.pieaa.com^
 ||pietpiraat.org^
@@ -78882,7 +78727,6 @@ arketing.indianadunes.com^
 ||piratebay.to^
 ||piratenbucht.eu^
 ||pirateproxy.cl^
-||pitchedsprout.com^
 ||r.pixgold.com^
 ||pixanalytics.pixnet.net^
 ||pixanalytics2.pixnet.net^
@@ -78908,7 +78752,6 @@ arketing.indianadunes.com^
 ||placeholder.com^
 ||pladform.ru^
 ||plantaosexy.com^
-||plashcashierbleach.com^
 ||plausible.io^
 ||plaxo.com^
 ||play-asia.com^
@@ -78934,7 +78777,6 @@ arketing.indianadunes.com^
 ||m.pmshy.cn^
 ||pnads.com^
 ||lol.pnhfc.com^
-||pnmoclqxtcsbw.com^
 ||pnperf.com^
 ||po18.in^
 ||pocketgolf.host^
@@ -78947,7 +78789,6 @@ arketing.indianadunes.com^
 ||s.pomhz.com^
 ||e.pomkl.com^
 ||m.pomkl.com^
-||ponentshebar.com^
 ||poonproscash.com^
 ||e.poonscn.com^
 ||m.poonscn.com^
@@ -79070,8 +78911,6 @@ arketing.indianadunes.com^
 ||prt-or-067.com^
 ||prtawe.com^
 ||prxymecb.cn^
-||psewhaur.net^
-||psiwaphado.pro^
 ||psma01.com^
 ||psma03.com^
 ||pstarv.cn^
@@ -79087,7 +78926,6 @@ arketing.indianadunes.com^
 ||gg.ptfish.com^
 ||pthejzb.com^
 ||cookies.ptj.de^
-||ptogheeb.net^
 ||ptrfc.com^
 ||m.ptuoa.com^
 ||ptwebcams.com^
@@ -79100,7 +78938,6 @@ arketing.indianadunes.com^
 ||public6.com^
 ||publicidad.tv^
 ||publish0x.com^
-||publisheradnetwork.com^
 ||pubnub.com^
 ||pubtech.ai^
 ||pulsigame.com^
@@ -79108,7 +78945,6 @@ arketing.indianadunes.com^
 ||punchsub.net^
 ||e.puooi.com^
 ||m.puooi.com^
-||pupsotdub.com^
 ||puscomosca.com^
 ||push-centr.com^
 ||push-centr.net^
@@ -79148,14 +78984,12 @@ arketing.indianadunes.com^
 ||pussyeatingclub.com^
 ||pusure.com^
 ||putanapartners.com^
-||puttooretried.com^
 ||pw321.com^
 ||e.pwjhg.com^
 ||m.pwjhg.com^
 ||e.px69z.cn^
 ||m.px69z.cn^
 ||pxblmj.com^
-||pxdujpdbdqkisil.com^
 ||pxene.com^
 ||pxf.io^
 ||pic.pxstda.com^
@@ -79164,7 +78998,6 @@ arketing.indianadunes.com^
 ||cdn.pyadx.com^
 ||pyerc.com^
 ||cnzz.pygold.net^
-||pythat.com^
 ||pyzjhd.com^
 ||t.pzc.nl^
 ||t.pzclw.cn^
@@ -79182,7 +79015,6 @@ arketing.indianadunes.com^
 ||ms.qaqact.cn^
 ||eco.qasdw3.xyz^
 ||mvo.qasdw3.xyz^
-||qauocloz.com^
 ||mo.qb138.cn^
 ||qbdgame.com^
 ||m.qbenu.com^
@@ -79536,21 +79368,16 @@ arketing.indianadunes.com^
 ||qwxcs.com^
 ||show.qx15.com^
 ||adimg.qxlsjw.com^
-||qxorwqytvbnas.com^
 ||ckjyck.qxs.la^
 ||ddkkrrla.m.qxs.la^
 ||ddrrccck.m.qxs.la^
 ||dxprla.m.qxs.la^
 ||yyffeicd.m.qxs.la^
 ||zbz.m.qxs.la^
-||qxxvqkhxre.com^
 ||qxxys.com^
 ||api.ts.feedback.qy.net^
 ||msgv6.qy.net^
-||qyhrovvpb.com^
 ||t75.qyqc4s.com^
-||qyvjtmdpngs.com^
-||qyzerlzqbleey.top^
 ||zxl.qzbxfs.com^
 ||kn.qzdaren.com^
 ||gog9.qzdfc.com^
@@ -79571,7 +79398,6 @@ arketing.indianadunes.com^
 ||raccogliereilconsenso.com^
 ||rack-media.com^
 ||c753738.r38.cf2.rackcdn.com^
-||rackmanbehind.com^
 ||raeqqe.cn^
 ||ragazzeinvendita.com^
 ||p.raidmedia.com.cn^
@@ -79586,7 +79412,6 @@ arketing.indianadunes.com^
 ||rate8deny.com^
 ||rating-widget.com^
 ||ratingtoplist.com^
-||raupsooy.net^
 ||rayli.com.cn^
 ||rbkshort.info^
 ||e.rcaiu.com^
@@ -79640,9 +79465,7 @@ arketing.indianadunes.com^
 ||renminben.com^
 ||jebe.renren.com^
 ||weixin.renrenying.com^
-||repbowdew.com^
 ||report-uri.com^
-||report2.biz^
 ||repost.us^
 ||req12pkg.com^
 ||req12pkgb.com^
@@ -79651,9 +79474,7 @@ arketing.indianadunes.com^
 ||researchintel.com^
 ||reservedoffers.cl^
 ||reservedoffers.club^
-||resigt.com^
 ||responsys.net^
-||restedhope.com^
 ||retadint.com^
 ||reviewability.com^
 ||revinate.com^
@@ -79708,7 +79529,6 @@ arketing.indianadunes.com^
 ||feedback.cn.ronghub.com^
 ||stats.cn.ronghub.com^
 ||s3.rongnews.com^
-||roost.me^
 ||rote8mino.com^
 ||rottenwhorememe.cf^
 ||rove.cl^
@@ -79754,7 +79574,6 @@ arketing.indianadunes.com^
 ||ruth8badb.com^
 ||ruvuryua.ru^
 ||a6s.ruyiqufu.com^
-||rvwtpwmtnfj.com^
 ||gang.rw33.cn^
 ||m.rwganw.cn^
 ||rwpt.top^
@@ -79848,7 +79667,6 @@ arketing.indianadunes.com^
 ||scalaproject.io^
 ||scaleway.ovh^
 ||scan-trail.com^
-||scapid.com^
 ||scdcd333.cn^
 ||scdng.com^
 ||scfans.cn^
@@ -79874,7 +79692,6 @@ arketing.indianadunes.com^
 ||scrolltotop.com^
 ||scrookie.nl^
 ||sdn.scset.com.cn^
-||scswlgxttvekd.com^
 ||ed.sczhilong.cn^
 ||m.sdaih.com^
 ||sdaiv.com^
@@ -79915,13 +79732,11 @@ arketing.indianadunes.com^
 ||sellbuyads.cn^
 ||static.sellbuyshop.cn^
 ||sematext.com^
-||sempcxjajh.com^
 ||sen-to-zdrowie.ml^
 ||sendlane.com^
 ||sendpulse.com^
 ||sendsay.ru^
 ||player.sendtonews.com^
-||sendyourpush.com^
 ||sentemanactri.com^
 ||sentry.io^
 ||senzapudore.it^
@@ -79929,7 +79744,6 @@ arketing.indianadunes.com^
 ||seordl.cn^
 ||assets.servedby-buysellads.com^
 ||service4refresh.info^
-||setemoump.com^
 ||setqfx.cn^
 ||setqre.cn^
 ||cmp.setupcmp.com^
@@ -79971,7 +79785,6 @@ arketing.indianadunes.com^
 ||md.sh5e.com^
 ||sha50.com^
 ||shaferglazer.com^
-||shaledpaidle.com^
 ||shama5.com^
 ||app.shandjj.com^
 ||b17.shangc.net^
@@ -80026,7 +79839,6 @@ arketing.indianadunes.com^
 ||shkunjia.com.cn^
 ||shkywh.com^
 ||shllhz.net^
-||shoizifjwosvk.com^
 ||sy.shongcheng.com^
 ||shop265.com^
 ||reviews.shoppydoo.it^
@@ -80161,14 +79973,12 @@ arketing.indianadunes.com^
 ||skeettools.com^
 ||skencituer.com^
 ||skimresources.com^
-||skryptcookies.pl^
 ||skye6oner.com^
 ||skyjh.cn^
 ||games-direct.skynetworkcdn.com^
 ||share.static.skyrock.net^
 ||skysa.com^
 ||slidedeck.com^
-||slimybaptism.com^
 ||sljkj.com^
 ||a.slsbc.cn^
 ||sm-tc.cn^
@@ -80244,7 +80054,6 @@ arketing.indianadunes.com^
 ||social-bookmarking-tools.de^
 ||social-touch.com^
 ||sociallist.org^
-||sociallycontend.com^
 ||socialoomph.com^
 ||socialsexnetwork.net^
 ||socialtwist.com^
@@ -80337,7 +80146,6 @@ arketing.indianadunes.com^
 ||sohulink.cc^
 ||soil5hear.com^
 ||sojern.com^
-||solenttovaria.com^
 ||cache.soloth.com^
 ||solutionsadultes.com^
 ||api-secure.solvemedia.com^
@@ -80353,7 +80161,6 @@ arketing.indianadunes.com^
 ||js.soonyou123.com^
 ||soperson.com^
 ||de.soquair.com^
-||soshednibbing.com^
 ||e.sosjyx.com^
 ||m.sosjyx.com^
 ||soua.com^
@@ -80376,7 +80183,6 @@ arketing.indianadunes.com^
 ||sparkloop.app^
 ||sparnove.com^
 ||spinasale.com^
-||sportrookier.com^
 ||sportstream365.com^
 ||log.spotify.com^
 ||spreadable.com.cn^
@@ -80441,7 +80247,6 @@ arketing.indianadunes.com^
 ||staticxz.com^
 ||statigr.am^
 ||statistic.date^
-||statisticsdemandeddeficit.com^
 ||stats.lt^
 ||statserv.net^
 ||c.statstat888.com^
@@ -80464,7 +80269,6 @@ arketing.indianadunes.com^
 ||stripsaver.com^
 ||clickmail.stubhub.com^
 ||gdpr.studybreakmedia.com^
-||stueqkxa.com^
 ||consent.stuff.tv^
 ||m.stuoe.com^
 ||stuowq.cn^
@@ -80473,8 +80277,6 @@ arketing.indianadunes.com^
 ||o.su9orw.cn^
 ||subloader.cf^
 ||ss.subo.me^
-||subserecajones.com^
-||subtextslypes.com^
 ||suedai.com^
 ||e.suehy.com^
 ||m.suehy.com^
@@ -80630,7 +80432,6 @@ arketing.indianadunes.com^
 ||maccms.tan5858.com^
 ||news.hm.map.tanequ.cn^
 ||tangchaohes.cn^
-||tangiblewhereuponprestige.com^
 ||tanjs.com^
 ||tank3pull.com^
 ||tansuotv.com^
@@ -80749,10 +80550,8 @@ arketing.indianadunes.com^
 ||team-rec.jp^
 ||teasernet.ru^
 ||teaservizio.com^
-||teazledbyes.com^
 ||js.static.tebaidu.cn^
 ||tg.tebiezhuan.com^
-||tebo0o2xw4.com^
 ||techkey.com.cn^
 ||www5.technews.tw^
 ||techniservinc.com^
@@ -81059,15 +80858,11 @@ arketing.indianadunes.com^
 ||trksrv44.com^
 ||trksrv45.com^
 ||trksrv46.com^
-||trochaboozing.com^
-||trochilsawbwa.com^
 ||truendo.com^
 ||trunblock.com^
 ||trustaproiam.de^
-||trustdispel.com^
 ||consent.truste.com^
 ||trusteverything.de^
-||trustmeiamcdn.com^
 ||trustutn.org^
 ||sealserver.trustwave.com^
 ||truyoproductionuscdn.truyo.com^
@@ -81148,10 +80943,8 @@ arketing.indianadunes.com^
 ||vpn.tuodupingguomiao.com^
 ||tuoens.cn^
 ||m.tuopp.com^
-||tutlyinlaik.com^
 ||a.tuuituii2999.com^
 ||tuxi.com.cn^
-||tuzaanotto.com^
 ||m.tv12h.cn^
 ||slib.tvmao.cn^
 ||tvrom.cn^
@@ -81186,13 +80979,9 @@ arketing.indianadunes.com^
 ||8nc8shot.txxx.com^
 ||cpv.ty229.com^
 ||photo.tycwpx.cn^
-||tyessulfone.com^
-||tygeygrvvpjpcbr.com^
-||tykinggowd.com^
 ||tykor.net^
 ||urh.tylll.com^
 ||yxs.tymsyx.com^
-||tyranniupclose.com^
 ||images.tyyjzs.cn^
 ||tz-dsp.com^
 ||tzbtw.com^
@@ -81289,7 +81078,6 @@ arketing.indianadunes.com^
 ||sas816.ujikdd041o.cn^
 ||uk8866.cn^
 ||ukeiae.com^
-||ukemyfuuk.xyz^
 ||get.ukg.com^
 ||e.uksnyf.cn^
 ||ulink.cc^
@@ -81314,7 +81102,6 @@ arketing.indianadunes.com^
 ||unaspajas.com^
 ||unblockedtpb.pw^
 ||unblocktheship.org^
-||uncinalmystes.com^
 ||ccb.uncle-ad.com^
 ||uni69.top^
 ||cookies.unidadeditorial.es^
@@ -81335,8 +81122,6 @@ arketing.indianadunes.com^
 ||uniregistry.com^
 ||unityads.unitychina.cn^
 ||unlitui.com^
-||unnecessaryexplorationdrunken.com^
-||unripedredwud.com^
 ||unrummaged.com^
 ||unta.cn^
 ||uodoo.com^
@@ -81358,16 +81143,12 @@ arketing.indianadunes.com^
 ||upscri.be^
 ||slb.upshengyi.com^
 ||w.uptolike.com^
-||upwithpansit.com^
 ||uqidian.com^
 ||uralweb.ru^
 ||urbanproxy.eu^
-||urbatt.com^
 ||service.urchin.com^
 ||uri6.com^
 ||url.ms^
-||urljhgwmlq.com^
-||uroztdorg.com^
 ||us.cf^
 ||e.us8l5b.cn^
 ||usablenet.com^
@@ -81381,7 +81162,6 @@ arketing.indianadunes.com^
 ||usn.cc^
 ||link.messaging.usnews.com^
 ||usocial.pro^
-||usuadr.com^
 ||utlove02.com^
 ||wap.utmei.cn^
 ||app.uu.cc^
@@ -81497,11 +81277,9 @@ arketing.indianadunes.com^
 ||vicomi.com^
 ||vid123.net^
 ||video-people.com^
-||videocampaign.co^
 ||rtas.videocc.net^
 ||videojj.com^
 ||videoplayer2.xyz^
-||videosvstincredible.com^
 ||vidfile.net^
 ||conf.vidown.cn^
 ||gg.vidown.cn^
@@ -81707,7 +81485,6 @@ arketing.indianadunes.com^
 ||api.anti.wauee.com^
 ||static.wauee.com^
 ||wauk1care.com^
-||wauthaum.com^
 ||up-cookiemon.wavecdn.net^
 ||pp.wayqq.com^
 ||w1.wayqq.com^
@@ -81718,13 +81495,11 @@ arketing.indianadunes.com^
 ||m.wbanz.com^
 ||m.wbaoz.com^
 ||m.wbeiz.com^
-||wbgwuftclaya.com^
 ||e.wbies.com^
 ||m.wbiev.com^
 ||wc4.net^
 ||e.wc59b.cn^
 ||m.wc59b.cn^
-||wcadlxvbjus.com^
 ||m.wcail.com^
 ||wcaos.com^
 ||wcdzw.com^
@@ -81737,7 +81512,6 @@ arketing.indianadunes.com^
 ||wdad.cc^
 ||e.wdeie.com^
 ||m.wdeie.com^
-||wdhadgvlbdt.com^
 ||e.wdiur.com^
 ||m.wdiur.com^
 ||qaz.wdou168.com^
@@ -81841,7 +81615,6 @@ arketing.indianadunes.com^
 ||whereismommy.gq^
 ||whitepush.biz^
 ||whoclick.cn^
-||whoutsiy.net^
 ||whpxy.com^
 ||whshangsha.com^
 ||m.whsjg.cn^
@@ -82056,7 +81829,6 @@ arketing.indianadunes.com^
 ||woobox.com^
 ||statics.woozooo.com^
 ||wordc.ga^
-||workroomsplittingtrashy.com^
 ||worldpush.co^
 ||worldsbestcams.com^
 ||worldssl.net^
@@ -82394,7 +82166,6 @@ arketing.indianadunes.com^
 ||xj40666.vip^
 ||conabi.xjditan.com^
 ||xjjkjo.pw^
-||xjqxegvywrkapx.com^
 ||jjx.xjtxcj.com^
 ||xjuneuud.cn^
 ||js2553.xjzyq.com^
@@ -82464,7 +82235,6 @@ arketing.indianadunes.com^
 ||ee.xr883.cn^
 ||m.xr883.cn^
 ||xrain.net^
-||xrhvxrnlxjfxab.com^
 ||e.xroun.com^
 ||m.xroun.com^
 ||xrtzf.com^
@@ -82616,7 +82386,6 @@ arketing.indianadunes.com^
 ||yaonilugg.com^
 ||cps.yaoqing.com^
 ||yaoyee.com^
-||yardsboffin.com^
 ||yaxujiancai.cn^
 ||wap.yb3.cc^
 ||m.ybaih.com^
@@ -82630,12 +82399,10 @@ arketing.indianadunes.com^
 ||m.ybeih.com^
 ||m.ybfwmm.cn^
 ||ybjfsqcevow.ru^
-||ybruwzpma.com^
 ||ccv.ybt999.com^
 ||ybtianxi.com^
 ||yccdn.com^
 ||m.yceno.com^
-||ycghvwoeylmmn.com^
 ||ych168.cn^
 ||ym.ychap.com^
 ||ycjisa.cn^
@@ -82643,7 +82410,6 @@ arketing.indianadunes.com^
 ||ycmedia.cn^
 ||ycreateam.cn^
 ||ycszgt.cn^
-||yctamonieomgb.com^
 ||e.ycuoj.com^
 ||m.ycuoj.com^
 ||ycx.kim^
@@ -82660,7 +82426,6 @@ arketing.indianadunes.com^
 ||ydwsjt-2.com^
 ||123.ydylwang.net^
 ||ir.mail.yeah.net^
-||yeaonesad.com^
 ||yeeok.com.cn^
 ||yehuitudu.cn^
 ||yellowto.com^
@@ -82677,8 +82442,6 @@ arketing.indianadunes.com^
 ||e.yfano.com^
 ||m.yfano.com^
 ||yfi8.com^
-||yfqnmourhgim.com^
-||yfvhmilspr.com^
 ||s.yfycy.com^
 ||yfzcuw.cn^
 ||yglhcn.cn^
@@ -82689,7 +82452,6 @@ arketing.indianadunes.com^
 ||ygyzx.cn^
 ||yh21kk.com^
 ||yh300.vip^
-||yhagrnmokt.com^
 ||yhdd1.com^
 ||s.yhgongsi.com^
 ||asd.yhzbjz.com^
@@ -83098,7 +82860,6 @@ arketing.indianadunes.com^
 ||e.zg39b.cn^
 ||m.zg39b.cn^
 ||zg40c.cn^
-||f.zgbmw.com.cn^
 ||zgc66.com^
 ||zgclmw.cn^
 ||zgdfz6h7po.me^
@@ -83222,7 +82983,6 @@ arketing.indianadunes.com^
 ||jdw.zjuwjdc.com^
 ||zkads.cc^
 ||zfjn.zkfborg.cn^
-||zkjqyrjmjbbne.top^
 ||m.zkp53.cn^
 ||bbsimages.zkxf119.com^
 ||zlbkj.com^
@@ -83241,7 +83001,6 @@ arketing.indianadunes.com^
 ||zndaowjdnf.stream^
 ||znlgplt.com^
 ||znxblom.cn^
-||zo7gihmry2.com^
 ||afp.zol-img.com.cn^
 ||pic.zol-img.com.cn^
 ||api.zol.com^
