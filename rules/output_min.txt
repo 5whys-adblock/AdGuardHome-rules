@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202307162054
+# Verison: 202307162334
 # Expires: around 1 day
-# Total number of rules = 84743
+# Total number of rules = 84745
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -54112,6 +54112,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||misapopait.com^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -54289,6 +54290,7 @@ analytics-*.aasaam.com
 .728x90-
 .900x100.
 ||2mdn.net^
+||ads-static.conde.digital^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
