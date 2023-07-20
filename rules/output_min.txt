@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202307202052
+# Verison: 202307202335
 # Expires: around 1 day
-# Total number of rules = 84825
+# Total number of rules = 84863
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -54301,6 +54301,9 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||p11q.cn^
+||sbeaje.com^
+||mvgucp.com^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -54476,24 +54479,57 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||1b3tmfcbq.de^
 ||2mdn.net^
 ||adswizz.com^
+||afflat3d2.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
+||bike-adsbidding.org^
+||bmaahwahpofp.com^
 ||buyeasy.by^
+||ciststoquets.space^
+||cvtfyyflrrkjsam.xyz^
+||d3a781y1fb2dm6.cloudfront.net^
+||deckedsi.com^
+||donemagbuy.live^
+||eucli-czt.com^
 ||get-me-wow.
 ||googletagservices.com^
+||grownbake.pro^
+||harkingskulp.digital^
 ||imasdk.googleapis.com^
 ||impact-ad.jp^
 ||kqzyfj.com^
+||lnvabjwmrjbvy.top^
 ||loadercdn.com^
+||morguebattle.com^
+||mountaincaller.top^
+||mtwdmk9ic.com^
+||ninsu-tmc.com^
 ||ntv.io^
+||nurewsawaninc.info^
+||offloadingsite.com^
+||plaqt.com^
+||qiqgvcrnhwc.com^
+||report1.biz^
+||riffsablaze.uno^
 ||rubiconproject.com^
+||seasslinger.guru^
+||sunflowerbright106.io^
 ||totaladblock.com^
 ||trust.zone^
+||uchxtxel.com^
+||ugyeon.com^
 ||videoplaza.tv^
+||viimurakhi.com^
+||viitsical.com^
+||ymuitydkdoy.com^
+||yrafubgc.com^
+||zskuvehuihkusp.com^
+||zubxukxkuot.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -54889,6 +54925,7 @@ analytics-*.aasaam.com
 ||analytics.designspiration.com^
 ||analytics.footballdb.com^
 ||analytics.freemake.com^
+||analytics.kooapp.com^
 ||analytics.ml.homedepot.ca^
 ||analytics.mouthshut.com^
 ||analytics.productreview.com.au^
@@ -54970,6 +55007,7 @@ analytics-*.aasaam.com
 ||fathom.tdvm.net^
 ||fdt.kraken.com^
 ||firebaselogging.googleapis.com^
+||fp.heavybit.com^
 ||fp.measure.office.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
