@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202307211733
+# Verison: 202307212050
 # Expires: around 1 day
-# Total number of rules = 84957
+# Total number of rules = 84965
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||eemreyrwkqwnv.top^
 ||okueroskynt.com^
 ||li.blogtrottr.com^
 ||jeannvalmvvvr.top^
@@ -1257,6 +1258,7 @@
 ||d71e6dd31a026d45.com
 ||adrunnr.com^
 ||samsungtvads.com^
+||zap.cdn.zynga.com^
 ||ads.sparkflow.net^
 ||creative.ytboob.live^
 ||d10fhz7gnk5369.cloudfront.net^
@@ -29157,7 +29159,6 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
-||frontman.tmobiapi.com^
 ||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
 ||veta.naver.com^
@@ -29329,6 +29330,7 @@ vkcdnservice.appspot.com^
 ||mcoreads.com^
 ||onlineapi.youappi.com^
 ||networksdk.ssacdn.com^
+||ms*.applvn.com^
 ||tapsell.ir^
 ||jioads.akamaized.net^
 ||ajdivotdelbloab24.jio.com^
@@ -36359,6 +36361,8 @@ inapps.appsflyersdk.com^
 ||int.vaicore.store^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||am.yahoo.co.jp^
+||b99.yahoo.co.jp^
 ||tracing-collector.strava.com^
 ||cgicol.amap.com^
 ||dualstack-cgicol.amap.com^
@@ -36886,6 +36890,7 @@ inapps.appsflyersdk.com^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||fn-pz.com^
+||fourtimessmelly.com^
 ||fpapi.io^
 ||fpcdn.io^
 ||fptls.com^
@@ -36958,6 +36963,7 @@ inapps.appsflyersdk.com^
 ||mors22.com^
 ||mrpdata.net^
 ||mt48.net^
+||mysingleromance.com^
 ||n0909.com^
 ||native-track.com^
 ||niblewren.co^
@@ -37572,6 +37578,7 @@ inapps.appsflyersdk.com^
 ||rlets.com^
 ||rockincontent.net^
 ||roeye.com^
+||roeyecdn.com^
 ||roirevolution.com^
 ||rp-rep.net^
 ||rstg.io^
@@ -54933,6 +54940,7 @@ analytics-*.aasaam.com
 ||analytics.wavebox.io^
 ||analytics.yugen.to^
 ||analytics4.dashboard.fingerprint.com^
+||api.privacyguides.net^
 ||appanalysis.banggood.com^
 ||assets.instacart.com^
 ||atrack.allposters.com^
