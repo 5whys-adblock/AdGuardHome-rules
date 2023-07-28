@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202307281732
+# Verison: 202307282052
 # Expires: around 1 day
-# Total number of rules = 85601
+# Total number of rules = 85600
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,8 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||oucaibie.net^
+||whamauft.com^
 ||cdn.npcta.xyz^
 ||remarkinspector.com^
 ||vwhnfwdbf.com^
@@ -9355,6 +9357,7 @@ vkcdnservice.appspot.com^
 ||drjgjngf.com^
 ||drkness.net^
 ||dronedgentile.com^
+||dronelskipper.com^
 ||droppalpateraft.com^
 ||droppedbanking.com^
 ||drovernomine.com^
@@ -14000,6 +14003,7 @@ vkcdnservice.appspot.com^
 ||jarquizslash.com^
 ||jaseysbionomy.com^
 ||jashautchord.com^
+||jasheest.xyz^
 ||jaspercrozes.com^
 ||jatsekse.net^
 ||jattepush.com^
@@ -22821,6 +22825,7 @@ vkcdnservice.appspot.com^
 ||soupevents.com^
 ||soupteep.xyz^
 ||souptrip.com^
+||sourishpuler.com^
 ||sourne.com^
 ||sourtophulsean.space^
 ||sousefulhea.buzz^
@@ -28879,6 +28884,7 @@ vkcdnservice.appspot.com^
 ||trustx.org^
 ||trytada.com^
 ||tubeadvertising.eu^
+||twads.gg^
 ||tyroo.com^
 ||ubercpm.com^
 ||ultrapartners.com^
@@ -35274,7 +35280,6 @@ vkcdnservice.appspot.com^
 ||affiliates.cdkeys.com^
 ||affiliates.genealogybank.com^
 ||affiliates.londonmarketing.com^
-||affiliates.mozy.com^
 ||affiliates.myfax.com^
 ||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
@@ -35946,7 +35951,6 @@ vkcdnservice.appspot.com^
 ||log.tf.co.kr^
 ||log.ttbc-hcm.gov.vn^
 ||log.vava.com^
-||log.vdn.apps.cntv.cn^
 ||log.wat.tv^
 ||log.webnovel.com^
 ||log.zdnet.co.kr^
@@ -35954,7 +35958,6 @@ vkcdnservice.appspot.com^
 ||log.zingnews.vn^
 ||log*.aliyuncs.com^
 ||log000.goo.ne.jp^
-||log1.24liveplus.com^
 ||log2.radiko.jp^
 ||logapi.tv.naver.com^
 ||logcol.kyobobook.co.kr^
@@ -35963,15 +35966,12 @@ vkcdnservice.appspot.com^
 ||logger.applovefrom.com^
 ||logger.bzu.kr^
 ||logger.cbs.co.kr^
-||logger.dailymotion.com^
 ||logger.goeuro.com^
 ||logger.nerdwallet.com^
 ||logger.snackly.co^
 ||logger.tv.telstra.com.au^
 ||logger.tvchosun.com^
-||logger.viki.io^
 ||logging.goodgamestudios.com^
-||loggingservices.tribune.com^
 ||loggly.cheatsheet.com^
 ||loglady.publicbroadcasting.net^
 ||logql.yahoo.co.jp^
@@ -35990,7 +35990,6 @@ vkcdnservice.appspot.com^
 ||m.dubcm.com^
 ||m.trb.com^
 ||ma.news.naver.com^
-||ma.tarnkappe.info^
 ||posthog.tarnkappe.info^
 ||ma.zoho.eu^
 ||mamka.aviasales.ru^
@@ -36683,27 +36682,20 @@ vkcdnservice.appspot.com^
 ||tracker.giftd.ru^
 ||tracker.joongang.co.kr^
 ||tracker.joost.com^
-||tracker.lolalytics.com^
 ||tracker.mattel.com^
 ||tracker.nbcuas.com^
-||tracker.neon-images.com^
 ||tracker.pinnaclesports.com^
 ||tracker.prom.ua^
 ||tracker.realclearpolitics.com^
-||tracker.redditmedia.com^
-||tracker.remp.impresa.pt^
 ||tracker.remp.sme.sk^
-||tracker.revip.info^
 ||tracker.secretescapes.com^
 ||tracker.shopclues.com^
 ||tracker.softcube.com^
 ||tracker.stats.in.th^
 ||tracker.thinkindot.com^
 ||tracker.tubecj.com^
-||tracker.twenga.pl^
 ||tracker.unbxdapi.com^
 ||tracker.uprinting.com^
-||tracker.washtimes.com^
 ||tracker.wordstream.com^
 ||tracking-api.sub100.com.br^
 ||tracking-rce.veeseo.com^
@@ -36746,7 +36738,6 @@ vkcdnservice.appspot.com^
 ||tracking.oe24.at^
 ||tracking.olx-st.com^
 ||tracking.oui.sncf^
-||tracking.performgroup.com^
 ||tracking.porndoelabs.com^
 ||tracking.rce.veeseo.com^
 ||tracking.resumecompanion.com^
@@ -36812,7 +36803,6 @@ vkcdnservice.appspot.com^
 ||views.romaniatv.net^
 ||vortex.hulu.com^
 ||vry9.destinia.com^
-||vstats.digitaltrends.com^
 ||w.oix.net^
 ||w1jesu6.package12.com^
 ||w88.espn.com^
@@ -36821,7 +36811,6 @@ vkcdnservice.appspot.com^
 ||wa.ui-portal.de^
 ||wa.web.de^
 ||web-vitals.booking.com^
-||webanalyzer.bussion.com^
 ||weblog.coupang.com^
 ||weblog.hankookilbo.com^
 ||weblog.zdnet.co.kr^
@@ -53516,6 +53505,7 @@ analytics-*.aasaam.com
 ||mobileanalytics.*.amazonaws.com^
 ||affiliate.mercola.com^
 ||affiliate.productreview.com.au^
+||affiliates.mozy.com^
 ||analysis.focalprice.com^
 ||analytics.247sports.com^
 ||analytics.femalefirst.co.uk^
@@ -53548,8 +53538,13 @@ analytics-*.aasaam.com
 ||geo.theawesomer.com^
 ||log.prezi.com^
 ||log.thevideo.me^
+||log.vdn.apps.cntv.cn^
+||log1.24liveplus.com^
 ||logdev.openload.co^
 ||logger-*.dailymotion.com^
+||logger.dailymotion.com^
+||logger.viki.io^
+||loggingservices.tribune.com^
 ||metric*.rediff.com^
 ||pixel.redditmedia.com^
 ||s2.youtube.com^
@@ -53561,6 +53556,10 @@ analytics-*.aasaam.com
 ||t.vimeo.com^
 ||track.collegehumor.com^
 ||track.zalando.
+||tracker.lolalytics.com^
+||tracker.redditmedia.com^
+||tracker.revip.info^
+||tracker.washtimes.com^
 ||tracking.olx.
 ||tracking.pornhd.com^
 ||tracking.realtor.com^
