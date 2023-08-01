@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202308011733
+# Verison: 202308012054
 # Expires: around 1 day
-# Total number of rules = 85703
+# Total number of rules = 85706
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,8 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||ezyebrbaymnb.top^
+||griffintardant.guru^
 ||interestingpics.space^
 ||whamauft.com^
 ||cdn.npcta.xyz^
@@ -24264,6 +24266,7 @@ vkcdnservice.appspot.com^
 ||timingbitternessgreasy.com^
 ||timot-cvk.info^
 ||timpanosheng.com^
+||timtamti.net^
 ||timxrio.com^
 ||tinacorners.xyz^
 ||tinbuadserv.com^
@@ -26865,7 +26868,6 @@ vkcdnservice.appspot.com^
 ||wpncdn.com^
 ||wpnetwork.eu^
 ||wpnjs.com^
-||wpnrtnmrewunrtok.xyz^
 ||wpnsrv.com^
 ||wpowiqkgykf.com^
 ||wpshsdk.com^
@@ -37202,7 +37204,6 @@ inapps.appsflyersdk.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
 ||rtlog*.tiktokv.com^
-||uts-front.line-apps.com^
 ||nelo2-col.linecorp.com^
 ||ndct-data.video.iqiyi.com^
 ||ibd-as-api.iq.com^
@@ -55178,6 +55179,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||yzllux.xyz^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -55365,6 +55367,7 @@ analytics-*.aasaam.com
 ||totaladblock.com^
 ||trust.zone^
 ||videoplaza.tv^
+||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
