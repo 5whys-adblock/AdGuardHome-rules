@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202308161736
+# Verison: 202308162050
 # Expires: around 1 day
-# Total number of rules = 86418
+# Total number of rules = 86436
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||dr7.biz^
 ||wuftoars.net^
 ||afdrivovoq.com^
 ||sjolcdkqwiybh.xyz^
@@ -28491,6 +28492,7 @@ vkcdnservice.appspot.com^
 ||zlacraft.com^
 ||zlink2.com^
 ||zlink6.com^
+||zlinkc.com^
 ||zlinkm.com^
 ||zljwhbuagdvl.com^
 ||zlx.com.br^
@@ -30754,6 +30756,8 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||startup.mobile.yandex.net^
+||startup-mobile.ap.yandex-net.ru^
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
@@ -31331,6 +31335,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sdk.fra-*.braze.eu^
 ||ct2.kutinawa.com^
 ||ythingy.com^
 ||spiny.ai^
@@ -34557,7 +34562,6 @@ vkcdnservice.appspot.com^
 ||webcompteur.com^
 ||webcounter.co.za^
 ||webcounter.ws^
-||webengage.com^
 ||webest.info^
 ||webflowmetrics.com^
 ||webforensics.co.uk^
@@ -39104,6 +39108,7 @@ inapps.appsflyersdk.com^
 ||showheroes.com^
 ||simpleanalytics.io^
 ||simpleanalyticsbadge.com^
+||simpleanalyticsexternal.com^
 ||sirdata.eu^
 ||siteimproveanalytics.io^
 ||siteplug.com^
@@ -39243,6 +39248,7 @@ inapps.appsflyersdk.com^
 ||wdsvc.net^
 ||web-stat.fr^
 ||webanalytic.info^
+||webengage.com^
 ||webeyez.com^
 ||weborama.design^
 ||webstat.fr^
@@ -39880,6 +39886,7 @@ inapps.appsflyersdk.com^
 ||stereotypedsugar.com^
 ||stingsquirrel.com^
 ||stockingsneeze.com^
+||stomachscience.com^
 ||strangeclocks.com^
 ||strangersponge.com^
 ||stretchsneeze.com^
@@ -48609,6 +48616,7 @@ inapps.appsflyersdk.com^
 ||bmptbyb.com^
 ||vhutitpu.icu^
 ||zcbfjd.xyz^
+||mnpbxjq.cn^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
@@ -55903,7 +55911,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||mnpbxjq.cn^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -56064,18 +56071,30 @@ analytics-*.aasaam.com
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
+||britonseyer.com^
 ||buyeasy.by^
+||copterezba.com^
 ||get-me-wow.
 ||googletagservices.com^
+||harvardunions.com^
+||horsilyoxydase.com^
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
+||quiltscaudata.com^
 ||rubiconproject.com^
+||salivanmobster.com^
+||sampoang.xyz^
+||stumercackles.com^
+||tomornpinjane.com^
 ||totaladblock.com^
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
+||wanlyavower.com^
+||wariestbudgers.com^
+||wharployn.com^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -56436,7 +56455,6 @@ analytics-*.aasaam.com
 ||hostingcloud.party
 ||hostingcloud.racing
 ||wasm.stream
-||stomachscience.com^
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
