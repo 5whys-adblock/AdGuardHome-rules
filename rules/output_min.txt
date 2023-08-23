@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202308230533
+# Verison: 202308230932
 # Expires: around 1 day
-# Total number of rules = 86650
+# Total number of rules = 86654
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||ads1-adnow.com^
 ||thaitchy.net^
 ||chuxuwem.tv^
 ||kxuattexg.com^
@@ -48822,6 +48823,9 @@ inapps.appsflyersdk.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
+||5lfgdju.com^
+||fgetmzx.icu^
+||hegk02a.top^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
@@ -54830,7 +54834,6 @@ analytics-*.aasaam.com
 ||geo.adobe.com^
 ||adtag.primetime.adobe.com^
 ||adpxl.co^
-||ads1-adnow.com^
 ||ads2-adnow.com^
 ||filteradkernel.adsimilate.com^
 ||xml1.adsimilate.com^
@@ -56131,6 +56134,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||pnlhnx.xyz^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
