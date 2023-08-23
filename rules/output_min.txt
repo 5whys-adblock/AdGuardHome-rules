@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202308231736
+# Verison: 202308232052
 # Expires: around 1 day
-# Total number of rules = 86656
+# Total number of rules = 86659
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -19,6 +19,7 @@
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 ####################################################################################
+||optaivuy.net^
 ||ads1-adnow.com^
 ||thaitchy.net^
 ||chuxuwem.tv^
@@ -35939,6 +35940,8 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.elegela.us^
+||analytics.code.illusion.jp^
 ||a.brack.ch^
 ||go.bidfluence.com^
 ||stracker.rmg.ru^
@@ -48828,6 +48831,7 @@ inapps.appsflyersdk.com^
 ||hegk02a.top^
 ||pnlhnx.xyz^
 ||oqyiapj.cn^
+||zpotkvpy.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
@@ -56136,7 +56140,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||zpotkvpy.icu^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
