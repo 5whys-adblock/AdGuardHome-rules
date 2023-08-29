@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202308291436
+# Verison: 202308291734
 # Expires: around 1 day
-# Total number of rules = 86710
+# Total number of rules = 86717
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -56189,6 +56189,8 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||baiduapp.app^
+||wcv68kw.com^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -56341,6 +56343,8 @@ analytics-*.aasaam.com
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
+||chauckoo.xyz^
+||chugsorlando.com^
 ||get-me-wow.
 ||googletagservices.com^
 ||imasdk.googleapis.com^
@@ -56348,10 +56352,12 @@ analytics-*.aasaam.com
 ||loadercdn.com^
 ||ntv.io^
 ||rubiconproject.com^
+||shoaltor.com^
 ||totaladblock.com^
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
+||wannessdebus.com^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -56726,6 +56732,7 @@ analytics-*.aasaam.com
 ||mcdp-*.outbrain.com^
 ||monitor.azure.com^
 ||sonar.viously.com^
+||t.enuygun.com^
 ||tag.aticdn.net^
 ||tracker.twenga.
 ||tracking.magnetmail.net^
