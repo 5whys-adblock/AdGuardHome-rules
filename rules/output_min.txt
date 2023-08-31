@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202308312050
+# Verison: 202308312335
 # Expires: around 1 day
-# Total number of rules = 86817
+# Total number of rules = 86830
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -56297,6 +56297,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||gyqifa.com^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -56439,23 +56440,33 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||09b074f4cf.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
+||frugalpurpose.pro^
 ||get-me-wow.
 ||googletagservices.com^
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
+||lausoudu.net^
 ||loadercdn.com^
+||lreqmoonpjka.com^
+||mjgvrxbu.com^
 ||ntv.io^
+||pc2ads.ru^
 ||rubiconproject.com^
+||rurdauth.net^
+||secezo.uno^
 ||totaladblock.com^
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
+||vidsforyou.online^
+||wivoqi.uno^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -56630,6 +56641,7 @@ analytics-*.aasaam.com
 ||kafdlwyw4z.xhamster.com^
 ||load.xxxdb.io^
 ||madmen2.alastonsuomi.com^
+||mqpx6qs.xhamster.com^
 ||n.hnntube.com^
 ||nnsi4p.xhamster.com^
 ||nvlqrvvtp6n.xhamster.com^
@@ -56841,6 +56853,7 @@ analytics-*.aasaam.com
 ||d2fj3s7h83rb61.cloudfront.net
 ||aff*.kolektiva.net^
 -logging.nextmedia.com^
+||dmpmetrics.rcsmetrics.it^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
 ||tms-st.cdn.ngenix.net^
