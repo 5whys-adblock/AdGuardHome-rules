@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202309132051
+# Verison: 202309132335
 # Expires: around 1 day
-# Total number of rules = 87582
+# Total number of rules = 87595
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -56839,6 +56839,9 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||yofprpv.cn^
+||sdcuo.com^
+||procdn.asia^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -56963,22 +56966,32 @@ analytics-*.aasaam.com
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||asrowjkagg.com^
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
+||chammaupases.life^
+||evcwihysdnptpjm.xyz^
 ||get-me-wow.
 ||googletagservices.com^
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
+||lheoutn.com^
+||lkkrmarvynlqz.top^
 ||loadercdn.com^
 ||ntv.io^
 ||olnjitvizo.com
+||rrqpajlyvtpqst.com^
 ||rubiconproject.com^
+||stupendousconcept.pro^
 ||totaladblock.com^
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
+||vzufzah.com^
+||warmsanabia.guru^
 ||wpnrtnmrewunrtok.xyz^
+||wrylength.pro^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
