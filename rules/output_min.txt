@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202309140932
+# Verison: 202309141134
 # Expires: around 1 day
-# Total number of rules = 87480
+# Total number of rules = 87490
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -56883,6 +56883,7 @@ analytics-*.aasaam.com
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
 ||ybcnvqf.cn^
+||88lajs2.com^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -56890,11 +56891,9 @@ analytics-*.aasaam.com
 -ad-button-
 -ad-column-
 -ad-horizontal.
--ad-reload.
 -ad-right.
 -ad-sidebar-
 -ad-sidebar.
--ad-top.
 -ad-unit.
 -ad-util.
 -ad-vertical-
@@ -56949,7 +56948,6 @@ analytics-*.aasaam.com
 .lazyload-ad-
 .lazyload-ad.
 .nativeads.
-.openxtag.
 .popunder.js
 ://a.ads.
 ://ad-api-
@@ -57015,16 +57013,23 @@ analytics-*.aasaam.com
 ||b0d2583d75.com^
 ||b2d43e2764.com^
 ||beammanmoile.space^
+||biopicfumer.space^
 ||blowflysempre.uno^
+||bolivarmaltol.website^
 ||buyeasy.by^
 ||bywntfg.com^
 ||carajareplier.guru^
+||cerillosuncup.guru^
 ||cusilbwq.xyz
 ||d3d9gb3ic8fsgg.cloudfront.net^
+||d3uvwdhukmp6v9.cloudfront.net^
 ||dulwajdpoqcu.com^
 ||ecchhelios.top^
+||ecipientconcertain.info^
 ||empdat.com^
+||esdcubited.uno^
 ||fqybolmt.com^
+||fxiuuaa.com^
 ||get-me-wow.
 ||googletagservices.com^
 ||gwjdaazribz.com^
@@ -57048,16 +57053,21 @@ analytics-*.aasaam.com
 ||radshedmisrepu.info^
 ||remennoam.top^
 ||rubiconproject.com^
+||rxtazhr.com^
 ||sxipth.xyz^
+||syrianburlier.top^
 ||totaladblock.com^
 ||trust.zone^
+||txwhfmxlmu.com^
 ||ucationininancee.info
 ||upseelee.xyz^
 ||utjzyutegq.com^
 ||vdmiruryll.xyz^
 ||videoplaza.tv^
 ||want-some-push.net^
+||wmtmhbuiumwl.com^
 ||wpnrtnmrewunrtok.xyz^
+||ydqkorympskhbc.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
