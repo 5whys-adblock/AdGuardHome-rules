@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202309162046
+# Verison: 202309162333
 # Expires: around 1 day
-# Total number of rules = 88088
+# Total number of rules = 88103
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -57062,6 +57062,9 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||kcqpvqr.cn^
+||gdz0cqs.icu^
+||tbb0001.top^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -57179,21 +57182,36 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||79b1c4498b.com^
+||aboarea.com^
+||adfgfeojqx.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||arithpouted.com^
 ||atdmt.com^
 ||auditude.com^
+||bonicus.com^
 ||buyeasy.by^
 ||cusilbwq.xyz
 ||get-me-wow.
+||goeticviola.com^
 ||googletagservices.com^
+||hthinleavesofefi.info^
 ||imasdk.googleapis.com^
+||inabilitytraditional.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||moonvids.online^
 ||ntv.io^
 ||olnjitvizo.com
+||refoortowatch.com^
+||repentant-plant.pro^
+||roabmyrevngqqk.com^
 ||rubiconproject.com^
+||sincalled.com^
+||ssvtfjtuvdeypgr.com^
+||tilesmuzarab.com^
 ||totaladblock.com^
 ||trust.zone^
 ||ucationininancee.info
@@ -57218,6 +57236,7 @@ analytics-*.aasaam.com
 ||ohmygosh.info^
 ||cas.*.criteo.com^
 ||srv.tunefindforfans.com^
+||d2db10c4rkv9vb.cloudfront.net^
 ||a.adult-videos.org^
 ||a.xvidxxx.com^
 ||aff-jp.dxlive.com^
@@ -57555,12 +57574,8 @@ analytics-*.aasaam.com
 .googleanalytics.js
 .googleanalytics.prod.
 .ntpagetag.
-.sitecatalyst.js
-.siteclarity.
-.sitetracking.
 .skimlinks.js
 .v4.analytics.
-.web-vitals-reporting.
 ://a869.
 ://internal-matomo.
 ://segment-api.
