@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202309191734
+# Verison: 202309192052
 # Expires: around 1 day
-# Total number of rules = 88069
+# Total number of rules = 88080
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,10 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||bettermeter.com^
+||slivmux.com^
+||ebooks.dental^
+||magniffic-strean.com^
 ||qhlegkjlnmg.com^
 ||haustoam.com^
 ||eqvudqracrhalsg.com^
@@ -40261,6 +40265,7 @@ inapps.appsflyersdk.com^
 ||apeagle.io^
 ||apenterprise.io^
 ||apxl.io^
+||as3.io^
 ||awmonitor.com^
 ||ayc0zsm69431gfebd.info^
 ||bidgx.com^
@@ -40474,6 +40479,7 @@ inapps.appsflyersdk.com^
 ||vkanalytics.net^
 ||vpdcp.com^
 ||vstats.me^
+||walkerllaw.org^
 ||whale3.io^
 ||widgetbe.com^
 ||wknd.ai^
@@ -40582,7 +40588,6 @@ inapps.appsflyersdk.com^
 ||beampulse.com^
 ||beemray.com^
 ||benchtag2.co^
-||bettermeter.com^
 ||bettermetrics.co^
 ||bgpng.me^
 ||bidphysics.com^
@@ -40786,6 +40791,7 @@ inapps.appsflyersdk.com^
 ||hospitality-optimizer.com^
 ||hscta.net^
 ||humanpresence.app^
+||hyperdx.io^
 ||iaudienc.com^
 ||ifvox.com^
 ||impression.link^
@@ -42236,7 +42242,6 @@ inapps.appsflyersdk.com^
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
-||fenix.walkerllaw.org^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
@@ -42605,6 +42610,7 @@ inapps.appsflyersdk.com^
 ||tracking.rapidape.com^
 ||tracking.searchmarketing.com^
 ||tracking.sembox.it^
+||tracking.server.bytecon.com^
 ||tracking.sezzle.com^
 ||tracking.sharplink.us^
 ||tracking.waterfrontmedia.com^
@@ -47163,6 +47169,7 @@ inapps.appsflyersdk.com^
 ||hdvmyo.com^
 ||ads1-adselo.com^
 ||adsy.mail.bg^
+||flarby.com^
 ||pigeoon.com^
 ||trkwinaff13.com^
 ||adsby.io^
@@ -57311,10 +57318,15 @@ analytics-*.aasaam.com
 ||googletagservices.com^
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
+||lauglaph.net^
 ||loadercdn.com^
+||moastizi.xyz^
+||nontaxmeteors.com^
 ||ntv.io^
+||ogblanchi.com^
 ||olnjitvizo.com
 ||rubiconproject.com^
+||shroudsacidite.com^
 ||totaladblock.com^
 ||trust.zone^
 ||ucationininancee.info
@@ -57711,7 +57723,6 @@ analytics-*.aasaam.com
 ||tag.aticdn.net^
 ||tracker.twenga.
 ||tracking.magnetmail.net^
-||tracking.server.bytecon.com^
 ||try.abtasty.com^
 ||uim.tifbs.net^
 ||d241ujsiy3yht0.cloudfront.net
@@ -57758,6 +57769,7 @@ analytics-*.aasaam.com
 ||atrack.allposters.com^
 ||ats.alot.com^
 ||aurum.tirto.id^
+||b629.electronicdesign.com^
 ||barnes.send.cm^
 ||bat.maydream.com^
 ||beacon.shutterfly.com^
@@ -87606,7 +87618,6 @@ wpjslib-chunk-consent-form.js^
 ||consent.theneweuropean.co.uk^
 ||browser-consent-front.coco.s-cloud.fi^
 ||consent-manager.metomic.io^
-||analytics-consent-manager.azureedge.net^
 ||consent-manager.confirmic.com^
 ||consent.scm-verlagsgruppe.de^
 ||consent.comply-app.com^
