@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202309190934
+# Verison: 202309191133
 # Expires: around 1 day
-# Total number of rules = 88065
+# Total number of rules = 88069
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -57183,6 +57183,8 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||jtwewpi.cn^
+||unmsrvh.cn^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -88025,19 +88027,19 @@ wpjslib-chunk-notification.js^
 ||mydvids.com^
 ||exnessaffiliates.com^
 ||iflshop.online^
-||globe-pus.foxitservice.com^$important
+||globe-pus.foxitservice.com
 @@||cuhk.au1.qualtrics.com^
-@@||piwik.proxmox.com^$important
-@@||news-app.abumedia.yql.yahoo.com^$important
+@@||piwik.proxmox.com
+@@||news-app.abumedia.yql.yahoo.com
 ||hkchronicles.com^
 ||crashdiag.solidworks.com^
 ||foxitcloud.com^
 ||foxitservice.com^
-||autoupdate.synology.com^$important
-||update.synology.com^$important
-||payment.synology.com^$important
-||globe-pus.foxitservice.com^$important
-||globe-request.foxitservice.com^$important
+||autoupdate.synology.com
+||update.synology.com
+||payment.synology.com
+||globe-pus.foxitservice.com
+||globe-request.foxitservice.com
 ||amazonaax.com^
 ||sentry-cdn.com^
 ||advice-ads.s3.amazonaws.com^
@@ -88060,16 +88062,15 @@ media.fastclick.net
 affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
 ads.tiktok.com
-||metrics.icloud.com^$important
+||metrics.icloud.com
 adtago.s3.amazonaws.com
-@@||acme.zerossl.com^$important
-@@||ncp-gw-abu.media.yahoo.com^$important
-||ads.pinterest.com^$important
-||ads.tiktok.com^$important
-@@||mirrors.cloud.tencent.com^$important
+@@||acme.zerossl.com
+@@||ncp-gw-abu.media.yahoo.com
+||ads.pinterest.com
+||ads.tiktok.com
+@@||mirrors.cloud.tencent.com
 ||adtago.s3.amazonaws.com^
 metrics.icloud.com
-@@||raw.githubusercontent.com^$important
 @@||*.ga^
 @@||*.gq^
 @@||*.cf^
@@ -88085,4 +88086,7 @@ metrics.icloud.com
 @@||*.discount^
 @@||*.cfd^
 /^[a-z0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
+||airscrn.com
+||ionitech.cn
+||airscreenapp.com
 ####################################################################################
