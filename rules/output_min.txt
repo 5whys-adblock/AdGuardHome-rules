@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202309251437
+# Verison: 202309251732
 # Expires: around 1 day
-# Total number of rules = 88334
+# Total number of rules = 88338
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32957,6 +32957,12 @@ vkcdnservice.appspot.com^
 ||deapi.afreecatv.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||ads*-normal-lq.zijieapi.com^
+||ad.zijieapi.com^
+||pglstatp-toutiao.com^
+||open.e.kuaishou.cn^
+||open.kuaishouzt.com^
+||open.kwaizt.com^
 ||ali-ad.a.yximgs.com^
 ||v*-ad.video.yximgs.com^
 ||tx-ad.a.yximgs.com^
@@ -40977,7 +40983,6 @@ inapps.appsflyersdk.com^
 ||hospitality-optimizer.com^
 ||hscta.net^
 ||humanpresence.app^
-||hyperdx.io^
 ||iaudienc.com^
 ||ifvox.com^
 ||impression.link^
@@ -79520,6 +79525,7 @@ arketing.indianadunes.com^
 ||hygqtz.cn^
 ||ssl.hyhzy.cn^
 ||ycy.hyjyjc.com^
+||hyperdx.io^
 ||hypers.com^
 ||dsp.hypers.com.cn^
 ||t-abi.hypers.com.cn^
@@ -80536,7 +80542,6 @@ arketing.indianadunes.com^
 ||log.kuaigeng.com^
 ||kuaikaiapp.com^
 ||kuaishang.cn^
-||open.e.kuaishou.cn^
 ||e.kuaishou.com^
 ||web.kuaisouwifi.com^
 ||c.kuaituisss.com^
@@ -82227,7 +82232,6 @@ arketing.indianadunes.com^
 ||consent.perry-rhodan.net^
 ||pertosj.ru^
 ||pghwwjd.com^
-||pglstatp-toutiao.com^
 ||v2.phb123.com^
 ||philpool.com^
 ||philstraffic.com^
@@ -87884,17 +87888,17 @@ wpjslib-chunk-consent-form.js^
 ||determinator.service-cmp.com^
 jquery.smartCookie.min.js^
 ||consensu.infor.pl^
-nanoGDPR.min.js^
+||ccm19.vucx.de^
+||ccm19.dsg-schweiz.ch^
+||ccm19.boxspring-welt^
 ||fundingchoices.google.com^
 ||privacidade.api.milvus.com.br^
 ||api.brookiebot.com^
 wpjslib-chunk-notification.js^
+nanoGDPR.min.js^
 ||connect.danone.es^
 ||notice.sp-prod.net^
-||ccm19.vucx.de^
 ||cdn.realpeoplemedia.co.uk^
-||ccm19.dsg-schweiz.ch^
-||ccm19.boxspring-welt^
 ||ad*.on.cc^
 ||ere.wew.92kkdy.cc^
 ||unpkg.com^$badfilter
