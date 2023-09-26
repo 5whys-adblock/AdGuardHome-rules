@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202309260532
+# Verison: 202309260934
 # Expires: around 1 day
-# Total number of rules = 88376
+# Total number of rules = 88384
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -38048,6 +38048,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||eu.pftk.temu.com^
 ||trace.rememberapp.co.kr^
 ||asv.transsion.com^
 ||f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com^
@@ -42708,6 +42709,7 @@ inapps.appsflyersdk.com^
 ||stats.netbopdev.co.uk^
 ||stats.ozwebsites.biz^
 ||stats.polldaddy.com^
+||stats.prebytes.com^
 ||stats.sa-as.com^
 ||stats.sawlive.tv^
 ||stats.screenresolution.org^
@@ -51322,6 +51324,14 @@ inapps.appsflyersdk.com^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
+||krjzxie.cn^
+||boats5.top^
+||asryrzpu.xyz^
+||imbikh.icu^
+||lniwe.xyz^
+||pvlnjwr.xyz^
+||rdpsht.xyz^
+||bzthxv.xyz^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
@@ -55852,6 +55862,7 @@ analytics-*.aasaam.com
 ||unitedsolarinfinity.com^
 ||mogo-crypto.net^
 ||tinancefa.org^
+||laxsson.com^
 ||wibodir.com^
 ||eh-ra-z-se-na.org^
 ||ebl-hot.com^
@@ -57512,7 +57523,6 @@ analytics-*.aasaam.com
 -ads-bottom.
 -ads-right.
 -adverts.min.
--article-ad.
 -auto-ads-
 -banner-ad.
 -cpm-ad.
@@ -57521,14 +57531,12 @@ analytics-*.aasaam.com
 -footerads.
 -housead-
 -page-ad.
--panel-ad.
 -PcmModule-Taboola-
 -peel-ads-
 -popexit.
 -popunder.
 -publicidad.
 -right-ad.
--side-ad-
 -side-ad.
 -sidebar-ad.
 -sponsor-ad.
