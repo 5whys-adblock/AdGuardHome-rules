@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202309281435
+# Verison: 202309281733
 # Expires: around 1 day
-# Total number of rules = 88616
+# Total number of rules = 88622
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -57619,6 +57619,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||aapeople.cn^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -74373,6 +74374,8 @@ arketing.indianadunes.com^
 @@||adverts.1foo.com^
 @@||track.4px.com^
 @@||ads.smartmidea.net^
+@@||widget.ezidebit.com.au^
+@@||widget.rave.office.net^
 @@||ad.vivo.com.cn^
 @@||ads.alafish.cn^
 @@||ads.doordash.com^
@@ -78294,6 +78297,8 @@ arketing.indianadunes.com^
 ||t.ed.nl^
 ||eddjf.com^
 ||eddong.com^
+||p1-play.edge4k.com^
+||p2-play.edge4k.com^
 ||edgeno.de^
 ||edigitalsurvey.com^
 ||edintorni.net^
@@ -80561,6 +80566,7 @@ arketing.indianadunes.com^
 ||api-ad.kajicam.com^
 ||log.kajicam.com^
 ||smart-789.kakamobi.cn^
+||play.kakao.com^
 ||kalipasindra.online^
 ||kanclick.com^
 ||kang08.com^
@@ -80643,6 +80649,7 @@ arketing.indianadunes.com^
 ||m.kfeiu.com^
 ||jsnywl.kfi8.com^
 ||abc.kfyg.xyz^
+||p1-play.kgslb.com^
 ||e.kguaq.com^
 ||m.kguaq.com^
 ||m.khaiu.com^
@@ -86757,7 +86764,6 @@ arketing.indianadunes.com^
 ||m.baidu.com.zhiduo.org^
 ||lc-push.zhihu.com^
 ||appcloud2.in.zhihu.com^
-||appcloud2.zhihu.com^
 ||event.zhihu.com^
 ||udd1i5.zhihu.com^
 ||zhihuiduijian.com^
