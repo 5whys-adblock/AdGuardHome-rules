@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202310051733
+# Verison: 202310052053
 # Expires: around 1 day
-# Total number of rules = 88444
+# Total number of rules = 88448
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||install-check.com^
 ||mismaum.com^
 ||qcvbtrtlmjdhvxe.xyz^
 ||abbotpredicateemma.com^
@@ -33980,6 +33981,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.myshoptago.com^
 ||wfthumty.pm^
 ||hubtydum.me^
 ||mobadme.jp^
@@ -38452,6 +38454,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.streamfab.
 ||m.1gr.cz^
 ||a.1gr.cz^
 ||pvnwap.zol.com.cn^
@@ -47660,6 +47663,7 @@ inapps.appsflyersdk.com^
 ||xifg6h.ru^
 ||zfvklk.ru^
 ||market-backend.api.2gis.ru^
+||sharemefiles.ru^
 ||userdata.ati.su^
 ||r.z3.fm^
 ||adv.topvideo.tj^
@@ -50809,6 +50813,7 @@ inapps.appsflyersdk.com^
 ||xvzfyra.xyz^
 ||lnxpdj.xyz^
 ||xmvmir.icu^
+||273knt.xyz^
 ||roxewwq.cn^
 ||hwuogmusthxfpk.xyz^
 ||serda10.icu^
@@ -57558,7 +57563,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||273knt.xyz^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
