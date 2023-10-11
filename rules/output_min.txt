@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202310111734
+# Verison: 202310112051
 # Expires: around 1 day
-# Total number of rules = 88615
+# Total number of rules = 88621
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -37430,6 +37430,8 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||crimsonmeadow.com^
+||vibranthaven.com^
 ||roseincome.com^
 ||solarislabyrinth.com^
 ||engineertrick.com^
@@ -50984,6 +50986,8 @@ inapps.appsflyersdk.com^
 ||gmx22.top^
 ||gixgav.icu^
 ||1bctkn.xyz^
+||crhabkd.cn^
+||nangongmall.com^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^
@@ -56324,6 +56328,8 @@ analytics-*.aasaam.com
 @@||proto2ad.durasite.net^|
 @@||tags.crwdcntrl.net^|
 @@||official.paymaya.com^|
+@@|statcounter.com^|
+@@||www.statcounter.com^|
 @@||gs.statcounter.com^|
 @@||click.virt.s*.exacttarget.com^|
 @@||click.virt.exacttarget.com^|
@@ -57729,7 +57735,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||crhabkd.cn^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -88166,6 +88171,7 @@ wpjslib-chunk-consent-form.js^
 ||cmp.pafo.fairbung.com^
 ||cmp.springernature.com^
 ||determinator.service-cmp.com^
+||cmp.meteored.com^
 jquery.smartCookie.min.js^
 ||consensu.infor.pl^
 ||ccm19.vucx.de^
