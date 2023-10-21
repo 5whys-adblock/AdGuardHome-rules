@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202310211733
+# Verison: 202310212047
 # Expires: around 1 day
-# Total number of rules = 89015
+# Total number of rules = 89013
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -31378,6 +31378,7 @@ vkcdnservice.appspot.com^
 ||acronym.com^
 ||actiondesk.com^
 ||activedancer.com^
+||ad-adapex.io^
 ||ad-sponsor.com^
 ||ad.plus^
 ||ad.style^
@@ -51348,6 +51349,10 @@ inapps.appsflyersdk.com^
 ||foizico.cn^
 ||fptdxkm.com^
 ||faxffjo.com^
+||44jui.top^
+||klfbnklddfbkn.com^
+||shipostrich.com^
+||hchuviq.cn^
 ||zchvyet.cn^
 ||zcpsc.top^
 ||zents2.top^
@@ -58097,7 +58102,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||44jui.top^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -58558,20 +58562,14 @@ analytics-*.aasaam.com
 ||config.ioam.de^$ctag=device_tv|device_other
 -adobe-analytics.
 -amp-error-reporting.
--analytics-events.
--appanalytics-
 -click-tracker.
 -didomi.js
--ga-tracker.
 -gatracker.
 -geoIP.js
 -inview-tracker.
--optimization-metrics.
--quantcast-measurement.
 -scroll-tracker.js
 -track-inview.
 -tracking-pixel.
--trackingScript.
 .beacon.min.js
 .eloqua.js
 .EventTracking.
