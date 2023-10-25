@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202310251733
+# Verison: 202310252051
 # Expires: around 1 day
-# Total number of rules = 89182
+# Total number of rules = 89195
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||arvigorothan.com^
+||fringesdurocs.com^
 ||promo.pixelsee.app^
 ||lugajxy.com^
 ||loivpdbzx.com^
@@ -34359,6 +34361,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||collector-api.frspecifics.com^
 ||smelel.icu^
 ||ea.epochbase.com^
 ||1cpbac.ru^
@@ -41839,6 +41842,7 @@ inapps.appsflyersdk.com^
 ||hospitality-optimizer.com^
 ||hscta.net^
 ||humanpresence.app^
+||hypercounter.com^
 ||iaudienc.com^
 ||ifvox.com^
 ||impression.link^
@@ -49891,6 +49895,7 @@ inapps.appsflyersdk.com^
 ||secure.curl7bike.com^
 ||secure.reaktion.se^
 ||seenthis.se^
+||selectofmychoices.com^
 ||seonify.com^
 ||serenitycandles.com.se^
 ||servedby.lintigroup.se^
@@ -49948,6 +49953,10 @@ inapps.appsflyersdk.com^
 ||track.postkodlotteriet.se^
 ||tracker.zummycloud.com^
 ||tracker-v4.gamedock.io^
+||tracker.kollega.open-analytics.se^
+||tracker.kulturradet.open-analytics.se^
+||tracker.lakemedelsverket.open-analytics.se^
+||tracker.transportstyrelsen.open-analytics.se^
 ||tracking.aktuellhallbarhet.se^
 ||tracking.allehanda.se^
 ||tracking.arbetarbladet.se^
@@ -50070,6 +50079,7 @@ inapps.appsflyersdk.com^
 ||webbannons.ntm.eu^
 ||webstats.100procent.com^
 ||web-analytics.ica.se^
+||west.statisticplatform.com^
 ||widget.boende.se^
 ||widget.cdn.citygate.se^
 ||widget.citygate.se^
@@ -51518,6 +51528,7 @@ inapps.appsflyersdk.com^
 ||dunrnd.com^
 ||juljrd.xyz^
 ||sregfle.cn^
+||ghbdsbfd.com^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
@@ -58266,6 +58277,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||qbswezw.cn^
 -ad-300x600-
 -ad-458x80.
 -ad-banner-
@@ -58929,6 +58941,7 @@ analytics-*.aasaam.com
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
 ||hits.cyberdrop.me^
+||hlogger.heraldcorp.com^
 ||i.pokernews.com^
 ||iam-rum-intake.datadoghq.com^
 ||iedc.fitbit.com^
