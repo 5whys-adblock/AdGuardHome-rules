@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202310261132
+# Verison: 202310261435
 # Expires: around 1 day
-# Total number of rules = 89218
+# Total number of rules = 89220
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -43031,6 +43031,7 @@ inapps.appsflyersdk.com^
 ||a.hcaptcha.com^
 ||a.opumo.net^
 ||aan.amazon.com^
+||activity-flow.vtex.com^
 ||ad.aloodo.com^
 ||adfox.yandex.ru^
 ||adlog.com.com^
@@ -43290,6 +43291,7 @@ inapps.appsflyersdk.com^
 ||event-logger.tagboard.com^
 ||event-service.letslinc.com^
 ||eventgateway.soundcloud.com^
+||eventlog.chatlead.com^
 ||events.attentivemobile.com^
 ||events.audiate.me^
 ||events.btw.so^
@@ -43301,6 +43303,7 @@ inapps.appsflyersdk.com^
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.split.io^
+||events.storifyme.com^
 ||events.yourcx.io^
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
@@ -43599,6 +43602,7 @@ inapps.appsflyersdk.com^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
 ||telemetry.tableausoftware.com^
+||telemetry.vtex.com^
 ||timber.sendtonews.com^
 ||timejs.game.163.com^
 ||tm.vendemore.com^
@@ -51542,6 +51546,7 @@ inapps.appsflyersdk.com^
 ||beezwol.com^
 ||ksrgsc.xyz^
 ||dcdglb.xyz^
+||z0a1b2c3d4.com^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
@@ -58791,11 +58796,9 @@ analytics-*.aasaam.com
 ||hostingcloud.party
 ||hostingcloud.racing
 ||wasm.stream
-||activity-flow.vtex.com^
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
-||eventlog.chatlead.com^
 ||firebaselogging-pa.googleapis.com^
 ||g.msn.com^
 ||geo.ngtv.io^
@@ -58803,7 +58806,6 @@ analytics-*.aasaam.com
 ||mcdp-*.outbrain.com^
 ||monitor.azure.com^
 ||tag.aticdn.net^
-||telemetry.vtex.com^
 ||tracker.twenga.
 ||tracking.magnetmail.net^
 ||try.abtasty.com^
