@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202310301133
+# Verison: 202310301435
 # Expires: around 1 day
-# Total number of rules = 89171
+# Total number of rules = 89175
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||tlvkywwnuvgtq.com^
+||qrwkkcyih.xyz^
 ||gltjtkqoxhbgvlx.com^
 ||nqvlkmmti.com^
 ||rerpartmentm.info^
@@ -41317,6 +41319,7 @@ inapps.appsflyersdk.com^
 ||loopcybersec.com^
 ||lsdm.co^
 ||maggieeatstheangel.com^
+||maxepv.com^
 ||maxtrafixx.tech^
 ||mb-tracking.com^
 ||mcangelus.com^
@@ -41699,7 +41702,6 @@ inapps.appsflyersdk.com^
 ||getaawp.com^
 ||getambassador.com^
 ||getblueshift.com^
-||getelevar.com^
 ||getpublica.com^
 ||getrockerbox.com^
 ||getviously.com^
@@ -43088,6 +43090,7 @@ inapps.appsflyersdk.com^
 ||cnt.mastorage.net^
 ||cod.bitrec.com^
 ||collect.alphastream.io^
+||collect.bannercrowd.net^
 ||collect.cloudsponge.com^
 ||collect.iteam-dress.com^
 ||collect.rebelmouse.io^
@@ -43302,6 +43305,7 @@ inapps.appsflyersdk.com^
 ||mj-snowplow-static-js.s3.amazonaws.com^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
+||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
 ||monitoring.iraiser.eu^
 ||ms-trackingapi.phenompeople.com^
@@ -43523,6 +43527,7 @@ inapps.appsflyersdk.com^
 ||track.strife.com^
 ||track.td3x.com^
 ||track.untd.com^
+||track.uppromote.com^
 ||track.venatusmedia.com^
 ||track.vscash.com^
 ||track.yfret.com^
@@ -43546,6 +43551,7 @@ inapps.appsflyersdk.com^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^
 ||tracking-api.mangopulse.net^
+||tracking-na.hawksearch.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
 ||tracking.americaneagle.com^
@@ -43616,6 +43622,7 @@ inapps.appsflyersdk.com^
 ||wt.viagogo.net^
 ||x.disq.us^
 ||x.weather.com^
+||xp2023-pix.s3.amazonaws.com^
 ||adsdk.yandex.ru^
 ||analytics.samsungknox.com^
 ||app.chat.xiaomi.net^
@@ -44231,6 +44238,7 @@ inapps.appsflyersdk.com^
 ||dnt-userreport.com^
 ||tags.op-palvelut.fi^
 ||links.boom.ge^
+||analytics.skroutz.gr^
 ||heartbeat.pmd.444.hu^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
@@ -51488,6 +51496,7 @@ inapps.appsflyersdk.com^
 ||gmx36.top^
 ||n019q.com^
 ||bdlexn.xyz^
+||brorzpj.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -58729,7 +58738,6 @@ analytics-*.aasaam.com
 ||cxense.com^
 ||geotargetly-api-*.com^
 ||googletagmanager.com^
-||maxepv.com^
 ||tw.cx^
 ||zdbb.net^
 ||zenaps.com^
@@ -58740,7 +58748,6 @@ analytics-*.aasaam.com
 ||hostingcloud.racing
 ||wasm.stream
 ||bc.geocities.
-||collect.bannercrowd.net^
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
 ||firebaselogging-pa.googleapis.com^
@@ -58748,20 +58755,16 @@ analytics-*.aasaam.com
 ||geo.ngtv.io^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||monitor-api.blackcrow.ai^
 ||monitor.azure.com^
 ||tag.aticdn.net^
 ||tracker.twenga.
-||tracking-na.hawksearch.com^
 ||tracking.magnetmail.net^
 ||try.abtasty.com^
 ||uim.tifbs.net^
-||xp2023-pix.s3.amazonaws.com^
 ||d241ujsiy3yht0.cloudfront.net
 ||d2fj3s7h83rb61.cloudfront.net
 ||aff*.kolektiva.net^
 -logging.nextmedia.com^
-||analytics.skroutz.gr^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
 ||tms-st.cdn.ngenix.net^
@@ -79582,6 +79585,7 @@ arketing.indianadunes.com^
 ||getcomplied.com^
 ||getcryptotab.com^
 ||getdrip.com^
+||getelevar.com^
 ||getfivestars.com^
 ||getglue.com^
 ||getiton.com^
