@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202311062333
+# Verison: 202311070234
 # Expires: around 1 day
-# Total number of rules = 89692
+# Total number of rules = 89693
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -38583,6 +38583,8 @@ vkcdnservice.appspot.com^
 ||yourmy.monster^
 ||rtc-logger-va.tiktokv.com^
 ||rtlog.tiktokv.com^
+||mon*-*.tiktokv.us^
+||mon.us.tiktokv.com^
 ||mon-*.tiktokv.com^
 ||mon.tiktokv.com^
 ||xlog.tiktokv.com^
@@ -51165,6 +51167,7 @@ inapps.appsflyersdk.com^
 ||fluhmmr.cn^
 ||fmvbyji.cn^
 ||foizico.cn^
+||fotaxf.xyz^
 ||fptdxkm.com^
 ||fzgetdy.cn^
 ||g2ak5.com^
@@ -51236,6 +51239,7 @@ inapps.appsflyersdk.com^
 ||ibsea.cn^
 ||iccjkn.icu^
 ||icvsleec.xyz^
+||idddlon.xyz^
 ||igkgag.xyz^
 ||ikmhndd.com^
 ||iknhgj.com^
@@ -51387,6 +51391,8 @@ inapps.appsflyersdk.com^
 ||trdmtx.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
+||uavejnys.xyz^
+||udpdmeb.cn^
 ||ugvbsrbht.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
@@ -51436,6 +51442,7 @@ inapps.appsflyersdk.com^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
+||xjxbdh.xyz^
 ||xkfigjh.cn^
 ||xlca666.site^
 ||xmvmir.icu^
@@ -51468,14 +51475,10 @@ inapps.appsflyersdk.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zuugfj.cn^
 ||zys13.top^
 ||zys15.top^
-||idddlon.xyz^
 ||zys16.top^
-||uavejnys.xyz^
-||xjxbdh.xyz^
-||fotaxf.xyz^
-||zuugfj.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -58229,7 +58232,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||udpdmeb.cn^
 -ad-300x600-
 -ad-458x80.
 -ad-bottom-
@@ -58938,7 +58940,6 @@ analytics-*.aasaam.com
 ||miao.baidu.com^
 ||midas.chase.com^
 ||mktcs.cloudapps.cisco.com^
-||mon.us.tiktokv.com^
 ||monitor.channel4.com^
 ||mr.homedepot.ca^
 ||n26-trusted.n26.com^
