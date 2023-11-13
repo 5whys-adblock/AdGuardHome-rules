@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202311132334
+# Verison: 202311140234
 # Expires: around 1 day
-# Total number of rules = 89392
+# Total number of rules = 89348
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -37733,6 +37733,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.cocolog-nifty.com^
 ||stats.totalav.com^
 ||analytics.clubic.com^
 ||logs.netflix.com^
@@ -39742,6 +39743,8 @@ inapps.appsflyersdk.com^
 ||int.vaicore.store^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||fraud.adjoe.zone^
+||sdk-monitoring.ogury.co^
 ||tracker.srta.spectrum.com^
 ||event-collector.moviesanywhere.com^
 ||us-east-1.paa-reporting-advertising.amazon^
@@ -48792,7 +48795,6 @@ inapps.appsflyersdk.com^
 ||colossal.jp^
 ||cpro.baidu.com^
 ||download.jword.jp^
-||find-a.jp^
 ||fivecdm.com^
 ||fxprime-popular.com^
 ||i2idata.com^
@@ -49516,9 +49518,7 @@ inapps.appsflyersdk.com^
 ||a.zxcvads.com^
 ||ab.fastighetsvarlden.se^
 ||accesslnk.com^
-||ad.spreaker.com^
 ||adcell.io^
-||adclick.se^
 ||addrevenue.io^
 ||addy.expressen.se^
 ||adeprimo.se^
@@ -49533,9 +49533,7 @@ inapps.appsflyersdk.com^
 ||ads.fotosidan.se^
 ||ads.holid.io^
 ||ads.insikt24.se^
-||ads.internet24.se^
 ||ads.kelkoo.com^
-||ads.lektion.se^
 ||ads.leovegas.com^
 ||ads.mainloop.net^
 ||ads.motorvarlden.se^
@@ -49546,7 +49544,6 @@ inapps.appsflyersdk.com^
 ||ads.skargarden.se^
 ||ads.skidspar.se^
 ||ads.skolvarlden.se^
-||ads.spania.no^
 ||ads.ungdomar.se^
 ||ads.varldenidag.se^
 ||ads.veterinaren.nu^
@@ -49556,7 +49553,6 @@ inapps.appsflyersdk.com^
 ||adservice.google.se^
 ||advert.livesportmedia.eu^
 ||advert.rabaldermedia.se^
-||affiliatemedia.noaccountcasino.com^
 ||affiliatemedia.speedybet.com^
 ||affiliates.videoslots.com^
 ||affiliator.com^
@@ -49568,9 +49564,7 @@ inapps.appsflyersdk.com^
 ||analytics.ciseway.se^
 ||analytics.hpscloud.se^
 ||analytics.ica.se^
-||analytics.imponline.com^
 ||analytics.kb.se^
-||analytics.netcent.se^
 ||analytics.nikkasystems.com^
 ||analytics.sunet.se^
 ||analytics.svt.se^
@@ -49578,11 +49572,9 @@ inapps.appsflyersdk.com^
 ||angry-golick-2a96e5.netlify.app^
 ||annons.svenskjakt.se^
 ||annons.turist.se^
-||annonsera.kyrkanstidning.se^
 ||anonymousdemographics.com^
 ||api.adfenix.com^
 ||api.getlevelten.com^
-||api.innomdc.com^
 ||app.converdiant.com^
 ||aquaplatform.com^
 ||arbetaren.innocraft.cloud^
@@ -49597,19 +49589,16 @@ inapps.appsflyersdk.com^
 ||barbours.com.se^
 ||bcm.interactives.dk^
 ||bellmetric.net^
-||bettersport.se^
 ||bettingstugan.se^
 ||bilpolicydi.bytelab.dk^
 ||biowebb-data.s3.amazonaws.com^
 ||bitstarz.com^
-||bjursundfastigheter.se^
 ||boost-cdn.manatee.dk^
 ||borsvarlden-banners.azurewebsites.net^
 ||brandy.bonniernewslifestyle.se^
 ||browser.covatic.io^
 ||bulletproof-analytics.com^
 ||buzzador.com^
-||cache6.riedta.com^
 ||campersverige.com.se^
 ||cargodisplayads.com^
 ||carneoam.com^
@@ -49627,7 +49616,6 @@ inapps.appsflyersdk.com^
 ||cdn.appsmav.com^
 ||cdn.biddercore.io^
 ||cdn.churnkit.com^
-||cdn.connatix.com^
 ||cdn.convertbox.com^
 ||cdn.jst.ai^
 ||cdn.maaw.io^
@@ -49647,7 +49635,6 @@ inapps.appsflyersdk.com^
 ||collector-pxrf8vapwa.pxchk.net^
 ||collector-pxrf8vapwa.px-cdn.net^
 ||collector-pxrf8vapwa.px-cloud.net^
-||collector.houston-analytics.com^
 ||collect-metrics.aquro.com^
 ||connectio.s3.amazonaws.com^
 ||content.livesportmedia.eu^
@@ -49656,7 +49643,6 @@ inapps.appsflyersdk.com^
 ||creative.prf.hn^
 ||creatopy-adtag-production.b-cdn.net^
 ||ctx.matchads.net^
-||curedonswab.com^
 ||curemedia.se^
 ||cxpublic.com^
 ||d9v72urx9pbbc.cloudfront.net^
@@ -49669,13 +49655,11 @@ inapps.appsflyersdk.com^
 ||digitaliseringsinitiativet.se^
 ||dinapengar.compricer.se^
 ||dinbilgaranti.se^
-||double.se^
 ||drift.com^
 ||driftt.com^
 ||dspk.kindredplc.com^
 ||dynamic-83d822c6-3868940931.stat.truthlyanalytics.com^
 ||eas.mediekompaniet.com^
-||ecsanalytics.com^
 ||edge.atmtd.com^
 ||embi-media.com^
 ||etc-cdn-staging.ams3.digitaloceanspaces.com^
@@ -49703,7 +49687,6 @@ inapps.appsflyersdk.com^
 ||hapyak.com^
 ||heroaffiliates.com^
 ||hollistersverige.com.se^
-||icarabatt.com^
 ||iconosquare.com^
 ||images-ads.aland.com^
 ||img.ascontentcloud.com^
@@ -49715,11 +49698,8 @@ inapps.appsflyersdk.com^
 ||ion.btcswe.com^
 ||jackwolfskinsverige.com.se^
 ||js.glitnoraffiliates.com^
-||js.pafpartners.com^
-||jss.jajja.com^
 ||jssdk.pulse.schibsted.com^
 ||keenstockholm.com.se^
-||keymetrics.se^
 ||ksdarprt.reseguiden.se^
 ||kyrkoskatten.se^
 ||kyrkskatt.se^
@@ -49746,61 +49726,49 @@ inapps.appsflyersdk.com^
 ||matomo.mindbite.cloud^
 ||matomo.studio.se^
 ||matomo.vibb.ax^
-||matomo-sysutv.goteborg.se^
 ||maxetise.net^
 ||mcgtrack.herokuapp.com^
-||mdn2015x4.com^
 ||media.hajper.com^
 ||mediakraft.se^
 ||mediaserver.gvcaffiliates.com.cdn.cloudflare.net^
 ||mega.folkbladet.nu^
 ||mega.vk.se^
 ||meltwater.com^
-||menthu.vdsinside.com^
 ||metapic.se^
 ||mindreskatt.se^
 ||missaffiliate.com^
 ||mmetrix.mobi^
-||moceanads.com^
 ||mraffiliate.com^
 ||mrporter-creative.prf.hn^
 ||mtpc.se^
 ||mtst.io^
-||nbes.nu^
 ||network.ad.nu^
 ||newstats.blogg.se^
 ||nichehuset.dk^
 ||nobull-sverige.com.se^
-||nordishopping.com^
 ||norranstats.azurewebsites.net^
 ||norstatsurveys.com^
 ||ntrfr.expekt.se^
 ||nucleusanalytics.io^
-||oas.market.se^
 ||omni-ad-blocket.herokuapp.com^
 ||openx.financialpublishers.nl^
 ||openx.gamereactor.dk^
 ||openx.jaktsidan.se^
 ||optnmnstr.com^
 ||owa.agriprim.se^
-||p.insplanet.com^
 ||palmangelssverige.com.se^
 ||pcf.tdscd.com^
 ||petrk.com^
-||piwik.qmmedia.zone^
 ||pixel-profile-cloud.eniro.com^
 ||popitunder.com^
 ||portalhc.com^
-||postnord-sverige.com^
 ||proxyas.com^
 ||pushcrew.com^
 ||pxl.host^
 ||r.existenz.se^
-||rabattcoop.com^
 ||recirculation.spot.im^
 ||record.findtrustclicks.com^
 ||regstat.se^
-||reklam.6x.se^
 ||report.23video.com^
 ||resor-external.barnsemester.se^
 ||resultify.com^
@@ -49809,7 +49777,6 @@ inapps.appsflyersdk.com^
 ||revive.nyheteridag.se^
 ||revive.teknikveckan.com^
 ||revive.tv7.fi^
-||revive.zinion.com^
 ||revive.99mac.se^
 ||revrelations.com^
 ||richmediastudio.com^
@@ -49820,7 +49787,6 @@ inapps.appsflyersdk.com^
 ||rpofsweden.com^
 ||salesbooster.ai^
 ||sannsyn.com^
-||science.omni.se^
 ||script.extellio.com^
 ||scripts.makeinfluence.com^
 ||script.e-space.se^
@@ -49834,9 +49800,7 @@ inapps.appsflyersdk.com^
 ||serenitycandles.com.se^
 ||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
-||se-ads-microservice.aws.aller.com^
 ||sgtm.inet.se^
-||sifomedia.sportsverige.se^
 ||skattamindre.se^
 ||sleeknote.com^
 ||smetrics.aftonbladet.se^
@@ -49860,9 +49824,7 @@ inapps.appsflyersdk.com^
 ||statistik.mxo.se^
 ||statistik.svenskaakademien.se^
 ||stats.agrar.nu^
-||stats.bytelabs.se^
 ||stats.docu.info^
-||stats.healthcare.se^
 ||stats.helsingborg.se^
 ||stats.jibber.social^
 ||stats.poddtoppen.se^
@@ -49872,7 +49834,6 @@ inapps.appsflyersdk.com^
 ||storymedia.se^
 ||t.atmng.io^
 ||t.fml.rip^
-||t.influact.com^
 ||tagging-service.fotbollskanalen.se^
 ||tagging-service.tv4play.se^
 ||tagging-service.tv4.se^
@@ -49883,7 +49844,6 @@ inapps.appsflyersdk.com^
 ||tourn.co^
 ||tourn.se^
 ||tr.apsisforms.com^
-||track.addevent.com^
 ||track.postkodlotteriet.se^
 ||tracker.zummycloud.com^
 ||tracker-v4.gamedock.io^
@@ -50005,16 +49965,16 @@ inapps.appsflyersdk.com^
 ||valentinosverige.com^
 ||vejaskorstockholm.com.se^
 ||viagogo.se^
-||vikispot.com^
 ||wct-1.com^
 ||webbannons.ntm.eu^
+||webbplatsanalys.goteborg.se^
 ||webstats.100procent.com^
 ||web-analytics.ica.se^
-||widget.boende.se^
 ||widget.cdn.citygate.se^
 ||widget.citygate.se^
 ||widgets.spklw.com^
 ||woomio.com^
+||www.adnordics.com^
 ||www.adsnet.se^
 ||www.alphalete.com.se^
 ||www.aservice.tools^
@@ -50024,13 +49984,11 @@ inapps.appsflyersdk.com^
 ||www.guesssverige.com.se^
 ||www.gymsharkswedens.com^
 ||www.kundvisaren.se^
-||www.linnlilja.se^
 ||www.mymediaindex.com^
 ||www.runningshoessverige.com^
 ||www.stadiumstage.com^
 ||www.vejaskor.com.se^
 ||www.vejasskor.com^
-||www.air-max.se^
 ||www.gymshark-sweden.com.se^
 ||adplay.it^
 ||delosnetwork.it^
@@ -51168,6 +51126,8 @@ inapps.appsflyersdk.com^
 ||xads.joboko.com^
 ||xmadsapi.joboko.com^
 ||zigzag.vn^
+||05826.online^
+||0a2b3c4d5e.com^
 ||0efghij.com^
 ||0ghijkl.com^
 ||0mnopqr.com^
@@ -51308,6 +51268,7 @@ inapps.appsflyersdk.com^
 ||foizico.cn^
 ||fotaxf.xyz^
 ||fptdxkm.com^
+||fsgiosi.com^
 ||ftzzbx.xyz^
 ||fzgetdy.cn^
 ||g2ak5.com^
@@ -51358,6 +51319,7 @@ inapps.appsflyersdk.com^
 ||grthhr.xyz^
 ||gscsahv011.com^
 ||gscsahv012.com^
+||gscsahv013.com^
 ||gslejoki.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
@@ -51398,6 +51360,7 @@ inapps.appsflyersdk.com^
 ||itwzlyq.com^
 ||iujlwn.icu^
 ||iuvssgh.cn^
+||jcbjcb9.cn^
 ||jevwdao.cn^
 ||jiangjinmoa.cn^
 ||jili9.io^
@@ -51429,6 +51392,7 @@ inapps.appsflyersdk.com^
 ||kzprugp.xyz^
 ||l404k.com^
 ||l80ays.com^
+||lblwhh.xyz^
 ||ldvnehc.xyz^
 ||lfhnzbj.xyz^
 ||lianglili2.cn^
@@ -51490,10 +51454,12 @@ inapps.appsflyersdk.com^
 ||oapyrzde.xyz^
 ||ocwdkp.icu^
 ||oehcxmhk.xyz^
+||oektiu.xyz^
 ||okpcyp.icu^
 ||olltcqg.xyz^
 ||omkxes.xyz^
 ||omzxutfm.com^
+||ooejkd.xyz^
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
@@ -51534,6 +51500,7 @@ inapps.appsflyersdk.com^
 ||rkds5.icu^
 ||rntdqwc.xyz^
 ||roxewwq.cn^
+||rrfccx.com^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
 ||rzflhxn.cn^
@@ -51544,6 +51511,7 @@ inapps.appsflyersdk.com^
 ||shipostrich.com^
 ||shx11.xyz^
 ||smlpcz.icu^
+||splfnok.cn^
 ||sqevnrb.com^
 ||sregfle.cn^
 ||srlhgo.cn^
@@ -51553,6 +51521,7 @@ inapps.appsflyersdk.com^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
 ||tewsdnka35.xyz^
+||tfczk.xyz^
 ||tgjdbx.xyz^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
@@ -51560,8 +51529,10 @@ inapps.appsflyersdk.com^
 ||toyhyhv.icu^
 ||tqrznqs.cn^
 ||trdmtx.xyz^
+||tuvixr.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
+||uakxkb.icu^
 ||uavejnys.xyz^
 ||udpdmeb.cn^
 ||ugvbsrbht.xyz^
@@ -51647,6 +51618,7 @@ inapps.appsflyersdk.com^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yivkzvog.xyz^
+||yjxzvqy.xyz^
 ||ynulcpt.cn^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
@@ -51661,25 +51633,15 @@ inapps.appsflyersdk.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zmfcnlvu.xyz^
 ||zndvfrl.xyz^
 ||znwzcmd.cn^
+||zpvuugw.cn^
 ||zuugfj.cn^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||05826.online^
-||splfnok.cn^
-||yjxzvqy.xyz^
-||zmfcnlvu.xyz^
-||gscsahv013.com^
-||lblwhh.xyz^
-||uakxkb.icu^
-||oektiu.xyz^
-||tuvixr.xyz^
-||rrfccx.com^
-||jcbjcb9.cn^
-||tfczk.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -57124,7 +57086,6 @@ analytics-*.aasaam.com
 ||tag.adincube.com^
 ||pool.adizio.com^
 ||adj.st^
-||fraud.adjoe.zone^
 ||prod.adjoe.zone^
 ||adjust.net.in^
 ||adjust.world^
@@ -57407,6 +57368,7 @@ analytics-*.aasaam.com
 ||assets.connatix.com^
 ||capi.connatix.com^
 ||cd.connatix.com^
+||cdn.connatix.com^
 ||cds.connatix.com^
 ||cks.connatix.com^
 ||core.connatix.com^
@@ -57947,7 +57909,6 @@ analytics-*.aasaam.com
 ||fuzeclick.offerstrack.net^
 ||heatmobi.offerstrack.net^
 ||midoweb.offerstrack.net^
-||sdk-monitoring.ogury.co^
 ||cloud.ogury.io^
 ||dsp-1.ogury.io^
 ||api.omnilocal.ai^
@@ -58437,10 +58398,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||0a2b3c4d5e.com^
-||fsgiosi.com^
-||ooejkd.xyz^
-||zpvuugw.cn^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -74950,7 +74907,6 @@ arketing.indianadunes.com^
 ||track.tesiteca.it^
 ||tracker.stileo.it^
 ||tracking.gruppo.mps.it^
-||analytics.cocolog-nifty.com^
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
 ||count.upc.rakuten.co.jp^
