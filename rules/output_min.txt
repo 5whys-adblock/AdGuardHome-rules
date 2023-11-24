@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202311241731
+# Verison: 202311242048
 # Expires: around 1 day
-# Total number of rules = 89931
+# Total number of rules = 89934
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||prosocrawn.com^
+||geometryworstaugust.com^
 ||cpcstdploqqh.com^
 ||psedregn.net^
 ||edvxygh.com^
@@ -38072,6 +38074,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||azq.zozo.jp^
 ||inbound-analytics.pixlee.com^
 ||rtm-tracking.zozo.jp^
 ||analytics.netkeiba.com^
@@ -49288,6 +49291,8 @@ inapps.appsflyersdk.com^
 ||azol.de^
 ||twiago.com^
 ||bauernative.com^
+||max211.top^
+||st-fly.b-cdn.net^
 ||ggsfq.xyz^
 ||lqxbkqdtvtdhw.xyz^
 ||bilec.xyz^
@@ -52210,6 +52215,7 @@ inapps.appsflyersdk.com^
 ||huxsvl.xyz^
 ||kkeojk.xyz^
 ||tobyxev.com^
+||wecklrb.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -58962,7 +58968,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||wecklrb.cn^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -89490,8 +89495,6 @@ nanoGDPR.min.js^
 ||connect.danone.es^
 ||notice.sp-prod.net^
 ||cdn.realpeoplemedia.co.uk^
-||max211.top^
-||st-fly.b-cdn.net^
 ||ad*.on.cc^
 ||ere.wew.92kkdy.cc^
 ||unpkg.com^$badfilter
