@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202311262046
+# Verison: 202311262331
 # Expires: around 1 day
-# Total number of rules = 90042
+# Total number of rules = 90045
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -38219,7 +38219,6 @@ vkcdnservice.appspot.com^
 ||openrate.aweber.com^
 ||tracker.iplocation.net^
 ||e20d8e38992b.o3n.io^
-||adservice.google.
 ||weblog.kma.go.kr^
 ||track.exame.com^
 ||t.syosetu.org^
@@ -59186,13 +59185,16 @@ analytics-*.aasaam.com
 ||loadercdn.com^
 ||ntv.io^
 ||olnjitvizo.com
+||quagfa.com^
 ||rubiconproject.com^
 ||succeedscene.com^
 ||tedious-weight.pro
 ||totaladblock.com^
 ||trust.zone^
+||tutphiarcox.com^
 ||ucationininancee.info
 ||videoplaza.tv^
+||whistlingbeau.com^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -59569,6 +59571,7 @@ analytics-*.aasaam.com
 ://internal-matomo.
 ://segment-api.
 ://segment-cdn.
+||adservice.google.
 -logabpstatus.
 ||captcha-display.com^
 ||cxense.com^
