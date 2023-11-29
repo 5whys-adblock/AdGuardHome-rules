@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202311291732
+# Verison: 202311292050
 # Expires: around 1 day
-# Total number of rules = 89886
+# Total number of rules = 89892
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||zsgpdafjd.com^
+||wzcznlufq.com^
 ||ytvigqwx.com^
 ||waunsgraphs.website^
 ||homierceston.top^
@@ -39869,7 +39871,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analysys.cn^
 ||ntracker-collector.naver.com^
 ||ace.naver.com^
-||api.sec.intl.miui.com^
 ||authbe.sec.intl.miui.com^
 ||flash.sec.intl.miui.com^
 ||api.setting.intl.miui.com^
@@ -52160,6 +52161,7 @@ inapps.appsflyersdk.com^
 ||bavkvoks.xyz^
 ||oouiqi.xyz^
 ||fxkfhbn.xyz^
+||commonwealthproficient.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -57425,6 +57427,7 @@ analytics-*.aasaam.com
 ||letysheeps.ru^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@||cmp.inmobi.com^|
 @@||cdn.us*.exponea.com^|
 @@||data.digital.costco.ca^|
 @@||data.digital.costco.com^|
@@ -58913,7 +58916,9 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||commonwealthproficient.com^
+||rshsk.xyz^
+||bachou.cn^
+||ggrfab.icu^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -59035,6 +59040,7 @@ analytics-*.aasaam.com
 ||ucationininancee.info
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
+||wrfkjw.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
