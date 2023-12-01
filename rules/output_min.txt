@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202312010532
+# Verison: 202312010945
 # Expires: around 1 day
-# Total number of rules = 90003
+# Total number of rules = 90014
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||attendingtarget.com^
 ||kgsehayyvhk.com^
 ||pyzwxkb.com^
 ||sthgqhb.com^
@@ -15688,6 +15689,7 @@ vkcdnservice.appspot.com^
 ||jldbnjghezv.com^
 ||jlkhaohgew.xyz^
 ||jlmokzndbiafs.com^
+||jltdgjqgtbfyg.com^
 ||jltjgujdnyp.com^
 ||jmaomkosxfi.com^
 ||jmeanzkixok.com^
@@ -31256,6 +31258,7 @@ vkcdnservice.appspot.com^
 ||yrvzqabfxe.com^
 ||yscntxil.com^
 ||ysemblyjusting.info^
+||ysesials.net^
 ||ysnakestanothia.xyz^
 ||ysuchtjhwasp.info^
 ||ytbzqtrog.com^
@@ -31867,6 +31870,7 @@ vkcdnservice.appspot.com^
 ||adshot.de^
 ||adshuffle.com^
 ||adsiduous.com^
+||adsight.nl^
 ||adslivecorp.com^
 ||adsmart.hk^
 ||adsninja.ca^
@@ -52273,6 +52277,12 @@ inapps.appsflyersdk.com^
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
+||a99hz.space^
+||raxetyrw.xyz^
+||birgga.top^
+||tklnzv.xyz^
+||uhjxitn.xyz^
+||3i2i.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -59027,6 +59037,9 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||ohopao.xyz^
+||txzepl.xyz^
+||iobvmtx.xyz^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -59136,7 +59149,6 @@ analytics-*.aasaam.com
 ||get-me-wow.
 ||googletagservices.com^
 ||imasdk.googleapis.com^
-||jltdgjqgtbfyg.com^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
@@ -59149,7 +59161,6 @@ analytics-*.aasaam.com
 ||ucationininancee.info
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
-||ysesials.net^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
