@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202312061731
+# Verison: 202312062050
 # Expires: around 1 day
-# Total number of rules = 89507
+# Total number of rules = 89527
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||nifty-transportation.com^
 ||vrcjleonnurifjy.xyz^
 ||ecoulsou.xyz^
 ||rtwdzxstpanmn.com^
@@ -34765,6 +34766,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||ohmy.bid^
 ||nakanohito.jp^
 ||analytics.fcgtalent.fi^
 ||gl-product-analytics.com^
@@ -45197,6 +45199,10 @@ inapps.appsflyersdk.com^
 ||ver-pelis.net^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||flyroll.ru^
+||adstreamer.ru^
+||videohead.tech^
+||openssp.ru^
 ||079301eaff0975107716716fd1cb0dcd.com^
 ||gimnsr.com^
 ||wensonk.com^
@@ -52597,6 +52603,11 @@ inapps.appsflyersdk.com^
 ||awareista.com^
 ||zigyspv.icu^
 ||linj.top^
+||yshlor.icu^
+||ioswhi.com^
+||xiaohuishu.top^
+||05pg9z.com^
+||p5kzev.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -58520,8 +58531,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||yshlor.icu^
-||ioswhi.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -58620,21 +58629,32 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||78387c2566.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
+||byvpezdzmpureo.com^
+||bzsiyxkvehty.com^
+||clbaf.com^
 ||cusilbwq.xyz
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
+||gjknyqmvrluao.com^
+||gnkgvjxunmwc.com^
 ||googletagservices.com^
+||icrxbetigcdjz.com^
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
+||lmaynnkjbbjbb.top^
 ||loadercdn.com^
+||masterfrowne.org^
 ||ntv.io^
+||nzrzgorm.com^
 ||olnjitvizo.com
+||quiazo.xyz^
 ||rubiconproject.com^
 ||succeedscene.com^
 ||tedious-weight.pro
@@ -58642,6 +58662,7 @@ analytics-*.aasaam.com
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
+||wehaveinourd.org^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -59020,7 +59041,6 @@ analytics-*.aasaam.com
 ://segment-api.
 ://segment-cdn.
 ||adservice.google.
--logabpstatus.
 ||captcha-display.com^
 ||cxense.com^
 ||geotargetly-api-*.com^
