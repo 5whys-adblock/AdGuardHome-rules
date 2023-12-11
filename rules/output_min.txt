@@ -1,5 +1,5 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202312111731
+# Verison: 202312112050
 # Expires: around 1 day
 # Total number of rules = 89935
 # Below are the links of the adblock rules
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||cdn.keajs.com^
 ||vtsyqikqnrfmaye.com^
 ||bhqfnuq.com^
 ||jcqueawk.xyz^
@@ -58065,7 +58066,6 @@ analytics-*.aasaam.com
 ://ad-api-
 ://ad1.
 ://ads2.
--prebid-
 .prebid-bundle.
 -detect-adblock.
 -120-600.
