@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202312112050
+# Verison: 202312112331
 # Expires: around 1 day
-# Total number of rules = 89935
+# Total number of rules = 89959
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,7 +20,6 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
-||cdn.keajs.com^
 ||vtsyqikqnrfmaye.com^
 ||bhqfnuq.com^
 ||jcqueawk.xyz^
@@ -58016,6 +58015,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||kkisoo.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -58113,21 +58113,41 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||466f89f4d1.com^
+||abatorsgleir.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||asverymuc.org^
 ||atdmt.com^
 ||auditude.com^
+||aypahalndxrxon.com^
 ||buyeasy.by^
+||csscloudstorage.com^
 ||cusilbwq.xyz
+||cxwqeehw.com^
+||daliapama.com^
+||dasensiblem.org^
+||dlxohfxenojlpb.com^
+||fgislklsqqytr.com^
+||forebypageant.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
 ||imasdk.googleapis.com^
+||ishoawew.net^
+||keajs.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||lyjznnanaryaj.top^
+||meltembrace.com^
+||nsjyfpo.com^
 ||ntv.io^
 ||olnjitvizo.com
+||panagiapivots.com^
+||primalredfish.com^
+||reducebakers.com^
+||rgbvncnqzlvwr.com^
 ||rubiconproject.com^
 ||succeedscene.com^
 ||tedious-weight.pro
@@ -58135,7 +58155,11 @@ analytics-*.aasaam.com
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
+||vtetishcijmi.com^
+||wdevxtmasfdswx.com^
+||whkyiuufzjt.com^
 ||wpnrtnmrewunrtok.xyz^
+||zaribastunty.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
