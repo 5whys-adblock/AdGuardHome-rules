@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202312222047
+# Verison: 202312222331
 # Expires: around 1 day
-# Total number of rules = 90049
+# Total number of rules = 90052
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -59039,6 +59039,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||mycxhgrp.xyz^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -76123,6 +76124,8 @@ arketing.indianadunes.com^
 ||1000su.com^
 ||jf.10010.com^
 ||smartad.10010.com^
+||nishub1.10010.com^
+||enrichgw.10010.com^
 ||1001movies.com^
 ||100669.com^
 ||sdc.10086.cn^
@@ -78307,6 +78310,7 @@ arketing.indianadunes.com^
 ||cpu-baidu-com-block.cdn.bcebos.com^
 ||hzyd.cdn.bcebos.com^
 ||xsapp.cdn.bcebos.com^
+||staticsns.cdn.bcebos.com^
 ||mobads-pre-config.cdn.bcebos.com^
 ||httpdns.bcelive.com^
 ||3wz6z.bchuangpi.cn^
@@ -81133,7 +81137,7 @@ arketing.indianadunes.com^
 ||huaxinxunye.cn^
 ||s.huayi65.com^
 ||huayiav.cn^
-||sdktmp.hubcloud.com.cn^
+||hubcloud.com.cn^
 ||hubtraffic.com^
 ||h0.hucdn.com^
 ||hugedomains.com^
@@ -88607,7 +88611,6 @@ arketing.indianadunes.com^
 ||t1.cdn.xiangha.com^
 ||scs.openspeech.cn^
 ||api.leancloud.cn^
-||staticsns.cdn.bcebos.com^
 ||ggic.cmvideo.cn^
 ||file.apicvn.com^
 ||acdid.acdsystems.com^
