@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202401051732
+# Verison: 202401052048
 # Expires: around 1 day
-# Total number of rules = 102085
+# Total number of rules = 102080
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -38991,6 +38991,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||prdwebcollector.ruetracking.com^
 ||analytics-api.invideo.io^
 ||tr.staff-start.com^
 ||rtnl.bxcl.de^
@@ -49371,6 +49372,7 @@ inapps.appsflyersdk.com^
 ||adtima.org^
 ||adv.anhsangvacuocsong.vn^
 ||adv.autosurf.vn^
+||adv.baoangiang.com.vn^
 ||adv.baotintuc.vn^
 ||adv.baovemoitruong.org.vn^
 ||adv.thuvienphapluat.vn^
@@ -49552,6 +49554,7 @@ inapps.appsflyersdk.com^
 ||log.tapchimattran.vn^
 ||log.tapchitaichinh.vn^
 ||log.theleader.vn^
+||log.thuonggiaonline.vn^
 ||log.tienphong.vn^
 ||log.tieudungthoinay.vn^
 ||log.tinnhac.com^
@@ -51037,6 +51040,9 @@ inapps.appsflyersdk.com^
 ||sd2ua.icu^
 ||upyerxzn.xyz^
 ||bpyerxzn.xyz^
+||szbpf.cn^
+||xpyerxzn.xyz^
+||tpyerxzn.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -56651,7 +56657,6 @@ analytics-*.aasaam.com
 ||app.roximity.com^
 ||widget-cdn.rpxnow.com^
 ||dmp.rtbsrv.com^
-||prdwebcollector.ruetracking.com^
 ||rundsp.com^
 ||api.safedk.com^
 ||edge.safedk.com^
@@ -56998,8 +57003,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||szbpf.cn^
-||xpyerxzn.xyz^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -61495,7 +61498,6 @@ analytics-*.aasaam.com
 ||asp.taishokunext.com^
 ||aspa8.ozmall.co.jp^
 ||car-a8.tabirai.net^
-||cart.matsuzaka-steak.com^
 ||click.techtree.jp^
 ||clk.entry.surala.jp^
 ||clk.glam-print.com^
@@ -69911,7 +69913,6 @@ analytics-*.aasaam.com
 ||go.expresslanedefensivedriving.com^
 ||go.fabplaygrounds.com^
 ||go.foremostmedia.com^
-||go.fvtc.edu^
 ||go.gemapowdercoating.net^
 ||go.getreadyforthefuture.com^
 ||go.gpcom.com^
@@ -69996,7 +69997,6 @@ analytics-*.aasaam.com
 ||hello.controlmap.io^
 ||hello.emergeinteractive.com^
 ||hello.highlandsolutions.com^
-||hfd.bridgetowermedia.com^
 ||hi.bigduck.com^
 ||homecareresources.rosemarksystem.com^
 ||hotel-marketing.hrs.com^
@@ -76571,7 +76571,6 @@ analytics-*.aasaam.com
 ||connect.schoolmessenger.com^
 ||connect.senecacollege.ca^
 ||connect.stihl.info^
-||connect.telstrawholesale.com.au^
 ||connect.the-stockmarket.com^
 ||connect.xo.com^
 ||connect.zebra.com^
@@ -76606,7 +76605,6 @@ analytics-*.aasaam.com
 ||contactcenter.verintsystemsinc.com^
 ||contactcentercala.verintsystemsinc.com^
 ||contactecs.arrow.com^
-||contactforms.53.com^
 ||contacto.lecleire.com.gt^
 ||contactus.53.com^
 ||content.accelalpha.com^
@@ -76706,7 +76704,6 @@ analytics-*.aasaam.com
 ||digital-global.furniture-china.cn^
 ||digital.adt.com.uy^
 ||digital.aptaracorp.com^
-||digital.att.com^
 ||digital.forddirectdealers.com^
 ||digital.ironmountain.com^
 ||digitalworkplace.ricoh.fr^
@@ -77140,7 +77137,6 @@ analytics-*.aasaam.com
 ||forex.americanexpress.com^
 ||form.fusesource.com^
 ||form.harvardbusiness.org^
-||form.info-morimoto-real.jp^
 ||form.innovative-design-lab.com^
 ||form.vocalink.com^
 ||formaciones.arin-innovation.com^
@@ -82410,7 +82406,6 @@ analytics-*.aasaam.com
 ||click1.email.audacy.com^
 ||click2.email.ticketmaster.com^
 ||clicked.ebates.com^
-||clickmail.stubhub.com^
 ||clicks.6thstreet.com^
 ||clicks.burgerking.co.uk^
 ||clicks.drizly.com^
@@ -83979,7 +83974,6 @@ analytics-*.aasaam.com
 ||links.soulsoftware.org^
 ||links.sparkmail.branch.rocks^
 ||links.staging-lifestepsapp.com^
-||links.strava.com^
 ||links.stretchitapp.com^
 ||links.subscribed.app^
 ||links.sudokuplus.net^
@@ -84649,7 +84643,6 @@ analytics-*.aasaam.com
 ||webtoons.naver.com^
 ||whatcounts.branch.rocks^
 ||wl.bl.frequentvalues.com.au^
-||wl.spotify.com^
 ||won.wooribank.com^
 ||wop-bio.ubiwhere.com^
 ||worker-app-dev.buildforce.com^
@@ -97150,6 +97143,7 @@ analytics-*.aasaam.com
 ||brainlands.stonefalcon.com^
 ||seniorliving.stoneridgelcs.com^
 ||storygize.net^
+||links.strava.com^
 ||link2.strawberrynet.com^
 ||dcc.strbgi.xyz^
 ||strdef.world^
@@ -97530,6 +97524,7 @@ analytics-*.aasaam.com
 ||data.mail.telia.dk^
 ||dl.telly.com^
 ||images.info.telogis.com^
+||connect.telstrawholesale.com.au^
 ||template-download.top^
 ||marketing.temptimecorp.com^
 ||guid.tpns.tencent.com^
