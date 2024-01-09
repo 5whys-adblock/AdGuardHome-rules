@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202401091731
+# Verison: 202401092332
 # Expires: around 1 day
-# Total number of rules = 100296
+# Total number of rules = 100330
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||dwvbfnqrbif.com^
+||despectclogwyn.com^
 ||justey.com^
 ||hrkplkgjs.com^
 ||glowedhyalins.com^
@@ -17458,6 +17460,7 @@ vkcdnservice.appspot.com^
 ||lirateblister.com^
 ||lirdooch.xyz^
 ||lispingwraths.space^
+||list-ads.com^
 ||listeraislatory.site^
 ||listfulhymnals.website^
 ||listguineaelementary.com^
@@ -35614,6 +35617,9 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sync.adspend.space^
+||sync.opendsp.ru^
+||sync.programmatica.com^
 ||tracker.smart-bdash.com^
 ||trk.a-dsp.com^
 ||metrics.plaid.com^
@@ -36267,7 +36273,6 @@ vkcdnservice.appspot.com^
 ||analytics.chase.com^
 ||scripttags.jst.ai^
 ||trace21.dsb-ebusiness.com^
-||adjust.com^
 ||a.ddli.jp^
 ||b92.yahoo.co.jp^
 ||cf-native.karte.io^
@@ -39100,6 +39105,9 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.msk1.ru^
+||metrics.viqeo.tv^
+||rtb.videonow.ru^
 ||ping.hashnode.com^
 ||t.la-croix.com^
 ||trk.tirto.id^
@@ -43246,6 +43254,8 @@ inapps.appsflyersdk.com^
 ||ver-pelis.net^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||cchbdata.net^
+||s.ccsyncuuid.net^
 ||fnasmpygwa.com^
 ||o1qry0qq83.com^
 ||fft.delovoemesto.ru^
@@ -46760,6 +46770,7 @@ inapps.appsflyersdk.com^
 ||vt4dlx.ru^
 ||xifg6h.ru^
 ||zfvklk.ru^
+||tgb.hsmedia.ru^
 ||market-backend.api.2gis.ru^
 ||sharemefiles.ru^
 ||userdata.ati.su^
@@ -51220,6 +51231,11 @@ inapps.appsflyersdk.com^
 ||ui8l2.xyz^
 ||uzelzfnj.xyz^
 ||bzelzfnj.xyz^
+||szmdp.cn^
+||xzelzfnj.xyz^
+||tzelzfnj.xyz^
+||ljhbhy.cn^
+||adtx2.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -55785,6 +55801,7 @@ analytics-*.aasaam.com
 @@||forum.notebookreview.com^|
 @@||radiofrance.targetspot.com^|
 @@||awin1.com^|
+@@||app.adjust.com^|
 @@||feed.adrelayer.com^|
 @@||redirect.appmetrica.yandex.com^|
 @@||guce.advertising.com^|
@@ -55848,6 +55865,7 @@ analytics-*.aasaam.com
 ||pool.adizio.com^
 ||adj.st^
 ||prod.adjoe.zone^
+||adjust.com^
 ||adjust.net.in^
 ||adjust.world^
 ||adtrack.adleadevent.com^
@@ -57180,8 +57198,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||szmdp.cn^
-||xzelzfnj.xyz^
+||mzelzfnj.xyz^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -57279,30 +57296,47 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||3467b7d02e.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
+||cohade.uno^
 ||cusilbwq.xyz
+||dawplm.com^
+||dtkhbsictxpu.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
+||hapbtualkfi.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
+||jzokkejmqrbyj.top^
 ||kqzyfj.com^
+||kxemrjbvsrd.com^
 ||loadercdn.com^
+||nawcgetfwpbff.com^
+||nderthfeo.info^
 ||ntv.io^
 ||olnjitvizo.com
+||pgtabxxmb.com^
+||pnufzbzzomt.com^
+||poi3d.space^
+||rbcxttd.com^
 ||rubiconproject.com^
+||seynatcreative.com^
+||shalomitll.top^
 ||succeedscene.com^
+||tbgmckdemnv.com^
 ||tedious-weight.pro
 ||totaladblock.com^
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
+||zugeme.uno^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -83268,8 +83302,8 @@ analytics-*.aasaam.com
 ||link.carfax.com^
 ||link.cdl.freshly.com^
 ||link.cheerz.com^
-||link.clubmanagergame.com^
 ||link.clickipo.com^
+||link.clubmanagergame.com^
 ||link.cluno.com^
 ||link.cofyz.com^
 ||link.collectivebenefits.com^
