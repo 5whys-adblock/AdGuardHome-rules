@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202401251731
+# Verison: 202401252051
 # Expires: around 1 day
-# Total number of rules = 107935
+# Total number of rules = 107954
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -37302,6 +37302,8 @@ vkcdnservice.appspot.com^
 ||deapi.afreecatv.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||aan.amazon.*^
+||mads.amazon.com^
 ||p16-ad.byteoversea.com^
 ||mtgglobals.com^
 ||pgdt.gtimg.cn^
@@ -41397,6 +41399,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.pangle-ads.com^
 ||d9jj3mjthpub.cloudfront.net^
 ||wwwstat.rz.uni-leipzig.de^
 ||analytics.fap.bar^
@@ -57746,6 +57749,8 @@ inapps.appsflyersdk.com^
 ||nszort.xyz^
 ||chnvgdkw.xyz^
 ||fopksr.icu^
+||ogmjhve.cn^
+||xhnvgdkw.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -63811,26 +63816,40 @@ analytics-*.aasaam.com
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
+||bqscznsc.com^
 ||buyeasy.by^
+||cupidsirised.guru^
 ||cusilbwq.xyz
+||dxvgvbaqzgeb.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
 ||greatlifebargains2024.com
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
+||itzripkkdkfny.com^
+||jbzmwqmqwokkq.top^
 ||kqzyfj.com^
+||lcrhtauvic.com^
 ||loadercdn.com^
 ||ntv.io^
+||nurewsawan.org^
+||nvvmslfqowhkkv.com^
+||ofitstefukste.org^
+||ojmvywz.com^
+||okxqmiagltpe.com^
 ||olnjitvizo.com
 ||rubiconproject.com^
 ||succeedscene.com^
 ||tedious-weight.pro
+||theihafe.com^
 ||totaladblock.com^
 ||trust.zone^
+||tzaqkp.com^
 ||ucationininancee.info
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
+||zmikrctxf.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
