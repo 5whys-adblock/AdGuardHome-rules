@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202401261732
+# Verison: 202401262046
 # Expires: around 1 day
-# Total number of rules = 106620
+# Total number of rules = 106630
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||riweeboo.com^
 ||8trd.online^
 ||publisher1st.com^
 ||avglfookdjuj.com^
@@ -41571,6 +41572,9 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||pdsssl.gmarket.co.kr^
+||pds.gmarket.co.kr^
+||uts.gmarket.co.kr^
 ||analytics.nova.foxsports.com^
 ||analytics.theta360.com^
 ||log.ifood.tv^
@@ -43623,6 +43627,7 @@ inapps.appsflyersdk.com^
 ||int.vaicore.store^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||events.character.ai^
 ||sb.scorecard.research.com^
 ||zml-apm-prd.dbv4.noncd.db.de^
 ||api.bytebrew.io^
@@ -57940,6 +57945,7 @@ inapps.appsflyersdk.com^
 ||cpkxahje.xyz^
 ||rmxizma.cn^
 ||jyewkb.icu^
+||xpkxahje.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -63997,6 +64003,7 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||abelestheca.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
@@ -64004,6 +64011,8 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||buyeasy.by^
 ||cusilbwq.xyz
+||formsmir.com^
+||gaushaih.xyz^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
@@ -64015,6 +64024,7 @@ analytics-*.aasaam.com
 ||ntv.io^
 ||olnjitvizo.com
 ||rubiconproject.com^
+||steppedlashkar.com^
 ||succeedscene.com^
 ||tedious-weight.pro
 ||totaladblock.com^
