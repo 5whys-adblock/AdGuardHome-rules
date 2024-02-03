@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202402031132
+# Verison: 202402031431
 # Expires: around 1 day
-# Total number of rules = 104867
+# Total number of rules = 104866
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -1672,6 +1672,7 @@ vkcdnservice.appspot.com^
 ||063f828cf2.com^
 ||0676el9lskux.top^
 ||06e293435c.com^
+||070880.com^
 ||072c4580e8.com^
 ||07wr439dfait.top^
 ||0819478661.com^
@@ -44440,7 +44441,6 @@ inapps.appsflyersdk.com^
 ||errors.snackly.co^
 ||et.educationdynamics.com^
 ||etl.springbot.com^
-||eu-mobile.events.data.microsoft.com^
 ||ev.moneymade.io^
 ||ev.stellarlabs.ai^
 ||event-api.contactatonce.com^
@@ -56420,6 +56420,20 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||wttuuyd.cn^
+||zfpkrl.xyz^
+||ve0ke.icu^
+||dk45h.icu^
+||ylypzbzs.xyz^
+||wbnbocz.xyz^
+||it8vh.site^
+||cbyhoe.xyz^
+||uu11881.com^
+||uu22002.com^
+||uu22332.com^
+||clypzbzs.xyz^
+||gyjgrvd.cn^
+||qeuckn.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -62035,17 +62049,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||wttuuyd.cn^
-||zfpkrl.xyz^
-||ve0ke.icu^
-||dk45h.icu^
-||ylypzbzs.xyz^
-||wbnbocz.xyz^
-||it8vh.site^
-||cbyhoe.xyz^
-||uu11881.com^
-||uu22002.com^
-||uu22332.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -97507,6 +97510,7 @@ analytics-*.aasaam.com
 ||us.vortex-win.data.microsft.com^
 ||v10.vortex-win.data.microsft.com^
 ||crl.microsoft.com^
+||events.data.microsoft.com^
 ||watson.microsoft.com^
 ||telemetry.microsoft.com^
 ||api.edgeoffer.microsoft.com^
@@ -97518,10 +97522,7 @@ analytics-*.aasaam.com
 ||i1.services.social.microsoft.com^
 ||ieonline.microsoft.com^
 ||ieonlinews.microsoft.com^
-||kmwatson.events.data.microsoft.com^
-||kmwatsonc.events.data.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
-||nw-umwatson.events.data.microsoft.com^
 ||rad.microsoft.com^
 ||redir.metaservices.microsoft.com^
 ||romeccs.microsoft.com^
@@ -97534,8 +97535,6 @@ analytics-*.aasaam.com
 ||statsfe2.ws.microsoft.com^
 ||telemetry.urs.microsoft.com^
 ||teredo.ipv6.microsoft.com^
-||umwatson.events.data.microsoft.com^
-||umwatsonc.events.data.microsoft.com^
 ||vortex-sandbox.data.microsoft.com^
 ||vortex-win-sandbox.data.microsoft.com^
 ||vortex.data.glbdns2.microsoft.com^
