@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202402041432
+# Verison: 202402041731
 # Expires: around 1 day
-# Total number of rules = 105006
+# Total number of rules = 105044
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -62251,6 +62251,8 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||empizem.cn^
+||jiupaozi.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -62349,30 +62351,63 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||acpakrjzyamb.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||ardoursmutine.top^
 ||atdmt.com^
 ||auditude.com^
+||aymobi.online^
+||blindefficiency.pro^
 ||buyeasy.by^
+||clickwork7secure.com^
+||copymannantz.com^
+||ctvnmxl.com^
 ||cusilbwq.xyz
+||d1q0x5umuwwxy2.cloudfront.net^
+||deformunkid.space^
+||enisleslonely.com^
+||furnacecubbuoyancy.com^
+||gbbdkrkvn.xyz^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
+||getadzuki.com^
 ||googletagservices.com^
 ||greatlifebargains2024.com
+||grilledcolmars.top^
+||hegazedatthe.info^
+||hugysoral.digital^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
+||ingablorkmetion.com^
+||intendrebend.top^
 ||kqzyfj.com^
 ||loadercdn.com^
+||loosishunproud.top^
+||minimviolone.life^
+||mljcfymfve.com^
+||mwxopip.com^
 ||ntv.io^
 ||olnjitvizo.com
+||osangauh.net^
+||quedo.buzz^
+||quibbleremints.top^
+||rewetgreeter.top^
+||rhombosdupe.top^
+||rmvvawqobqvmv.top^
 ||rubiconproject.com^
+||shticksconturb.com^
+||stoorgel.com^
 ||succeedscene.com^
+||surmitmegbote.top^
+||sybobuicks.com^
 ||tedious-weight.pro
 ||totaladblock.com^
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
+||virgecallate.digital^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -64823,6 +64858,7 @@ analytics-*.aasaam.com
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||csi.gstatic.com^
+||doppler-config.cbsivideo.com^
 ||firebaselogging-pa.googleapis.com^
 ||g.msn.com^
 ||geo.ngtv.io^
@@ -64855,7 +64891,6 @@ analytics-*.aasaam.com
 ||adv.drtuber.com^
 ||aegis.trovo.live^
 ||amethyst.zappos.com^
-||analyselog.dx.com^
 ||analytics-api.dvdfab.
 ||analytics-proxy.springboard.com^
 ||analytics.academy.com^
@@ -64868,14 +64903,12 @@ analytics-*.aasaam.com
 ||analytics.productreview.com.au^
 ||analytics.realestate.com.au^
 ||analytics.synchrony.com^
-||analytics.synedat.com^
 ||analytics.ticketmaster.
 ||analytics.wavebox.io^
 ||analytics.yugen.to^
 ||api-hotmart-tracking-manager.hotmart.com^
 ||api.privacyguides.net^
 ||appanalysis.banggood.com^
-||assets.instacart.com^
 ||atrack.allposters.com^
 ||ats.alot.com^
 ||aurum.tirto.id^
@@ -64894,7 +64927,6 @@ analytics-*.aasaam.com
 ||c.wired.com^
 ||c.xbox.com^
 ||click.nudevista.com^
-||click.sinx.com^
 ||client-log.box.com^
 ||clp-mms.cloudpro.co.uk^
 ||cm-mms.coachmag.co.uk^
@@ -64912,7 +64944,6 @@ analytics-*.aasaam.com
 ||colvk.viki.io^
 ||confiant.msn.com^
 ||console-telemetry.oci.oraclecloud.com^
-||conversion.mooncard.co^
 ||copilot-telemetry.githubusercontent.com^
 ||counter.darkreader.app^
 ||cpt.itv.com^
@@ -64928,6 +64959,7 @@ analytics-*.aasaam.com
 ||dd.auspost.com.au^
 ||df.infra.shopee.ph^
 ||discover-metrics.cloud.seek.com.au^
+||dls-account.di.atlas.samsung.com^
 ||dp.shoprunner.com^
 ||dtag.breadfinancial.com^
 ||dumpster.cam4.com^
@@ -64958,7 +64990,6 @@ analytics-*.aasaam.com
 ||exr-mms.expertreviews.co.uk^
 ||f362.nola.com^
 ||fathom.app.silverbeak.com^
-||fathom.status.im^
 ||fathom.tdvm.net^
 ||fbo-statistics-collector-tc.is.flippingbook.com^
 ||fdt.kraken.com^
@@ -64975,7 +65006,6 @@ analytics-*.aasaam.com
 ||g.mashable.com^
 ||g.newtimes.com^
 ||g.pcmag.com^
-||ga.dx.com^
 ||ga.nsimg.net^
 ||gct.americanexpress.com^
 ||geo.brobible.com^
@@ -64988,7 +65018,6 @@ analytics-*.aasaam.com
 ||gtreus.aliexpress.com^
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
-||hits.cyberdrop.me^
 ||hn-ping*.hashnode.com^
 ||htrace.wetvinfo.com^
 ||i.pokernews.com^
@@ -65005,7 +65034,6 @@ analytics-*.aasaam.com
 ||intent.techadvisor.com^
 ||intuitvisitorid.api.intuit.com^
 ||ip.cliphunter.com^
-||ip.pichunter.com^
 ||isc-tracking.eventim.com^
 ||isharemetric.rediff.com^
 ||ivx.lacompagnie.com^
@@ -65047,7 +65075,6 @@ analytics-*.aasaam.com
 ||noodle.backmarket.io^
 ||ohm-dot-hackster-io.appspot.com^
 ||optimizely.techtarget.com^
-||p.fusevideo.net^
 ||p.hentaiforce.net^
 ||pac.thescottishsun.co.uk^
 ||perf.mouser.com^
@@ -65064,7 +65091,6 @@ analytics-*.aasaam.com
 ||plausible.bots.gg^
 ||plausible.dragonfru.it^
 ||plausible.omgapi.org^
-||plausible.ripped.guide^
 ||plausible.safing.io^
 ||plenty.vidio.com^
 ||pm.dailykos.com^
@@ -65081,6 +65107,7 @@ analytics-*.aasaam.com
 ||qc.vogue.com^
 ||qc.wired.com^
 ||qm.redbull.com^
+||r.3hentai.net^
 ||rankhit.china.com^
 ||ras.yahoo.com^
 ||reports.tunein.com^
@@ -65115,7 +65142,6 @@ analytics-*.aasaam.com
 ||ss.photospecialist.co.uk^
 ||st.sawlive.tv^
 ||stan.xing.com^
-||stat.cdngeek.com^
 ||stat.pubhtml5.com^
 ||stat.turb.pw^
 ||stat.vulkanvegas.com^
@@ -65133,11 +65159,12 @@ analytics-*.aasaam.com
 ||stats.qwant.com^
 ||stats.sandberg.world^
 ||stats.suenicholls.com^
+||stats.synedat.io^
 ||stats.trimbles.ie^
 ||stats2.mytuner.mobi^
+||statsegg.cdngeek.com^
 ||streamstats.prd.dlive.tv^
 ||szrpr.raen.com^
-||t.3hentai.net^
 ||t.airasia.com^
 ||t.allmodern.com^
 ||t.av.st^
@@ -90914,6 +90941,7 @@ analytics-*.aasaam.com
 ||ddl.3g567.com^
 ||3gmimo.com^
 ||3gu.com^
+||t.3hentai.net^
 ||3hgui.com^
 ||3jia5.com^
 ||m.3m49h.cn^
@@ -93171,6 +93199,7 @@ analytics-*.aasaam.com
 ||cdncounter.top^
 ||by.tel.cdndm.com^
 ||cdnfile.xyz^
+||stat.cdngeek.com^
 ||httpdns.c.cdnhwc2.com^
 ||cdnmaster.com^
 ||cdnny.com^
@@ -93770,6 +93799,7 @@ analytics-*.aasaam.com
 ||cyad.cc^
 ||cyad123.com^
 ||baidu.cybcyw.com^
+||hits.cyberdrop.me^
 ||c.cyhx98.com^
 ||imgc.cymzc.com^
 ||imgp.cymzc.com^
@@ -94240,6 +94270,8 @@ analytics-*.aasaam.com
 ||partner.dw.com^
 ||vimg.dwstatic.com^
 ||mobileads.dx.cn^
+||analyselog.dx.com^
+||ga.dx.com^
 ||dx00.live^
 ||e.dxmci.com^
 ||m.dxmci.com^
@@ -94883,6 +94915,7 @@ analytics-*.aasaam.com
 ||vs.funshion.com^
 ||rt.funshion.net^
 ||funshion.net.cn^
+||p.fusevideo.net^
 ||futeboltv.com^
 ||c.future888.net^
 ||e.future888.net^
@@ -96102,6 +96135,7 @@ analytics-*.aasaam.com
 ||insightfulbusinesswisdom.com^
 ||insightfulcompanyinsight.com^
 ||instabug.com^
+||assets.instacart.com^
 ||instaemail.net^
 ||badges.instagram.com^
 ||instana.io^
@@ -97942,6 +97976,7 @@ analytics-*.aasaam.com
 ||promotion.monster.com^
 ||publisher.monster.com^
 ||moogos.com^
+||conversion.mooncard.co^
 ||moonify.io^
 ||moonsade.com^
 ||mooseway.com^
@@ -98742,6 +98777,7 @@ analytics-*.aasaam.com
 ||pica-juicy.picacomic.com^
 ||e.picbr.com^
 ||m.picbr.com^
+||ip.pichunter.com^
 ||piclick.cn^
 ||pie.net.pk^
 ||m.pieaa.com^
@@ -100059,6 +100095,7 @@ analytics-*.aasaam.com
 ||asd.sincetrade.com^
 ||sinopecllc.top^
 ||adsys.sinovision.net^
+||click.sinx.com^
 ||sirdata.eu^
 ||siteimproveanalytics.io^
 ||siteplug.com^
@@ -100399,6 +100436,7 @@ analytics-*.aasaam.com
 ||statsbox.info^
 ||c.statstat888.com^
 ||statswebtown.com^
+||fathom.status.im^
 ||steeltrader.com.cn^
 ||cookies.ster.nl^
 ||sterlingwoods.com^
