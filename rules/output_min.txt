@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202402141731
+# Verison: 202402142046
 # Expires: around 1 day
-# Total number of rules = 111587
+# Total number of rules = 111589
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -38938,6 +38938,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||scripts.jixie.media^
+||pt.wisernotify.com^
 ||citrusad.net^
 ||pubperf.com^
 ||stats.getaim.org^
@@ -42248,7 +42250,6 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
-||track.addevent.com^
 ||visitor.sokuja.net^
 ||nlog.naver.com^
 ||collector.taoxh.life^
@@ -55317,6 +55318,11 @@ inapps.appsflyersdk.com^
 ||zvc.cc^
 ||zvietcombank.com^
 ||zvietnakello.weebly.com^
+||ngnxyub.cn^
+||tyodot.icu^
+||caomeixz7.xyz^
+||cdmnlxtu.xyz^
+||xdmnlxtu.xyz^
 ||052db.website^
 ||055g.com^
 ||05826.online^
@@ -62515,11 +62521,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||ngnxyub.cn^
-||tyodot.icu^
-||caomeixz7.xyz^
-||myads.cc^
-||cdmnlxtu.xyz^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -103799,6 +103800,7 @@ analytics-*.aasaam.com
 ||fdc.my0511.com^
 ||my5058.com^
 ||myad.cn^
+||myads.cc^
 ||api.myadsget.com^
 ||myadstats.com^
 ||r.myadx.net^
