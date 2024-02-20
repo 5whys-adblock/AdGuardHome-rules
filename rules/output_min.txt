@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202402201732
+# Verison: 202402202045
 # Expires: around 1 day
-# Total number of rules = 111766
+# Total number of rules = 111781
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||kerryfluence.com^
 ||fxhngjdubf.xyz^
 ||ptoockex.xyz^
 ||imagoluchuan.com^
@@ -8342,6 +8343,7 @@ vkcdnservice.appspot.com^
 ||cqrvwq.com^
 ||cqwajn.com^
 ||cr-brands.net^
+||cr.adsappier.com^
 ||cr08.biz^
 ||crabdefend.com^
 ||craccaanybody.com^
@@ -42486,6 +42488,10 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||supportmetrics.apple.com^
+||securemvt.apple.com^
+||metrics.apple.com^
+||eldoradottfha.dataplane.rudderstack.com^
 ||analytics.castel.jp^
 ||tagging.anaxago.com^
 ||tagging.boataround.com^
@@ -44909,7 +44915,9 @@ inapps.appsflyersdk.com^
 ||us-tracking.nextdoor.com^
 ||us-events.api.iheart.com^
 ||notes-analytics-events.apple.com^
+||notes-analytics-events.news.apple-dns.net^
 ||weather-analytics-events.apple.com^
+||weather-analytics-events.news.apple-dns.net^
 ||v-collector.dp.aws.charter.com^
 ||smetrics.cnn.com^
 ||metrics.claspws.tv^
@@ -45796,7 +45804,6 @@ inapps.appsflyersdk.com^
 ||app.chat.xiaomi.net^
 ||extmaps-api.yandex.net^
 ||metrics-dra.dt.hicloud.com^
-||supportmetrics.apple.com^
 ||d11bdev7tcn7wh.cloudfront.net^
 ||d15kdaxu5c0hfw.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
@@ -46645,6 +46652,7 @@ inapps.appsflyersdk.com^
 ||solution911.com^
 ||templates.buscape.com^
 ||yestorrents.org^
+||1wiipr.xyz^
 ||bcdjcjjhgfiejgfjhah.world^
 ||proppellerads.ru^
 ||usesentry.com^
@@ -55694,6 +55702,12 @@ inapps.appsflyersdk.com^
 ||tahznx.xyz^
 ||rfnvqpo.xyz^
 ||ydrvkdni.xyz^
+||cdrvkdni.xyz^
+||nyt5j.cyou^
+||szpwh.cn^
+||ruqwgb.icu^
+||p04qzl.cn^
+||xdrvkdni.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
@@ -62892,9 +62906,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||cdrvkdni.xyz^
-||nyt5j.cyou^
-||szpwh.cn^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -63008,11 +63019,13 @@ analytics-*.aasaam.com
 ||imasdk.googleapis.com^
 ||inumbreonr.com
 ||jbirahiifj.com
+||keedaipa.xyz^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
 ||offergate-games-download1.com
 ||olnjitvizo.com
+||opsookiz.net^
 ||popupblocker-download.com
 ||rubiconproject.com^
 ||succeedscene.com^
@@ -63021,6 +63034,7 @@ analytics-*.aasaam.com
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
+||whandpolista.com^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -64073,6 +64087,7 @@ analytics-*.aasaam.com
 ||tracking.game8.co^
 ||tracking.shopstyle.com^
 ||trackr.vivenu.com^
+||trk.decido.io^
 ||trx3.famousfix.com^
 ||ubt.tracking.shopee.
 ||um.contentstudio.io^
