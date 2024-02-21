@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202402211732
+# Verison: 202402212046
 # Expires: around 1 day
-# Total number of rules = 111845
+# Total number of rules = 111849
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||reonews.pl^
+||reomanager.pl^
 ||adx.ws^
 ||kerryfluence.com^
 ||fxhngjdubf.xyz^
@@ -42534,6 +42536,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.b2.ai^
 ||tracking.ai.rakuten.co.jp^
 ||supportmetrics.apple.com^
 ||securemvt.apple.com^
@@ -55773,6 +55776,7 @@ inapps.appsflyersdk.com^
 ||p0v2ni.cn^
 ||ddielv.cn^
 ||cvnxetmq.xyz^
+||shuocyw.cn^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
@@ -62971,7 +62975,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||shuocyw.cn^
+||aaoisp.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
