@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202402231732
+# Verison: 202402232044
 # Expires: around 1 day
-# Total number of rules = 111811
+# Total number of rules = 111815
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||agazejagless.com^
+||forestallbladdermajestic.com^
 ||ganehangmen.com^
 ||ipurseeh.xyz^
 ||reonews.pl^
@@ -42779,6 +42781,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||sopr-api.cian.ru^
 ||analytics.b2.ai^
 ||tracking.ai.rakuten.co.jp^
 ||supportmetrics.apple.com^
@@ -56042,6 +56045,10 @@ inapps.appsflyersdk.com^
 ||soffersk.com^
 ||51hir.cyou^
 ||vxfdepn.cn^
+||bzzxyyh.xyz^
+||chayassa.com^
+||zagyjnn.cn^
+||cvgrszkg.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
@@ -63240,10 +63247,7 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||bzzxyyh.xyz^
-||chayassa.com^
-||zagyjnn.cn^
-||cvgrszkg.xyz^
+||xvgrszkg.xyz^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
