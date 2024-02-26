@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202402261731
+# Verison: 202402262045
 # Expires: around 1 day
-# Total number of rules = 112202
+# Total number of rules = 112216
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,10 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||rwwmbymwbzbea.top^
+||adnext.pl^
+||nativeone.pl^
+||naitive.pl^
 ||4lke.online^
 ||agazejagless.com^
 ||forestallbladdermajestic.com^
@@ -42865,6 +42869,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||affiliates.audiobooks.com^
 ||events.caffeine.tv^
 ||analytics.totalprosports.com^
 ||analytics-conomi.line.me^
@@ -52588,6 +52593,8 @@ inapps.appsflyersdk.com^
 ||getmacos.org^
 ||getwindowsactivator.info^
 ||ggzzmm.shop^
+||ghnn11.com^
+||ghnn22.com^
 ||ghnn33.com^
 ||giaingan799.com^
 ||giainganonline799.com^
@@ -53924,6 +53931,7 @@ inapps.appsflyersdk.com^
 ||saokenganhangvn.com^
 ||sbetviet.com^
 ||sc0mvn.com^
+||scb.nanghanmucthenganhangvisa.com^
 ||scdienmayxanh.com^
 ||sd0053.shop^
 ||sd062.com^
@@ -54435,6 +54443,7 @@ inapps.appsflyersdk.com^
 ||sp315693vn.com^
 ||sp8668vn.com^
 ||spark123.shop^
+||spmail88.com^
 ||spohopena.com^
 ||spohopenm.com^
 ||spohopenm.org^
@@ -54782,6 +54791,7 @@ inapps.appsflyersdk.com^
 ||tindung188.com^
 ||tindung24h-vietcombank.online^
 ||tindung24h.com^
+||tindungcanhan.online^
 ||tindungnganhang-vietnam247.online^
 ||tindungnganhang-vietnam365.online^
 ||tindungnganhang.biz^
@@ -55415,6 +55425,7 @@ inapps.appsflyersdk.com^
 ||vingroupinvest.com^
 ||vingroupinvestment.com^
 ||vingroupventures.shop^
+||vinideal-sale.pro^
 ||vinpearl1.vingroupsny.com^
 ||vip-dien-mayxanh.com^
 ||vip-dienmayxanh.com^
@@ -55763,6 +55774,7 @@ inapps.appsflyersdk.com^
 ||wviietcombank.com^
 ||wvvietcombank.com^
 ||wvwiietcoombank.com^
+||www-icloud.com^
 ||www-icloudid.com^
 ||www-mfacebook.com.vn^
 ||xa38.xyz^
@@ -55971,6 +55983,9 @@ inapps.appsflyersdk.com^
 ||hozatr.xyz^
 ||qrkhwe.xyz^
 ||vhvwlb.xyz^
+||szmnd.cn^
+||qqkkpos.com^
+||xklofoz.cn^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
@@ -63171,8 +63186,6 @@ analytics-*.aasaam.com
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
-||szmnd.cn^
-||qqkkpos.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -64135,6 +64148,7 @@ analytics-*.aasaam.com
 ||evs.icy-lake.kickstarter.com^
 ||exr-mms.expertreviews.co.uk^
 ||f362.nola.com^
+||faro-collector-prod-*.grafana.net^
 ||fathom.app.silverbeak.com^
 ||fathom.tdvm.net^
 ||fbo-statistics-collector-tc.is.flippingbook.com^
