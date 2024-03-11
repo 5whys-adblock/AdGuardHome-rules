@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202403111732
+# Verison: 202403112046
 # Expires: around 1 day
-# Total number of rules = 112831
+# Total number of rules = 112834
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||owfrbdikoorgn.xyz^
 ||qfyavpwmraqibv.com^
 ||cqeomumqwx.com^
 ||d3c.life^
@@ -711,6 +712,7 @@
 ||d71e6dd31a026d45.com
 ||adrunnr.com^
 ||samsungtvads.com^
+||rec.deezer.com^
 ||ads.greengeeks.com^
 ||d1rr5z16sjcy10.cloudfront.net^
 ||d2xupcbyjjjfoa.cloudfront.net^
@@ -40314,6 +40316,7 @@ vkcdnservice.appspot.com^
 ||t.adbr.io^
 ||cizion.com^
 ||analytics.iss.one^
+||reports-tsi.tangerine.io^
 ||analytics.partcommunity.com^
 ||lr-ingest.io^
 ||svibeacon.onezapp.com^
@@ -40372,7 +40375,6 @@ vkcdnservice.appspot.com^
 ||wdfl.co^
 ||uplift-platform.com^
 ||lmepbq.com^
-||tangerine.io^
 ||b.sli-spark.com^
 ||tracker-rec.smart-bdash.com^
 ||perzonalization.com^
@@ -43332,7 +43334,7 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
-||ljc.coupang.com^
+||tracking.pennypublications.com^
 |c.blue.*.com^|
 ||apcdp.apnews.com^
 ||3p-udc.yahoo.com^
@@ -56580,6 +56582,8 @@ inapps.appsflyersdk.com^
 ||lafirx.xyz^
 ||gkutca.xyz^
 ||qw9cu.cyou^
+||jbmfldt.cn^
+||diccsbhij.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
@@ -63775,8 +63779,6 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
-||jbmfldt.cn^
-||diccsbhij.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -100043,6 +100045,7 @@ analytics-*.aasaam.com
 ||couchcoaster.jp^
 ||coumie.top^
 ||coup7cold.com^
+||ljc.coupang.com^
 ||courageousbaby.com^
 ||coverapparatus.com^
 ||s.coveredsys.cn^
