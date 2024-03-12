@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202403121732
+# Verison: 202403122046
 # Expires: around 1 day
-# Total number of rules = 112947
+# Total number of rules = 112951
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -43429,6 +43429,9 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.purelovers.com^
+||analytics.pixels.ai^
+||globalservices.conde.digital^
 ||tracking.pennypublications.com^
 |c.blue.*.com^|
 ||apcdp.apnews.com^
@@ -46102,7 +46105,6 @@ inapps.appsflyersdk.com^
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
 ||analytics.pinterest.com^
-||analytics.pixels.ai^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
 ||analytics.qualityunit.com^
@@ -46220,7 +46222,6 @@ inapps.appsflyersdk.com^
 ||collector.api.video^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
-||collector.dmp.cnna.io^
 ||collector.sspinc.io^
 ||collector5.zipy.ai^
 ||collectorsvc.apac.vesta.io^
@@ -46606,6 +46607,7 @@ inapps.appsflyersdk.com^
 ||t.rentcafe.com^
 ||t.screeb.app^
 ||t.smile.eu^
+||t.spbx.app^
 ||t.spot.im^
 ||t2.t2b.click^
 ||tag-manager.playbuzz.com^
@@ -61246,6 +61248,7 @@ inapps.appsflyersdk.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
 ||27gh.cc^
+||c81.ipanocloud.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -61603,7 +61606,6 @@ inapps.appsflyersdk.com^
 ||dm.zjut.cc^
 ||dm.zuowenku.net^
 ||dm1.ddwk8.cn^
-||dm1.guanwawa.com^
 ||dm1.zjydt.com^
 ||dmm.aizhan.com^
 ||dmr.cnhoney.com^
@@ -62067,8 +62069,6 @@ analytics-*.aasaam.com
 ||popunder.ir^
 ||popupdl.ir^
 ||peyvandha.ir^
-||10.10.34.^
-10.10.34.*
 ||phoenixad.io^
 ||partclick.ir^
 ||persianrank.ir^
@@ -64424,6 +64424,7 @@ analytics-*.aasaam.com
 ||adscore.com^
 ||adstk.io^
 ||adultium.com^
+||aggle.net^
 ||agma-analytics.de^
 ||alpha1trk.com^
 ||altopd.com^
@@ -64454,6 +64455,7 @@ analytics-*.aasaam.com
 ||cliquelead.com^
 ||cloudwp.io^
 ||clrt.ai^
+||cnna.io^
 ||confiant-integrations.net^
 ||convead.io^
 ||conversationalsdevelopment.nl^
@@ -64520,6 +64522,7 @@ analytics-*.aasaam.com
 ||g990421675.co^
 ||g990421676.co^
 ||gbqofs.com^
+||gcprivacy.com^
 ||geotargetly-api-*.com^
 ||getdeviceinf.com^
 ||glamipixel.com^
@@ -102170,6 +102173,7 @@ analytics-*.aasaam.com
 ||m.guanren6.com^
 ||m.guanren9.com^
 ||qq.guansenff.cn^
+||dm1.guanwawa.com^
 ||g.guanxiwen.cn^
 ||guanyitanggy.com^
 ||zc.guanzistory.com^
