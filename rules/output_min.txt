@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202403181732
+# Verison: 202403182047
 # Expires: around 1 day
-# Total number of rules = 113537
+# Total number of rules = 113544
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||aetgjds.com^
+||ndqkxjo.com^
 ||pekroace.net^
 ||vikaez.xyz^
 ||nodreewy.net^
@@ -39856,6 +39858,7 @@ vkcdnservice.appspot.com^
 ||deapi.afreecatv.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||kiesta.net^
 ||cdn-ads.tmap.co.kr^
 ||downloadshi.b-cdn.net^
 ||ads.rmbl.ws^
@@ -43758,6 +43761,8 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.3c5.com^
+||unidentifiedanalytics.web.app^
 ||t.poki.io^
 ||p.armorgames.net^
 ||analytics.crazygames.com^
@@ -57101,6 +57106,9 @@ inapps.appsflyersdk.com^
 ||onifdlak.top^
 ||nlhpxj.xyz^
 ||rghqrj.xyz^
+||nljrvdh.xyz^
+||savionl.com^
+||dorper.cn^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
@@ -65160,7 +65168,6 @@ analytics-*.aasaam.com
 ||ampltd.medal.tv^
 ||analytics-api.dvdfab.
 ||analytics-proxy.springboard.com^
-||analytics.3c5.com^
 ||analytics.academy.com^
 ||analytics.designspiration.com^
 ||analytics.footballdb.com^
