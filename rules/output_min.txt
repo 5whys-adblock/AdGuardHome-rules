@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202403202332
+# Verison: 202403210234
 # Expires: around 1 day
-# Total number of rules = 113625
+# Total number of rules = 113629
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -40506,6 +40506,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics-sm.com^
+||adxcel-ec2.com^
 ||cdn.ad-platform.jmty.jp^
 ||events-ingestion.services.gorgias.com^
 ||accuratecoal.com^
@@ -43820,6 +43822,12 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||s.wayfair.com^
+||imk.neweggimages.com^
+||grgnsht.nzxt.com^
+||h031.familydollar.com^
+||api-gtm.grubhub.com^
+||d401.dollartree.com^
 ||auth-srv.launchthatapps.com^
 ||ast.techbook.de^
 ||track.ttsave.app^
@@ -56802,6 +56810,7 @@ inapps.appsflyersdk.com^
 ||0j775d.cn^
 ||0op8kh.cn^
 ||0oqt9i.cn^
+||0q5joc.cn^
 ||0r3tyg.cn^
 ||0tq6ub.cn^
 ||0uvt8b.cn^
@@ -56820,6 +56829,7 @@ inapps.appsflyersdk.com^
 ||88lm06.com^
 ||8t9he.cyou^
 ||8xtm6i.cn^
+||999bb222ww.com^
 ||999xx999kk.com^
 ||aaoisp.com^
 ||agmed.cyou^
@@ -56891,6 +56901,7 @@ inapps.appsflyersdk.com^
 ||difmnd.xyz^
 ||djxpnuo.xyz^
 ||dkjwbv.xyz^
+||dndmygr.cn^
 ||dorper.cn^
 ||dqhxmbx.cn^
 ||drummers.cn^
@@ -56994,6 +57005,7 @@ inapps.appsflyersdk.com^
 ||mdhv3.icu^
 ||misjgy.xyz^
 ||mlhtr.cn^
+||mnifdlax.top^
 ||mondigo.cn^
 ||mrtxtrq.xyz^
 ||mtddqjk.cn^
@@ -57051,6 +57063,7 @@ inapps.appsflyersdk.com^
 ||qqkkpos.com^
 ||qrkhwe.xyz^
 ||qrttfmo.cn^
+||qvnbjjd.xyz^
 ||qw9cu.cyou^
 ||qzalsk.xyz^
 ||rarcff.xyz^
@@ -57070,6 +57083,7 @@ inapps.appsflyersdk.com^
 ||rzfdbsn.cn^
 ||rzpvbl.xyz^
 ||savionl.com^
+||sdfsad562.xyz^
 ||sdjkbcjksbdsvv.com^
 ||seslco.xyz^
 ||shanvezhu.com^
@@ -57081,6 +57095,7 @@ inapps.appsflyersdk.com^
 ||smallfo.com^
 ||snifdlab.top^
 ||soffersk.com^
+||sosakk.xyz^
 ||spsfupq.cn^
 ||srzpsbf.xyz^
 ||svncowt.cn^
@@ -57119,6 +57134,7 @@ inapps.appsflyersdk.com^
 ||ulwfys.xyz^
 ||unifdlat.top^
 ||uqwbcm.xyz^
+||urqwzbu.cn^
 ||usltmus.cn^
 ||uu22662.com^
 ||uuvzmba.cn^
@@ -57128,6 +57144,7 @@ inapps.appsflyersdk.com^
 ||vaekkfv.cn^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
+||vflorp.xyz^
 ||vhvwlb.xyz^
 ||vmnlkr.icu^
 ||vszzzj.xyz^
@@ -57148,6 +57165,7 @@ inapps.appsflyersdk.com^
 ||xdmnlxtu.xyz^
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
+||xedpzh.xyz^
 ||xhbshv.xyz^
 ||xhfxtqt.xyz^
 ||xklofoz.cn^
@@ -57185,14 +57203,6 @@ inapps.appsflyersdk.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
-||sosakk.xyz^
-||mnifdlax.top^
-||urqwzbu.cn^
-||vflorp.xyz^
-||sdfsad562.xyz^
-||xedpzh.xyz^
-||qvnbjjd.xyz^
-||dndmygr.cn^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
@@ -64387,7 +64397,6 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
-||0q5joc.cn^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -65314,7 +65323,6 @@ analytics-*.aasaam.com
 ||crayfish.thingelstad.com^
 ||crumbs.robinhood.com^
 ||d.skk.moe^
-||d401.dollartree.com^
 ||data.allstate.com^
 ||data.guide.photobucket.com^
 ||data.torry.io^
@@ -65384,12 +65392,10 @@ analytics-*.aasaam.com
 ||glassmoni.researchgate.net^
 ||go.pardot.com^
 ||gotie.tunein.com^
-||grgnsht.nzxt.com^
 ||gtm.wise.com^
 ||gtreus.aliexpress.com^
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
-||h031.familydollar.com^
 ||hn-ping*.hashnode.com^
 ||htrace.wetvinfo.com^
 ||i.pokernews.com^
@@ -65496,7 +65502,6 @@ analytics-*.aasaam.com
 ||rum.kobo.com^
 ||rvo-cohesion.healthline.com^
 ||s.gofile.io^
-||s.wayfair.com^
 ||saa.insideedition.com^
 ||sapphire-api.target.com^
 ||search.anonymous.ads.brave.com^
@@ -98531,7 +98536,6 @@ analytics-*.aasaam.com
 ||adwetec.com^
 ||adwhirl.com^
 ||adwo.com^
-||adxcel-ec2.com^
 ||t.adxchina.cn^
 ||adx.adxglobal.com^
 ||adxhi.com^
