@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202404081435
+# Verison: 202404081731
 # Expires: around 1 day
-# Total number of rules = 115014
+# Total number of rules = 115019
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -65792,6 +65792,9 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
+||1f84e33459.com^
+||vwyycnq.cn^
+||mmo2350.top^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -98204,6 +98207,7 @@ analytics-*.aasaam.com
 @@||star.c10r.facebook.com^
 @@||www.fbsbx.com^
 @@||star.fallback.c10r.facebook.com^
+/^(\S+\.)?9377[a-z0-9]{2}\.com$/$dnstype=A
 /^(\S+\.)?ad(s?[\d]+|m|s)?\.[0-9\-a-z]+\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com|alibabadns.com
 @@||ad.vivo.com.cn^
 @@||ads.alafish.cn^
@@ -98260,6 +98264,7 @@ analytics-*.aasaam.com
 /^(\S+\.)?hg[0-9]{4,5}\.com?$/
 /^(\S+\.)?333[1-9]{2}[0-9]{2}\.com?$/
 /^(\S+\.)?5551[0-9]{3}\.com?$/
+||*serror*.wo.com.cn^$dnstype=A|CNAME
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
 ||gg*.miguvideo.com^
