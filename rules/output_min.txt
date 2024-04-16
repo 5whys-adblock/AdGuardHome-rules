@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202404161731
+# Verison: 202404162047
 # Expires: around 1 day
-# Total number of rules = 116778
+# Total number of rules = 116785
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||yhjhjwy.com^
 ||ganchedagrapha.com^
 ||huigt6y.xyz^
 ||kjffqbnug.com^
@@ -40918,6 +40919,7 @@ vkcdnservice.appspot.com^
 ||googleadsserving.cn^
 ||googlevads-cn.com^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
+||4a0e.xyz^
 ||4e55.xyz^
 ||4e68.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
@@ -43171,6 +43173,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||fp-cdn.azureedge.net^
+||cdn.mircheigeshoa.com^
 ||analytics.oceanengine.com^
 ||analytics-ingestion.pbpms.de^
 ||fpad.jp^
@@ -48636,6 +48640,7 @@ inapps.appsflyersdk.com^
 ||int.vaicore.store^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||app-analytics-services.com^
 ||sg.log.ulivetv.net^
 ||kr-col-ext.nelo.navercorp.com^
 ||events.funnelish.com^
@@ -49426,7 +49431,6 @@ inapps.appsflyersdk.com^
 ||flixgvid.flix360.io^
 ||fog.pixual.co^
 ||fourmtagservices.appspot.com^
-||fp-cdn.azureedge.net^
 ||fresh.inlinkz.com^
 ||fs-client-logger.herokuapp.com^
 ||ftm.fluencyinc.co^
@@ -60226,6 +60230,7 @@ inapps.appsflyersdk.com^
 ||orbnarb.xyz^
 ||baucraell.com^
 ||xzrhvv.xyz^
+||szpbh.cn^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
@@ -68041,6 +68046,7 @@ analytics-*.aasaam.com
 ||blue.nbc4i.com^
 ||c.arstechnica.com^
 ||c.fingerprint.com^
+||c.gq.com^
 ||c.newyorker.com^
 ||c.thredup.com^
 ||c.vogue.com^
@@ -68237,6 +68243,7 @@ analytics-*.aasaam.com
 ||px.srvcs.tumblr.com^
 ||pxl.indeed.com^
 ||qc.arstechnica.com^
+||qc.gq.com^
 ||qc.newyorker.com^
 ||qc.vogue.com^
 ||qc.wired.com^
@@ -99365,7 +99372,6 @@ analytics-*.aasaam.com
 ||insight.olx.ba^
 ||4399stat.5054399.com^
 ||ac.dun.163.com^
-||ac.dun.163yun.com^
 ||al.autohome.com.cn^
 ||ams.lelong.com.my^
 ||analytics-gw.games.wanmei.com^
@@ -100218,6 +100224,7 @@ analytics-*.aasaam.com
 ||ipv4.music.163.com^
 ||qipt.1632j6.cn^
 ||163ren.com^
+||ac.dun.163yun.com^
 ||166br.com^
 ||166f.com^
 ||1680660.com^
