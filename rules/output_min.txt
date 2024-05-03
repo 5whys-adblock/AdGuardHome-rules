@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202405031731
+# Verison: 202405032047
 # Expires: around 1 day
-# Total number of rules = 117099
+# Total number of rules = 117105
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,9 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||iedprivatedqu.com^
+||stownrusis.com^
+||ebaticalfel.com^
 ||me7x.site^
 ||wrqtcoxjw.com^
 ||atlxpstsf.com^
@@ -46966,6 +46969,8 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||sid.nordstrom.com^
+||amethyst.zappos.com^
 ||sgmcdn.racingpost.com^
 ||logs.8thwall.com^
 ||ingest.make.rvohealth.com^
@@ -60965,6 +60970,9 @@ inapps.appsflyersdk.com^
 ||rczudr.xyz^
 ||tquspo.com^
 ||wwerioe.top^
+||qescaen.com^
+||rxfygd.cn^
+||ringingneo.com^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
@@ -68417,7 +68425,6 @@ analytics-*.aasaam.com
 ||adtech-events.bookmyshow.com^
 ||adv.drtuber.com^
 ||aegis.trovo.live^
-||amethyst.zappos.com^
 ||ampltd.medal.tv^
 ||analytics-api.dvdfab.
 ||analytics-proxy.springboard.com^
@@ -68676,7 +68683,6 @@ analytics-*.aasaam.com
 ||search.anonymous.ads.brave.com^
 ||servo-report.dvdfab.
 ||shopmetric.rediff.com^
-||sid.nordstrom.com^
 ||sjc.cloud.optable.co^
 ||slipstream.skyscanner.net^
 ||smetrics.couponcabin.com^
