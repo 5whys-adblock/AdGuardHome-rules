@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202405131732
+# Verison: 202405132049
 # Expires: around 1 day
-# Total number of rules = 117521
+# Total number of rules = 117529
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,14 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||zmonei.com^
+||fnaycb.com^
+||yoibbka.com^
+||fusrv.com^
+||bmjidc.xyz^
+||asdfdr.cfd^
+||dfyui8r5rs.click^
+||pokjhgrs.click^
 ||buyvisblog.com^
 ||fnlojkpbe.com^
 ||rxvej.com^
@@ -35,7 +43,6 @@
 ||huapydce.xyz^
 ||aseluosldtabi.com^
 ||poshyouthfulton.com^
-||getadjacent.com^
 ||pjagilteei.com^
 ||tjtmjjigtdoah.com^
 ||odssyvfqrlwwj.com^
@@ -41582,6 +41589,7 @@ vkcdnservice.appspot.com^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||3a2e.site^
+||485728.xyz^
 ||48a16802.site^
 ||4a0e.xyz^
 ||4aae8f.site^
@@ -68095,7 +68103,6 @@ analytics-*.aasaam.com
 ||ucationininancee.info
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
-||yoibbka.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -68816,6 +68823,7 @@ analytics-*.aasaam.com
 ||firebaselogging-pa.googleapis.com^
 ||g.msn.com^
 ||geo.ngtv.io^
+||gtmfsstatic.getgoogletagmanager.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||monitor.azure.com^
