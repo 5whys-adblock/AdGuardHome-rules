@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202405212332
+# Verison: 202405220236
 # Expires: around 1 day
-# Total number of rules = 118169
+# Total number of rules = 118170
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -47388,6 +47388,9 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.lasegunda.ecn.cl^
+||analytics.emol.com^
+||webc2s.pubgw.yahoo.com^
 ||tracking.cosme.net^
 ||matomo.motorpresse.de^
 ||matomo.menshealth.de^
@@ -51543,7 +51546,6 @@ inapps.appsflyersdk.com^
 ||stat.ringier.sk^
 ||1to1.bbva.com^
 ||analitica.webrpp.com^
-||analytics.lasegunda.ecn.cl^
 ||analytics.mercadolibre.com^
 ||analytics.neoogilvy.uy^
 ||bpt.webedia-group.com^
@@ -101048,7 +101050,6 @@ analytics-*.aasaam.com
 ||yast.rutube.ru^
 ||go-usertrack-importer.pub.24ur.si^
 ||analytics.bolavip.com^
-||analytics.emol.com^
 ||analytics.infobae.com^
 ||analytics.redlink.com.ar^
 ||audiencies.ccma.cat^
