@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202406052332
+# Verison: 202406060237
 # Expires: around 1 day
-# Total number of rules = 117767
+# Total number of rules = 117768
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||journeymv.com^
+||deliman.net^
 ||nyihcpzdloe.com^
 ||fualujqbhqyn.xyz^
 ||pafiptuy.net^
@@ -60527,6 +60529,7 @@ inapps.appsflyersdk.com^
 ||zthxobgk.icu^
 ||vfphbh.xyz^
 ||dljzcl.cn^
+||binga01.shop^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -68403,7 +68406,6 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
-||binga01.shop^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -68509,7 +68511,6 @@ analytics-*.aasaam.com
 ||buyeasy.by^
 ||chattedhelio.top
 ||cusilbwq.xyz
-||deliman.net^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
