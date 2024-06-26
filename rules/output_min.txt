@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202406260532
+# Verison: 202406260943
 # Expires: around 1 day
-# Total number of rules = 118597
+# Total number of rules = 118607
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,10 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||shuanshu.com.com^
+||kuurza.com^
+||dxtv1.com^
+||googie-anaiytics.com^
 ||maplecurriculum.com^
 ||hdxpqgvqm.com^
 ||grucmost.xyz^
@@ -47262,6 +47266,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||matomo.promobil.de^
 ||events.tryamped.com^
 ||tracking-v*.a.run.app^
 ||m1tm.motor1.com^
@@ -61095,6 +61100,11 @@ inapps.appsflyersdk.com^
 ||google-js-01.xyz^
 ||google-js-02.xyz^
 ||ryhuzj.xyz^
+||yhutou.xyz^
+||aiknx.cn^
+||fvyqblc.icu^
+||tdoshbi.top^
+||lxryhx.xyz^
 ||afopr.cn^
 ||qdoshby.top^
 ||eyislow.top^
