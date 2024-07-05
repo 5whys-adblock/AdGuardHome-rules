@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202407052333
+# Verison: 202407060238
 # Expires: around 1 day
-# Total number of rules = 118636
+# Total number of rules = 118644
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+serve.yourporngod.com^
+serve.everydayporn.co^
 ||xlvul.ajscdn.com^
 ||ahmar2four.xyz^
 ||ser678uikl.xyz^
@@ -1290,6 +1292,7 @@
 ||revrtb.com^
 ||newbluetrue.xyz^
 ||onemediawork.com^
+||advertising-cdn.dpgmedia.cloud^
 ||d2lg0swrp15nsj.cloudfront.net^
 ||dpeqm8xv96fuc.cloudfront.net^
 ||d127s3e8wcl3q6.cloudfront.net^
@@ -42897,6 +42900,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||qobuz.surveysparrow.com^
 ||srvr.dmvs-apac.com^
 ||dash.zintrack.com^
 ||revotas.com^
@@ -60187,6 +60191,8 @@ inapps.appsflyersdk.com^
 ||ortlisk.top^
 ||dmnxkj.cn^
 ||gw2cddpt2hao.cloud^
+||gw2cddpt2hao.site^
+||fgwuw.com^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^
@@ -68384,8 +68390,6 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
-||gw2cddpt2hao.site^
-||fgwuw.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -68489,8 +68493,10 @@ analytics-*.aasaam.com
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
+||cessationhamster.com^
 ||chattedhelio.top
 ||cusilbwq.xyz
+||fgigrmle.xyz^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
@@ -68500,9 +68506,11 @@ analytics-*.aasaam.com
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
+||onkafxtiqcu.com^
 ||oqfrudzatovc.com
 ||proffering.xyz
 ||rubiconproject.com^
+||stedrits.xyz^
 ||succeedscene.com^
 ||tedious-weight.pro
 ||totaladblock.com^
