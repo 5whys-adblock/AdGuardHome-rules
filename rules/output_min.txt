@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202407082333
+# Verison: 202407090239
 # Expires: around 1 day
-# Total number of rules = 118770
+# Total number of rules = 118773
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -40622,6 +40622,7 @@ vkcdnservice.appspot.com^
 ||ec44.site^
 ||f090.site^
 ||f2f8.xyz^
+||f33d11b5.xyz^
 ||f417a726.xyz^
 ||f4c9a0fb.xyz^
 ||f6176563.site^
@@ -42924,6 +42925,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||exacttarget.com^
+||analytics.launch.bz^
 ||qobuz.surveysparrow.com^
 ||srvr.dmvs-apac.com^
 ||dash.zintrack.com^
@@ -46334,6 +46337,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||trc.r25.jp^
 ||anal.doubledouble.top^
 ||peach-analytics.vercel.app^
 ||lfmetrics.loyalfans.com^
@@ -76951,12 +76955,10 @@ analytics-*.aasaam.com
 ||sc.wa.gto.db.com^
 ||sc2.constantcontact.com^
 ||sc2.infor.com^
-||sc2metrics.exacttarget.com^
 ||scadobe.vpay.co.kr^
 ||scanalytics.wral.com^
 ||sci.intuit.ca^
 ||sci.quickbooks.com^
-||scmetrics.exacttarget.com^
 ||scmetrics.shell.com^
 ||scmetrics.vodafone.it^
 ||scnd.landsend.co.uk^
@@ -118487,6 +118489,7 @@ nanoGDPR.min.js^
 ||esunebk.top^
 ||usaniik.top^
 ||shoplinestickers.com^
+||signin.authen-connexion.info^
 ||app.exodus.com.alchemys.cl^
 ||in.appcenter.ms^
 ||baixingnew.com^
