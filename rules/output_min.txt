@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202407161734
+# Verison: 202407162049
 # Expires: around 1 day
-# Total number of rules = 119038
+# Total number of rules = 119040
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||syndicatedsearch.goog^
 ||duxlveokumpmd.com^
 ||stoogouy.net^
 ||equipmentapes.com^
@@ -41012,6 +41013,7 @@ vkcdnservice.appspot.com^
 ||pics.firstload.de^
 ||plchldr.co^
 ||popmog.com^
+||probid.ai^
 ||promos.fling.com^
 ||protected-redirect.click^
 ||proto2ad.durasite.net^
@@ -65940,6 +65942,7 @@ inapps.appsflyersdk.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
 ||27gh.cc^
+||udd1i5.zhihu.com^
 ||hl.dyq.cn^
 ||003store.com^
 ||0941.org^
@@ -117145,7 +117148,6 @@ analytics-*.aasaam.com
 ||appcloud2.in.zhihu.com^
 ||lc-push.zhihu.com^
 ||event.zhihu.com^
-||udd1i5.zhihu.com^
 ||zhihuiduijian.com^
 ||zhilingshidai.com^
 ||zhimaad.cn^
