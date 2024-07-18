@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202407181441
+# Verison: 202407181733
 # Expires: around 1 day
-# Total number of rules = 119135
+# Total number of rules = 119139
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -105139,6 +105139,9 @@ analytics-*.aasaam.com
 ||a.booksir.cn^
 ||c.booksir.com.cn^
 ||booster3d.com^
+||bootcdn.cn^
+||bootcdn.net^
+||bootcss.com^
 ||boowang.com^
 ||boredborder.com^
 ||boredcrown.com^
@@ -114125,6 +114128,8 @@ analytics-*.aasaam.com
 ||static-cnt.bi^
 ||static-cnt.bid^
 ||static-sb.com^
+||staticfile.net^
+||staticfile.org^
 ||staticiv.com^
 ||staticjs.cn^
 ||staticsfs.host^
@@ -118092,7 +118097,6 @@ analytics-*.aasaam.com
 ||c.zoepb.cn^
 ||castatic.fengkongcloud.com^
 ||cd.dabansuan.cn^
-||cdn.bootcdn.net^
 ||cdn.openxt.cn^
 ||cdn.viccscxz.cn^
 ||cdn.wuxiqiangheng.com^
