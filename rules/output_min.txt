@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202407201732
+# Verison: 202407202049
 # Expires: around 1 day
-# Total number of rules = 119247
+# Total number of rules = 119249
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||lcarlbvwr.com^
+||thuckautiru.com^
 ||metogthr.com^
 ||rdtracer.com^
 ||blogostock.com^
@@ -2483,6 +2485,7 @@ vkcdnservice.appspot.com^
 ||9content.com^
 ||9d2cca15e4.com^
 ||9d407e803d.com^
+||9d603009eb.com^
 ||9dccbda825.com^
 ||9dmnv9z0gtoh.com^
 ||9e1852531b.com^
@@ -4883,6 +4886,7 @@ vkcdnservice.appspot.com^
 ||asnoibator.com^
 ||asnortsalol.website^
 ||asnothycan.info^
+||asnothycantyou.info^
 ||aso1.net^
 ||asoawhum.com^
 ||asopn.com^
@@ -11730,6 +11734,7 @@ vkcdnservice.appspot.com^
 ||dwithmefeyauknal.info^
 ||dwlgdzzltdekr.com^
 ||dwlmjxf.com^
+||dwuxbazvi.com^
 ||dwvbfnqrbif.com^
 ||dwwpofwebdwm.com^
 ||dxajhcdz.com^
@@ -28315,6 +28320,7 @@ vkcdnservice.appspot.com^
 ||qdprapwflpvxpyl.com^
 ||qdvducltjswp.com^
 ||qe0ckm024b.com^
+||qebpwkxjz.com^
 ||qebuoxn.com^
 ||qedeczzdt.com^
 ||qehjsjdubamsrt.com^
@@ -30511,6 +30517,7 @@ vkcdnservice.appspot.com^
 ||sandtheircle.com^
 ||sandwich3452.fun^
 ||sandwichdeliveringswine.com^
+||sandyrecordingmeet.com^
 ||sandysuspicions.com^
 ||sanedfalsely.com^
 ||sanfordcessor.space^
@@ -39067,6 +39074,7 @@ vkcdnservice.appspot.com^
 ||zemstvahorn.top^
 ||zemteksu.xyz^
 ||zemydreamsa.info^
+||zemydreamsauk.com^
 ||zemywwm.com^
 ||zenam.xyz^
 ||zenaot.xyz^
@@ -69038,17 +69046,14 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
-||9d603009eb.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
-||asnothycantyou.info^
 ||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
 ||chattedhelio.top
 ||cusilbwq.xyz
-||dwuxbazvi.com^
 ||dxotbknruf.com
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
@@ -69061,9 +69066,7 @@ analytics-*.aasaam.com
 ||ntv.io^
 ||oqfrudzatovc.com
 ||proffering.xyz
-||qebpwkxjz.com^
 ||rubiconproject.com^
-||sandyrecordingmeet.com^
 ||succeedscene.com^
 ||suppressedbottlesenjoyable.com
 ||tedious-weight.pro
@@ -69073,7 +69076,6 @@ analytics-*.aasaam.com
 ||ucationininancee.info
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
-||zemydreamsauk.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
