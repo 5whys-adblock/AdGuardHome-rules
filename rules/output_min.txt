@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202407222335
+# Verison: 202407230239
 # Expires: around 1 day
-# Total number of rules = 119305
+# Total number of rules = 119328
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||maya15.site^
 ||ljr3.site^
 ||lcarlbvwr.com^
 ||thuckautiru.com^
@@ -40796,6 +40797,7 @@ vkcdnservice.appspot.com^
 ||072551.xyz^
 ||076f66b2.live^
 ||07e197.site^
+||08f8f073.xyz^
 ||09bd5a69.xyz^
 ||0ae00c7c.xyz^
 ||0c0b6e3f.xyz^
@@ -60607,6 +60609,9 @@ inapps.appsflyersdk.com^
 ||zvc.cc^
 ||zvietcombank.com^
 ||zvietnakello.weebly.com^
+||grondrens.com^
+||oyretuk.top^
+||dv4ku.icu^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -67546,9 +67551,6 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
-||grondrens.com^
-||oyretuk.top^
-||dv4ku.icu^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -67647,26 +67649,41 @@ analytics-*.aasaam.com
 .728x90-
 .900x100.
 ||adswizz.com^
+||ahdvpuovkaz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
+||aurgersoagnu.net^
+||axductile.com^
+||banawgaht.com^
 ||buyeasy.by^
+||calksenfire.com^
 ||chattedhelio.top
 ||cusilbwq.xyz
+||cykcxgsvg.com^
+||drgcnsnohnf.com^
 ||dxotbknruf.com
+||f59408d48d.com^
+||freyaacronal.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
+||imperysavers.click^
 ||jcufklto.com
 ||kqzyfj.com^
 ||loadercdn.com^
+||mpcbjnku.com^
 ||ntv.io^
+||oonsouque.com^
 ||oqfrudzatovc.com
 ||proffering.xyz
+||qjmlmaffrqj.com^
+||reisoctene.com^
 ||rubiconproject.com^
+||sicouthautso.net^
 ||succeedscene.com^
 ||suppressedbottlesenjoyable.com
 ||tedious-weight.pro
@@ -67675,7 +67692,9 @@ analytics-*.aasaam.com
 ||trust.zone^
 ||ucationininancee.info
 ||videoplaza.tv^
+||visargadimmit.com^
 ||wpnrtnmrewunrtok.xyz^
+||zyaaobgwnhts.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -67690,6 +67709,10 @@ analytics-*.aasaam.com
 ||23.109.82.
 ||23.109.87.
 ||mimosaavior.top
+||1138873808.rsc.cdn77.org^
+||1574705750.rsc.cdn77.org^
+||1756119262.rsc.cdn77.org
+||1834071374.rsc.cdn77.org^
 ||allsportsflix.
 ||cas.*.criteo.com^
 ||srv.tunefindforfans.com^
