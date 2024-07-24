@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202407241441
+# Verison: 202407241732
 # Expires: around 1 day
-# Total number of rules = 117909
+# Total number of rules = 117897
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -47361,7 +47361,6 @@ vkcdnservice.appspot.com^
 ||metricus.artlebedev.ru^
 ||pipe-collect.ebu.io^
 ||d3kyk5bao1crtw.cloudfront.net^
-||o365diagtelemetry.trafficmanager.net^
 ||collect.asics.com^
 ||api.axept.io^
 ||log.ohou.se^
@@ -67426,8 +67425,6 @@ analytics-*.aasaam.com
 ||playtest-api.topaz-analytics.com^
 ||m1.torrenti.al^
 ||s.tpctrust.com^
-||analytics-listener.trafficmanager.net^
-||collector-main.trafficmanager.net^
 ||tremormedia.com^
 ||analytics.tresensa.com^
 ||trialpay.com^
@@ -67616,6 +67613,7 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
+||trafficmanager.net^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -113716,16 +113714,6 @@ analytics-*.aasaam.com
 ||trafficfuel.com^
 ||trafficguard.ai^
 ||trafficjam.cn^
-||azwancan.trafficmanager.net^
-||blobcollector.events.data.trafficmanager.net^
-||bn2-ris-ap-prod-atm.trafficmanager.net^
-||bn2-ris-prod-atm.trafficmanager.net^
-||compatexchange1.trafficmanager.net^
-||ieonlinews.trafficmanager.net^
-||insideruser.trafficmanager.net^
-||settingsfd-geo.trafficmanager.net^
-||tele.trafficmanager.net^
-||uks.b.prd.ags.trafficmanager.net^
 ||trafficmp.com^
 ||trafficroots.com^
 ||trafforsrv.com^
