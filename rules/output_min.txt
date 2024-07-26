@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202407261135
+# Verison: 202407261441
 # Expires: around 1 day
-# Total number of rules = 118179
+# Total number of rules = 118182
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,7 @@
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
 /^139\.45\.197\.2(4[0-9]|5[0-4]):/
+||crewedbangup.com^
 ||prwfwayui.com^
 ||pteegostie.com^
 ||frutwafiwah.com^
@@ -60831,6 +60832,8 @@ inapps.appsflyersdk.com^
 ||xjpmlf.xyz^
 ||ketlwsd.top^
 ||dy10000.net^
+||hbbynt.xyz^
+||cwerilxf.top^
 ||kwgqaqf.icu^
 ||uicdns.xyz^
 ||qzsvwo.xyz^
@@ -67807,8 +67810,6 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
-||hbbynt.xyz^
-||cwerilxf.top^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -68784,6 +68785,7 @@ analytics-*.aasaam.com
 ||confiant.msn.com^
 ||console-telemetry.oci.oraclecloud.com^
 ||copilot-telemetry.githubusercontent.com^
+||count.darkreader.app^
 ||counter.darkreader.app^
 ||cpt.itv.com^
 ||crayfish.thingelstad.com^
@@ -69058,6 +69060,7 @@ analytics-*.aasaam.com
 ||telemetry.algolia.com^
 ||telemetry.api.playstation.com^
 ||telemetry.firez.one^
+||telemetry.stytch.com^
 ||tgt.maep.ibm.com^
 ||thtk.temu.com^
 ||tif.ionos.com^
