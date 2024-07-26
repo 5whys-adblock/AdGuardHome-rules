@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202407261733
+# Verison: 202407262051
 # Expires: around 1 day
-# Total number of rules = 118182
+# Total number of rules = 118186
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||ywmvppnlwwxkgt.com^
+||chouchicky.com^
 /^139\.45\.197\.2(4[0-9]|5[0-4]):/
 ||crewedbangup.com^
 ||prwfwayui.com^
@@ -3267,6 +3269,7 @@ vkcdnservice.appspot.com^
 ||adserved.net^
 ||adserverplus.com^
 ||adserverpub.com^
+||adservf.com^
 ||adservicemedia.dk^
 ||adservon.com^
 ||adservr.de^
@@ -41044,6 +41047,7 @@ vkcdnservice.appspot.com^
 ||6a6672.xyz^
 ||70b927c8.live^
 ||7608d5.xyz^
+||7841ffda.xyz^
 ||7ca989e1.xyz^
 ||7e60f1f9.xyz^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
