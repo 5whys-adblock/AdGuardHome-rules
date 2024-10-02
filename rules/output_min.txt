@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202410021736
+# Verison: 202410022058
 # Expires: around 1 day
-# Total number of rules = 116289
+# Total number of rules = 116295
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||cdn2.sales-frontier.com^
 ||xxyrgvielmehx.com^
 ||emaxudrookrora.net^
 ||aspectreinforce.com^
@@ -40489,6 +40490,9 @@ vkcdnservice.appspot.com^
 ||deapi.afreecatv.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||ad.snaptube.app^
+||ad.mobiuspace.net^
+||api-ad-callback.falconnet.app^
 ||ads-router-noneu.truecaller.com^
 ||umphek.com^
 ||ahoy-internal-ads-hv.b-cdn.net^
@@ -58739,6 +58743,9 @@ inapps.appsflyersdk.com^
 ||zvc.cc^
 ||zvietcombank.com^
 ||zvietnakello.weebly.com^
+||znnfzx.xyz^
+||veryt111.fun^
+||az697jylm.cc^
 ||kwurserd.top^
 ||zeryt111.fun^
 ||tuxpfiok.icu^
@@ -65237,7 +65244,6 @@ analytics-*.aasaam.com
 ||mobileposse.com^
 ||mobimagic.com^
 ||api.mobitech-content.xyz^
-||ad.mobiuspace.net^
 ||api-ad-callback.mobiuspace.net^
 ||mobivity.com^
 ||cdn.mobsocmedia.com^
