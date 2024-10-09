@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202410091142
+# Verison: 202410091445
 # Expires: around 1 day
-# Total number of rules = 116555
+# Total number of rules = 116567
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -58916,6 +58916,7 @@ inapps.appsflyersdk.com^
 ||zvietnakello.weebly.com^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||leagsmk.icu^
 ||irulws.xyz^
 ||cowcuo.xyz^
 ||ajybgc.xyz^
@@ -66036,7 +66037,6 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
-||leagsmk.icu^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -102189,6 +102189,7 @@ analytics-*.aasaam.com
 ||bgpng.me^
 ||bgrndi.com^
 ||bh100.com.cn^
+||sentry.bhbapp.cn^
 ||bhcumsc.com^
 ||m.bhkhkm.cn^
 ||bhlianhe.com^
@@ -102809,6 +102810,7 @@ analytics-*.aasaam.com
 ||china99315.cn^
 ||bdjsfl.chinabig.com.cn^
 ||adsys.chinacloudapp.cn^
+||pcmactivity.chinacloudsites.cn^
 ||sq1.chinacsky.com^
 ||sq2.chinacsky.com^
 ||usercollection.chinadaily.com.cn^
@@ -104950,6 +104952,7 @@ analytics-*.aasaam.com
 ||zxr.fzxrjx.com^
 ||e.fzyda.com^
 ||m.fzyda.com^
+||simulatelab-datasink.fzzixun.com^
 ||g-content.bi^
 ||xyoss.g.com.cn^
 ||m.g1ao7q.cn^
@@ -105048,6 +105051,9 @@ analytics-*.aasaam.com
 ||gedawang.com^
 ||t.geedai.com^
 ||geekactive.com^
+||cooper.geelark.cn^
+||datasink.geelark.cn^
+||datasink.geelark.com^
 ||geindex.com^
 ||geiyujieda.com^
 ||t.gelderlander.nl^
@@ -107570,6 +107576,7 @@ analytics-*.aasaam.com
 ||marketing.linguamatics.com^
 ||link5view.com^
 ||platform.linkedin.com^
+||datasink.linkfox.com^
 ||linkifier.com^
 ||linkjg.cn^
 ||linkpage.cn^
@@ -108036,6 +108043,7 @@ analytics-*.aasaam.com
 ||rabbit.tg.meitu.com^
 ||xiuxiu.android.dl.meitu.com^
 ||pubmsg.meituan.com^
+||dreport.meituan.net^
 ||xiuxiu.mobile.meitudata.com^
 ||meitumq.com^
 ||norma-external-collect.meizu.com^
@@ -112023,6 +112031,7 @@ analytics-*.aasaam.com
 ||guid.tpns.tencent.com^
 ||ping.cloud.tencent.com^
 ||sensors.cloud.tencent.com^
+||report.meeting.tencent.com^
 ||tencentmind.com^
 ||adcdn.tencentmusic.com^
 ||adclick.tencentmusic.com^
@@ -114482,6 +114491,7 @@ analytics-*.aasaam.com
 ||v2-ad.video.yximgs.com^
 ||v3-ad.video.yximgs.com^
 ||js-ad.a.yximgs.com^
+||tob-tracker.yximgs.com^
 ||bbcc.yxlady.com^
 ||js50.yxlady.com^
 ||mmcc.yxlady.com^
@@ -114703,6 +114713,9 @@ analytics-*.aasaam.com
 ||tnc3-aliec1.zijieapi.com^
 ||tnc3-aliec2.zijieapi.com^
 ||m.zineworm.com^
+||datasink.ziniao.com^
+||logs-collect.ziniao.com^
+||test-cb-log.ziniao.com^
 ||zioe.com.cn^
 ||zipperxray.com^
 ||zippywind.com^
@@ -115955,7 +115968,6 @@ analytics-*.aasaam.com
 ||base.api.my7v.com^
 ||ads.huan.tv^
 ||tclicon5.ifmis.huan.tv^
-||dreport.meituan.net^
 ||kfk2es.dreport.meigtuan.net^
 ||resolver.msg.xiaomi.net^
 ||soup.v.qq.com^
