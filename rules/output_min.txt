@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202410220244
+# Verison: 202410220534
 # Expires: around 1 day
-# Total number of rules = 110965
+# Total number of rules = 110980
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -60460,6 +60460,7 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||abruptalertness.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
@@ -60467,18 +60468,28 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||benelph.de^
 ||buyeasy.by^
+||bwgmhihnzcnhf.com^
 ||cusilbwq.xyz
+||dinkiersenhora.com^
+||dolcinopararek.com^
 ||dxotbknruf.com
+||fqtadpehoqx.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
+||jhqskhzl.com^
 ||jyjbdwox.com
 ||kqzyfj.com^
 ||loadercdn.com^
+||ninetyfitful.com^
 ||ntv.io^
 ||ojrq.net^
+||olxoqmotw.com^
+||optvz.com^
+||pheekoamek.net^
+||possibilityfoundationwallpaper.com^
 ||proffering.xyz
 ||rirteelraibsou.net
 ||rubiconproject.com^
@@ -60488,8 +60499,10 @@ analytics-*.aasaam.com
 ||totaladblock.com^
 ||tracker-tds.info
 ||trust.zone^
+||uqqmj868.xyz^
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
+||xkacs5av.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -60504,6 +60517,8 @@ analytics-*.aasaam.com
 ||23.109.82.
 ||23.109.87.
 ||mimosaavior.top
+||1051912086.rsc.cdn77.org^
+||1310530397.rsc.cdn77.org^
 ||allsportsflix.
 ||cas.*.criteo.com^
 ||jeeng-api-prod.azureedge.net
