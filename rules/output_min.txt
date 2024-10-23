@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202410231737
+# Verison: 202410232058
 # Expires: around 1 day
-# Total number of rules = 111054
+# Total number of rules = 111064
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,7 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||cexofira.com^
 ||koomowailiwuzou.net^
 ||kcggmyeag.com^
 ||mosspf.com^
@@ -38917,6 +38918,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||retail-client-events-service.internal.salsify.com^
 ||servo-report.keepstreams.com^
 ||metrics.imdb.com^
 ||global.telemetry.insights.video.a2z.com^
@@ -53195,6 +53197,9 @@ inapps.appsflyersdk.com^
 ||enkvum.xyz^
 ||rcdwhp.xyz^
 ||iouvxlio.top^
+||snueirk.icu^
+||cvmuia.xyz^
+||pg2bk.icu^
 ||gyunce.xyz^
 ||mlgowell.com^
 ||rqroytj33.fun^
@@ -60465,8 +60470,6 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
-||snueirk.icu^
-||cvmuia.xyz^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -60575,28 +60578,35 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||benelph.de^
 ||buyeasy.by^
+||cheedroumsoaphu.net^
 ||cusilbwq.xyz
 ||dxotbknruf.com
+||eladove.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
+||jiggleowk.com^
 ||jyjbdwox.com
+||kacukrunitsoo.net^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
 ||ojrq.net^
+||oquftwsabsep.xyz^
 ||proffering.xyz
 ||rirteelraibsou.net
 ||rubiconproject.com^
 ||suppressedbottlesenjoyable.com
+||swopsalane.com^
 ||tedious-weight.pro
 ||telcyhlw.com
 ||totaladblock.com^
 ||tracker-tds.info
 ||trust.zone^
 ||videoplaza.tv^
+||whhasymvi.com^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
