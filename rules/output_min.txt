@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202410241737
+# Verison: 202410242059
 # Expires: around 1 day
-# Total number of rules = 111107
+# Total number of rules = 111112
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -20,6 +20,8 @@
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
 # https://filter.futa.gg/hosts.txt
 ####################################################################################
+||ijwkdmzru.com^
+||sekqeraneosbm.com^
 ||vhducnso.com^
 ||vauloops.net^
 ||cexofira.com^
@@ -33114,6 +33116,7 @@ vkcdnservice.appspot.com^
 ||7608d5.xyz^
 ||77886044.xyz^
 ||7841ffda.xyz^
+||78847798.xyz^
 ||78b78ff8.xyz^
 ||79180284.xyz^
 ||7ca989e1.xyz^
@@ -42195,6 +42198,7 @@ inapps.appsflyersdk.com^
 ||highway.cablecar.sph.com.sg^
 ||hit.mybestpro.com^
 ||hits.getelevar.com^
+||hits.gokwik.co^
 ||hits.informer.com^
 ||hydro-ma-proxy.akamaized.net^
 ||i.posthog.com^
@@ -42330,6 +42334,7 @@ inapps.appsflyersdk.com^
 ||pt.crossmediaservices.com^
 ||ptsc.shoplocal.com^
 ||pub.sheknows.com^
+||pulse.shopflo.com^
 ||px.marchex.io^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
@@ -42373,6 +42378,7 @@ inapps.appsflyersdk.com^
 ||sp-wukong-tracker.b-cdn.net^
 ||spa-tracker.spapi.io^
 ||speedtrap.shopdirect.com^
+||src.freshmarketer.in^
 ||ssa.stepstone.com^
 ||ssr.streamrail.net^
 ||st.cdnco.us^
@@ -53235,6 +53241,11 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||moqdy.icu^
+||ohkfmi.xyz^
+||lgkocdi.icu^
+||gjnbf.com^
+||qdjsiyt.icu^
+||huoxun.wang^
 ||rdxqbp.xyz^
 ||sksbgm.xyz^
 ||enkvum.xyz^
@@ -60513,9 +60524,6 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
-||ohkfmi.xyz^
-||lgkocdi.icu^
-||gjnbf.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -61436,12 +61444,9 @@ analytics-*.aasaam.com
 ||g.msn.com^
 ||geo.ngtv.io^
 ||gtmfsstatic.getgoogletagmanager.com^
-||hits.gokwik.co^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||monitor.azure.com^
-||pulse.shopflo.com^
-||src.freshmarketer.in^
 ||tag.aticdn.net^
 ||tracker.twenga.
 ||tracking.magnetmail.net^
