@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202410312058
+# Verison: 202410312338
 # Expires: around 1 day
-# Total number of rules = 111402
+# Total number of rules = 111409
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -60542,6 +60542,7 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||beacon.ztgame.com^
+||koublid.top^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -60643,12 +60644,14 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||adgzfujunv.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
+||brughsasha.shop^
 ||buyeasy.by^
 ||cusilbwq.xyz
 ||dxotbknruf.com
@@ -60660,11 +60663,13 @@ analytics-*.aasaam.com
 ||jyjbdwox.com
 ||kqzyfj.com^
 ||loadercdn.com^
+||nnxfiqgqdsoywwa.com^
 ||ntv.io^
 ||ojrq.net^
 ||proffering.xyz
 ||rirteelraibsou.net
 ||rubiconproject.com^
+||stagerydialing.shop^
 ||suppressedbottlesenjoyable.com
 ||tedious-weight.pro
 ||telcyhlw.com
@@ -60672,6 +60677,7 @@ analytics-*.aasaam.com
 ||tracker-tds.info
 ||trust.zone^
 ||videoplaza.tv^
+||virgalocust.shop^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -61475,6 +61481,7 @@ analytics-*.aasaam.com
 ||aff*.kolektiva.net^
 -logging.nextmedia.com^
 ||pv.sohu.com^
+||dmp.citynews.ovh^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
 ||tms-st.cdn.ngenix.net^
