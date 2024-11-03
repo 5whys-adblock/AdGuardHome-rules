@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411031011
+# Verison: 202411031146
 # Expires: around 1 day
-# Total number of rules = 111150
+# Total number of rules = 111086
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -60641,6 +60641,7 @@ analytics-*.aasaam.com
 ||bdcmwcl.icu^
 ||urpkktc.icu^
 ||dsfh2.icu^
+||toublii.top^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -96263,6 +96264,7 @@ analytics-*.aasaam.com
 ||awfonts.com^
 ||awifi.cn^
 ||ms.awqsaged.cn^
+||ressource.gdpr-banner.awsmpsa.com^
 ||awstats.cloud^
 ||lmwap.awtks.com^
 ||kn.awyys.com^
@@ -110630,72 +110632,6 @@ analytics-*.aasaam.com
 ||ads.sina.com^
 ||ads.yimg.com^
 ||ad.wang502.com^
-cookiewarning.js^
-cookiewarning4.js^
-cookiesamtykke.js^
-cookie-use-policy.js^
-bootstrap-cookie-consent.js^
-cookieDisclaimer.js^
-cookiePolicyEUPopin*
-cookielawscript.js^
-cookiepolicy-client.js^
-cookiebar-init.js^
-cookiewarning2.js^
-cookieInfo.js^
-cookieprivacygenerator.js^
-jquery-easy-eu-cookie-law.js^
-cookie-consent.es5.min.js^
-||eurocookie.galilcloud.wixapps.net^
-||cookie.consent.is^
-jquery.eu-cookie-consent.min.js^
-jquery.cookie.policy.min.js^
-||api.cookielaw.eu^
-||api.cookielaw-script.it^
-cookiewall.es5.min.js^
-jquery.cookiepol.js^
-cookiebanner.min.js^
-cookieconsentnotice.js^
-||cookies.algo.at^
-||cookielaw.emea.fcagroup.com^
-||bs-cookie.staging.springbok.agency^
-flipdish-cookie-consent*
-||cookieconsent.syreta.com^
-||cookie-bar.salessquad.co.uk^
-||cookiemon.atcom.gr^
-||procookie.by.nf^
-jquery-eu-cookie-law-popup*
-||cookies.ae-webdesign.com^
-||cdn.cookiecode.nl^
-||cookieconsent.blob.core.windows.net^
-.cookiehub.eu
-wpjslib-chunk-consent-form.js^
-||consent-notice.magix.com^
-||consent.theneweuropean.co.uk^
-||browser-consent-front.coco.s-cloud.fi^
-||consent-manager.metomic.io^
-||consent-manager.confirmic.com^
-||consent.scm-verlagsgruppe.de^
-||consent.comply-app.com^
--gdpr-min.js^
-||gdpr-banner.awsmpsa.com^
-||privacy-policy.u-lab.nl^
-||app.eprivacy-keeper.eu^
-||cmp.cls.pm^
-||cmp.pafo.fairbung.com^
-||determinator.service-cmp.com^
-jquery.smartCookie.min.js^
-||ccm19.vucx.de^
-||ccm19.dsg-schweiz.ch^
-||ccm19.boxspring-welt^
-||ccm.npo.nl^
-||fundingchoices.google.com^
-||privacidade.api.milvus.com.br^
-||api.brookiebot.com^
-wpjslib-chunk-notification.js^
-nanoGDPR.min.js^
-||connect.danone.es^
-||notice.sp-prod.net^
-||cdn.realpeoplemedia.co.uk^
 ||ad*.on.cc^
 ||unpkg.com^$badfilter
 -1316632262.cos.
