@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411082057
+# Verison: 202411082338
 # Expires: around 1 day
-# Total number of rules = 129707
+# Total number of rules = 129712
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -57576,6 +57576,7 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||deafeningphone.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -57680,6 +57681,7 @@ analytics-*.aasaam.com
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||ashlingzanyish.com^
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
@@ -57693,9 +57695,12 @@ analytics-*.aasaam.com
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||louderoink.shop^
+||morionlochus.com^
 ||ntv.io^
 ||ojrq.net^
 ||proffering.xyz
+||razorvenue.com^
 ||rirteelraibsou.net
 ||rubiconproject.com^
 ||suppressedbottlesenjoyable.com
@@ -57704,6 +57709,7 @@ analytics-*.aasaam.com
 ||tracker-tds.info
 ||trust.zone^
 ||videoplaza.tv^
+||withnimmunger.com^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -128676,7 +128682,6 @@ nanoGDPR.min.js^
 ||with-with.net^
 ||analytics.withgoogle.com^
 ||metrics.withings.com^
-||withnimmunger.com^
 ||withoutverification.com^
 ||withsecurify.com^
 ||analytics.withub.it^
