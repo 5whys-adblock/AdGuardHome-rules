@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411082338
+# Verison: 202411090243
 # Expires: around 1 day
-# Total number of rules = 129712
+# Total number of rules = 129715
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,10 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||cbro.win^
+||byzoruator.com^
+||sjilyhwpu.xyz^
+||shoorsoacmo.xyz^
 ||qkyojtlabrhy.com^
 ||neat-period.com^
 ||punctual-window.com^
@@ -3982,6 +3986,7 @@ vkcdnservice.appspot.com^
 ||ashhgo.com^
 ||ashionismscol.info^
 ||ashlarinaugur.com^
+||ashlingzanyish.com^
 ||ashoreyuripatter.com^
 ||ashoupsu.com^
 ||ashrivetgulped.com^
@@ -11645,6 +11650,7 @@ vkcdnservice.appspot.com^
 ||glimpsemankind.com^
 ||glimtors.net^
 ||glipigaicm.net^
+||gliptoacaft.net^
 ||glistening-novel.pro^
 ||glitteringinsertsupervise.com^
 ||glitteringobsessionchanges.com^
@@ -15666,6 +15672,7 @@ vkcdnservice.appspot.com^
 ||lotteryaffiliates.com^
 ||louchaug.com^
 ||louchees.net^
+||louderoink.shop^
 ||louderwalnut.com^
 ||loudlongerfolk.com^
 ||louisedistanthat.com^
@@ -16871,6 +16878,7 @@ vkcdnservice.appspot.com^
 ||morgdm.ru^
 ||morgenskenotic.shop^
 ||morict.com^
+||morionlochus.com^
 ||morionsluigini.digital^
 ||morneminim.top^
 ||morningamidamaruhal.com^
@@ -21362,6 +21370,7 @@ vkcdnservice.appspot.com^
 ||raymondcarryingordered.com^
 ||rayonnesiemens.shop^
 ||razorhsi.click^
+||razorvenue.com^
 ||razzlebuyer.com^
 ||rbcxttd.com^
 ||rblgfyvwse.com^
@@ -27924,6 +27933,7 @@ vkcdnservice.appspot.com^
 ||withenvisagehurt.com^
 ||withholdrise.com^
 ||withmefeyaukna.com^
+||withnimmunger.com^
 ||withyouryretye.info^
 ||witnessedcompany.com^
 ||witnessedworkerplaid.com^
@@ -50389,6 +50399,7 @@ inapps.appsflyersdk.com^
 ||pheqae.com^
 ||ittaels.com^
 ||tyaduqq.icu^
+||deafeningphone.com^
 ||gftefmt.icu^
 ||ygoibya.icu^
 ||herzotph.icu^
@@ -57576,7 +57587,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||deafeningphone.com^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -57681,7 +57691,6 @@ analytics-*.aasaam.com
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
-||ashlingzanyish.com^
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
@@ -57689,18 +57698,14 @@ analytics-*.aasaam.com
 ||cusilbwq.xyz
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
-||gliptoacaft.net^
 ||googletagservices.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||loadercdn.com^
-||louderoink.shop^
-||morionlochus.com^
 ||ntv.io^
 ||ojrq.net^
 ||proffering.xyz
-||razorvenue.com^
 ||rirteelraibsou.net
 ||rubiconproject.com^
 ||suppressedbottlesenjoyable.com
@@ -57709,7 +57714,6 @@ analytics-*.aasaam.com
 ||tracker-tds.info
 ||trust.zone^
 ||videoplaza.tv^
-||withnimmunger.com^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -112331,7 +112335,6 @@ nanoGDPR.min.js^
 ||cbproads.com^
 ||analytics.cbre.com^
 ||analytics.cbreesi.com^
-||go.cbro.win^
 ||at.cbsi.com^
 ||cbsileads.com^
 ||cn.cbsimg.net^
