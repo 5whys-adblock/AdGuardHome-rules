@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411131737
+# Verison: 202411132059
 # Expires: around 1 day
-# Total number of rules = 130072
+# Total number of rules = 130081
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,7 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||wwwwzeraqvrej.top^
 ||mycuegxt.com^
 ||athalarilouwo.net^
 ||gxfh59u4.xyz^
@@ -32576,6 +32577,7 @@ vkcdnservice.appspot.com^
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||ads.adinmotech.com^
 ||kvaedit.site^
 ||ads-ap-venues.yinzcam.com^
 ||ads-delivery.gunosy.com^
@@ -33140,6 +33142,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||p7cloud.net^
 ||kobel.services^
 ||useraction.de^
 ||analytically.net^
@@ -36574,6 +36577,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||mst.rnd.de^
 ||cza.crazygames.com^
 ||event-dot-procolor-backend.appspot.com^
 ||prod.event.mwm-asset-manager.mwmwebapis.com^
@@ -45816,6 +45820,7 @@ inapps.appsflyersdk.com^
 ||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
+||analytics.mobiedu.vn^
 ||analytics.molistar.com^
 ||analytics.nhattao.com^
 ||analytics.ntlc.com.vn^
@@ -46161,6 +46166,7 @@ inapps.appsflyersdk.com^
 ||tvc.biphim.club^
 ||upfile16.mediaphim.com^
 ||upl.net-solutions.vn^
+||us.mplis.gov.vn^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
@@ -49117,6 +49123,7 @@ inapps.appsflyersdk.com^
 ||sieumomo.top^
 ||sieumomo.win^
 ||sieunhitainangmua3-2022.weebly.com^
+||sieusalegiare.top^
 ||sieusao.lienquan-vgarena.com^
 ||sieuthibaby24h.com^
 ||sieuthidark.com^
@@ -50738,6 +50745,8 @@ inapps.appsflyersdk.com^
 ||chupl.icu^
 ||cweisif.top^
 ||y0mwy.icu^
+||pxyjqea.icu^
+||xuugnuits.com^
 ||ccobksxz.icu^
 ||utbyvyl.icu^
 ||dchdmhf.cn^
@@ -57970,7 +57979,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||pxyjqea.icu^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -58726,7 +58734,6 @@ analytics-*.aasaam.com
 ||organiccdn.io^
 ||orhdev.com^
 ||ostrichesica.com^
-||p7cloud.net^
 ||pageid.info^
 ||peiq.services^
 ||pixel-tracker.com^
@@ -59050,6 +59057,7 @@ analytics-*.aasaam.com
 ||improve.tempest.com^
 ||in.brilliant.org^
 ||indmetric.rediff.com^
+||ingest.coincodex.com^
 ||ingress.linktr.ee^
 ||insights-mxp-cdn.coursecareers.com^
 ||intent.cmo.com.au^
@@ -91209,6 +91217,7 @@ analytics-*.aasaam.com
 @@||login-sh.aki-game.com^
 @@||rocket.chat^
 @@||usageapi.*.oraclecloud.com^
+@@||track.vontron.com^
 /^(\S+\.)?9377[a-z0-9]{2}\.com$/$dnstype=A
 /^(\S+\.)?ad(s?[\d]+|m|s)?\.[0-9\-a-z]+\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com|alibabadns.com
 @@||ad.vivo.com.cn^
