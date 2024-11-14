@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411141738
+# Verison: 202411142101
 # Expires: around 1 day
-# Total number of rules = 130033
+# Total number of rules = 130035
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -36600,6 +36600,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||stats.bunkr.ru^
 ||logs.netflix.com^
 ||mst.rnd.de^
 ||cza.crazygames.com^
@@ -37919,6 +37920,7 @@ vkcdnservice.appspot.com^
 ||estat.zum.com^
 ||et.nytimes.com^
 ||eum*.instana.io^
+||ev2.api.bdg.com^
 ||ev.api.bdg.com^
 ||ev.kck.st^
 ||events.popinfo.jp^
@@ -38960,6 +38962,8 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||ads-image.production-public.tubi.io^
+||user-signals.production-public.tubi.io^
 ||sonar*.xy.fbcdn.net^
 ||mob2.healthtrackergroup.com^
 ||insights-categorizer-noneu.truecaller.com^
@@ -50769,6 +50773,7 @@ inapps.appsflyersdk.com^
 ||iweisio.top^
 ||u5ps5.icu^
 ||lwvrv.icu^
+||vnuuh.icu^
 ||stunkrins.com^
 ||rjwpwod.icu^
 ||gheqien.com^
@@ -58012,7 +58017,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||vnuuh.icu^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -112441,7 +112445,6 @@ nanoGDPR.min.js^
 ||statistik.bundestag.de^
 ||analytics.bundlejs.com^
 ||analytics.bungie.net^
-||stats.bunkr.ru^
 ||posthog.bunny.net^
 ||metric.bunq.com^
 ||tags.bunte.de^
@@ -127709,7 +127712,6 @@ nanoGDPR.min.js^
 ||tuberis.com^
 ||b1.tubexo.tv^
 ||ads.production-public.tubi.io^
-||ads-image.production-public.tubi.io^
 ||ads4.production-public.tubi.io^
 ||pixel.production-public.tubi.io^
 ||pixel4.production-public.tubi.io^
