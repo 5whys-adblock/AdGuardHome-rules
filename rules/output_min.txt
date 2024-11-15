@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411151148
+# Verison: 202411151449
 # Expires: around 1 day
-# Total number of rules = 130052
+# Total number of rules = 130037
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -50781,6 +50781,9 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||uaqdgrfr.icu^
 ||gzfsqrc.icu^
+||kweisid.top^
+||o8zoz.icu^
+||ekzmk.icu^
 ||bujlmitd.icu^
 ||wrdamoe.icu^
 ||iweisio.top^
@@ -58031,9 +58034,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||kweisid.top^
-||o8zoz.icu^
-||ekzmk.icu^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -108559,7 +108559,6 @@ nanoGDPR.min.js^
 ||1sweethost.com^
 ||metric.1v1.lol^
 ||cdn.1vag.com^
-||1wat.ru^
 ||1x.de^
 ||1y04j.com^
 ||with.2-on-line.com^
@@ -108800,7 +108799,6 @@ nanoGDPR.min.js^
 ||revive.3wayint.com^
 ||3x.ro^
 ||3xtraffic.com^
-||4-counter.com^
 ||analytics.404.limited^
 ||4097ffb08f.com^
 ||40a16d92b0.com^
@@ -108993,7 +108991,6 @@ nanoGDPR.min.js^
 ||analytics.76.ru^
 ||760ed2b57f.com^
 ||762yp.vip^
-||763e24cc7e.com^
 ||76655f963b.com^
 ||7726f27549de609644ca54296d723a4704ca5663d4e6072fc21ff4c4.com^
 ||4cd8d0b494.773fd92793.com^
@@ -109184,6 +109181,7 @@ nanoGDPR.min.js^
 ||prod-event-relay-sports-api.v.aaplimg.com^
 ||prod-event-relay-stocks-api.v.aaplimg.com^
 ||prod-event-relay-weather-api.v.aaplimg.com^
+||prod-news-notification-events.v.aaplimg.com^
 ||securemetrics.v.aaplimg.com^
 ||securemvt.v.aaplimg.com^
 ||aarki.com^
@@ -109751,7 +109749,6 @@ nanoGDPR.min.js^
 ||adit.spain.advgo.net^
 ||advidates.com^
 ||advincent.com^
-||advinci.uno^
 ||advisible.com^
 ||metrics.advisorchannel.com^
 ||advisormedia.cz^
@@ -110847,6 +110844,9 @@ nanoGDPR.min.js^
 ||analytics.itunes.apple.com^
 ||metrics.itunes.apple.com^
 ||metric.apple.com^
+||news-app-events.apple.com^
+||news-notification-events.apple.com^
+||news-sports-events.apple.com^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||proxy-skadnetwork.apple.com^
 ||qa-iad.apple.com^
@@ -110920,7 +110920,6 @@ nanoGDPR.min.js^
 ||kunde.apt.no^
 ||aptabase.com^
 ||analytics.aptania.com^
-||aptin.live^
 ||aptina.com^
 ||aptracking1.com^
 ||apture.com^
@@ -111605,7 +111604,6 @@ nanoGDPR.min.js^
 ||metrics.beautyworksonline.com^
 ||analytics.bebe.de^
 ||analytics.bebeautiful.in^
-||becayg.com^
 ||analytics.becharge.be^
 ||statistics.beckhoff-web-services.com^
 ||metrics.becquet.fr^
@@ -114354,6 +114352,7 @@ nanoGDPR.min.js^
 ||cometzone.com^
 ||comfm.com^
 ||rest.comfy.ua^
+||sst.comfy.ua^
 ||analytics.commandalkon.io^
 ||iscep-stories.commencis.com^
 ||commenttrendle.top^
@@ -115271,7 +115270,6 @@ nanoGDPR.min.js^
 ||dgit.com^
 ||dgm2.com^
 ||dgqlwqedzowhqb.com^
-||dgyvvhsefor.xyz^
 ||d1.dhgate.com^
 ||dhobeynandi.com^
 ||dhux7ijh.click^
@@ -115809,7 +115807,6 @@ nanoGDPR.min.js^
 ||ebayadservices.com^
 ||ebayadvertising.com^
 ||ebaypartnernetwork.com^
-||ebgdasxqg.com^
 ||ads.ebihoreanul.ro^
 ||ebonyexperiment.com^
 ||ebrokerpartner.pl^
@@ -116007,7 +116004,6 @@ nanoGDPR.min.js^
 ||metrics.elcorreo.com^
 ||utiq.elcorreo.com^
 ||utiq.eldiario.es^
-||eldredsundial.com^
 ||www1.elecfans.com^
 ||umami.electrodepot-pic.com^
 ||gtm.electrolux.be^
@@ -116593,7 +116589,6 @@ nanoGDPR.min.js^
 ||fasterfiles.net^
 ||umami.fasterthanli.me^
 ||fasthypenews.com^
-||fastmetric.link^
 ||metrics.fastmodelsports.com^
 ||fastnclick.com^
 ||i20.fastpic.ru^
@@ -117468,7 +117463,6 @@ nanoGDPR.min.js^
 ||get-cracked.com^
 ||get-kmspico.com^
 ||get-link.xyz^
-||get-me-wow.in^
 ||get-news.net^
 ||get-trust-vpn.info^
 ||metric.get8x8.com^
@@ -118985,6 +118979,7 @@ nanoGDPR.min.js^
 ||analytics.ihealthspot.com^
 ||analytics.inferno.iheart.com^
 ||leads.radioedit.iheart.com^
+||logx-experimentation.iherb.com^
 ||tracker.ihk-muenchen.de^
 ||adapi.ihuman.com^
 ||appadapi.ihuman.com^
@@ -119166,7 +119161,6 @@ nanoGDPR.min.js^
 ||secure.informaction.com^
 ||information.com^
 ||metrics.information-region.ru^
-||informationer.nu^
 ||analytics.informationweek.com^
 ||servedby.informatm.com^
 ||analytics.informedk12.com^
@@ -119860,7 +119854,6 @@ nanoGDPR.min.js^
 ||logos.keycdn.com^
 ||analytics.keyence.com^
 ||keymedia.hu^
-||keynotedeviceanywhere.com^
 ||keyoptimize.com^
 ||kezkkks.cc^
 ||kfgqfjledfy.xyz^
@@ -121047,7 +121040,6 @@ nanoGDPR.min.js^
 ||analytics.marketrealist.com^
 ||marketron.com^
 ||analytics.marketsmedia.com^
-||markson.hk^
 ||matomo.marktforschung.de^
 ||middleware.marktjagd.de^
 ||countly.markzware.com^
@@ -121144,7 +121136,6 @@ nanoGDPR.min.js^
 ||mciun.com^
 ||mcstats.org^
 ||storage.mcwnow.co^
-||mdb.nu^
 ||umami.mdbg.net^
 ||piwik.diebibel.mdc.de^
 ||edge.mdcgate.com^
@@ -121563,6 +121554,7 @@ nanoGDPR.min.js^
 ||nr.mmcdn.com^
 ||mmedia.com^
 ||analytics.mmi-e.com^
+||mmi360.net^
 ||mmlala.com^
 ||mmnn.jp^
 ||mmonopolymarket.link^
@@ -121851,7 +121843,6 @@ nanoGDPR.min.js^
 ||tagging-service.mtv.fi^
 ||muafk.com^
 ||tracking.mubi.com^
-||sentry-relay.mubicdn.net^
 ||muchadmiredin.info^
 ||mucu.jp^
 ||muddedcarboys.com^
@@ -124028,6 +124019,7 @@ nanoGDPR.min.js^
 ||psausoay.net^
 ||psaussasta.net^
 ||psdqcwebfdvosah.com^
+||psegeevalrat.net^
 ||psfmi.com^
 ||plausible.psianalytics.live^
 ||analytics.psjaisd.us^
@@ -124205,7 +124197,6 @@ nanoGDPR.min.js^
 ||q2.qlogo.cn^
 ||matomo.qollab.io^
 ||qooic.com^
-||qoxxpyuohbm.com^
 ||qpoe.com^
 ||info.3g.qq.com^
 ||mazu.3g.qq.com^
@@ -124404,7 +124395,6 @@ nanoGDPR.min.js^
 ||ravpcokpyah.com^
 ||rawestbedegar.click^
 ||rawqel.com^
-||raxflydrdy.xyz^
 ||deer.ray.io^
 ||trk.raymondcorp.com^
 ||bespoke-analytics.razerapi.com^
@@ -125422,7 +125412,6 @@ nanoGDPR.min.js^
 ||net.sexstories69.com^
 ||sextb.net^
 ||sextb.xyz^
-||sexter.site^
 ||sextracker.de^
 ||b.sexvids.cc^
 ||arabs.sexxarabxx.com^
@@ -126184,7 +126173,6 @@ nanoGDPR.min.js^
 ||sskmnews.pro^
 ||sslovexxxrr.com^
 ||analytics.ssmas.com^
-||ssmlwyrhqbblfar.com^
 ||ssp-bcc-ads.com^
 ||sspinc.io^
 ||stabx.net^
@@ -128317,7 +128305,6 @@ nanoGDPR.min.js^
 ||vevlysingar.fo^
 ||log.core.cloud.vewd.com^
 ||log-legacy.core.cloud.vewd.com^
-||vewhxobs.com^
 ||analytics.veygo.co^
 ||analytics.vfafacility.ca^
 ||analytics.vfafacility.com^
@@ -128544,7 +128531,6 @@ nanoGDPR.min.js^
 ||vmn.net^
 ||vmplayer2019.com^
 ||sec.vmware.com^
-||vnadsrv.com^
 ||ads.vnd89.com^
 ||vnomm.com^
 ||analytics.vnr.de^
@@ -129435,7 +129421,6 @@ nanoGDPR.min.js^
 ||stat.xunlei.com^
 ||material.xl7.xunlei.com^
 ||analytics.xupervisor.com^
-||xuycohsuenyqk.com^
 ||static.xvideos.com^
 ||xvideoslive.com^
 ||metrics.xvservice.net^
