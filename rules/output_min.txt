@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411181741
+# Verison: 202411182103
 # Expires: around 1 day
-# Total number of rules = 130219
+# Total number of rules = 130221
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -39024,6 +39024,8 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||hw-sh-pcdn-*.biliapi.net^
+||ali-bj-pcdn-*.biliapi.net^
 ||tatrack.thinkyeah.com^
 -rtb.gravite.net^
 ||mon*-misc-lf.fqnovel.com^
@@ -44886,6 +44888,7 @@ inapps.appsflyersdk.com^
 ||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
+||smetrics.avanza.se^
 ||spel.expressen.se^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
@@ -111325,7 +111328,6 @@ nanoGDPR.min.js^
 ||analytics.news.avalara.com^
 ||trk.avalara.com^
 ||analytics.avalaramail.com^
-||smetrics.avanza.se^
 ||analytics-prod-gcp.ff.avast.com^
 ||apkrep.ff.avast.com^
 ||au.ff.avast.com^
