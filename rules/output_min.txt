@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411190246
+# Verison: 202411190536
 # Expires: around 1 day
-# Total number of rules = 130284
+# Total number of rules = 130290
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -58241,16 +58241,21 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||benelph.de^
 ||buyeasy.by^
+||curatekrait.com^
 ||cusilbwq.xyz
+||exgjhawccb.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
 ||hvkwmvpxvjo.xyz
+||i-svzgrtibs.rocks^
 ||imasdk.googleapis.com^
+||insistpeerbeef.com^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
 ||ojrq.net^
+||pictunoctette.com^
 ||proffering.xyz
 ||rirteelraibsou.net
 ||rubiconproject.com^
@@ -58260,7 +58265,9 @@ analytics-*.aasaam.com
 ||tracker-tds.info
 ||trust.zone^
 ||videoplaza.tv^
+||wpfly-sbpkrd.icu^
 ||wpnrtnmrewunrtok.xyz^
+||wtyankriwnza.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -123765,7 +123772,6 @@ nanoGDPR.min.js^
 ||picreel.com^
 ||analytics.pics.io^
 ||telemetry.am.pictet.com^
-||pictunoctette.com^
 ||picxxxhub.com^
 ||pieclayton.com^
 ||piet2eix3l.com^
