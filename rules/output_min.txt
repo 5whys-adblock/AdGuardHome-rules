@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411221739
+# Verison: 202411222101
 # Expires: around 1 day
-# Total number of rules = 130555
+# Total number of rules = 130557
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32765,6 +32765,7 @@ vkcdnservice.appspot.com^
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||creative*.bidease.com^
 ||bidjora.com^
 ||aomsitf.com^
 ||richlifeads.ru^
@@ -39243,7 +39244,6 @@ inapps.appsflyersdk.com^
 ||config-api.internet.apps.samsung.com^
 ||r.apkpure.net^
 ||analytics.zg-api.com^
-||creative.bidease.com^
 ||track-resource.bidease.com^
 ||track-us.bidease.com^
 ||mintegral.net^
@@ -39759,6 +39759,7 @@ inapps.appsflyersdk.com^
 ||api.june.so^
 ||api.wipmania.com^
 ||apple.www.letv.com^
+||apps-pbd.ctraffic.io^
 ||argos.citruserve.com^
 ||attributiontrackingga.googlecode.com^
 ||audience.newscgp.com^
@@ -111933,6 +111934,7 @@ nanoGDPR.min.js^
 ||bidclix.com^
 ||bidder.dev^
 ||tracker.bidder-playdigo.com^
+||creative.bidease.com^
 ||ssp-track-us.bidease.com^
 ||service.bidlab.ai^
 ||api.bidmachine.io^
