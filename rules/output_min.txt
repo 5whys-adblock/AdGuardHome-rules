@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411260246
+# Verison: 202411260537
 # Expires: around 1 day
-# Total number of rules = 130650
+# Total number of rules = 130658
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -58488,6 +58488,8 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||095f2fc218.com^
+||6b6c1b838a.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
@@ -58498,7 +58500,9 @@ analytics-*.aasaam.com
 ||cusilbwq.xyz
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
+||gfxdn.pics^
 ||googletagservices.com^
+||hivorltuk.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
@@ -58506,15 +58510,19 @@ analytics-*.aasaam.com
 ||ntv.io^
 ||ojrq.net^
 ||proffering.xyz
+||rdfeweqowhd.com^
 ||rirteelraibsou.net
 ||rubiconproject.com^
 ||suppressedbottlesenjoyable.com
 ||tedious-weight.pro
 ||totaladblock.com^
 ||tracker-tds.info
+||tramordinaleradicate.com^
 ||trust.zone^
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
+||zergsmjy.com^
+||zvzmzrarkvqyb.top^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
