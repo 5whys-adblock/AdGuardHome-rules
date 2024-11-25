@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202411252102
+# Verison: 202411252341
 # Expires: around 1 day
-# Total number of rules = 130621
+# Total number of rules = 130642
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -58360,6 +58360,9 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||wcwkcus.top^
+||brulpha.com^
+||uweizat.top^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -58461,6 +58464,7 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||1xzf53lo.xyz^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
@@ -58468,25 +58472,33 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||benelph.de^
 ||buyeasy.by^
+||cepsidsoagloko.net^
 ||cusilbwq.xyz
+||dhootiepawed.com^
+||edstrastconversity.org^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
+||jbzmwqmqwowaz.top^
+||jrtonirogeayb.com^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
 ||ojrq.net^
+||potailvine.com^
 ||proffering.xyz
 ||rirteelraibsou.net
 ||rubiconproject.com^
+||sinterfumescomy.org^
 ||suppressedbottlesenjoyable.com
 ||tedious-weight.pro
 ||totaladblock.com^
 ||tracker-tds.info
 ||trust.zone^
 ||videoplaza.tv^
+||whishannuent.com^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
@@ -58506,6 +58518,7 @@ analytics-*.aasaam.com
 ||cas.*.criteo.com^
 ||jeeng-api-prod.azureedge.net
 ||srv.tunefindforfans.com^
+||d1gpi088t70qaf.cloudfront.net^
 ||a.aylix.xyz^
 ||a.cemir.site^
 ||a.debub.site^
@@ -91663,6 +91676,7 @@ analytics-*.aasaam.com
 ||*serror*.wo.com.cn^$dnstype=A|CNAME
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
+||dm-*.toutiao.com^
 ||gg*.miguvideo.com^
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
@@ -94473,6 +94487,7 @@ analytics-*.aasaam.com
 ||du.biqukan.com^
 ||read.wap.biqukan.com^
 ||sdk.birdeatsbug.com^
+||aa.birdgesdk.com^
 ||birdmedia.com^
 ||birthdaybelief.com^
 ||bis-dic15.com^
@@ -100621,6 +100636,7 @@ analytics-*.aasaam.com
 ||rmads.eu.msn.com^
 ||rmads.msn.com^
 ||c.msn.com.cn^
+||mssdk-bu.bytedance.com^
 ||mssheng.com^
 ||mstrlytcs.com^
 ||m.msuik.cn^
@@ -101528,6 +101544,7 @@ analytics-*.aasaam.com
 ||adim.pinduoduo.com^
 ||images.pinduoduo.com^
 ||t-dsp.pinduoduo.com^
+||dspsdk.pinduoduo.com^
 ||ping-admin.ru^
 ||pingdom.net^
 ||pinghenghr.com^
@@ -103327,6 +103344,7 @@ analytics-*.aasaam.com
 ||ic.snssdk.com^
 ||temai.snssdk.com^
 ||toutiao-frontier.snssdk.com^
+||gecko.snssdk.com^
 ||snta0034.com^
 ||sntzq.com^
 ||snxyf.com^
@@ -104028,6 +104046,7 @@ analytics-*.aasaam.com
 ||ip.taobao.com^
 ||acs.wapa.taobao.com^
 ||wcp.taobao.com^
+||gaode-jmacs.m.taobao.com^
 ||hz.pre.tbusergw.taobao.net^
 ||hz.tbusergw.taobao.net^
 ||taobaoad.com^
@@ -105117,6 +105136,8 @@ analytics-*.aasaam.com
 ||volatilerainstorm.com^
 ||volatilevessel.com^
 ||mssdk.volces.com^
+||apmplus.volces.com^
+||volctrack.com^
 ||volomedia.com^
 ||vols7feed.com^
 ||volument.com^
