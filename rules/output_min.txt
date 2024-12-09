@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202412091742
+# Verison: 202412092105
 # Expires: around 1 day
-# Total number of rules = 130157
+# Total number of rules = 130159
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -38511,6 +38511,7 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||snowplow-collector.
 ||logs-ingress.svc.vinted.com^
 ||analytics.baliusuperapp.xyz^
 ||log-va-us-looki.capcutapi.com^
@@ -38794,7 +38795,6 @@ inapps.appsflyersdk.com^
 ||adtracker.jpchd.veraxen.com^
 ||adtracker.oilpainting.colorbynumber.veraxen.com^
 ||stats.oilpainting.colorbynumber.veraxen.com^
-||snowplow-collector.apartmentlist.io^
 ||qa-events-schema.viacom.tech^
 ||dns-clientinfo.cbsivideo.com^
 ||trace.qq.com^
@@ -50317,6 +50317,7 @@ inapps.appsflyersdk.com^
 ||thunnqyo.com^
 ||wjimtye.top^
 ||2wt.icu^
+||phainoirs.com^
 ||attelaoe.com^
 ||dsoxgdjv.icu^
 ||3ts.icu^
@@ -110472,6 +110473,7 @@ nanoGDPR.min.js^
 ||metrics.beam.apache.org^
 ||matomo.privacy.apache.org^
 ||analytics.apaparvo.org^
+||snowplow-collector.apartmentlist.io^
 ||advertising.apartmenttherapy.com^
 ||plausible.apc.org^
 ||apdozzbkyasc.com^
