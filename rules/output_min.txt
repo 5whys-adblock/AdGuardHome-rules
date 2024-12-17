@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202412171741
+# Verison: 202412172104
 # Expires: around 1 day
-# Total number of rules = 130354
+# Total number of rules = 130355
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32860,6 +32860,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||nocodelytics.com^
 ||stat.fly.codes^
 ||events.engager.ecbsn.com^
 ||gw-dv.vip^
@@ -36298,6 +36299,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||telemetry.insights.video.a2z.com^
 ||w890.denvergazette.com^
 ||co932.coloradopolitics.com^
 ||d077.gazette.com^
@@ -39901,7 +39903,6 @@ inapps.appsflyersdk.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
 ||tracker.myyschool.xyz^
-||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
 ||tracker.prod.ams3.k8s.hyperia.sk^
 ||tracker.services.vaix.ai^
@@ -50606,6 +50607,7 @@ inapps.appsflyersdk.com^
 ||juutckrt.icu^
 ||qtimiyy.top^
 ||4jc.icu^
+||screspoy.com^
 ||qonbibff.icu^
 ||n7a.icu^
 ||craegvin.com^
@@ -109228,7 +109230,6 @@ nanoGDPR.min.js^
 ||advertising.a2z.com^
 ||corvidae.cloudtrail.aws.a2z.com^
 ||new-telemetry.insights.video.a2z.com^
-||telemetry.insights.video.a2z.com^
 ||analytics.a2zinc.net^
 ||a3cloud.net^
 ||a49f4feabf.com^
