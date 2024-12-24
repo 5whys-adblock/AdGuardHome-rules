@@ -1,5 +1,5 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202412250244
+# Verison: 202412250534
 # Expires: around 1 day
 # Total number of rules = 127889
 # Below are the links of the adblock rules
@@ -57685,6 +57685,7 @@ analytics-*.aasaam.com
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||monitor.azure.com^
+||statsig.anthropic.com^
 ||tag.aticdn.net^
 ||tracker.twenga.
 ||tracking.magnetmail.net^
@@ -109417,7 +109418,6 @@ nanoGDPR.min.js^
 ||antdomeneuch.click^
 ||matomo.antee.cz^
 ||antennasync.me^
-||statsig.anthropic.com^
 ||antipaucity.com^
 ||antispyware.com^
 ||antispywareexpert.com^
