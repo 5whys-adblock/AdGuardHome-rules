@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202412262337
+# Verison: 202412270244
 # Expires: around 1 day
-# Total number of rules = 127958
+# Total number of rules = 127982
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32510,6 +32510,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sentinelbi.com^
 ||ascendeummedia.com^
 ||agma-analytics.de^
 ||cdn-gw-dv.vip^
@@ -32654,7 +32655,6 @@ vkcdnservice.appspot.com^
 ||pbcs.decider.com^
 ||pbcs.pagesix.com^
 ||tagtoo.co^
-||sentinelbi.com^
 ||count.sibbo.net^
 ||umami.is^
 ||mainting-minues.xyz^
@@ -35948,6 +35948,12 @@ vkcdnservice.appspot.com^
 ||trekkww.space^
 ||trekkeeee.space^
 ||trekkww.fun^
+.stape.net
+|load.gtm.
+|load.sgtm.
+|load.ss.
+|load.sst.
+||thegreatesthits.
 ||e.truedata.co^
 ||webtrekk.com^
 ||webtrekk-asia.net^
@@ -35956,10 +35962,11 @@ vkcdnservice.appspot.com^
 ||webtrekk.net^
 ||wizaly.com^
 ||d1udjti6mtxz9q.cloudfront.net^
-.stape.net
 ||tagman.britishairways.com^
 |piwik.
+||syndication.twitter.com^
 ||gtm.temu.com^
+.prod.pr.analytics.console.aws.a2z.com
 ||log.shortbread.aws.dev^
 ||minerva.devices.a2z.com^
 ||s.pie.org^
@@ -38414,6 +38421,7 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||events.watchtower.imdbtv.amazon.dev^
 ||sf16-static.i18n-pglstatp.com^
 ||log.pullcenter.live^
 ||log.documentmanagerpdfdocxlssale.live^
@@ -46110,6 +46118,7 @@ inapps.appsflyersdk.com^
 ||chinhphu.cc^
 ||chinhphu.dulieucutru.org^
 ||chinhphu.hodancu.com^
+||chinhphu.kbshkdt.org^
 ||chovayfecredit.com^
 ||chovaynhanh.online^
 ||chovaytiengopsg.com^
@@ -47987,6 +47996,7 @@ inapps.appsflyersdk.com^
 ||proapkcrack.com^
 ||procfullcracked.com^
 ||procrackfree.com^
+||profileid.info^
 ||prolicensekeys.com^
 ||promomobilsuzukijakarta.com^
 ||provider.giize.com^
@@ -50277,6 +50287,8 @@ inapps.appsflyersdk.com^
 ||zaeqrath.com^
 ||qovunx.com^
 ||lurefq.com^
+||5ik.icu^
+||lwilmil.top^
 ||vriesziy.com^
 ||rwdjrn.icu^
 ||twilmii.top^
@@ -50530,7 +50542,6 @@ inapps.appsflyersdk.com^
 ||sirrors.com^
 ||uldaens.com^
 ||qidzwhfp.icu^
-||aizhantj.com^
 ||g41i.icu^
 ||tweizai.top^
 ||wcwkcus.top^
@@ -56843,8 +56854,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||5ik.icu^
-||lwilmil.top^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -91947,6 +91956,7 @@ analytics-*.aasaam.com
 ||e.aiyyu.com^
 ||m.aiyyu.com^
 ||fpbb.aizhan.com^
+||aizhantj.com^
 ||ajapk.com^
 ||ajaralarm.com^
 ||ajcryptominer.com^
@@ -103325,7 +103335,6 @@ analytics-*.aasaam.com
 ||twh5.com^
 ||twistloss.com^
 ||twistsweater.com^
-||syndication.twitter.com^
 ||p.twitter.com^
 ||scribe.twitter.com^
 ||syndication-o.twitter.com^
@@ -107341,6 +107350,7 @@ nanoGDPR.min.js^
 ||0865a125ce.com^
 ||087tqb.cn^
 ||08916fb8f8.com^
+||190237bdf8.08a62d358c.com^
 ||0909810.com^
 ||0b57ha4k4zrd.top^
 ||0catch.com^
@@ -107769,7 +107779,9 @@ nanoGDPR.min.js^
 ||ad-configurator.6cloud.fr^
 ||ad-interceptor.6cloud.fr^
 ||6cyfvvs.com^
+||ba31f372b1.6d0ce9a973.com^
 ||6d3f3332fd.com^
+||1ff819101c.6e56e159be.com^
 ||6e76e4803d.com^
 ||6ea337b8a4.com^
 ||6fe1e5ccc3.com^
@@ -108890,6 +108902,7 @@ nanoGDPR.min.js^
 ||analytics.allthings.how^
 ||analytics.allunite.com^
 ||sstats.allure.com^
+||s.allureanews.com^
 ||allwords.com^
 ||cdn.almamedia.tech^
 ||cmp-events.almamedia.tech^
@@ -109489,6 +109502,7 @@ nanoGDPR.min.js^
 ||aiqx.anyonebutyou.movie^
 ||cdn.anyshare.icu^
 ||anytag.jp^
+||graylog.anytype.io^
 ||telemetry.anytype.io^
 ||anyunwl04.com^
 ||analytics.ao.gl^
@@ -113164,6 +113178,7 @@ nanoGDPR.min.js^
 ||td.cosmopolitan.com^
 ||matomo.cosmosmagazine.com^
 ||cossette.com^
+||costco-rewardsaccount1.com^
 ||costwinner.com^
 ||metrics.cottonbird.fr^
 ||analytics.coub.com^
@@ -113251,6 +113266,7 @@ nanoGDPR.min.js^
 ||metrics.testnet-data083oregon.cream.finance^
 ||umami.creanet.sk^
 ||metrics.creatify.ai^
+||webtracking-v01.creatio.com^
 ||creative-mobile.com^
 ||creativecarrer.com^
 ||analytics.creativecircle.com^
@@ -113353,7 +113369,6 @@ nanoGDPR.min.js^
 ||ctaz.com^
 ||analytics.ctbuh.org^
 ||analytics.cteis.com^
-||ctkjiysyepxwrv.xyz^
 ||ctnetwork.hu^
 ||gemtun.ctnewsjunkie.com^
 ||ctoid.net^
@@ -114208,6 +114223,8 @@ nanoGDPR.min.js^
 ||matomo.ds-ultimate.de^
 ||s.ds0yue.com^
 ||s.ds239w.com^
+||s.ds2gs4.com^
+||s.ds3jbr.com^
 ||telemetry.r1.dscore.com^
 ||analytics.dscpl.io^
 ||dsdklnks.com^
@@ -114279,6 +114296,7 @@ nanoGDPR.min.js^
 ||analytics.dynasort.io^
 ||a.dynatrace.com^
 ||bf.dynatrace.com^
+||t.dynatrace.com^
 ||dynip.org^
 ||analytics.covesmart.dynoanalytics.xyz^
 ||metric.dyson.cn^
@@ -117902,7 +117920,6 @@ nanoGDPR.min.js^
 ||jibqbfftwup.xyz^
 ||jiglikeshilla.com^
 ||jigsrywu.com^
-||jihylmjrlrrufr.com^
 ||jikungudubber.live^
 ||country.jimdo.com^
 ||smetrics.jimmobile.be^
@@ -118038,6 +118055,7 @@ nanoGDPR.min.js^
 ||metrics-twoplayers.junglefrog.com^
 ||jungroup.com^
 ||analytics.junkcleaner.club^
+||click-v4.junmediadclikrmdi.com^
 ||xml.junplatdirect.com^
 ||matomo.juraforum.de^
 ||analytics.stj.jus.br^
@@ -120635,6 +120653,7 @@ nanoGDPR.min.js^
 ||tq.ngcluster-a.online^
 ||xml-eu-v4.ngcluster-a.online^
 ||xml-v4.ngcluster-a.online^
+||xml-v4.ngcluster-c.site^
 ||ngcouncern.xyz^
 ||ngex.com^
 ||tcp.ngrok.io^
@@ -121193,6 +121212,7 @@ nanoGDPR.min.js^
 ||oplytic.com^
 ||opntwymri.com^
 ||gtrack.opossumsauce.com^
+||cpm.oppa.media^
 ||opparasecton.com^
 ||imagzine.oppomobile.com^
 ||oppoteammate.com^
@@ -121474,6 +121494,7 @@ nanoGDPR.min.js^
 ||pahtvs.tech^
 ||pahtzc.tech^
 ||analytics.paigo.com^
+||painolympics.org^
 ||paintnet.es^
 ||paintnet.fr^
 ||promote.pair.com^
@@ -121945,6 +121966,7 @@ nanoGDPR.min.js^
 ||pop6.com^
 ||popblockergold.info^
 ||filter.pops.gg^
+||login.pops.gg^
 ||xml.pops.gg^
 ||xml-v4.pops.gg^
 ||analytics.back.popsicle.finance^
@@ -125726,6 +125748,7 @@ nanoGDPR.min.js^
 ||ht.tube8.com^
 ||tuberis.com^
 ||b1.tubexo.tv^
+||tubgirl.org^
 ||ads.production-public.tubi.io^
 ||ads4.production-public.tubi.io^
 ||pixel.production-public.tubi.io^
@@ -127919,6 +127942,7 @@ nanoGDPR.min.js^
 ||zzotrack.com^
 ||zztxr.cn^
 ||zzux.com^
+||zzzperform.com^
 ||globe-pus.foxitservice.com
 @@||cuhk.au1.qualtrics.com^
 @@||piwik.proxmox.com
