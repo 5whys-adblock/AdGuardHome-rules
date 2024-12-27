@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202412272336
+# Verison: 202412280244
 # Expires: around 1 day
-# Total number of rules = 128004
+# Total number of rules = 128008
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,8 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||loftersvisaya.com^
+||chimneydicier.com^
 ||gsrgjsmymkwt.com^
 ||zeecajichaiw.net^
 ||server.megabrain.co^
@@ -1459,6 +1461,7 @@ vkcdnservice.appspot.com^
 ||291hkcido.de^
 ||295a9f642d.com^
 ||2989f3f0ff.com^
+||29a7397be5.com^
 ||29apfjmg2.de^
 ||29b124c44a.com^
 ||29s55bf2.de^
@@ -1741,6 +1744,7 @@ vkcdnservice.appspot.com^
 ||5ea36e0eb5.com^
 ||5ed55e7208.com^
 ||5eef1ed9ac.com^
+||5f631bb110.com^
 ||5f6dmzflgqso.com^
 ||5f6efdfc05.com^
 ||5f93004b68.com^
@@ -1996,6 +2000,7 @@ vkcdnservice.appspot.com^
 ||a5jogo.biz^
 ||a5jogo.club^
 ||a64x.com^
+||a67c5c438d.com^
 ||a6dc99d1a8.com^
 ||a700fb9c8d.com^
 ||a717b6d31e.com^
@@ -5305,6 +5310,7 @@ vkcdnservice.appspot.com^
 ||bonyspecialist.pro^
 ||bonzai.ad^
 ||boodaisi.xyz^
+||boodiecawquaw.top^
 ||boogopee.com^
 ||bookadil.com^
 ||bookbannershop.com^
@@ -9374,6 +9380,7 @@ vkcdnservice.appspot.com^
 ||embogsoarers.com^
 ||embowerdatto.com^
 ||embracetrace.com^
+||embrawnseeping.top^
 ||embtrk.com^
 ||embwmpt.com^
 ||emediate.dk^
@@ -12114,6 +12121,7 @@ vkcdnservice.appspot.com^
 ||hadtwobr.info^
 ||hadute.xyz^
 ||haffnetworkmm.com^
+||hafhwagagswy.com^
 ||hafonmadp.com^
 ||hagdenlupulic.top^
 ||hagdispleased.com^
@@ -20012,6 +20020,7 @@ vkcdnservice.appspot.com^
 ||principledecliner.info^
 ||principlessilas.com^
 ||pringed.space^
+||prinkergp.top^
 ||prinksdammit.com^
 ||printaugment.com^
 ||printerswear.com^
@@ -25880,6 +25889,7 @@ vkcdnservice.appspot.com^
 ||uads.guru^
 ||uads.space^
 ||uafkcvpvvelp.com^
+||uahosnnx.com^
 ||uaiqkjkw.com^
 ||uavbgdw.com^
 ||uawvmni.com^
@@ -32510,6 +32520,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||untho.de^
 ||k-words.io^
 ||tlmtr.org^
 ||sentinelbi.com^
@@ -35966,7 +35977,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
-||syndication.twitter.com^
+||telemetry.dzen.ru^
 ||gtm.temu.com^
 .prod.pr.analytics.console.aws.a2z.com
 ||log.shortbread.aws.dev^
@@ -50289,6 +50300,7 @@ inapps.appsflyersdk.com^
 ||bwilmiv.top^
 ||gmso12271oka.top^
 ||screddoit.com^
+||n8u.icu^
 ||pzzedx.icu^
 ||owilmik.top^
 ||jy7.icu^
@@ -56864,7 +56876,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||n8u.icu^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -56959,34 +56970,26 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
-||29a7397be5.com^
-||5f631bb110.com^
-||a67c5c438d.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
-||boodiecawquaw.top^
 ||buyeasy.by^
-||embrawnseeping.top^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
-||hafhwagagswy.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
 ||ojrq.net^
-||prinkergp.top^
 ||rubiconproject.com^
 ||suppressedbottlesenjoyable.com
 ||totaladblock.com^
 ||trust.zone^
-||uahosnnx.com^
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
@@ -103357,6 +103360,7 @@ analytics-*.aasaam.com
 ||twh5.com^
 ||twistloss.com^
 ||twistsweater.com^
+||syndication.twitter.com^
 ||p.twitter.com^
 ||scribe.twitter.com^
 ||syndication-o.twitter.com^
@@ -107987,6 +107991,7 @@ nanoGDPR.min.js^
 ||abc-du-gratuit.com^
 ||abcdlm.com^
 ||abcdserver.com^
+||abdicatefluke.com^
 ||abducke.com^
 ||data.abebooks.com^
 ||metrics.abebooks.com^
@@ -108057,6 +108062,7 @@ nanoGDPR.min.js^
 ||accountlyllc.com^
 ||analytics.accountscore.net^
 ||analytics.api.accredible.com^
+||accreteprocess.click^
 ||metrics.accumulatenetwork.io^
 ||analytics.accuristech.com^
 ||spotlight.accuweather.com^
@@ -108200,6 +108206,7 @@ nanoGDPR.min.js^
 ||s10.adduplex.com^
 ||sw.adduplex.com^
 ||swu-x.adduplex.com^
+||c196c337d9.ade6b8430d.com^
 ||adeimptrck.com^
 ||matomo.adelphi.de^
 ||adelva.com^
@@ -108510,6 +108517,7 @@ nanoGDPR.min.js^
 ||adverum.lt^
 ||sgtm.advgo.net^
 ||adit.spain.advgo.net^
+||adviceforemost.com^
 ||advidates.com^
 ||advincent.com^
 ||advisa.se^
@@ -109673,6 +109681,7 @@ nanoGDPR.min.js^
 ||appular.com^
 ||appvirality.com^
 ||analytics.appypie.com^
+||apritifka.click^
 ||apserver.net^
 ||analytics.apsva.us^
 ||kunde.apt.no^
@@ -109749,6 +109758,7 @@ nanoGDPR.min.js^
 ||matomo.arkane.com^
 ||metrics.arla.com^
 ||smetrics.arm.com^
+||armataangrily.shop^
 ||armoniacenter.com^
 ||armsart.com^
 ||analytics.armus.com^
@@ -110034,7 +110044,6 @@ nanoGDPR.min.js^
 ||clarity.awakeheart.net^
 ||away.com^
 ||analytics.awayx.com^
-||aweyqalyrejb.top^
 ||awgutqp.cc^
 ||awkwardemergency.com^
 ||awmads.com^
@@ -111366,6 +111375,7 @@ nanoGDPR.min.js^
 ||collect.calvinklein.de^
 ||cam4.fr^
 ||metrics.cambly.com^
+||cambrelfasc.shop^
 ||coreads.cambridge.org^
 ||appres.camera360.com^
 ||pushmsg.camera360.com^
@@ -111742,7 +111752,6 @@ nanoGDPR.min.js^
 ||chirrupabedge.shop^
 ||analytics.chita.ru^
 ||analytics.chitti.app^
-||chixingkeji.com^
 ||chl3.net^
 ||chocochipu-o.com^
 ||chocolateplatform.com^
@@ -112074,7 +112083,6 @@ nanoGDPR.min.js^
 ||d262g11wze3cwd.cloudfront.net^
 ||d26tbbq8zqdi4v.cloudfront.net^
 ||d26us1doo6mh7f.cloudfront.net^
-||d26wyypk7oodc5.cloudfront.net^
 ||d27uz827y1nafd.cloudfront.net^
 ||d28nwox1gdjlve.cloudfront.net^
 ||d28wlxclbkz49x.cloudfront.net^
@@ -112200,7 +112208,6 @@ nanoGDPR.min.js^
 ||doug1izaerwt3.cloudfront.net^
 ||dp58aslhmbcib.cloudfront.net^
 ||dpb3g4kqr8xz.cloudfront.net^
-||ds2wxzeakypy9.cloudfront.net^
 ||ds6br8f5qp1u2.cloudfront.net^
 ||dsms0mj1bbhn4.cloudfront.net^
 ||dtym7iokkjlif.cloudfront.net^
@@ -112250,6 +112257,7 @@ nanoGDPR.min.js^
 ||club-gagnant.online^
 ||tracker.club-os.com^
 ||club2.shop^
+||cluesdumpy.shop^
 ||clumoutpomp.click^
 ||www2.clustrmaps.com^
 ||www3.clustrmaps.com^
@@ -113402,6 +113410,7 @@ nanoGDPR.min.js^
 ||analytics.ctrlprint.net^
 ||convert.ctypy.com^
 ||stats.cubava.cu^
+||cubcogons.click^
 ||analytics.cube-cloud.com^
 ||cubectivel.com^
 ||cubics.com^
@@ -114322,7 +114331,6 @@ nanoGDPR.min.js^
 ||dynip.org^
 ||analytics.covesmart.dynoanalytics.xyz^
 ||metric.dyson.cn^
-||telemetry.dzen.ru^
 ||widgets.dzone.com^
 ||dzuvuwtceoxf.com^
 ||e-bannerx.com^
@@ -114857,7 +114865,6 @@ nanoGDPR.min.js^
 ||eubnm.com^
 ||log.eufylife.com^
 ||eugamblers.org^
-||eugeniekleig.com^
 ||euitx.cn^
 ||eulerian.com^
 ||piwik.euregio-im-bild.de^
@@ -115010,7 +115017,6 @@ nanoGDPR.min.js^
 ||exypnes-idees.gr^
 ||exyzz.pl^
 ||ey7ov.com^
-||eybstar.com^
 ||eye-watch.in^
 ||eyeblaster.com^
 ||eyenewton.ru^
@@ -115496,6 +115502,7 @@ nanoGDPR.min.js^
 ||metric.foundationmedicine.com^
 ||foundinggulfsaturate.com^
 ||ma.fountasandpinnell.com^
+||fourgonhuss.shop^
 ||analytics.fourkites.com^
 ||fourlaile.com^
 ||analytics.na1.fourth.com^
@@ -117104,7 +117111,6 @@ nanoGDPR.min.js^
 ||analytics.hpn.com^
 ||plausible.hptronic.cz^
 ||hpvwdkn.cn^
-||hq3x.com^
 ||hr44.com^
 ||analytics.hrblock.com^
 ||clarity.hrblock.com^
@@ -118034,7 +118040,6 @@ nanoGDPR.min.js^
 ||ele26126.jscrambler.com^
 ||jsdelivr.at^
 ||jsinfo.net^
-||jslaymxlwb.com^
 ||jst.ai^
 ||publyads.jstag.space^
 ||jstatic201.com^
@@ -118117,7 +118122,6 @@ nanoGDPR.min.js^
 ||ka73-urara.club^
 ||ads.kabooaffiliates.com^
 ||kabooo.net^
-||kabrwrynbmwal.top^
 ||telemetry.kadatec.cz^
 ||analytics.kadena.network^
 ||tracking.kadewe.de^
@@ -118410,7 +118414,6 @@ nanoGDPR.min.js^
 ||krushmedia.com^
 ||kryptoslogic-cve-2021-44228.com^
 ||wlog.ksapisrv.com^
-||kscly.com^
 ||ksibradio.com^
 ||apkquery.ksmobile.net^
 ||ksotdcm.cc^
@@ -121622,7 +121625,6 @@ nanoGDPR.min.js^
 ||metrics.payfit.com^
 ||payglad.com^
 ||paymentree.ca^
-||payoneok.com^
 ||paypa1.com^
 ||paypa1.net^
 ||paypa1.org^
@@ -123725,6 +123727,7 @@ nanoGDPR.min.js^
 ||sichtbarkeitsindex.de^
 ||analytics.sieda.com^
 ||analytics.sieuviet.services^
+||sievabaobab.click^
 ||analytics.sievo.com^
 ||sifjfirunmi.com^
 ||sift.co^
@@ -125269,6 +125272,7 @@ nanoGDPR.min.js^
 ||analytics.timetrade.com^
 ||timetunnel.net^
 ||matomo.fra3.timi.cz^
+||timonom.com^
 ||analytics.tinggly.com^
 ||matomo.tink.de^
 ||tinka.ru^
