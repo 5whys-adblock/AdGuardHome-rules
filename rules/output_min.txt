@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202412301737
+# Verison: 202412302059
 # Expires: around 1 day
-# Total number of rules = 127780
+# Total number of rules = 127782
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,7 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||expensivefire.com^
 ||hellerraucous.top^
 ||pm.chetahtalc.com^
 ||jhu8u9.pro^
@@ -31789,6 +31790,7 @@ vkcdnservice.appspot.com^
 ||steamtraffic.com^
 ||streamateaccess.com^
 ||stripsaver.com^
+||sultrytraffic.com^
 ||supuv3.com^
 ||sv2.biz^
 ||sweetmedia.org^
@@ -36022,6 +36024,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||smetrics.kawai-juku.ac.jp^
 ||stat.pravdafrance.com^
 ||telemetry.dzen.ru^
 ||gtm.temu.com^
@@ -67043,7 +67046,6 @@ analytics-*.aasaam.com
 ||smetrics.karcher.com^
 ||smetrics.karcher.cz^
 ||smetrics.kate-global.net^
-||smetrics.kawai-juku.ac.jp^
 ||smetrics.kay.com^
 ||smetrics.kayosports.com.au^
 ||smetrics.kayoutlet.com^
