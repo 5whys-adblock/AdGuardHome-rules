@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501072102
+# Verison: 202501080018
 # Expires: around 1 day
-# Total number of rules = 129823
+# Total number of rules = 129855
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -56771,6 +56771,8 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||43a.icu^
+||sckfcn.cn^
+||edyurliw.top^
 ||bdad.123pan.cn^
 -ad-300x600-
 -ad-458x80.
@@ -56865,29 +56867,65 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||a8e8c59504.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||ashasvsucoce.com^
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
+||bitdragonapp.monster^
 ||buyeasy.by^
+||dcjrdjwf.com^
+||deditiontowritin.com^
+||didspack.com^
+||doorboyouthear.com^
+||dqqlwldixzxx.com^
+||dzfilkmol.com^
+||edcvsfr.org^
+||fatalespedlery.com^
+||fuzzyvisuals.com^
 ||gbpkmltxpcsj.xyz
+||germyrefeign.com^
 ||get-me-wow.
+||goloeaorist.com^
 ||googletagservices.com^
+||graushauls.xyz^
 ||hvkwmvpxvjo.xyz
+||igloaptopto.net^
+||ignoresfahlerz.com^
 ||imasdk.googleapis.com^
+||jokersguaiac.shop^
 ||kqzyfj.com^
 ||loadercdn.com^
+||lobatehellion.top^
+||lofvmrnpbxqbh.com^
+||loketsaucy.com^
 ||ntv.io^
+||objectsrented.com^
+||ocbnihhu.com^
 ||ojrq.net^
+||quinchdeepish.top^
+||rochestertrend.com^
 ||rubiconproject.com^
+||sioningvexer.com^
 ||suppressedbottlesenjoyable.com
+||swamperhyphens.shop^
+||tgcnyxew.com^
+||toitoidotkin.shop^
 ||totaladblock.com^
+||trikerbefleck.com^
 ||trust.zone^
+||uncotorture.com^
+||undockerinize.com^
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
+||yaworcein.com^
+||yoickscaper.shop^
+||05454674.xyz^
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
+||79893962.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -106750,6 +106788,7 @@ nanoGDPR.min.js^
 ||cdn.realpeoplemedia.co.uk^
 ||zbb.bbb.*.pics^
 ||fjuga.top
+||abc.ruodian360.com^
 ||ad*.on.cc^
 ||unpkg.com^$badfilter
 -1316632262.cos.
@@ -107185,7 +107224,6 @@ nanoGDPR.min.js^
 ||04697a0ddea24c610de68229dadbc4390c37813647c2827bbc1f9041.com^
 ||047e541483.com^
 ||04tips.com^
-||05454674.xyz^
 ||07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com^
 ||0865a125ce.com^
 ||087tqb.cn^
@@ -107700,7 +107738,6 @@ nanoGDPR.min.js^
 ||77bf977ba9.com^
 ||787787.com^
 ||79383a549a.com^
-||79893962.xyz^
 ||alishop.79s.ru^
 ||7a2cb45927.com^
 ||7a8490057c.com^
@@ -114379,7 +114416,6 @@ nanoGDPR.min.js^
 ||doodlerrebuked.shop^
 ||dooonut-pf.com^
 ||moeruhtaiken.doorblog.jp^
-||doorboyouthear.com^
 ||metric.0riment1jenkins.doorcrawl.com^
 ||analytics.doordash.com^
 ||doorsstormsy.shop^
@@ -115515,7 +115551,6 @@ nanoGDPR.min.js^
 ||fastnetworkflow.com^
 ||i20.fastpic.ru^
 ||i23.fastpic.ru^
-||fatalespedlery.com^
 ||analytics2.fatmedia.io^
 ||fauracia.biz^
 ||favicon.com^
@@ -124222,7 +124257,6 @@ nanoGDPR.min.js^
 ||rads.robox.agency^
 ||roccads.de^
 ||telemetry.secure.roche.com^
-||rochestertrend.com^
 ||rockabox.co^
 ||analytics.svc.rockbitegames.com^
 ||analytics.rockcontent.com^
@@ -126038,7 +126072,6 @@ nanoGDPR.min.js^
 ||apse-cr.svr-algorix.com^
 ||use-cr.svr-algorix.com^
 ||plausible.svvsdtemp.org^
-||swamperhyphens.shop^
 ||swanksoft.com^
 ||matomo.swapcard.com^
 ||swashapp.io^
@@ -127534,7 +127567,6 @@ nanoGDPR.min.js^
 ||undertonevideo.com^
 ||rtk.undetectable.ai^
 ||undo.it^
-||undockerinize.com^
 ||analytics.undrads.com^
 ||track.unear.net^
 ||unetbootin.org^
