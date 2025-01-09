@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501092340
+# Verison: 202501100248
 # Expires: around 1 day
-# Total number of rules = 129082
+# Total number of rules = 129086
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,7 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||uz-kqtecqs.space^
 ||mqprzapns.com^
 ||dzeaqmeuaql.com^
 ||bjjky.cfd^
@@ -32754,6 +32755,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||volces.com^
 ||twitter.sx^
 ||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
@@ -38683,6 +38685,13 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||nstool.netease.com^
+||data.kuiniuca.com^
+||clientlogsf.music.163.com^
+||ye.dun.163yun.com^
+||netapm.music.163.com^
+||clientlogdep.music.163.com^
+||clientlog3.music.163.com^
 ||collect.4gtv.tv^
 ||uaid.vtwenty.com^
 ||telemetry.codefusion.technology^
@@ -43193,6 +43202,7 @@ inapps.appsflyersdk.com^
 ||caraneoutraze.uno^
 ||adserve.lasentinelle.mu^
 ||adserver.icimedias.ca^
+||sb-hip-happy.ourservice.jp^
 ||carrier202205.tokyo^
 ||axesslove.mixh.jp^
 ||kaomanko.axesslove.com^
@@ -56894,7 +56904,6 @@ analytics-*.aasaam.com
 .lazyload-ad-
 .lazyload-ad.
 .nativeads.
-.popunder.js
 ://a.ads.
 ://ad-api-
 ://ad1.
@@ -56957,6 +56966,7 @@ analytics-*.aasaam.com
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
+||biwipuque.com^
 ||buyeasy.by^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
@@ -90490,11 +90500,9 @@ analytics-*.aasaam.com
 ||yaolu.mh.163.com^
 ||yaolu.yuedu.163.com^
 ||httpdns.music.163.com^
-||netapm.music.163.com^
 ||qipt.1632j6.cn^
 ||163ren.com^
 ||ac.dun.163yun.com^
-||ye.dun.163yun.com^
 ||166br.com^
 ||166f.com^
 ||1680660.com^
@@ -103157,8 +103165,6 @@ analytics-*.aasaam.com
 ||volatileprofit.com^
 ||volatilerainstorm.com^
 ||volatilevessel.com^
-||mssdk.volces.com^
-||apmplus.volces.com^
 ||volctrack.com^
 ||volomedia.com^
 ||vols7feed.com^
@@ -106045,7 +106051,6 @@ analytics-*.aasaam.com
 ||ad-cache.dopool.com^
 ||ad.molitv.cn^
 ||adlog.molitv.cn^
-||clientlog3.music.163.com^
 ||ad.us.sinaimg.cn^
 ||sax.sina.com.cn^
 ||xn--xhq9mt12cf5v.website^
@@ -127018,7 +127023,6 @@ nanoGDPR.min.js^
 ||uydzfldt.xyz^
 ||uyulwc.xyz^
 ||uyybde07w.com^
-||uz-kqtecqs.space^
 ||analytics.uzeli.com^
 ||webstats.uzh.ch^
 ||uzzf.com^
