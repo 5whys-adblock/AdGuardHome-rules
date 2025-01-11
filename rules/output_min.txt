@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501111003
+# Verison: 202501111144
 # Expires: around 1 day
-# Total number of rules = 129272
+# Total number of rules = 129280
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -56966,7 +56966,6 @@ analytics-*.aasaam.com
 ://oascentral.
 -dfp-prebid-
 .prebid-bundle.
--detect-adblock.
 -120-600.
 -120x600-
 -120x600.
@@ -57011,6 +57010,7 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||abbateerupted.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
@@ -57018,6 +57018,8 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||benelph.de^
 ||buyeasy.by^
+||dagassapereion.com^
+||flaxdescale.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
@@ -57027,11 +57029,17 @@ analytics-*.aasaam.com
 ||loadercdn.com^
 ||ntv.io^
 ||ojrq.net^
+||osminaclumber.com^
+||proleclips.com^
 ||rubiconproject.com^
 ||suppressedbottlesenjoyable.com
+||tectureclod.top^
+||teewhilemath.net^
 ||totaladblock.com^
+||tougaipteehuboo.xyz^
 ||trust.zone^
 ||videoplaza.tv^
+||wevechinse.com^
 ||wpnrtnmrewunrtok.xyz^
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
 /(https?:\/\/)104\.154\..{100,}/
