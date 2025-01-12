@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501122336
+# Verison: 202501130244
 # Expires: around 1 day
-# Total number of rules = 129546
+# Total number of rules = 129547
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32815,6 +32815,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||actiontracking.jp^
 ||mantis-intelligence.com^
 ||stream.datago.ru^
 ||pabidding.io^
@@ -39437,6 +39438,7 @@ inapps.appsflyersdk.com^
 ||botdetection.hbrsd.com^
 ||browser.pipe.aria.microsoft.com^
 ||bs.yandex.ru^
+||c.albss.com^
 ||c.amazinglybrilliant.com.au^
 ||c.bazo.io^
 ||c.live.com^
@@ -50667,6 +50669,8 @@ inapps.appsflyersdk.com^
 ||eisnaisv.com^
 ||puhmtt.icu^
 ||cdomsif.top^
+||ok5.fun^
+||drauvea.com^
 ||riscats.com^
 ||jebrhb.icu^
 ||bc4.fun^
@@ -56962,8 +56966,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||ok5.fun^
-||drauvea.com^
 ||bdad.123pan.cn^
 -ad-458x80.
 -ad-sidebar.
@@ -57820,7 +57822,6 @@ analytics-*.aasaam.com
 ||pushmaster-cdn.xyz^
 ||urbanairship.com^
 ||bc.geocities.
-||c.albss.com^
 ||csi.gstatic.com^
 ||firebaselogging-pa.googleapis.com^
 ||g.msn.com^
