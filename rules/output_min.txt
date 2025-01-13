@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501132103
+# Verison: 202501132342
 # Expires: around 1 day
-# Total number of rules = 129396
+# Total number of rules = 129410
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -782,6 +782,7 @@
 ||newbluetrue.xyz^
 ||onemediawork.com^
 ||d162h6x3rxav67.cloudfront.net^
+||sponsors.salesforceben.com^
 ||ads.cloudsight.ai^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||openx.tiesraides.lv^
@@ -55665,6 +55666,7 @@ analytics-*.aasaam.com
 @@||acs-m.daraz.com.bd^|
 @@||f-gear.ec-optimizer.com^|
 @@||hidive.com^|
+@@||learn.khanacademy.org^|
 @@||res.ads.nicovideo.jp^|
 @@||sax.sina.com.cn^|
 @@||linka.page^|
@@ -57011,6 +57013,9 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||e7h.fun^
+||jdomsia.top^
+||ixbua.xyz^
 ||bdad.123pan.cn^
 -ad-458x80.
 -ad-sidebar.
@@ -57094,29 +57099,39 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||a3b2c775eb.com^
+||ad4905c1db.com^
 ||adswizz.com^
+||advancedadblocker.pro^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
 ||buyeasy.by^
+||cfqfnpbjy.com^
+||dbyulufecdvsgr.com^
+||e3202e1cad.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
+||larnox.info^
 ||loadercdn.com^
 ||ntv.io^
 ||ojrq.net^
+||onkodjwuq.com^
 ||rubiconproject.com^
 ||suppressedbottlesenjoyable.com
 ||totaladblock.com^
 ||trust.zone^
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
+||10288299.xyz^
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
+||bdec1f37.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -124037,7 +124052,6 @@ nanoGDPR.min.js^
 ||track.salesflare.com^
 ||analytics.commercecloud.salesforce.com^
 ||na2.salesforce.com^
-||sponsors.salesforceben.com^
 ||analytics.la1-c1-frf.salesforceliveagent.com^
 ||analytics.la1-c2-iad.salesforceliveagent.com^
 ||analytics.la1-c2-ord.salesforceliveagent.com^
