@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501152339
+# Verison: 202501160245
 # Expires: around 1 day
-# Total number of rules = 129070
+# Total number of rules = 129073
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32921,6 +32921,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||log-auth.zztfly.com^
 ||adsave.co^
 ||analytics.bitchute.com^
 ||actiontracking.jp^
@@ -36389,6 +36390,8 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||s.c-ctrip.com^
+||ma-adx.ctrip.com^
 ||logs.mezmo.com^
 ||acr-*-prd.samsungcloud.tv^
 ||publictelemetry.tophat.com^
@@ -38859,6 +38862,8 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
 ||nstool.netease.com^
 ||data.kuiniuca.com^
 ||clientlogsf.music.163.com^
@@ -50793,6 +50798,7 @@ inapps.appsflyersdk.com^
 ||btcili.top^
 ||04o.fun^
 ||nagvaxvy.com^
+||epxlt.xyz^
 ||lazzrv.icu^
 ||geinkroll.com^
 ||wusfa.xyz^
@@ -57121,7 +57127,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||epxlt.xyz^
 ||bdad.123pan.cn^
 -ad-458x80.
 -ad-sidebar.
@@ -94211,7 +94216,6 @@ analytics-*.aasaam.com
 ||cten10010.com^
 ||mydisplay.ctfile.com^
 ||ctobsnssdk.com^
-||ma-adx.ctrip.com^
 ||u.ctrip.com^
 ||ctripcorp.com^
 ||ctrmi.com^
@@ -110904,7 +110908,6 @@ nanoGDPR.min.js^
 ||piwik.bzga.de^
 ||c-al-e1nder.com^
 ||piwik.c-all.eu^
-||s.c-ctrip.com^
 ||api.c-launcher.com^
 ||d.c-launcher.com^
 ||matomo.ehg.c-w.de^
