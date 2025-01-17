@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501172059
+# Verison: 202501172338
 # Expires: around 1 day
-# Total number of rules = 129296
+# Total number of rules = 129287
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -57194,20 +57194,12 @@ analytics-*.aasaam.com
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
 ||bdad.123pan.cn^
--ad-458x80.
--ad-sidebar.
 -ad-util.
--ads-banner.
 -ads-bottom.
 -footerads.
--PcmModule-Taboola-
--popexit.
 -right-ad.
 -sponsor-ad.
--Web-Advert.
-.ads-lazy.
 .ads.controller.
-.clkads.
 ://a.ads.
 ://ad-api-
 ://ad1.
@@ -57217,7 +57209,6 @@ analytics-*.aasaam.com
 ://adsserver.
 ://aff-ads.
 ://oascentral.
--dfp-prebid-
 -120-600.
 -120x600-
 -120x600.
@@ -57480,6 +57471,7 @@ analytics-*.aasaam.com
 ||cintent.streanplay.
 ||a.seksohub.com^
 ||aa.fapnado.xxx^
+||ab.fapnado.xxx^
 ||ad.pornutopia.org^
 ||adf.uhn.cx^
 ||adrotic.girlonthenet.com^
@@ -115131,7 +115123,6 @@ nanoGDPR.min.js^
 ||fangirlmag.com^
 ||fantuan.name^
 ||aab.faperoni.com^
-||ab.fapnado.xxx^
 ||io.fapnow.xxx^
 ||oi.fapnow.xxx^
 ||metrics.app.faraday.io^
