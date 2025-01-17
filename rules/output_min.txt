@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501171737
+# Verison: 202501172059
 # Expires: around 1 day
-# Total number of rules = 129288
+# Total number of rules = 129296
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,7 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||unactkiosk.com^
 ||pinco225.win^
 ||reachableads-av.*.amazonaws.com^
 ||news.jennydanny.com^
@@ -786,6 +787,9 @@
 ||newbluetrue.xyz^
 ||onemediawork.com^
 ||d162h6x3rxav67.cloudfront.net^
+||vtrk.dv.tech^
+||cdn-media.brightline.tv^
+||mt.ssai.peacocktv.com^
 ||sponsors.salesforceben.com^
 ||ads.cloudsight.ai^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
@@ -32397,7 +32401,6 @@ vkcdnservice.appspot.com^
 ||tapulsads.ru^
 ||httpdns.bilivideo.com^
 ||dataflow.biliapi.com^
-||grpc.biliapi.net^
 ||ads.adinmotech.com^
 ||kvaedit.site^
 ||ads-ap-venues.yinzcam.com^
@@ -32962,6 +32965,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||flippback.com^
 ||log-auth.zztfly.com^
 ||adsave.co^
 ||analytics.bitchute.com^
@@ -50840,6 +50844,8 @@ inapps.appsflyersdk.com^
 ||lagzoids.com^
 ||njnhzh.icu^
 ||8u0.fun^
+||pheetuth.com^
+||4ve.fun^
 ||ztgha.xyz^
 ||djsxm.xyz^
 ||0vc.fun^
@@ -57279,6 +57285,8 @@ analytics-*.aasaam.com
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
+||38167473.xyz^
+||47235645.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -110193,6 +110201,7 @@ nanoGDPR.min.js^
 ||ali-bj-pcdn-37.biliapi.net^
 ||ali-bj-pcdn-38.biliapi.net^
 ||ali-web-player-tracker.biliapi.net^
+||grpc.biliapi.net^
 ||hw-sh-pcdn-06.biliapi.net^
 ||hw-sh-pcdn-08.biliapi.net^
 ||hw-sh-pcdn-09.biliapi.net^
@@ -114240,7 +114249,6 @@ nanoGDPR.min.js^
 ||dusevneporuchy.sk^
 ||duskishmusgu.com^
 ||duzcujquzl.com^
-||vtrk.dv.tech^
 ||analytics.dvc.org^
 ||analytics-api.dvdfab.cn^
 ||dvdgayonline.com^
