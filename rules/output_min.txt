@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501202101
+# Verison: 202501202339
 # Expires: around 1 day
-# Total number of rules = 129472
+# Total number of rules = 129474
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,7 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||hotbraraja.cc^
 ||unactkiosk.com^
 ||pinco225.win^
 ||reachableads-av.*.amazonaws.com^
@@ -50877,6 +50878,7 @@ inapps.appsflyersdk.com^
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||y0o.fun^
 ||hp7.fun^
 ||tuvrutsnf.com^
 ||rpfuvj.icu^
@@ -55890,6 +55892,7 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 ||api2.branch.io^$dnsrewrite=0.0.0.0
+@@||sbs.demdex.net^|
 @@||cl.link-ag.net^|
 @@||action.metaffiliation.com^|
 @@||www.dogpile.com^|
@@ -57245,7 +57248,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||y0o.fun^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
