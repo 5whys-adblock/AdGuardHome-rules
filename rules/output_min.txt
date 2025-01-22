@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501221143
+# Verison: 202501221447
 # Expires: around 1 day
-# Total number of rules = 131163
+# Total number of rules = 131164
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -36521,6 +36521,8 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||metrics-a.wbx2.com^
+||event.msi.com^
 ||dco.coupang.com^
 ||clickstream-*.homedepot.com^
 ||mr.homedepot.com^
@@ -129701,7 +129703,6 @@ nanoGDPR.min.js^
 ||analytics.wbtvd.com^
 ||wbupbv.com^
 ||wbvfj.xyz^
-||metrics-a.wbx2.com^
 ||wcam.tv^
 ||wcbghap63.shop^
 ||analytics.wcirb.com^
