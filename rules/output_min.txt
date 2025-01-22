@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501221739
+# Verison: 202501222101
 # Expires: around 1 day
-# Total number of rules = 131164
+# Total number of rules = 131178
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -36521,6 +36521,9 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||metricreceiver.cellrebel.com^
+||events.app-performance.music.amazon.dev^
+||collector-*.px-client.net^
 ||metrics-a.wbx2.com^
 ||event.msi.com^
 ||dco.coupang.com^
@@ -50935,6 +50938,9 @@ inapps.appsflyersdk.com^
 ||scigzetg.com^
 ||bjfsk.xyz^
 ||jltwxisa.icu^
+||qo2.fun^
+||01221sop.xyz^
+||thangrurs.com^
 ||y0o.fun^
 ||icokamio.top^
 ||thrumulr.com^
@@ -55959,6 +55965,8 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 ||api2.branch.io^$dnsrewrite=0.0.0.0
+@@|www.daraz.pk^|
+@@|daraz.com^|
 @@||sbs.demdex.net^|
 @@||cl.link-ag.net^|
 @@||action.metaffiliation.com^|
@@ -56364,7 +56372,6 @@ analytics-*.aasaam.com
 ||gcheck.carthook.com^
 ||production-cmp.isgprivacy.cbsi.com^
 ||cdnwidget.com^
-||metricreceiver.cellrebel.com^
 ||celltick.com^
 ||logagent-wf.centurygame.com^
 ||ta-collector.centurygame.com^
@@ -57369,26 +57376,34 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||5be7319a8b.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
+||b6b2d31f7e.com^
 ||benelph.de^
 ||buyeasy.by^
+||doggessasbolin.com^
+||f5ff45b3d4.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
+||gukrathokeewhi.net^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||ntv.io^
 ||ojrq.net^
+||osgabcqk.com^
+||raisoglaini.net^
 ||rubiconproject.com^
 ||suppressedbottlesenjoyable.com
 ||totaladblock.com^
 ||trust.zone^
+||tteojtlqlxrev.com^
 ||videoplaza.tv^
 ||wpnrtnmrewunrtok.xyz^
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
@@ -108952,7 +108967,6 @@ nanoGDPR.min.js^
 ||digprjsurvey.amazon.eu^
 ||dp-rsm-prod.amazon.com^
 ||messaging-director-us-east-1.amazon.com^
-||events.app-performance.music.amazon.dev^
 ||telemetry.pxt.amazon.dev^
 ||rcm.amazon.com^
 ||rcm-de.amazon.de^
