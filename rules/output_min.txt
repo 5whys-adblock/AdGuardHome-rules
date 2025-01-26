@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501262055
+# Verison: 202501262336
 # Expires: around 1 day
-# Total number of rules = 130301
+# Total number of rules = 130319
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -54843,6 +54843,7 @@ inapps.appsflyersdk.com^
 ||ssp.moeli.net^
 ||ssp.zf313.com^
 ||sssvd.china.com^
+||static-ssp.yidianzixun.com^
 ||sub.powerapple.com^
 ||super.cat898.com^
 ||super.kdnet.net^
@@ -93793,6 +93794,7 @@ analytics-*.aasaam.com
 ||tnc3-aliec2.bytedance.com^
 ||tnc3-alisc1.bytedance.com^
 ||tnc3-bjlgy.bytedance.com^
+||mssdk-bu.bytedance.com^
 ||p3-tt.byteimg.com^
 ||log.byteoversea.com^
 ||push.bytesignal.com^
@@ -99423,7 +99425,6 @@ analytics-*.aasaam.com
 ||rmads.eu.msn.com^
 ||rmads.msn.com^
 ||c.msn.com.cn^
-||mssdk-bu.bytedance.com^
 ||mssheng.com^
 ||mstrlytcs.com^
 ||m.msuik.cn^
@@ -100942,6 +100943,7 @@ analytics-*.aasaam.com
 ||tmeadbak.y.qq.com^
 ||ugcup.music.qq.com^
 ||ipv6.kg.qq.com^
+||log.node.minigame.qq.com^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||dns.weixin.qq.com.cn^
 ||qq167.com^
@@ -103702,7 +103704,6 @@ analytics-*.aasaam.com
 ||h5.vivo.com.cn^
 ||browser.vivo.com.cn^
 ||zhan.vivo.com.cn^
-||yidianzixun.com^
 ||viyouhui.com^
 ||cmp.vizus.cz^
 ||vjie.com^
@@ -104886,6 +104887,10 @@ analytics-*.aasaam.com
 ||yicpx.com^
 ||api.yidaomobi.com^
 ||yidaweb.com^
+||imagelx.yidianzixun.com^
+||l.yidianzixun.com^
+||lx-upload-log.yidianzixun.com^
+||s.yidianzixun.com^
 ||yidu.cc^
 ||yidu.cn^
 ||e.yidulive.net^
@@ -109264,6 +109269,7 @@ nanoGDPR.min.js^
 ||ads.amigos.com^
 ||metrics.amiparis.com^
 ||log.amitshah.net^
+||amjllwblmlbyr.top^
 ||analytics.ammoseek.com^
 ||ads.amna.gr^
 ||analytics.amondo.com^
@@ -110806,7 +110812,6 @@ nanoGDPR.min.js^
 ||bn6yedf.cfd^
 ||metrics.bnc.ca^
 ||bnewsblite.me^
-||bnfhxszj.xyz^
 ||bnmq.com^
 ||bnnfvd.xyz^
 ||matomo.test.bnnvara.nl^
@@ -117799,6 +117804,7 @@ nanoGDPR.min.js^
 ||hipub.hiwit.org^
 ||regie.hiwit.org^
 ||hjbotih.cc^
+||hjj.pw^
 ||hjr-wq.com^
 ||hk6vdj4z.click^
 ||metrics.hkjc.com^
@@ -118384,6 +118390,7 @@ nanoGDPR.min.js^
 ||impressexaltsculptor.com^
 ||impressiondesk.com^
 ||impressionmedia.cz^
+||impressivepail.com^
 ||rtb-useast.imprexis.biz^
 ||static.imprexis.biz^
 ||accesstrade.in.th^
@@ -119240,6 +119247,7 @@ nanoGDPR.min.js^
 ||metrics.www.kennasecurity.com^
 ||analytics.kennesaw.edu^
 ||kennsaku.jp^
+||kentiaabolish.com^
 ||analytics.keplr.app^
 ||kerala-ticket.com^
 ||keralaticketonline.com^
@@ -120321,6 +120329,7 @@ nanoGDPR.min.js^
 ||magic1.me^
 ||magicadz.co^
 ||magiccandles.eu^
+||magicgirlsthere.com^
 ||telemetry.magicloud.com^
 ||analytics.magicpin.in^
 ||traffic.magicstudio.com^
@@ -121319,6 +121328,7 @@ nanoGDPR.min.js^
 ||metrics.col.movistar.es^
 ||movstube.com^
 ||moymednogorsk.ru^
+||moyslovar.ru^
 ||telemetry-incoming.r53-2.services.mozilla.com^
 ||snippets.mozilla.com^
 ||telemetry.mozilla.org^
@@ -122297,6 +122307,7 @@ nanoGDPR.min.js^
 ||sky.od.ua^
 ||banner.oddcast.com^
 ||vhss-d.oddcast.com^
+||oddgate.com^
 ||analytics.oddity.industries^
 ||ads.oddschecker.com^
 ||smetrics.oddspedia.com^
@@ -122913,6 +122924,7 @@ nanoGDPR.min.js^
 ||pakjedealsnu.nl^
 ||pakmailcanada.com^
 ||analytics.pakske.be^
+||palatialdates.com^
 ||palecount.com^
 ||analytics.palink.co^
 ||metric.palmers.at^
@@ -123179,6 +123191,7 @@ nanoGDPR.min.js^
 ||phasdesign.com^
 ||phcn.xyz^
 ||pheedo.com^
+||phegnauxoudsez.xyz^
 ||analytics.phenompeople.com^
 ||philippsbros.com^
 ||analytics.cec.philips.com^
@@ -123396,7 +123409,6 @@ nanoGDPR.min.js^
 ||analytics.pokerface.live^
 ||pokerterbesar.com^
 ||pokkt.com^
-||pokreess.com^
 ||logauth.polarisoffice.com^
 ||matomo.protectuk.police.uk^
 ||rt.policyfamilyquote.com^
@@ -123563,7 +123575,6 @@ nanoGDPR.min.js^
 ||premieropinion.com^
 ||premieruandcsystems.com^
 ||analytics.premise.com^
-||premium-2023.info^
 ||premium-lucky.com^
 ||analytics.premiumbeat.com^
 ||track.premiumcash.com^
@@ -124149,6 +124160,7 @@ nanoGDPR.min.js^
 ||rbbutton.bid^
 ||countly.merlin.rbi.cloud^
 ||countly.merlin-test.rbi.cloud^
+||rbighouse.ru^
 ||rblx.land^
 ||rbone.link^
 ||rbp1.ru^
@@ -124666,7 +124678,7 @@ nanoGDPR.min.js^
 ||analytics.roundcubeplus.com^
 ||roundyearfun.org^
 ||rounuatedanximum.com^
-||t1p-adtech.aws.route71.net^
+||orchestrator-adtech-prod.t1p-adtech.aws.route71.net^
 ||matomo.routine.vn^
 ||analytics.roveconcepts.com^
 ||analytics.rowsandall.com^
@@ -125184,7 +125196,6 @@ nanoGDPR.min.js^
 ||axx.seovietnam.pro^
 ||seponews.com^
 ||analytics.sequoia.com^
-||serachserviceproposal.org^
 ||seraphicjewel.com^
 ||seraphicjubilee.com^
 ||seren1.com^
@@ -126808,7 +126819,6 @@ nanoGDPR.min.js^
 ||teleargentina.com^
 ||analytic.telefonica.com^
 ||analytics.telefonica.de^
-||telegramfk.com^
 ||telegramhcn.com^
 ||telegramm.site^
 ||analytics.brand-dialog.telekom.com^
@@ -127088,6 +127098,7 @@ nanoGDPR.min.js^
 ||thrivingmarketplace.com^
 ||throtle.io^
 ||thruport.com^
+||thstvv.com^
 ||thubanoa.com^
 ||events.thuisbezorgd.nl^
 ||analytics.thun.com^
@@ -127270,6 +127281,7 @@ nanoGDPR.min.js^
 ||matomo.toll-collect.de^
 ||analytics.tolunastart.com^
 ||tomatoartschool.com^
+||tombedismal.com^
 ||metrics.tommeetippee.com^
 ||collect.tommy.com^
 ||tags.tommy.com^
@@ -127885,6 +127897,7 @@ nanoGDPR.min.js^
 ||metrics.ubuntu.com^
 ||app.uc.cn^
 ||applog-perf.uc.cn^
+||ucapsidop.info^
 ||ucarsoft.com^
 ||uceprotect.de^
 ||uceprotect.org^
@@ -128003,6 +128016,8 @@ nanoGDPR.min.js^
 ||unetbootin.org^
 ||adtrack.unext.jp^
 ||unfamiiiiardate.com^
+||unfamiiilardates.com^
+||unfamilliardates.com^
 ||unfamliliardates.com^
 ||ungulated.com^
 ||unhaka.com^
@@ -128854,6 +128869,7 @@ nanoGDPR.min.js^
 ||wanderside.com^
 ||analytics.wangzhanmao.com^
 ||wantubad.com^
+||wantyoudate.net^
 ||wapjwujfipuz.com^
 ||analytics.wardow.com^
 ||waredot.com^
@@ -129840,6 +129856,8 @@ nanoGDPR.min.js^
 ||yhti.net^
 ||yhz18.com^
 ||yiboshangmao3.com^
+||mb.yidianzixun.com^
+||oppo.yidianzixun.com^
 ||yieldmrm.com^
 ||yieldnexus.com^
 ||yieldpass.com^
