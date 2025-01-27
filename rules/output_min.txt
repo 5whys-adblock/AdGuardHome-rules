@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501271739
+# Verison: 202501272100
 # Expires: around 1 day
-# Total number of rules = 130243
+# Total number of rules = 130247
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32645,6 +32645,8 @@ vkcdnservice.appspot.com^
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||r0.mail.ru^
+||r0.mradx.net^
 ||serveraddr.service.kugou.com^
 ||d.kugou.com^
 ||nbcollect.kugou.com^
@@ -39188,6 +39190,7 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||datacollector-drru.dt.dbankcloud.ru^
 ||ulog*.kwai-pro.com^
 ||spider-tracker.xiaohongshu.com^
 ||tp2p.kg.qq.com^
@@ -51128,6 +51131,10 @@ inapps.appsflyersdk.com^
 ||xxsmad5.com^
 ||hostolhg.com^
 ||4zn.fun^
+||rajxjj.icu^
+||as01271kkp.xyz^
+||veilengh.com^
+||fcbdpock.icu^
 ||qaemphaels.com^
 ||vhrhnh.icu^
 ||7mk.fun^
@@ -57094,7 +57101,6 @@ analytics-*.aasaam.com
 ||analytics.moz.com^
 ||mozbar.moz.com^
 ||r.mradx.net^
-||r0.mradx.net^
 ||ads.msn.com^
 ||ads2.msn.com^
 ||mobileads.msn.com^
@@ -113958,7 +113964,6 @@ nanoGDPR.min.js^
 ||metrics1.data.dbankcloud.cn^
 ||datacollector-drcn.dt.dbankcloud.cn^
 ||datacollector-dre.dt.dbankcloud.cn^
-||datacollector-drru.dt.dbankcloud.ru^
 ||logservice-drru.dt.dbankcloud.ru^
 ||metrics.dt.dbankcloud.cn^
 ||metrics.dt.dbankcloud.com^
@@ -120320,7 +120325,6 @@ nanoGDPR.min.js^
 ||analytics.maigerrun.com^
 ||1l-view.mail.ru^
 ||1link.mail.ru^
-||r0.mail.ru^
 ||top.mail.ru^
 ||mail-generali.com^
 ||mail-west.com^
