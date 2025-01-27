@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202501272100
+# Verison: 202501272335
 # Expires: around 1 day
-# Total number of rules = 130247
+# Total number of rules = 130242
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -36700,6 +36700,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||apmplus.ap-southeast-1.volces.com^
 ||pixels.argusplatform.com^
 ||egg.afisha.ru^
 ||tracking-app.diginetica.net^
@@ -44340,7 +44341,6 @@ inapps.appsflyersdk.com^
 ||adsushi.de^
 ||advendi.de^
 ||advert-layer.de^
-||advolution.biz^
 ||advolution.de^
 ||adworx.at^
 ||aff-handler.com^
@@ -44486,7 +44486,6 @@ inapps.appsflyersdk.com^
 ||solads.media^
 ||sparkads.ws^
 ||sparkassen-partner.de^
-||special-sponsor.de^
 ||sponsortown.de^
 ||spoods.io^
 ||stilanzeigen.net^
@@ -51135,6 +51134,7 @@ inapps.appsflyersdk.com^
 ||as01271kkp.xyz^
 ||veilengh.com^
 ||fcbdpock.icu^
+||t2s.fun^
 ||qaemphaels.com^
 ||vhrhnh.icu^
 ||7mk.fun^
@@ -56194,6 +56194,8 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 ||api2.branch.io^$dnsrewrite=0.0.0.0
+@@||link.sylikes.com^|
+@@||rd.bizrate.com^|
 @@|www.daraz.pk^|
 @@|daraz.com^|
 @@||sbs.demdex.net^|
@@ -57619,6 +57621,7 @@ analytics-*.aasaam.com
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||maleenhancement.top^
 ||ntv.io^
 ||ojrq.net^
 ||rubiconproject.com^
@@ -103750,6 +103753,8 @@ analytics-*.aasaam.com
 ||volatileprofit.com^
 ||volatilerainstorm.com^
 ||volatilevessel.com^
+||mssdk.volces.com^
+||apmplus.volces.com^
 ||volctrack.com^
 ||volomedia.com^
 ||vols7feed.com^
@@ -109271,7 +109276,6 @@ nanoGDPR.min.js^
 ||ads.amigos.com^
 ||metrics.amiparis.com^
 ||log.amitshah.net^
-||amjllwblmlbyr.top^
 ||analytics.ammoseek.com^
 ||ads.amna.gr^
 ||analytics.amondo.com^
@@ -109497,7 +109501,6 @@ nanoGDPR.min.js^
 ||proxy-skadnetwork.apple.com^
 ||feedbackws.fe.apple-dns.cn^
 ||feedbackws.fe2.apple-dns.net^
-||apple012.com^
 ||appliancecolaprofessor.com^
 ||track.applicaster.com^
 ||applieda.com^
@@ -110789,9 +110792,7 @@ nanoGDPR.min.js^
 ||collector.blupoint.io^
 ||blutrumpet.com^
 ||stats.blutv.com^
-||blwyruirj.xyz^
 ||bmaahwahpofp.com^
-||bmatgg18.xyz^
 ||bmcnf.pro^
 ||bmetric.com^
 ||analytics.bmj.com^
@@ -111270,7 +111271,6 @@ nanoGDPR.min.js^
 ||bvarotgo.com^
 ||bvdtechinque.com^
 ||bvmgo.info^
-||bvpqrydt.xyz^
 ||bvxzwwfg56.space^
 ||analytics.bwin.com^
 ||promos.bwin.it^
@@ -113677,7 +113677,6 @@ nanoGDPR.min.js^
 ||cultureshocknigerians.com^
 ||culwcoam.com^
 ||cum.fr^
-||cumc-hmb.com^
 ||cumshots.com^
 ||n01d05.cumulus-cloud.com^
 ||cuntempire.com^
@@ -117411,6 +117410,7 @@ nanoGDPR.min.js^
 ||hausasisters.com^
 ||analytics.hausfrage.de^
 ||hausnet.ru^
+||metrics.havaianas-store.com^
 ||matomo.havehalalwilltravel.com^
 ||havenclick.com^
 ||ads.havenhomemedia.com^
@@ -117920,7 +117920,6 @@ nanoGDPR.min.js^
 ||hotelxxxcams.com^
 ||hotlinkie.com^
 ||analytics.hotmart.com^
-||hotnasdaqrnxt.com^
 ||piwik.hotosm.org^
 ||hotpornpro.com^
 ||hotsimulator.com^
@@ -121623,7 +121622,6 @@ nanoGDPR.min.js^
 ||nachbarschaft24.net^
 ||nactx.com^
 ||metric.12345678.nahamstore.com^
-||nahgvfhs.xyz^
 ||nahnoji.cz^
 ||nairafestival.com^
 ||naivetychelas.click^
@@ -122634,6 +122632,7 @@ nanoGDPR.min.js^
 ||orcaslicer.co^
 ||orcaslicer.net^
 ||ordinarilyinstead.com^
+||analytics.oreca-store.com^
 ||ads.oregonlive.com^
 ||oreware.com^
 ||webstats01.orf.at^
@@ -125303,7 +125302,6 @@ nanoGDPR.min.js^
 ||analytics.shephertz.com^
 ||ads.sheridanmedia.com^
 ||wa.sherwin-williams.com^
-||shhopify.icu^
 ||shhort.com^
 ||analytics.shi.com^
 ||analytics.shib.io^
@@ -126121,7 +126119,6 @@ nanoGDPR.min.js^
 ||xml-v4.startbrws-4.online^
 ||startdigitaal.nl^
 ||posthog.int.startitup.sk^
-||startmarket.su^
 ||analytics.startpagina.nl^
 ||adimages.startribune.com^
 ||startsear.ch^
@@ -126859,6 +126856,7 @@ nanoGDPR.min.js^
 ||tfag.de^
 ||metrics.store.tfewines.com^
 ||tganalytics.xyz^
+||tge-me.pro^
 ||tgptraffic.biz^
 ||tgram.ru^
 ||thads.cc^
@@ -126896,7 +126894,6 @@ nanoGDPR.min.js^
 ||thebrighttag.com^
 ||thebugs.ws^
 ||revive.thebusinessjournal.com^
-||thecheesecake.cafe^
 ||matomo.thecollegeinvestor.com^
 ||fxyvcz.thecompanystore.com^
 ||thecontroversialfiles.net^
@@ -127519,6 +127516,7 @@ nanoGDPR.min.js^
 ||trazk.com^
 ||rum20.a.trbcdn.net^
 ||analytics.trbna.com^
+||trbx-l1.online^
 ||trckams.com^
 ||trckhoul.com^
 ||trcking.xyz^
@@ -128007,7 +128005,6 @@ nanoGDPR.min.js^
 ||webanalytics.unl.edu^
 ||analytics.unlimited3d.com^
 ||unlimits.net^
-||unlock-businesspage.cloud^
 ||unlocksimphone.com^
 ||unltdentertainment.co^
 ||unmistdistune.guru^
@@ -128658,7 +128655,6 @@ nanoGDPR.min.js^
 ||rtb-useast-v4.voisetech.com^
 ||rtb-uswest-v4.voisetech.com^
 ||vokayatus.com^
-||volces.com^
 ||metric.volcom.cn^
 ||matomo.volksoper.at^
 ||dc.volkswagen.de^
@@ -129188,7 +129184,6 @@ nanoGDPR.min.js^
 ||wokod0.wixsite.com^
 ||tools.wizaz.pl^
 ||analytics.wizdeo.com^
-||wk4x5rdtoz2tn0.com^
 ||wkdk.jp^
 ||consent.wko.at^
 ||wktfkj.com^
