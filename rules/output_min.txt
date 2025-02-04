@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202502041738
+# Verison: 202502042100
 # Expires: around 1 day
-# Total number of rules = 130466
+# Total number of rules = 130470
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -33457,6 +33457,7 @@ vkcdnservice.appspot.com^
 ||mktp-base.mktplatforms.com^
 ||f-tra.com^
 ||event.dfinery.io^
+||oasjs.kataweb.it^
 ||polaranalytics.com^
 ||wsknow.net^
 ||api.taggrs.io^
@@ -33471,7 +33472,6 @@ vkcdnservice.appspot.com^
 ||pabidding.io^
 ||danatrak.com^
 ||twitter.sx^
-||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
 ||tags.fullcontact.com^
 ||matomo.akbal.dev^
@@ -36931,6 +36931,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||market-click-baobab.yandex.ru^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
 ||mcs-*.lemon8-app.com^
@@ -36990,6 +36991,7 @@ vkcdnservice.appspot.com^
 ||gtm.temu.com^
 .prod.pr.analytics.console.aws.a2z.com
 ||log.shortbread.aws.dev^
+||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||minerva.devices.a2z.com^
 ||s.pie.org^
 ||t.pie.org^
@@ -51295,6 +51297,7 @@ inapps.appsflyersdk.com^
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||hdinmau.top^
 ||feronyv.com^
 ||tciqgx.xyz^
 ||crolerl.com^
@@ -56421,6 +56424,7 @@ analytics-*.aasaam.com
 @@||www.dogpile.com^|
 @@||acs-m.daraz.com.bd^|
 @@||f-gear.ec-optimizer.com^|
+@@||get.neofinancial.com^|
 @@||hidive.com^|
 @@||learn.khanacademy.org^|
 @@||res.ads.nicovideo.jp^|
@@ -57769,7 +57773,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||hdinmau.top^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -111522,6 +111525,7 @@ nanoGDPR.min.js^
 ||log-api.pangolin-sdk-toutiao-b.com.bytedns1.com^
 ||api-access.pangolin-sdk-toutiao1.com.bytedns1.com^
 ||api.bytegle.tech^
+||lf1-cdn-tos.bytegoofy.com^
 ||gpm-mon-va.bytegsdk.com^
 ||log-va.bytegsdk.com^
 ||bytelab.dk^
