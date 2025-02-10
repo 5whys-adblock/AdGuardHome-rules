@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202502102100
+# Verison: 202502102340
 # Expires: around 1 day
-# Total number of rules = 130662
+# Total number of rules = 130686
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -58101,7 +58101,16 @@ analytics-*.aasaam.com
 ||videoplaza.tv^
 ||wfhbfjllmkqmd.com^
 ||wpnrtnmrewunrtok.xyz^
+||00404850.xyz^
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
+||73568955.xyz^
+||74099753.xyz^
+||74759411.xyz^
+||78161013.xyz^
+||84055600.xyz^
+||86222538.xyz^
+||95597529.xyz^
+||98643801.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -58120,6 +58129,39 @@ analytics-*.aasaam.com
 ||cas.*.criteo.com^
 ||jeeng-api-prod.azureedge.net
 ||srv.tunefindforfans.com^
+||d12zgccgt6pwjz.cloudfront.net^
+||d13uyjvmsvkesh.cloudfront.net^
+||d15skjf5hy9xr6.cloudfront.net^
+||d19diizb3qce6y.cloudfront.net^
+||d1ftkft7iiluq6.cloudfront.net^
+||d1i1d9hx0883rq.cloudfront.net^
+||d1ieffz9zqrn09.cloudfront.net^
+||d1krgg9nh7vzxg.cloudfront.net^
+||d1mikxzr3lp4va.cloudfront.net^
+||d1myn4ixnn41tz.cloudfront.net^
+||d1rczqt4tdkw1g.cloudfront.net^
+||d1tjcziy9n8hnk.cloudfront.net^
+||d1w9uux77ifu8k.cloudfront.net^
+||d23rx8p5l6yry7.cloudfront.net^
+||d24lwiav9pbaw7.cloudfront.net^
+||d2ezb29y2sin9e.cloudfront.net^
+||d2idmzrhlqydr.cloudfront.net^
+||d2kgzdmv0vdycp.cloudfront.net^
+||d2qhuw8qcxnldj.cloudfront.net^
+||d2zk8mk8hghu3d.cloudfront.net^
+||d30vnp3fqcdhq5.cloudfront.net^
+||d390icj1ta4x0p.cloudfront.net^
+||d3ept9mddcbuhi.cloudfront.net^
+||d3gi4w10ruedfh.cloudfront.net^
+||d3glxtkdbno0so.cloudfront.net^
+||d3lwdybbvxc4v9.cloudfront.net^
+||d3nj94pigtgs7y.cloudfront.net^
+||d3qoo9sgtleqbe.cloudfront.net^
+||d3srxd2wvksmqd.cloudfront.net^
+||d9cshxmf0qazr.cloudfront.net^
+||dojy0dg181308.cloudfront.net^
+||du002iv2rxh4h.cloudfront.net^
+||duh0b8nl8uhfn.cloudfront.net^
 ||365.freeonlinegayporn.com^
 ||879.thebussybandit.com^
 ||a.aylix.xyz^
@@ -108173,7 +108215,6 @@ nanoGDPR.min.js^
 ||718unlimited.com^
 ||adserver.71i.de^
 ||analytics.72.ru^
-||73568955.xyz^
 ||737d62f0c1.com^
 ||7500.com^
 ||analytics.76.ru^
@@ -108251,7 +108292,6 @@ nanoGDPR.min.js^
 ||9505.com^
 ||analytics.95516.com^
 ||97sm.com^
-||98643801.xyz^
 ||986qka.cn^
 ||991.com^
 ||99684.net^
@@ -112564,9 +112604,7 @@ nanoGDPR.min.js^
 ||d10zqflh5ol9cq.cloudfront.net^
 ||d11lt3e1lizkg0.cloudfront.net^
 ||d11w14257901lw.cloudfront.net^
-||d12zgccgt6pwjz.cloudfront.net^
 ||d135aysof2oufc.cloudfront.net^
-||d13uyjvmsvkesh.cloudfront.net^
 ||d14nx4uiqzwnqt.cloudfront.net^
 ||d14p8nzdvd75ly.cloudfront.net^
 ||d15n68k9x054qg.cloudfront.net^
@@ -112584,21 +112622,16 @@ nanoGDPR.min.js^
 ||d1eoo1tco6rr5e.cloudfront.net^
 ||d1f1lqyq09pe4q.cloudfront.net^
 ||d1f94w321xtzmt.cloudfront.net^
-||d1ftkft7iiluq6.cloudfront.net^
 ||d1hl7ya5ggieq0.cloudfront.net^
 ||d1hm0uxglt4t41.cloudfront.net^
-||d1i1d9hx0883rq.cloudfront.net^
-||d1ieffz9zqrn09.cloudfront.net^
 ||d1igp3oop3iho5.cloudfront.net^
 ||d1jh13j6azkbbi.cloudfront.net^
 ||d1jikhx1ssl81z.cloudfront.net^
 ||d1jq9nooxeft24.cloudfront.net^
 ||d1k5qlz5hbz8am.cloudfront.net^
 ||d1mgu8uq9tc68.cloudfront.net^
-||d1mikxzr3lp4va.cloudfront.net^
 ||d1miuq6afqay8u.cloudfront.net^
 ||d1mob6w0cdx3a7.cloudfront.net^
-||d1myn4ixnn41tz.cloudfront.net^
 ||d1nu2rn22elx8m.cloudfront.net^
 ||d1o3ws1znr0uv8.cloudfront.net^
 ||d1otoma47x30pg.cloudfront.net^
@@ -112690,7 +112723,6 @@ nanoGDPR.min.js^
 ||d36nbgnuno71tn.cloudfront.net^
 ||d37xvfvxl95pq8.cloudfront.net^
 ||d38hmgjgf0kofx.cloudfront.net^
-||d390icj1ta4x0p.cloudfront.net^
 ||d39iocnrk5rxnb.cloudfront.net^
 ||d3alqb8vzo7fun.cloudfront.net^
 ||d3b02estmut877.cloudfront.net^
@@ -112699,10 +112731,8 @@ nanoGDPR.min.js^
 ||d3cl7ldsgbm5qu.cloudfront.net^
 ||d3cy20ss8oxn3o.cloudfront.net^
 ||d3edizycpjjo07.cloudfront.net^
-||d3ept9mddcbuhi.cloudfront.net^
 ||d3f4u3khr0ycep.cloudfront.net^
 ||d3g9jzjodi4z8o.cloudfront.net^
-||d3gi4w10ruedfh.cloudfront.net^
 ||d3hmp0045zy3cs.cloudfront.net^
 ||d3hwh14livah35.cloudfront.net^
 ||d3ix9yg89ky1c5.cloudfront.net^
@@ -112710,7 +112740,6 @@ nanoGDPR.min.js^
 ||d3k68ig7ckr3r6.cloudfront.net^
 ||d3lidvwz6p81oz.cloudfront.net^
 ||d3luypns9uh4a4.cloudfront.net^
-||d3lwdybbvxc4v9.cloudfront.net^
 ||d3mcf0n3hvvfk4.cloudfront.net^
 ||d3ncat0syb6rim.cloudfront.net^
 ||d3o92sis0yji3x.cloudfront.net^
@@ -112727,7 +112756,6 @@ nanoGDPR.min.js^
 ||d3rm04c4p9a75q.cloudfront.net^
 ||d3rmeear8e0ybo.cloudfront.net^
 ||d3rp5jatom3eyn.cloudfront.net^
-||d3srxd2wvksmqd.cloudfront.net^
 ||d3tivku5hdr7jk.cloudfront.net^
 ||d3vt0rqt08ph1x.cloudfront.net^
 ||d49z64r3ud4kq.cloudfront.net^
@@ -112740,7 +112768,6 @@ nanoGDPR.min.js^
 ||d7uhjn1vhjlln.cloudfront.net^
 ||d7x5nblzs94me.cloudfront.net^
 ||d8k8yw18dq88h.cloudfront.net^
-||d9cshxmf0qazr.cloudfront.net^
 ||dah0wv79ikn14.cloudfront.net^
 ||dax3x3wqpt2q3.cloudfront.net^
 ||dcniko1cv0rz.cloudfront.net^
@@ -112762,7 +112789,6 @@ nanoGDPR.min.js^
 ||dmdigbrzjbmso.cloudfront.net^
 ||dn0qt3r0xannq.cloudfront.net^
 ||docj27ko03fnu.cloudfront.net^
-||dojy0dg181308.cloudfront.net^
 ||dokzl8xhmt1x7.cloudfront.net^
 ||doug1izaerwt3.cloudfront.net^
 ||dp58aslhmbcib.cloudfront.net^
@@ -112771,9 +112797,7 @@ nanoGDPR.min.js^
 ||dsms0mj1bbhn4.cloudfront.net^
 ||dtym7iokkjlif.cloudfront.net^
 ||dtyrqq5w0qdc8.cloudfront.net^
-||du002iv2rxh4h.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
-||duh0b8nl8uhfn.cloudfront.net^
 ||duiwcg72w56ze.cloudfront.net^
 ||dv0uonokej56p.cloudfront.net^
 ||dvagh3p3rk8xj.cloudfront.net^
