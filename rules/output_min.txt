@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202502101740
+# Verison: 202502102100
 # Expires: around 1 day
-# Total number of rules = 130641
+# Total number of rules = 130662
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,14 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||loowhujoom.net^
+||glugherg.net^
+||louthicoozit.net^
+||feckurteg.net^
+||octo25.me^
+||vidscriptshark.com^
+||threewoodslose.com^
+||sharkfirelife.com^
 ||videocdnmetrika.com^
 ||pkyffuewwuhnld.com^
 ||phahifoobsie.net^
@@ -11905,7 +11913,6 @@ vkcdnservice.appspot.com^
 ||glsfreeads.com^
 ||glssp.net^
 ||gludqoqmuwbc.com^
-||glugherg.net^
 ||glugreez.com^
 ||gluilyepacme.shop^
 ||glukropi.com^
@@ -33174,7 +33181,7 @@ vkcdnservice.appspot.com^
 ||ads-server.mxplay.com^
 ||mxaserver.mxplay.com^
 ||contextualadv.com^
-||prebid-cache.ifunny.co^
+||prebid-cache*.ifunny.co^
 ||tk0x1.com^
 ||itdsmr.com^
 ||external-api.impression-neo.naver.com^
@@ -33620,6 +33627,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||us-behavior.apitd.net^
 ||squeezely.tech^
 ||d5yoctgpv4cpx.cloudfront.net^
 ||clickguard.com^
@@ -34091,7 +34099,7 @@ vkcdnservice.appspot.com^
 ||analytics.growthphysics.com^
 ||sp.tinymce.com^
 ||wazimo.com^
-||srmdata-eur.com^
+||srmdata-*.com^
 ||doppler-beacons.cbsivideo.com^
 ||events.askjdhaa.com^
 ||tikstok.fun^
@@ -41814,7 +41822,6 @@ inapps.appsflyersdk.com^
 ||dosawes.com^
 ||lusupodum.com^
 ||clairpixum.com^
-||octo25.me^
 ||bmmwa.info^
 ||iwrcoct.info^
 ||hfnuqljjnt.com^
@@ -41846,7 +41853,6 @@ inapps.appsflyersdk.com^
 ||miradres.com^
 ||eehhabacgieacfjeaacg.world^
 ||bidmatic.io^
-||vidscriptshark.com^
 ||1qe.info^
 ||23oct2023.site^
 ||fcepahafyq.com^
@@ -51502,6 +51508,7 @@ inapps.appsflyersdk.com^
 ||brornaeq.com^
 ||strakuty.com^
 ||zcrddj.icu^
+||nonguds.com^
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
@@ -58066,17 +58073,25 @@ analytics-*.aasaam.com
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
+||aqowgoascdb.com^
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
 ||buyeasy.by^
+||d5465f9d11.com^
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||googletagservices.com^
+||hesqvflhk.com^
 ||hvkwmvpxvjo.xyz
 ||imasdk.googleapis.com^
+||jlouexxsb.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||lyrecomemumuen.com^
+||mgladthereisso.com^
+||murriesforsee.shop^
+||nfzaajfktztp.com^
 ||ntv.io^
 ||ojrq.net^
 ||rubiconproject.com^
@@ -58084,6 +58099,7 @@ analytics-*.aasaam.com
 ||totaladblock.com^
 ||trust.zone^
 ||videoplaza.tv^
+||wfhbfjllmkqmd.com^
 ||wpnrtnmrewunrtok.xyz^
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
 /(https?:\/\/)104\.154\..{100,}/
@@ -58763,6 +58779,7 @@ analytics-*.aasaam.com
 ||speedyrhino.co^
 ||spinnaker-js.com^
 ||sprtnd.com^
+||srmdata-eur.com^
 ||stat.ovh^
 ||statisticplatform.com^
 ||statisticsplatform.com^
@@ -92750,6 +92767,7 @@ analytics-*.aasaam.com
 ||adadapted.com^
 ||adalyser.com^
 ||adamantsnail.com^
+||adanxing.com^
 ||m.adaog.com^
 ||adbana.com^
 ||adbkwai.com^
@@ -98742,6 +98760,7 @@ analytics-*.aasaam.com
 ||kuaishang.cn^
 ||e.kuaishou.cn^
 ||e.kuaishou.com^
+||promotion-partner.kuaishou.com^
 ||web.kuaisouwifi.com^
 ||c.kuaituisss.com^
 ||web.kuaiwan.com^
@@ -101466,6 +101485,7 @@ analytics-*.aasaam.com
 ||q.qsmdeyz.cn^
 ||adlaunch.qtfm.cn^
 ||qtmojo.com^
+||api.qttunion.com^
 ||m.qu79j.cn^
 ||quacksquirrel.com^
 ||quaintborder.com^
@@ -118675,6 +118695,7 @@ nanoGDPR.min.js^
 ||iftrack.com^
 ||ifuckshemales.com^
 ||logs.ifunny.co^
+||prebid-cache.ifunny.co^
 ||analytics.mobile.ig.com^
 ||igadgetsworld.com^
 ||igame2steam.com^
