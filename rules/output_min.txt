@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202502141738
+# Verison: 202502142059
 # Expires: around 1 day
-# Total number of rules = 130270
+# Total number of rules = 130273
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,7 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||splendid-concert.com^
 ||engine.trialhd.com^
 ||getwptag.org^
 ||directone.xyz^
@@ -36769,6 +36770,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||tracker.multisearch.io^
 ||apm.yahoo.co.jp^
 ||malog.byapps.co.kr^
 ||sofire.terabox.app^
@@ -39295,6 +39297,7 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||atb-stats-api.imolive.tv^
 ||i.mxplayer.j2inter.com^
 ||flashtalking.com^
 ||stat.weamvideo.com^
@@ -41358,7 +41361,6 @@ inapps.appsflyersdk.com^
 ||c.keltis.com^
 ||sayac.kapital.com.tr^
 ||informers.sinoptik.ua^
-||tracker.multisearch.io^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 ||za.zalo.me^
@@ -51172,6 +51174,7 @@ inapps.appsflyersdk.com^
 ||dhuquxqy.com^
 ||zbldxf.icu^
 ||ldbnhd.icu^
+||i8m6.com^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^
@@ -57702,7 +57705,8 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||i8m6.com^
+||qhunetsq.com^
+||wbe4.cn^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -118450,7 +118454,6 @@ nanoGDPR.min.js^
 ||banner.immowelt.de^
 ||analytics.imninjas.net^
 ||analytics.imodium.de^
-||atb-stats-api.imolive.tv^
 ||imop.com^
 ||imp2.com^
 ||impactify.it^
