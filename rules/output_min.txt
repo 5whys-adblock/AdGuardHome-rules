@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202502141446
+# Verison: 202502141738
 # Expires: around 1 day
-# Total number of rules = 130259
+# Total number of rules = 130270
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -57702,6 +57702,7 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||i8m6.com^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -84755,9 +84756,6 @@ analytics-*.aasaam.com
 ||www-109.aig.com^
 ||www-110.aig.com^
 ||www.communications.kra.go.ke^
-||www.tracking.adp.ch^
-||www.tracking.adp.co.uk^
-||www.tracking.alabamapower.com^
 ||www1.kawasaki-motors.com^
 ||www2.carte-gr.total.fr^
 ||www2.daikinchemicals.com^
@@ -90962,9 +90960,6 @@ analytics-*.aasaam.com
 /^(\S+\.)?widgets?\./
 @@||widget.weibo.com^
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
-/^(\S+\.)?track(ing)?\./
-@@||tracking.epicgames.com^
-@@||track.sendcloud.org^
 /^(\S+\.)?tongji\./
 @@||tongji.*kuwo.cn^
 /^(\S+\.)?toolbar\./
@@ -91879,6 +91874,7 @@ analytics-*.aasaam.com
 ||ee.57m1j.cn^
 ||m.57m1j.cn^
 ||ee.57m1j.com^
+||track.58.com^
 ||brandshow.58.com^
 ||jing.58.com^
 ||jumpluna.58.com^
@@ -92510,6 +92506,7 @@ analytics-*.aasaam.com
 ||adjust.io^
 ||adjwl.com^
 ||adkongjian.com^
+||track.adx.adlefee.com^
 ||adlive.cn^
 ||adlocus.com^
 ||adm668.com^
@@ -92548,6 +92545,8 @@ analytics-*.aasaam.com
 ||adorableattention.com^
 ||epargnez.adp.ca^
 ||save.adp.ca^
+||tracking.adp.ch^
+||tracking.adp.co.uk^
 ||infos-experts.adp.com^
 ||adpinfo.com^
 ||adpolestar.net^
@@ -92615,6 +92614,7 @@ analytics-*.aasaam.com
 ||adxmi.com^
 ||adxpand.com^
 ||adxquare.com^
+||track.adxwork.com^
 ||adxxx.info^
 ||adyun.com^
 ||m.aeaeaa.cn^
@@ -92748,6 +92748,7 @@ analytics-*.aasaam.com
 ||lbstatic-a.akamaihd.net^
 ||i2.akjunshi.com^
 ||i5.akjunshi.com^
+||tracking.alabamapower.com^
 ||mail.alapaev.ru^
 ||albacross.com^
 ||nwejs.alcryp.com^
@@ -93216,6 +93217,7 @@ analytics-*.aasaam.com
 ||babymoment.net^
 ||titan.babytree.com^
 ||titan01.babytree.com^
+||tracking.babytree.com^
 ||photo.backerbiotech.cn^
 ||backgroundtasks.info^
 ||events.backtrace.io^
@@ -94254,6 +94256,7 @@ analytics-*.aasaam.com
 ||dvsend.china.com^
 ||dvser02.china.com^
 ||rank.hit.china.com^
+||track.china.com^
 ||x.china1715.com^
 ||china99315.cn^
 ||chinaapper.com^
@@ -95269,6 +95272,7 @@ analytics-*.aasaam.com
 ||ap.dongqiudi.com^
 ||donkeyleaf.com^
 ||donkeymob.com^
+||tracking.donnemagazine.it^
 ||donreach.com^
 ||dontbeevils.de^
 ||abc.dooccn.com^
@@ -95322,6 +95326,7 @@ analytics-*.aasaam.com
 ||sample.dragonforms.com^
 ||144.dragonparking.com^
 ||930.dragonparking.com^
+||track.dragonparking.com^
 ||cdn.dragonstatic.com^
 ||dragzebra.com^
 ||drainpaste.com^
@@ -96094,6 +96099,7 @@ analytics-*.aasaam.com
 ||followistic.com^
 ||folloyu.com^
 ||food9wave.com^
+||tracking.foodblog.it^
 ||klfxq.kieedi.foosheng.com^
 ||privacy.footmercato.net^
 ||pre.footprintpredict.com^
@@ -98348,6 +98354,7 @@ analytics-*.aasaam.com
 ||m.kl6636.net^
 ||klarnaservices.com^
 ||klgzzs.cn^
+||tracking.klickthru.com^
 ||klz28.com^
 ||km-sea.net^
 ||tjjs.km.com^
@@ -98588,6 +98595,7 @@ analytics-*.aasaam.com
 ||bdjs.laonanren.com^
 ||laoqu123.com^
 ||larapush.com^
+||track.laredoute.fr^
 ||largebrass.com^
 ||lasagneandands.com^
 ||lasttaco.com^
@@ -99086,6 +99094,7 @@ analytics-*.aasaam.com
 ||mass.mall044.com^
 ||vip.mall044.com^
 ||malm1coax.com^
+||tracking.mammemagazine.it^
 ||man7777.com^
 ||managedpush.com^
 ||mandarin.net.au^
@@ -99526,6 +99535,7 @@ analytics-*.aasaam.com
 ||cdn2.moji002.com^
 ||mojiva.com^
 ||moldyicicle.com^
+||track.molitv.cn^
 ||log.tv.moliv.cn^
 ||mollnia.com^
 ||momently.com^
@@ -99561,6 +99571,7 @@ analytics-*.aasaam.com
 ||motionlessbag.com^
 ||motionlessbelief.com^
 ||motionlessmeeting.com^
+||tracking.motorimagazine.it^
 ||m.mouaa.com^
 ||mountainouspear.com^
 ||movable-ink-397.com^
@@ -99972,6 +99983,7 @@ analytics-*.aasaam.com
 ||notify.solutions^
 ||notifyglass.com^
 ||notifyon.com^
+||tracking.notizie.it^
 ||notmining.org^
 ||m.nouaa.com^
 ||elisans.novayonetim.com^
@@ -100077,6 +100089,7 @@ analytics-*.aasaam.com
 ||octomarket.com^
 ||e.oesnw.com^
 ||m.oesnw.com^
+||tracking.offerteshopping.it^
 ||zzcw.office-mall.net^
 ||offshorecyclone.com^
 ||ofnsv69.com^
@@ -101295,6 +101308,7 @@ analytics-*.aasaam.com
 ||data.reachplc.com^
 ||reactandshare.com^
 ||reactjspdf.com^
+||track.readdsp.com^
 ||readgoldfish.com^
 ||readingguilt.com^
 ||readymoon.com^
@@ -102602,6 +102616,7 @@ analytics-*.aasaam.com
 ||stupidsnake.com^
 ||sturdysnail.com^
 ||styld-by.com^
+||tracking.style24.it^
 ||o.su9orw.cn^
 ||subletyoke.com^
 ||ss.subo.me^
@@ -103434,6 +103449,7 @@ analytics-*.aasaam.com
 ||tuneupcoffee.com^
 ||tunnl.com^
 ||e.tuoaa.com^
+||tracking.tuobenessere.it^
 ||vpn.tuodupingguomiao.com^
 ||tuoens.cn^
 ||m.tuopp.com^
@@ -103818,6 +103834,7 @@ analytics-*.aasaam.com
 ||m.vh92e.cn^
 ||vhmengine.com^
 ||m.vhuay.com^
+||tracking.viaggiamo.it^
 ||viapush.com^
 ||eu.viatrisconnect.com^
 ||viatrisneuropathicpain.co.uk^
@@ -104845,6 +104862,7 @@ analytics-*.aasaam.com
 ||xtcake.com^
 ||xtcdbb.cn^
 ||mtl.xtpxw.com^
+||track.xtrasize.nl^
 ||xtremepush.com^
 ||xtwjx.cn^
 ||abc.xtyx918.com^
@@ -106235,10 +106253,8 @@ analytics-*.aasaam.com
 ||analytics.wanmei.com^
 ||adm.265g.com^
 ||ja.gamersky.com^
-||tracking.babytree.com^
 ||ad.seeyouyima.com^
 ||adshow.58.com^
-||track.58.com^
 ||t1.58cdn.com.cn^
 ||t2.58cdn.com.cn^
 ||t3.58cdn.com.cn^
@@ -106265,7 +106281,6 @@ analytics-*.aasaam.com
 ||tongji.miercn.com^
 ||ad1.yangjinyou.com^
 ||ad2.yangjinyou.com^
-||track.china.com^
 ||tongji.tom.com^
 ||ad.doubanio.com^
 ||at1.doubanio.com^
@@ -106693,7 +106708,6 @@ analytics-*.aasaam.com
 ||lndnserror6.wo.com.cn^
 ||lndnserror7.wo.com.cn^
 ||hbdnserror7.wo.com.cn^
-||track.dragonparking.com^
 ||analytics.hz.netease.com^
 ||dsp-impr.youdao.com^
 ||dsp-impr2.youdao.com^
@@ -106802,7 +106816,6 @@ analytics-*.aasaam.com
 ||www.meipian7.cn^
 ||ad.51wnl-cq.com^
 ||api-analytics-cn.huami.com^
-||track.adx.adlefee.com^
 ||ad.api.youshiad.cn^
 ||advert.lx.netease.com^
 ||advertpay-vip-ssl.xunlei.com^
@@ -106819,10 +106832,8 @@ analytics-*.aasaam.com
 ||nmobi.kuwo.cn^
 ||m1.ad.10010.com^
 ||ads.oway.mobi^
-||track.adxwork.com^
 ||jnn-pa.googleapis.com^
 ||adservice.google.com.au^
-||tracking.klickthru.com^
 ||mobile.Banzai.it^
 ||ads.xxxad.net^
 ||adserver.ubiyoo.com^
