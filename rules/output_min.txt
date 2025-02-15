@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202502151000
+# Verison: 202502151142
 # Expires: around 1 day
-# Total number of rules = 130212
+# Total number of rules = 130246
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -1187,6 +1187,7 @@ vkcdnservice.appspot.com^
 ||0342b40dd6.com^
 ||03505ed0f4.com^
 ||03b5f525af.com^
+||03eea1b6dd.com
 ||04-f-bmf.com^
 ||044da016b3.com^
 ||04c8b396bf.com^
@@ -57743,6 +57744,7 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||6u2h.cn^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -57797,47 +57799,80 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
-||03eea1b6dd.com
+||21162611f8.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
+||barbarasacredassort.com^
+||bcyspirp.xyz^
 ||benelph.de^
 ||beyourxfriend.com
 ||buyeasy.by^
+||ceegrezushu.net^
+||clothmexican.com^
 ||compassionatecheek.com
 ||crmentjg.com
 ||crmtt.livejasmin.com
+||curioushingefast.com^
+||cygnetgeorama.shop^
 ||dlmonitize.com
+||feckephorus.com^
+||fefinegoldforeyes.com^
+||fetorsboozer.shop^
+||fruitiesmatchina.com^
+||fziwzaalp.com^
 ||gaming001.site
 ||get-me-wow.
 ||globalwoldsinc.com
+||gmstatute.com^
 ||goatmod.xyz
 ||googletagservices.com^
+||grauckoonsaul.xyz^
+||hardnesscorkimmature.com^
+||helipsymphony.com^
 ||hvkwmvpxvjo.xyz
 ||i98jio988ui.world
 ||imasdk.googleapis.com^
+||kibmswncw.com^
+||kipnjjwvulmy.fun^
 ||kqzyfj.com^
 ||lmj8i.pro
 ||loadercdn.com^
+||makeupmildaccompaniment.com^
 ||malikiresids.com
+||mindscelebrationearnestly.com^
+||mislaidshakos.shop^
+||moanamberdrone.com^
 ||noopapnoeic.digital
+||noulddrugged.com^
+||nozhscywegvjj.com^
 ||ntv.io^
 ||ojrq.net^
 ||patakaendymal.top
 ||primeleech.com
+||qelvaykmkqjoj.top^
+||qyyrynjspeamfx.com^
 ||randomadsrv.com
+||rixsymdjb.com^
+||robedonedip.com^
 ||rubiconproject.com^
+||slfxgbhlleuvg.xyz^
+||sopranishamim.com^
 ||suppressedbottlesenjoyable.com
 ||totaladblock.com^
 ||trust.zone^
+||uaucqlwwo.com^
+||udoxeswdhatp.com^
 ||update-mac.com
 ||vg876yuj.click
 ||videoplaza.tv^
+||vital-might.pro^
 ||wenoolgo.icu
 ||wpnrtnmrewunrtok.xyz^
 ||ytru4.pro
+||zestysample.pro^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -113818,7 +113853,6 @@ nanoGDPR.min.js^
 ||posthog.curalinc.dev^
 ||metrics.curbed.com^
 ||curiescores.com^
-||curioushingefast.com^
 ||curnoutrow.com^
 ||countly.currencycloud.com^
 ||matomo.currencycloud.com^
