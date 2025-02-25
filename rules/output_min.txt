@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202502252101
+# Verison: 202502252341
 # Expires: around 1 day
-# Total number of rules = 128470
+# Total number of rules = 128475
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -21,6 +21,9 @@
 # https://filter.futa.gg/hosts.txt
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 ####################################################################################
+||demand.supply^
+||seeptoafuko.com^
+||wmrdplrves.com^
 ||adtarget.biz^
 ||signamentswithd.com^
 ||kdnvieos.my^
@@ -31546,6 +31549,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||teraverseapp.com^
+||pavoboxapp.com^
 ||data4.ojto.pl^
 ||slackb.com^
 ||nwr.static.mmcdn.com^
@@ -35053,6 +35058,8 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||epimetheus.navigator.gmx.net^
+||tgw.gmx.net^
 ||clientlogger.marketplace.aws.a2z.com^
 ||mercury.books.com.tw^
 ||ganon.yahoo.com^
@@ -39306,7 +39313,6 @@ inapps.appsflyersdk.com^
 ||otclick-adv.ru^
 ||retag.xyz^
 ||rnet.plus^
-||roistat.com^
 ||sarov.ws^
 ||sbermarketing.ru^
 ||semantiqo.com^
@@ -42451,6 +42457,7 @@ inapps.appsflyersdk.com^
 ||ad.abema.io^
 ||ad-hatena.com^
 ||advert.punyu.com^
+||addefend-platform.com^
 ||remp-campaign.golem.de^
 ||web-ads.10sq.net^
 ||mitself.net^
@@ -49432,6 +49439,7 @@ inapps.appsflyersdk.com^
 ||o02251aokk.com^
 ||pheidheat.com^
 ||thampheth.com^
+||kqgn.cn^
 ||dfhthh.icu^
 ||chuundads.com^
 ||xvvfpsmp.icu^
@@ -88387,7 +88395,6 @@ analytics-*.aasaam.com
 ||swmhdata.stuttgarter-zeitung.de^
 ||tagm.eduscho.at^
 ||tgw.gmx.ch^
-||tgw.gmx.net^
 ||tgw.web.de^
 ||timing.uhrforum.de^
 ||tm.swp.de^
@@ -93066,7 +93073,6 @@ analytics-*.aasaam.com
 ||cookiesregister.deltacommerce.com^
 ||deltafault.com^
 ||deluxecrate.com^
-||demand.supply^
 ||demandscience.com^
 ||demeiguoji.com^
 ||demizhe.com^
@@ -99491,6 +99497,7 @@ analytics-*.aasaam.com
 ||roeye.com^
 ||roeyecdn.com^
 ||roirevolution.com^
+||roistat.com^
 ||rokt.com^
 ||rollbar.com^
 ||rollconnection.com^
@@ -121128,7 +121135,6 @@ nanoGDPR.min.js^
 ||pavanesimmind.com^
 ||plausible.pavelkovar.cz^
 ||pavetrade.com^
-||pavoboxapp.com^
 ||pavoshare.com^
 ||pavymoieter.com^
 ||pawnauctions.net^
@@ -124997,7 +125003,6 @@ nanoGDPR.min.js^
 ||metric.terafinainc.net^
 ||teraphessed.guru^
 ||terasharelink.com^
-||teraverseapp.com^
 ||telemetry.key.teriapp.com^
 ||termvb.xyz^
 ||matomo.teroasia.com^
