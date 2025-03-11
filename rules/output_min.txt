@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202503111008
+# Verison: 202503111149
 # Expires: around 1 day
-# Total number of rules = 150507
+# Total number of rules = 150513
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -102586,6 +102586,7 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||mjvr.cn^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -102659,6 +102660,7 @@ analytics-*.aasaam.com
 ||goatmod.xyz
 ||googletagservices.com^
 ||i98jio988ui.world
+||ibgckxlsea.com^
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||lmj8i.pro
@@ -102667,10 +102669,13 @@ analytics-*.aasaam.com
 ||noopapnoeic.digital
 ||ntv.io^
 ||ojrq.net^
+||outwishboody.com^
 ||patakaendymal.top
 ||primeleech.com
 ||randomadsrv.com
 ||rubiconproject.com^
+||silpharapidly.com^
+||skuahoatzin.top^
 ||suppressedbottlesenjoyable.com
 ||totaladblock.com^
 ||trust.zone^
@@ -102680,6 +102685,8 @@ analytics-*.aasaam.com
 ||wenoolgo.icu
 ||wpnrtnmrewunrtok.xyz^
 ||ytru4.pro
+||zmytkaoh.com^
+||16211973.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -145782,7 +145789,6 @@ nanoGDPR.min.js^
 ||silkspan.com^
 ||reklama.silnet.pl^
 ||analytics.silo.finance^
-||silpharapidly.com^
 ||silphidbilati.com^
 ||silveregg.net^
 ||silverpush.com^
