@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202503121741
+# Verison: 202503122103
 # Expires: around 1 day
-# Total number of rules = 148611
+# Total number of rules = 148617
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,9 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||dullequivalent.com^
+||travelpayouts.com^
+||red-swimming.com^
 ||tds.favbet.partners^
 ||pbl3citto.com^
 ||soonpubplatform.online^
@@ -84938,6 +84941,8 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||grs.dbankcloud.
+||logservice.dbankcloud.cn
 ||logs.nebulahoroscope.com^
 ||braveglobal.tv^
 ||insights.alibaba.com^
@@ -89246,6 +89251,7 @@ inapps.appsflyersdk.com^
 ||ads2native.com^
 ||hdvmyo.com^
 ||adsy.mail.bg^
+||dontmakethem.club^
 ||subaxe.xyz^
 ||dahmnrmhyhsjxx.com^
 ||rogxwgqovb.com^
@@ -113816,7 +113822,6 @@ analytics-*.aasaam.com
 ||33.autohome.com.cn^
 ||leads.api.autohome.com.cn^
 ||leads.autohome.com.cn^
-||activity.app.autohome.com.cn^
 ||adnewnc.app.autohome.com.cn^
 ||adproxy.autohome.com.cn^
 ||alert.autohome.com.cn^
@@ -126983,6 +126988,7 @@ analytics-*.aasaam.com
 ||zt.jd.com^
 ||ms.vipstatic.com^
 ||ads.wepiao.com^
+||activity.app.autohome.com.cn^
 ||adm0.autoimg.cn^
 ||adm1.autoimg.cn^
 ||adm2.autoimg.cn^
