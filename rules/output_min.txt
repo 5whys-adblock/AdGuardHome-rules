@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202503151735
+# Verison: 202503152057
 # Expires: around 1 day
-# Total number of rules = 148287
+# Total number of rules = 148293
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -32916,6 +32916,7 @@ vkcdnservice.appspot.com^
 ||54199287.xyz^
 ||55766925.xyz^
 ||56514411.xyz^
+||57473094.xyz^
 ||59644010.xyz^
 ||59768910.xyz^
 ||5cc3ac02.xyz^
@@ -35316,6 +35317,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||metrics.nsureapi.com^
 ||umeng.com^
 ||weborama-tech.ru^
 ||qualaroo.com^
@@ -86300,7 +86302,6 @@ inapps.appsflyersdk.com^
 ||metrics.doppiocdn.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
-||metrics.nsureapi.com^
 ||metrics.onshape.com^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
@@ -94752,6 +94753,7 @@ inapps.appsflyersdk.com^
 ||nykkky.com^
 ||nzu66938s.com^
 ||nzx65821s.com^
+||offb.info^
 ||offer.great1waytowsuccess.com^
 ||officials-kmspico.com^
 ||ofth546ebr.cfd^
@@ -97162,6 +97164,7 @@ inapps.appsflyersdk.com^
 ||lftcph.icu^
 ||ak03150hou.com^
 ||guqransoq.com^
+||ghegaintp.com^
 ||lmeurbnjs.com^
 ||xielloltv.com^
 ||lqfctb.icu^
@@ -103268,7 +103271,6 @@ analytics-*.aasaam.com
 ||wenoolgo.icu
 ||wpnrtnmrewunrtok.xyz^
 ||ytru4.pro
-||57473094.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -114179,6 +114181,7 @@ analytics-*.aasaam.com
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
 ||v6-adashx.ut.amap.com^
+||h-adashx.ut.amap.com^
 ||amateurporn.net^
 ||amazingairplane.com^
 ||aax-eu-dub.amazon.com^
@@ -124854,6 +124857,10 @@ analytics-*.aasaam.com
 ||puds.test.uae.uc.cn^
 ||wmedia-track.uc.cn^
 ||coral-task.uc.cn^
+||applog-perf.uc.cn^
+||adashx.ut.uc.cn^
+||h-adashx.ut.uc.cn^
+||s-adashx.ut.uc.cn^
 ||gm.uc003.com^
 ||uc123.com^
 ||uc610.com^
@@ -146200,7 +146207,6 @@ nanoGDPR.min.js^
 ||ubsco.uk^
 ||metrics.ubuntu.com^
 ||app.uc.cn^
-||applog-perf.uc.cn^
 ||ucarsoft.com^
 ||analytics.ucf.edu^
 ||ucfunnel.com^
