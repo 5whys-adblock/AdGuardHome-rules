@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202503191744
+# Verison: 202503192103
 # Expires: around 1 day
-# Total number of rules = 149151
+# Total number of rules = 149154
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,7 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||nkdccsiwixvzj.world^
 ||organicowner.com^
 ||woeful-trash.pro^
 ||dullequivalent.com^
@@ -31914,6 +31915,7 @@ vkcdnservice.appspot.com^
 ||adfinity.pro^
 ||adfinix.com^
 ||adforgames.com^
+||adforge.io^
 ||adfrika.com^
 ||adgage.es^
 ||adgatemedia.com^
@@ -35522,6 +35524,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||venatusmedia.com^
 ||metrics.nsureapi.com^
 ||umeng.com^
 ||weborama-tech.ru^
@@ -36453,7 +36456,6 @@ vkcdnservice.appspot.com^
 ||durationmedia.net^
 ||s.myangular.life^
 ||pointmediatracker.com^
-||c-api-bit.shopeemobile.com^
 ||sp.dpgmedia.net^
 ||distillery.wistia.com^
 ||pipedream.wistia.com^
@@ -97593,6 +97595,7 @@ inapps.appsflyersdk.com^
 ||xrlzhk.top^
 ||nogogey.top^
 ||otfy.cn^
+||iyof.cn^
 ||fbhkxt.icu^
 ||lppfnf.icu^
 ||shedranfd.com^
@@ -102377,6 +102380,8 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 ||api2.branch.io^$dnsrewrite=0.0.0.0
+@@||tlh.gedidigital.it^|
+@@||smtp.focusgroupresearch.com^|
 @@||ap01.records.in.treasuredata.com^|
 @@||click.avs.io^|
 @@||link.sylikes.com^|
@@ -103641,7 +103646,7 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||iyof.cn^
+||vinoinqih.com^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -130277,7 +130282,6 @@ nanoGDPR.min.js^
 ||adfenix.com^
 ||adflight.com^
 ||adflownetworks.com^
-||adforge.io^
 ||ads.adfork.kr^
 ||adfound.com^
 ||adfunky.com^
@@ -147446,7 +147450,6 @@ nanoGDPR.min.js^
 ||veloxity.net^
 ||analytics.vena.io^
 ||analytics.venafi.com^
-||venatusmedia.com^
 ||smetrics.venclextahcp.com^
 ||vendaregroup.com^
 ||vendemore.com^
