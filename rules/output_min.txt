@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202503201741
+# Verison: 202503202102
 # Expires: around 1 day
-# Total number of rules = 149191
+# Total number of rules = 149192
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,7 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||hakurei.cdnbo.org^
 ||nkdccsiwixvzj.world^
 ||organicowner.com^
 ||woeful-trash.pro^
@@ -90908,6 +90909,7 @@ inapps.appsflyersdk.com^
 ||tools-affil2.com^
 ||tools.islive.nl^
 ||travelads.be^
+||trickyrock.com^
 ||vpscash.nl^
 ||xpartners.nl^
 ||adnx.de^
@@ -91577,7 +91579,6 @@ inapps.appsflyersdk.com^
 ||auction-release.mlpapi.com^
 ||audience.systems^
 ||ax.idg.se^
-||b1.trickyrock.com^
 ||backend.qimtek.se^
 ||banner.bet365partners.com^
 ||banners.instaforex.com^
