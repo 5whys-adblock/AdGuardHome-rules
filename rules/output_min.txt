@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202503211740
+# Verison: 202503212101
 # Expires: around 1 day
-# Total number of rules = 149239
+# Total number of rules = 149242
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,8 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||ogaku.site^
+||waaz.wjebboljobvaj.top^
 ||hakurei.cdnbo.org^
 ||nkdccsiwixvzj.world^
 ||organicowner.com^
@@ -624,7 +626,6 @@
 ||yesadvertising.com^
 ||zanox.com^
 ||zeti.com^
-||embed.sendtonews.com^
 ||o333o.com^
 ||dianomi.com^
 ||amazon-adsystem.com^
@@ -33182,6 +33183,7 @@ vkcdnservice.appspot.com^
 ||79893962.xyz^
 ||7fc8.site^
 ||80133082.xyz^
+||80582834.xyz^
 ||83409127.xyz^
 ||83761158.xyz^
 ||83887336.xyz^
@@ -103453,6 +103455,7 @@ analytics-*.aasaam.com
 ||saas.seewhy.com^
 ||segmentapis.com^
 ||cdn.selectablemedia.com^
+||embed.sendtonews.com^
 ||api.sentiance.com^
 ||serving-sys.com^
 ||track.sgdmobile.com^
