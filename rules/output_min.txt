@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202503262103
+# Verison: 202503262343
 # Expires: around 1 day
-# Total number of rules = 150074
+# Total number of rules = 150093
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -2346,7 +2346,6 @@
 ||6fb345e22a.0f3f317f1d.com^
 ||70d4a0bb45.e82ae52eec.com^
 ||75357f7aec.f5ea66a9f7.com^
-||758508e4a0.66f5dd9691.com^
 ||76b61c25b1.c8dd7cddbb.com^
 ||87f81e4343.d7ea5cbf87.com^
 ||8f30b5f042.58c526d99b.com^
@@ -104641,28 +104640,48 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||21b95312a1.com^
+||4e5902f95e.com^
+||66f5dd9691.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
+||bagabeshear.shop^
 ||benelph.de^
 ||buyeasy.by^
+||byijanvfmnxq.com^
+||dmojymtmhtguv.buzz^
+||fmllcdxf.com^
+||frumpyhoofed.com^
 ||gaming001.site
 ||get-me-wow.
 ||googletagservices.com^
+||heartyquit.com^
+||hiswingsandmaki.com^
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||manwaybawneen.com^
+||mordeegroo.net^
 ||noopapnoeic.digital
 ||ntv.io^
 ||ojrq.net^
+||ornozxdarol.com^
+||pywhepteto.pro^
+||relievedsong.pro^
 ||rubiconproject.com^
+||soxivuphy.com^
+||throughthesumeme.com^
 ||totaladblock.com^
 ||trust.zone^
+||ufjwqdmqzlquq.world^
 ||videoplaza.tv^
+||vlqkqetudtvb.com^
 ||wenoolgo.icu
 ||wpnrtnmrewunrtok.xyz^
+||zouphashocom.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -113460,7 +113479,6 @@ analytics-*.aasaam.com
 ||yjtag.yahoo.co.jp^
 ||adoffice.11st.co.kr^
 ||bizlog-gateway.myrealtrip.com^
-||cdp.yna.co.kr^
 ||data-logdelivery.wconcept.co.kr^
 ||hits.zdnet.co.kr^
 ||kyson.kakao.com^
@@ -128139,6 +128157,7 @@ analytics-*.aasaam.com
 ||ymcdn.cn^
 ||ymrzr.com^
 ||res.ymxiaopin.com^
+||cdp.yna.co.kr^
 ||ynbojie.com^
 ||yncfwy.net^
 ||htxz.yndushi.cn^
