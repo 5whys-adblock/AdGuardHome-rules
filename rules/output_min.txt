@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202503270536
+# Verison: 202503271013
 # Expires: around 1 day
-# Total number of rules = 150088
+# Total number of rules = 150092
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,7 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||splendlddate.com^
 ||my.pixgallery.xyz^
 ||zqvee2re50mr.com^
 ||bits.avcdn.net^
@@ -98495,6 +98496,7 @@ inapps.appsflyersdk.com^
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||vraataidz.com^
 ||dhaaralzz.com^
 ||gqoi.cn^
 ||drlzlc.top^
@@ -104606,6 +104608,9 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||fqnojp.top^
+||wnvu.cn^
+||wiiytwd.icu^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -146374,7 +146379,6 @@ nanoGDPR.min.js^
 ||spitefulmotor.com^
 ||spklw.com^
 ||splashandsunshine.com^
-||splendlddate.com^
 ||splintmuses.com^
 ||telemetry.split.io^
 ||http-inputs-notion.splunkcloud.com^
