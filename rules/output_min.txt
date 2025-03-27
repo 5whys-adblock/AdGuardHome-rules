@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202503271447
+# Verison: 202503271741
 # Expires: around 1 day
-# Total number of rules = 150060
+# Total number of rules = 150065
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -104666,6 +104666,7 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||666777888abc.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
@@ -104676,9 +104677,11 @@ analytics-*.aasaam.com
 ||gaming001.site
 ||get-me-wow.
 ||googletagservices.com^
+||hkzhongzhuangzhan.cc^
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||moenyandluckybymyside.com^
 ||noopapnoeic.digital
 ||ntv.io^
 ||ojrq.net^
@@ -104686,8 +104689,10 @@ analytics-*.aasaam.com
 ||totaladblock.com^
 ||trust.zone^
 ||videoplaza.tv^
+||weike88.com^
 ||wenoolgo.icu
 ||wpnrtnmrewunrtok.xyz^
+||zuizhongyj.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
