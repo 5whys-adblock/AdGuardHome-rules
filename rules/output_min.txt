@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202504081741
+# Verison: 202504082104
 # Expires: around 1 day
-# Total number of rules = 151606
+# Total number of rules = 151616
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -2321,7 +2321,6 @@
 ||1202bb3601.29972123f3.com^
 ||12159c9c0b.3009e36989.com^
 ||1386bd6fb0.52fa059b20.com^
-||1b88cc6bce.7898a9d175.com^
 ||1d36243653.ef1dd1776c.com^
 ||1ff819101c.6e56e159be.com^
 ||2a3fa3df2e.3d285d98de.com^
@@ -84454,6 +84453,7 @@ vkcdnservice.appspot.com^
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 |piwik.
+||metrics.motoblouz.com^
 ||beacon-*.helpscout.net^
 ||fxgate.baidu.com^
 ||p.controld.com^
@@ -98623,6 +98623,9 @@ inapps.appsflyersdk.com^
 ||pyxytj.icu^
 ||liog.cn^
 ||vsjavu.top^
+||vahmimb.com^
+||figvatqrwd.com^
+||emsq.cn^
 ||ribghr.icu^
 ||vhid.cn^
 ||mevedyru.com^
@@ -104616,7 +104619,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||vahmimb.com^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -104672,6 +104674,7 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||7898a9d175.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
@@ -104679,21 +104682,29 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||benelph.de^
 ||buyeasy.by^
+||ezkeidkanjmvya.com^
 ||gaming001.site
 ||get-me-wow.
 ||googletagservices.com^
+||hemathematica.org^
 ||imasdk.googleapis.com^
 ||kqzyfj.com^
 ||loadercdn.com^
+||nlztpmhcxyzwh.vip^
 ||noopapnoeic.digital
 ||ntv.io^
 ||ojrq.net^
+||pefsustazvzgop.com^
+||refixxylidic.shop^
 ||rubiconproject.com^
+||tanbarshenh.org^
 ||totaladblock.com^
 ||trust.zone^
+||tvoiioftvfzzc.buzz^
 ||videoplaza.tv^
 ||wenoolgo.icu
 ||wpnrtnmrewunrtok.xyz^
+||youdloaners.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -143378,7 +143389,6 @@ nanoGDPR.min.js^
 ||metric.motimateapp.com^
 ||motionberry999xerz.ru^
 ||motiontodaynotgogoodnowok.com^
-||metrics.motoblouz.com^
 ||analytics.motocard.com^
 ||metric.motor.de^
 ||ads.motorguia.pt^
