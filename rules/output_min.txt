@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202504130244
+# Verison: 202504130533
 # Expires: around 1 day
-# Total number of rules = 151053
+# Total number of rules = 151056
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -104497,6 +104497,7 @@ analytics-*.aasaam.com
 .eloqua.js
 .EventTracking.
 .gatracking.js
+.outbound-links.pageview-props.revenue.tagged-events.js
 .pageview-props.js
 .skimlinks.js
 .v4.analytics.
@@ -104850,6 +104851,7 @@ analytics-*.aasaam.com
 ||pushmaster-cdn.xyz^
 ||urbanairship.com^
 ||bc.geocities.
+||bi-metrics.aramuz.net^
 ||csi.gstatic.com^
 ||firebaselogging-pa.googleapis.com^
 ||g.msn.com^
@@ -104864,6 +104866,7 @@ analytics-*.aasaam.com
 ||uim.tifbs.net^
 ||d241ujsiy3yht0.cloudfront.net
 ||d2fj3s7h83rb61.cloudfront.net
+||tw.reppublika.com^
 ||aff*.kolektiva.net^
 -logging.nextmedia.com^
 ||pv.sohu.com^
