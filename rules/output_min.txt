@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202504141152
+# Verison: 202504141449
 # Expires: around 1 day
-# Total number of rules = 151293
+# Total number of rules = 151294
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,8 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||htagpa.tech^
+||call.thebutterfly.eu^
 ||xdrlthfhikvgm.club^
 ||measlepotomac.shop^
 ||parteinroll.xyz^
@@ -98085,6 +98087,9 @@ inapps.appsflyersdk.com^
 ||ergiekszra.com^
 ||txvq.cn^
 ||tqjojh.icu^
+||ztdbfz.top^
+||ovcnmtk.top^
+||qvcnmty.top^
 ||wvcnmte.top^
 ||tvcnmti.top^
 ||uvcnmtt.top^
@@ -104127,9 +104132,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||ztdbfz.top^
-||ovcnmtk.top^
-||qvcnmty.top^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -139979,7 +139981,6 @@ nanoGDPR.min.js^
 ||hsoub.com^
 ||a.hspvst.com^
 ||ht10h.vip^
-||htagpa.tech^
 ||cdn.html5maker.com^
 ||htmlcounter.com^
 ||httpads.com^
