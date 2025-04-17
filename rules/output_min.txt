@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202504180247
+# Verison: 202504180535
 # Expires: around 1 day
-# Total number of rules = 152314
+# Total number of rules = 152315
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -130812,6 +130812,7 @@ nanoGDPR.min.js^
 ||fjuga.top
 /^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
 ||ad*.on.cc^
+/^https:\/\/[a-z0-9]+\.[a-z0-9]+\.[a-z]{2,3}:\d{1,6}\/bug\?i=\d+$/
 ||unpkg.com^$badfilter
 -1316632262.cos.
 -1316899192.cos.
