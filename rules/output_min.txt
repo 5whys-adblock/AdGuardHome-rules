@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202504180535
+# Verison: 202504181013
 # Expires: around 1 day
-# Total number of rules = 152315
+# Total number of rules = 152323
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -84813,6 +84813,7 @@ vkcdnservice.appspot.com^
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 |piwik.
+||geo.justwatch.com^
 ||sspnm.emol.com^
 ||ssp.emol.com^
 ||stats.emol.com^
@@ -84922,7 +84923,6 @@ vkcdnservice.appspot.com^
 ||pixels.argusplatform.com^
 ||egg.afisha.ru^
 ||tracking-app.diginetica.net^
-||c.us.heap-api.com^
 ||logging.g.sst.secureserver.net^
 ||metricreceiver.cellrebel.com^
 ||events.app-performance.music.amazon.dev^
@@ -88088,6 +88088,7 @@ inapps.appsflyersdk.com^
 ||data.embeddables.com^
 ||data.nexxt.com^
 ||data.queryly.com^
+||data.replo.app^
 ||data.woosmap.com^
 ||datadog-service.mvfglobal.com^
 ||dcinfos-cache.abtasty.com^
@@ -99013,6 +99014,8 @@ inapps.appsflyersdk.com^
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||afvrolvial.com^
+||jcfbgdbd.top^
 ||ewdk.cn^
 ||fflbpi.top^
 ||hbeafcac.top^
@@ -105105,6 +105108,8 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||wigk.cn^
+||henqnv.top^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -105666,6 +105671,7 @@ analytics-*.aasaam.com
 ||gsitrix.com^
 ||hbiq.net^
 ||hdmtools.com^
+||heap-api.com^
 ||herbgreencolumn.com^
 ||hirsung.de^
 ||hsleadflows.net^
@@ -106241,6 +106247,7 @@ analytics-*.aasaam.com
 ||tc.geniusmonkey.com^
 ||tccd.douglas.
 ||td.airdroid.com^
+||tealium-proxy.libertex.org^
 ||telemetry.adobe.io^
 ||telemetry.algolia.com^
 ||telemetry.api.playstation.com^
@@ -106298,6 +106305,7 @@ analytics-*.aasaam.com
 ://track.opentable.
 ||substation.confection.io^
 ||cfa.fidelity.com^
+||check3.tiaa.org^
 ||clear.wallapop.com^
 ||content.canadiantire.ca^
 ||content.discover.com^
