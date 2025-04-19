@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202504192057
+# Verison: 202504192336
 # Expires: around 1 day
-# Total number of rules = 152493
+# Total number of rules = 152517
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -35029,7 +35029,6 @@ vkcdnservice.appspot.com^
 ||umami.aigenerations.net^
 ||brilliantcollector.com^
 ||pop.devil.services^
-||api.receptivity.io^
 ||sumatra.ai^
 ||nkdyzf.com^
 ||b3mxnuvcer.com^
@@ -85086,7 +85085,6 @@ vkcdnservice.appspot.com^
 ||analytics-tracking.meetup.com^
 ||beacon.dropbox.com^
 ||log.hypebeast.com^
-||tracker.remp-beam.golem.de^
 ||tracking.digitalocean.com^
 ||log.bandi.so^
 ||ana.bandi.so^
@@ -104463,6 +104461,8 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||ucmx.cn^
+||cucnmtf.top^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -104518,28 +104518,53 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||8ea1272194.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
+||botakissed.com^
 ||buyeasy.by^
+||ca06ef821c.com^
+||dimufywhy.com^
+||egxtaxsqf.com^
+||ethugloodu.com^
 ||gaming001.site
 ||get-me-wow.
 ||googletagservices.com^
+||guidepaparazzisurface.com^
+||healfultwifold.com^
 ||imasdk.googleapis.com^
+||impeccable-official.com^
+||jyqekzzlmymzy.top^
+||kcadxjoxkggcui.com^
+||knowing-upstairs.pro^
 ||kqzyfj.com^
 ||loadercdn.com^
 ||noopapnoeic.digital
 ||ntv.io^
+||ofgokdwtas.com^
 ||ojrq.net^
+||ouphushoomauh.net^
+||pdavbtkidyyra.click^
+||pksqahsa.com^
+||pretenddyker.com^
+||pruningcomping.top^
+||receptivity.io^
 ||rubiconproject.com^
+||suitedeatercrutch.com^
+||thinideemissie.com^
 ||totaladblock.com^
 ||trust.zone^
+||uydyqlnebqlwe.global^
 ||videoplaza.tv^
+||votookrogn.net^
 ||wenoolgo.icu
 ||wpnrtnmrewunrtok.xyz^
+||yuntodifrz.com^
+||zapotasmoot.com^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
@@ -104903,6 +104928,7 @@ analytics-*.aasaam.com
 ||adstk.io^
 ||adultium.com^
 ||afrdtech.com^
+||aftership-pixel.com^
 ||aggle.net^
 ||alpha1trk.com^
 ||altopd.com^
@@ -112891,6 +112917,7 @@ analytics-*.aasaam.com
 ||analytics.adliners.de^
 ||analytics.deutscher-apotheker-verlag.de^
 ||analytics.moviepilot.de^
+||analytics.refurbed.de^
 ||as.mirapodo.de^
 ||as.mytoys.de^
 ||as.yomonda.de^
@@ -112923,6 +112950,7 @@ analytics-*.aasaam.com
 ||px.derstandard.at^
 ||pxc.otto.de^
 ||r.wz.de^
+||remp-beam.golem.de^
 ||responder.wt.heise.de^
 ||rt.bunte.de^
 ||sp.chip.de^
@@ -116874,7 +116902,6 @@ analytics-*.aasaam.com
 ||bosctrl32.com^
 ||bosda.xyz^
 ||bosspush.com^
-||botakissed.com^
 ||botman.ninja^
 ||bottlescharitygrowth.com^
 ||bouncepilot.com^
@@ -124313,7 +124340,6 @@ analytics-*.aasaam.com
 ||presetrabbits.com^
 ||registration.presonus.com^
 ||pressly.com^
-||pretenddyker.com^
 ||previousplayground.com^
 ||previouspotato.com^
 ||aos-creative.prf.hn^
@@ -141476,7 +141502,6 @@ nanoGDPR.min.js^
 ||impactradius-tag.com^
 ||analytics.impalastudios.com^
 ||impdesk.com^
-||impeccable-official.com^
 ||analytics.imperva.com^
 ||analytics.service.imperva.com^
 ||implan.com^
@@ -146809,7 +146834,6 @@ nanoGDPR.min.js^
 ||tracker.refresher.sk^
 ||analytics.refurbed.at^
 ||analytics.refurbed.be^
-||analytics.refurbed.de^
 ||analytics.refurbed.nl^
 ||analytics.refurbed.pt^
 ||parking.reg.ru^
