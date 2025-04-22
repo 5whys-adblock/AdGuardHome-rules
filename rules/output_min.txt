@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202504221151
+# Verison: 202504221448
 # Expires: around 1 day
-# Total number of rules = 152207
+# Total number of rules = 152209
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,8 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||keethoostoaps.net^
+||rneniibeiijmxeb.com^
 ||s2.static.cfgr3.com^
 ||4bind2.cfd^
 ||orquidea.ai^
@@ -93083,6 +93085,7 @@ inapps.appsflyersdk.com^
 ||tourn.co^
 ||tourn.se^
 ||tr.apsisforms.com^
+||track.yetric.net^
 ||tracker.zummycloud.com^
 ||tracking.aktuellhallbarhet.se^
 ||tracking.allehanda.se^
@@ -98755,6 +98758,9 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||grimoiksep.com^
 ||iutq.cn^
+||lhdnba.top^
+||eucnwtw.top^
+||wwcnmte.top^
 ||hgreils.com^
 ||lvqo.cn^
 ||jibtdn.top^
@@ -104877,9 +104883,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||lhdnba.top^
-||eucnwtw.top^
-||wwcnmte.top^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -126226,7 +126229,6 @@ analytics-*.aasaam.com
 ||stretchsneeze.com^
 ||stretchsquirrel.com^
 ||stringsmile.com^
-||r.stripe.com^
 ||stripedbat.com^
 ||stripedburst.com^
 ||stripedcollar.net^
