@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202504230247
+# Verison: 202504230536
 # Expires: around 1 day
-# Total number of rules = 152124
+# Total number of rules = 152129
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -2133,7 +2133,6 @@
 ||f4180a6e8c.ed908e7884.com^
 ||f44e776d83.c9e362ce20.com^
 ||f4611b5cd8.9900149f2a.com^
-||f6c8374b9b.4c81b78eca.com^
 ||f860ddd061.6bc1f4d014.com^
 ||f97c68bed0.0a10a1bb7b.com^
 ||fa3b0cdce1.37e1087e51.com^
@@ -2165,7 +2164,6 @@
 ||4ad8ea329d.f168b7fa34.com^
 ||4ef69e5814.c7b419036b.com^
 ||4fc2d0c0e2.abb030d6a7.com^
-||503f39274f.cc33b86bbf.com^
 ||5364d8c646.aa92754c5e.com^
 ||54d6a7edfb.218cc08472.com^
 ||58c19941c7.78af853196.com^
@@ -104802,6 +104800,8 @@ analytics-*.aasaam.com
 .480x60.
 .728x90-
 .900x100.
+||4c81b78eca.com^
+||71df446534.com^
 ||adswizz.com^
 ||alipromo.com^
 ||alitems.com^
@@ -104809,6 +104809,8 @@ analytics-*.aasaam.com
 ||auditude.com^
 ||benelph.de^
 ||buyeasy.by^
+||cc33b86bbf.com^
+||dmgsymwgj.com^
 ||gaming001.site
 ||get-me-wow.
 ||googletagservices.com^
@@ -104816,13 +104818,16 @@ analytics-*.aasaam.com
 ||kqzyfj.com^
 ||loadercdn.com^
 ||noopapnoeic.digital
+||nqucjilr.com^
 ||ntv.io^
 ||ojrq.net^
 ||rubiconproject.com^
 ||totaladblock.com^
 ||trust.zone^
+||vbqrzzrzazaew.top^
 ||videoplaza.tv^
 ||wenoolgo.icu
+||whollyindependentlylooking.com^
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
