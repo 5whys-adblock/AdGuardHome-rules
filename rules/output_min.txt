@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202505041447
+# Verison: 202505041736
 # Expires: around 1 day
-# Total number of rules = 157071
+# Total number of rules = 157086
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -106040,6 +106040,7 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||hash.trafficmanager.net^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -106101,20 +106102,36 @@ analytics-*.aasaam.com
 ||atdmt.com^
 ||auditude.com^
 ||benelph.de^
+||bmjntbkihrtj.com^
 ||buyeasy.by^
+||c285e18a9b.com^
+||charityflopchristening.com^
+||efullofeedshen.com^
+||erfoslajxhoc.com^
+||ewltkoajehyzr.click^
+||fryboldlymalice.com^
 ||gaming001.site
 ||get-me-wow.
 ||googletagservices.com^
+||hermitslistred.shop^
 ||imasdk.googleapis.com^
+||known-table.pro^
 ||kqzyfj.com^
+||lhwimdpdjajfx.rocks^
 ||loadercdn.com^
 ||noopapnoeic.digital
 ||ntv.io^
 ||ojrq.net^
+||rmvvawqleqrov.top^
 ||rubiconproject.com^
+||skippaccustom.org^
+||ssgtbfyxdlch.com^
+||tardtodtimpi.com^
+||threefortressfork.com^
 ||totaladblock.com^
 ||trust.zone^
 ||videoplaza.tv^
+||vwahacrubri.com^
 ||wenoolgo.icu
 ||wpnrtnmrewunrtok.xyz^
 /(https?:\/\/)104\.154\..{100,}/
@@ -137400,7 +137417,6 @@ nanoGDPR.min.js^
 ||charecttorr.jp^
 ||analytics.chargecloud.de^
 ||telemetry.tesla.chargehq.net^
-||charityflopchristening.com^
 ||charitylov.com^
 ||metrics.charlietemple.com^
 ||analytics.charlottetilbury.com^
@@ -153639,7 +153655,6 @@ nanoGDPR.min.js^
 ||metrics.thousandeyes.com^
 ||thousheek.com^
 ||telemetry.threatdown.com^
-||threefortressfork.com^
 ||threeneptuneboot.com^
 ||thrilok.com^
 ||thripelbertie.website^
