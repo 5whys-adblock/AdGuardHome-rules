@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202505050246
+# Verison: 202505050535
 # Expires: around 1 day
-# Total number of rules = 157090
+# Total number of rules = 157093
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -106873,6 +106873,7 @@ analytics-*.aasaam.com
 -logging.nextmedia.com^
 ||pv.sohu.com^
 ||stats2.*.fdnames.com^
+||pixel-storage.konnektu.ru^
 ||stats-*.p2pnow.ru^
 ||tms-st.cdn.ngenix.net^
 ||mtm.qdqmedia.com
@@ -106934,6 +106935,7 @@ analytics-*.aasaam.com
 ||c.xbox.com^
 ||chronicle.medal.tv^
 ||click.nudevista.com^
+||clickins.slixa.com^
 ||client-log.box.com^
 ||clp-mms.cloudpro.co.uk^
 ||cm-mms.coachmag.co.uk^
@@ -115017,7 +115019,6 @@ analytics-*.aasaam.com
 ||res.paruvendu.fr^
 ||s5.charliehebdo.fr^
 ||serv.letudiant.fr^
-||sta.extreme-down.
 ||sta.wawacity.
 ||sta.zone-telechargement.
 ||stats*.credit-cooperatif.coop^
@@ -115025,6 +115026,7 @@ analytics-*.aasaam.com
 ||stats.zone-annuaire.
 ||stats.zone-telechargement.
 ||stt.wawacity.onl^
+||stw.extreme-down.
 ||t.blablacar.com^
 ||tc2.hometogo.net^
 ||tracker.mspy.com^
@@ -115260,6 +115262,7 @@ analytics-*.aasaam.com
 ||affilate.hh.ru^
 ||analytics.carambatv.ru^
 ||api-metric.gosweb.gosuslugi.ru^
+||booster.osnova.io^
 ||clck.dzen.ru^
 ||counter.drom.ru^
 ||cpa.hh.ru^
