@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202505061153
+# Verison: 202505061449
 # Expires: around 1 day
-# Total number of rules = 152099
+# Total number of rules = 152101
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -36439,6 +36439,7 @@ vkcdnservice.appspot.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||kib.hu^
+||analytics.newsifier.nl^
 ||mn-tz.com^
 ||sst.hostnet.nl^
 ||api.visitorapi.com^
@@ -100948,9 +100949,12 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||qsko05060mas.com^
+||qsko05061mas.com^
 ||pwchaukoieor.com^
 ||nzoj.cn^
 ||gawnaze.com^
+||bhddjf.top^
+||enwucnw.top^
 ||yqqv.cn^
 ||zxiws.cn^
 ||qiwqaagnaell.com^
@@ -106848,7 +106852,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||bhddjf.top^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -144813,7 +144816,6 @@ nanoGDPR.min.js^
 ||te.newsday.com^
 ||newsflux.cfd^
 ||adserver.newshunt.co^
-||analytics.newsifier.nl^
 ||newslight.cfd^
 ||newsmaxwidget.com^
 ||newsnestor.cfd^
