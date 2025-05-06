@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202505061742
+# Verison: 202505062106
 # Expires: around 1 day
-# Total number of rules = 151956
+# Total number of rules = 151964
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,7 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||gusoclji.com^
 ||lolostan.com^
 ||awdeliverynet.com^
 ||bevfpfekwskzg.world^
@@ -86572,6 +86573,11 @@ vkcdnservice.appspot.com^
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 |piwik.
+||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
+||ichnaea.dradis.netflix.com^
+||customerevents.dradis.netflix.com^
+||customerevents.us-east-*.internal.dradis.netflix.com^
+||log.cookieyes.com^
 ||pl.elements.video^
 ||sgtm.alfinans.dk^
 ||sgtm.aziendechesifinanzianodasole.com^
@@ -86841,6 +86847,7 @@ vkcdnservice.appspot.com^
 ||agi-static.indiatimes.com^
 ||fail.adr.ec^
 ||t.adii.se^
+||s.bunkr.ru^
 ||stats.bunkr.ru^
 ||logs.netflix.com^
 ||mst.rnd.de^
@@ -90083,7 +90090,6 @@ inapps.appsflyersdk.com^
 ||livestats.kaltura.com^
 ||loader-cdn.azureedge.net^
 ||log-pq.shopfully.cloud^
-||log.cookieyes.com^
 ||log.nordot.jp^
 ||log.seekda.com^
 ||logging.je-apps.com^
@@ -105593,6 +105599,7 @@ analytics-*.aasaam.com
 ||letysheeps.ru^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@|www3.doubleclick.net^|
 @@||acs-m.daraz.pk^|
 @@||taiga.maven.io^|
 @@||tlh.gedidigital.it^|
@@ -106852,6 +106859,8 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||iqtucudfff.com^
+||yghalathio.com^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -144674,7 +144683,6 @@ nanoGDPR.min.js^
 ||countlyv6.mail.ntes53.netease.com^
 ||netexs.com^
 ||beaconimages.netflix.net^
-||customerevents.dradis.netflix.com^
 ||logs.dradis.netflix.com^
 ||netflix-begleichung.info^
 ||netflix-client.help^
