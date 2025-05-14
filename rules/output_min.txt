@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202505141155
+# Verison: 202505141450
 # Expires: around 1 day
-# Total number of rules = 153899
+# Total number of rules = 153900
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,8 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||hrzn-nxt.com^
+||madcheddar.net^
 ||tradehouse.media^
 ||couloirmatrass.com^
 ||noyanceborer.com^
@@ -99629,6 +99631,7 @@ inapps.appsflyersdk.com^
 ||gmendanln.com^
 ||akoo0514uis.com^
 ||bkqa.cn^
+||jnjslk.top^
 ||upufkg.icu^
 ||bycrovalb.com^
 ||hur05130kns.com^
@@ -105027,7 +105030,6 @@ analytics-*.aasaam.com
 ||mdp-appconf-sg.heytapdl.com^
 ||homify.com.mx^
 ||howdoesin.net^
-||hrzn-nxt.com^
 ||segment-api.humann.com^
 ||huq.io^
 ||stats.huuuge.net^
@@ -105611,7 +105613,6 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
-||jnjslk.top^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
