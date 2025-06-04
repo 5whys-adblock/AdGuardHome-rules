@@ -1,7 +1,7 @@
 # Title: 5whys Min Adguard Home Rules List
-# Verison: 202506041201
+# Verison: 202506041451
 # Expires: around 1 day
-# Total number of rules = 156978
+# Total number of rules = 156986
 # Below are the links of the adblock rules
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # https://adaway.org/hosts.txt
@@ -22,6 +22,9 @@
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 # https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock
 ####################################################################################
+||livestt.co^
+||skypie.info^
+||jsonads.upnerd.net^
 ||otvnwagpia.com^
 ||whiteinflammablejaws.com^
 ||aweyqaqkrvjm.top^
@@ -35231,6 +35234,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||logs2.sportslocalmedia.com^
+||analytics.pyksid.com^
 ||yandexmetrica.com^
 ||analytics.muses.org^
 ||trueprofit.io^
@@ -96503,6 +96508,7 @@ inapps.appsflyersdk.com^
 ||lio.aiservice.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
+||log-collector.shopee.vn^
 ||log-vietnamplus-vn.cdn.ampproject.org^
 ||log.dantocmiennui.vn^
 ||log.mp3.zing.vn^
@@ -96634,6 +96640,7 @@ inapps.appsflyersdk.com^
 ||trackingsea.zingplay.com^
 ||trackingvn.zingplay.com^
 ||trk-pcweb.api.zaloapp.com^
+||userstats.shopee.vn^
 ||v20.cnnd.vn^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
@@ -96918,7 +96925,6 @@ inapps.appsflyersdk.com^
 ||live.careplusvn.com^
 ||live.vnpgroup.net^
 ||liveonline.nhanhoa.com^
-||log-collector.shopee.vn^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
@@ -97148,7 +97154,6 @@ inapps.appsflyersdk.com^
 ||upl.net-solutions.vn^
 ||us.mplis.gov.vn^
 ||user.headlines.pw^
-||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||v9banners.com^
 ||vieon-tracking.vieon.vn^
@@ -97420,6 +97425,7 @@ inapps.appsflyersdk.com^
 ||baohanhdienmayxanhvn.com^
 ||baohiemvietinbank.com^
 ||baohiemxahoi.vnagov.com^
+||baomoivn.net^
 ||baonhanh.online^
 ||baosaoviet24h.net^
 ||baothanhnien.top^
@@ -100643,6 +100649,7 @@ inapps.appsflyersdk.com^
 ||tintinvay.com^
 ||tintrian2022.com^
 ||tintuc-24h.com^
+||tintuc24h.xyz^
 ||tintucnganhang.fun^
 ||tintucnhanh.online^
 ||tinvay.vn^
@@ -108079,6 +108086,8 @@ analytics-*.aasaam.com
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
+||hgo06041uyi.com^
+||2u1h56851n.top^
 ||bdad.123pan.cn^
 ://a.ads.
 ://ad-api-
@@ -152176,7 +152185,6 @@ nanoGDPR.min.js^
 ||ads.sporti.dk^
 ||analytics.sports-tracker.com^
 ||sportsariseencyclopaedia.com^
-||logs2.sportslocalmedia.com^
 ||piwik.sportsrecruits.com^
 ||sportster-fitness.com^
 ||analytics.sportsthread.com^
